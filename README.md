@@ -1,5 +1,8 @@
 ### Hi there 👋🏼
 
+<img align="right" src="https://raw.githubusercontent.com/raphink/raphink/master/assets/raphink.jpg" width="260">
+
+
 I'm Raphaël, an Infrastructure Developer working at [Camptocamp 🏔](https://github.com/camptocamp) in Lausanne, Switzerland 🇨🇭.
 I like to automate systems where there is a need.
 
