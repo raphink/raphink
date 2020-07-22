@@ -9,11 +9,11 @@ Want your own awesome profile page? Check out [markscribe](https://github.com/mu
 - [raphink/genearoman](https://github.com/raphink/genearoman) - Roman généalogique
 - [raphink/pinsonnet](https://github.com/raphink/pinsonnet) - Bird recognition
 - [raphink/find-my-ancestor](https://github.com/raphink/find-my-ancestor) - 📷 A project to recognize faces in old photographies using AWS Rekognition
-- [raphink/facter_rspec_issue](https://github.com/raphink/facter_rspec_issue) - 
-- [raphink/ctrl-repo-test-nonprod](https://github.com/raphink/ctrl-repo-test-nonprod) - 
-- [raphink/ctrl-repo-test-prod](https://github.com/raphink/ctrl-repo-test-prod) - 
 - [raphink/puppet-securityoptions](https://github.com/raphink/puppet-securityoptions) - 
 - [raphink/everything-as-code-talk](https://github.com/raphink/everything-as-code-talk) - Everything as Code
+- [raphink/dna-tools](https://github.com/raphink/dna-tools) - Tools to manipulate FTDNA data
+- [raphink/puppet-docker-talk](https://github.com/raphink/puppet-docker-talk) - Dockerized Puppet Talk
+- [raphink/terraboard-talk](https://github.com/raphink/terraboard-talk) - Terraboard talk
 
 #### 🔭 Latest releases I've contributed to
 
@@ -50,5 +50,5 @@ Say Hello, I don't bite!
 
 #### 📫 How to reach me
 
-- Twitter: https://twitter.com/raphink
-- Blog: https://dev.to/raphink
+🐦 Twitter: https://twitter.com/raphink
+🌍 Blog: https://dev.to/raphink
