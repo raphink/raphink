@@ -1,19 +1,21 @@
-### Hi there 👋
+### Hi there 👋🏼
 
-Want your own awesome profile page? Check out [markscribe](https://github.com/muesli/markscribe)!
+I'm Raphaël, an Infrastructure Developer working at [Camptocamp 🏔](https://github.com/camptocamp) in Lausanne, Switzerland 🇨🇭.
+I like to automate systems where there is a need.
+
 
 #### 🌱 Check out what I'm currently working on
 
-- [raphink/countdown_video](https://github.com/raphink/countdown_video) - 
-- [raphink/puppet-filebeat](https://github.com/raphink/puppet-filebeat) - Puppet module for Filebeat
-- [raphink/genearoman](https://github.com/raphink/genearoman) - Roman généalogique
-- [raphink/pinsonnet](https://github.com/raphink/pinsonnet) - Bird recognition
+- [raphink/countdown_video](https://github.com/raphink/countdown_video) - 🎥 Simple ffmpeg script to generate a countdown video from an image and a sound file
+- [raphink/genearoman](https://github.com/raphink/genearoman) - 📖 Long Tom, un roman généalogique
+- [raphink/pinsonnet](https://github.com/raphink/pinsonnet) - 🐦 A bird recognition AI learning project using fastai
 - [raphink/find-my-ancestor](https://github.com/raphink/find-my-ancestor) - 📷 A project to recognize faces in old photographies using AWS Rekognition
 - [raphink/puppet-securityoptions](https://github.com/raphink/puppet-securityoptions) - 
-- [raphink/everything-as-code-talk](https://github.com/raphink/everything-as-code-talk) - Everything as Code
-- [raphink/dna-tools](https://github.com/raphink/dna-tools) - Tools to manipulate FTDNA data
-- [raphink/puppet-docker-talk](https://github.com/raphink/puppet-docker-talk) - Dockerized Puppet Talk
-- [raphink/terraboard-talk](https://github.com/raphink/terraboard-talk) - Terraboard talk
+- [raphink/everything-as-code-talk](https://github.com/raphink/everything-as-code-talk) - 🎤 Everything as Code
+- [raphink/dna-tools](https://github.com/raphink/dna-tools) - 🧬 Tools to manipulate FTDNA data
+- [raphink/puppet-docker-talk](https://github.com/raphink/puppet-docker-talk) - 🎤 Dockerized Puppet Talk
+- [raphink/terraboard-talk](https://github.com/raphink/terraboard-talk) - 🎤 Terraboard talk
+- [raphink/docker-compose_demo](https://github.com/raphink/docker-compose_demo) - 
 
 #### 🔭 Latest releases I've contributed to
 
@@ -23,7 +25,7 @@ Want your own awesome profile page? Check out [markscribe](https://github.com/mu
 - [raphink/moderntimeline](https://github.com/raphink/moderntimeline) ([v0.11](https://github.com/raphink/moderntimeline/releases/tag/v0.11), 1 month ago) - A timeline package for moderncv
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([0.19.0](https://github.com/camptocamp/terraboard/releases/tag/0.19.0), 1 month ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
 - [camptocamp/prometheus-puppetdb-exporter](https://github.com/camptocamp/prometheus-puppetdb-exporter) ([1.0.0](https://github.com/camptocamp/prometheus-puppetdb-exporter/releases/tag/1.0.0), 1 month ago) -  Prometheus Exporter for PuppetDB
-- [raphink/genearoman](https://github.com/raphink/genearoman) ([2020-04-11](https://github.com/raphink/genearoman/releases/tag/2020-04-11), 3 months ago) - Roman généalogique
+- [raphink/genearoman](https://github.com/raphink/genearoman) ([2020-04-11](https://github.com/raphink/genearoman/releases/tag/2020-04-11), 3 months ago) - 📖 Long Tom, un roman généalogique
 - [camptocamp/terraform-provider-freeipa](https://github.com/camptocamp/terraform-provider-freeipa) ([0.5.0](https://github.com/camptocamp/terraform-provider-freeipa/releases/tag/0.5.0), 3 months ago) - FreeIPA Terraform Provider
 - [camptocamp/bivac](https://github.com/camptocamp/bivac) ([2.2.0](https://github.com/camptocamp/bivac/releases/tag/2.2.0), 9 months ago) - 🏕 📦 Backup Interface for Volumes Attached to Containers
 - [camptocamp/prometheus-puppetdb-sd](https://github.com/camptocamp/prometheus-puppetdb-sd) ([0.11.3](https://github.com/camptocamp/prometheus-puppetdb-sd/releases/tag/0.11.3), 10 months ago) - Generate scrape files for Prometheus from PuppetDB
@@ -44,11 +46,13 @@ Want your own awesome profile page? Check out [markscribe](https://github.com/mu
 - [bibleable](https://github.com/bibleable)
 - [nickitaliano](https://github.com/nickitaliano)
 
-#### 💬 Feedback
-
-Say Hello, I don't bite!
-
 #### 📫 How to reach me
 
-🐦 Twitter: https://twitter.com/raphink
-🌍 Blog: https://dev.to/raphink
+I'm online as **raphink** on most platforms:
+
+- 🐦 Twitter: https://twitter.com/raphink
+- 🌍 Blog: https://dev.to/raphink
+- 🏢 LinkedIn: https://www.linkedin.com/in/raphink
+- Slack: [Puppet Community](https://slack.puppet.com/), [Hangops](https://signup.hangops.com/), [Kubernetes](https://slack.k8s.io/)
+
+*Want your own awesome profile page? Check out [markscribe](https://github.com/muesli/markscribe)!*
