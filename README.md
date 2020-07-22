@@ -22,7 +22,7 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.13.0-rc1](https://github.com/hashicorp/terraform/releases/tag/v0.13.0-rc1), today) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.12.29](https://github.com/hashicorp/terraform/releases/tag/v0.12.29), today) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([0.21.0](https://github.com/camptocamp/terraboard/releases/tag/0.21.0), today) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.9.3-rc.0](https://github.com/gopasspw/gopass/releases/tag/v1.9.3-rc.0), 6 days ago) - The slightly more awesome standard unix password manager for teams
 - [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.21.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.21.0), 1 week ago) - A pure Ruby code highlighter that is compatible with Pygments
