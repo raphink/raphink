@@ -28,5 +28,5 @@ Say Hello, I don't bite!
 
 #### 📫 How to reach me
 
-- Twitter: https://twitter.com/raphink
-- Blog: https://dev.to/raphink
+🐦 Twitter: https://twitter.com/raphink
+🌍 Blog: https://dev.to/raphink
