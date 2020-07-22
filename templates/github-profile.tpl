@@ -18,11 +18,11 @@ I like to automate systems where there is a need.
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://dev.to/feed/raphink" 5}}
+{{range rss "https://dev.to/feed/raphink" 10}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-#### 👯 Check out some of my recent followers
+#### 👥 Check out some of my recent followers
 {{range followers 5}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
