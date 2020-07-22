@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 👋🏼
 
-Want your own awesome profile page? Check out [markscribe](https://github.com/muesli/markscribe)!
+I'm Raphaël, an Infrastructure Developer working at [Camptocamp 🏔](https://github.com/camptocamp) in Lausanne, Switzerland 🇨🇭.
+I like to automate systems where there is a need.
+
 
 #### 🌱 Check out what I'm currently working on
 {{range recentRepos 10}}
@@ -22,11 +24,13 @@ Want your own awesome profile page? Check out [markscribe](https://github.com/mu
 - [{{.Login}}]({{.URL}})
 {{- end}}
 
-#### 💬 Feedback
-
-Say Hello, I don't bite!
-
 #### 📫 How to reach me
 
-🐦 Twitter: https://twitter.com/raphink
-🌍 Blog: https://dev.to/raphink
+I'm online as **raphink** on most platforms:
+
+- 🐦 Twitter: https://twitter.com/raphink
+- 🌍 Blog: https://dev.to/raphink
+- 🏢 LinkedIn: https://www.linkedin.com/in/raphink
+- Slack: [Puppet Community](https://slack.puppet.com/), [Hangops](https://signup.hangops.com/), [Kubernetes](https://slack.k8s.io/)
+
+*Want your own awesome profile page? Check out [markscribe](https://github.com/muesli/markscribe)!*
