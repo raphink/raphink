@@ -43,11 +43,11 @@ I like to automate systems where there is a need.
 
 #### 👯 Check out some of my recent followers
 
+- [muesli](https://github.com/muesli)
 - [erdaltsksn](https://github.com/erdaltsksn)
 - [juame](https://github.com/juame)
 - [rtzll](https://github.com/rtzll)
 - [bibleable](https://github.com/bibleable)
-- [nickitaliano](https://github.com/nickitaliano)
 
 #### 📫 How to reach me
 
