@@ -1,5 +1,8 @@
 ### Hi there 👋🏼
 
+<img align="right" src="https://raw.githubusercontent.com/raphink/raphink/master/assets/raphink.jpg" width="260">
+
+
 I'm Raphaël, an Infrastructure Developer working at [Camptocamp 🏔](https://github.com/camptocamp) in Lausanne, Switzerland 🇨🇭.
 I like to automate systems where there is a need.
 
@@ -19,16 +22,16 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.12.29](https://github.com/hashicorp/terraform/releases/tag/v0.12.29), today) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([0.21.0](https://github.com/camptocamp/terraboard/releases/tag/0.21.0), today) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.9.3-rc.0](https://github.com/gopasspw/gopass/releases/tag/v1.9.3-rc.0), 6 days ago) - The slightly more awesome standard unix password manager for teams
 - [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.21.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.21.0), 1 week ago) - A pure Ruby code highlighter that is compatible with Pygments
 - [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) ([1.2.0](https://github.com/voxpupuli/modulesync/releases/tag/1.2.0), 2 weeks ago) - Synchronize common files across your Git repositories.
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.13.0-beta3](https://github.com/hashicorp/terraform/releases/tag/v0.13.0-beta3), 3 weeks ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [raphink/moderntimeline](https://github.com/raphink/moderntimeline) ([v0.11](https://github.com/raphink/moderntimeline/releases/tag/v0.11), 1 month ago) - A timeline package for moderncv
-- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([0.19.0](https://github.com/camptocamp/terraboard/releases/tag/0.19.0), 1 month ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
 - [camptocamp/prometheus-puppetdb-exporter](https://github.com/camptocamp/prometheus-puppetdb-exporter) ([1.0.0](https://github.com/camptocamp/prometheus-puppetdb-exporter/releases/tag/1.0.0), 1 month ago) -  Prometheus Exporter for PuppetDB
 - [raphink/genearoman](https://github.com/raphink/genearoman) ([2020-04-11](https://github.com/raphink/genearoman/releases/tag/2020-04-11), 3 months ago) - 📖 Long Tom, un roman généalogique
 - [camptocamp/terraform-provider-freeipa](https://github.com/camptocamp/terraform-provider-freeipa) ([0.5.0](https://github.com/camptocamp/terraform-provider-freeipa/releases/tag/0.5.0), 3 months ago) - FreeIPA Terraform Provider
 - [camptocamp/bivac](https://github.com/camptocamp/bivac) ([2.2.0](https://github.com/camptocamp/bivac/releases/tag/2.2.0), 9 months ago) - 🏕 📦 Backup Interface for Volumes Attached to Containers
-- [camptocamp/prometheus-puppetdb-sd](https://github.com/camptocamp/prometheus-puppetdb-sd) ([0.11.3](https://github.com/camptocamp/prometheus-puppetdb-sd/releases/tag/0.11.3), 10 months ago) - Generate scrape files for Prometheus from PuppetDB
 
 #### 📜 My recent blog posts
 
@@ -40,11 +43,11 @@ I like to automate systems where there is a need.
 
 #### 👯 Check out some of my recent followers
 
+- [muesli](https://github.com/muesli)
 - [erdaltsksn](https://github.com/erdaltsksn)
 - [juame](https://github.com/juame)
 - [rtzll](https://github.com/rtzll)
 - [bibleable](https://github.com/bibleable)
-- [nickitaliano](https://github.com/nickitaliano)
 
 #### 📫 How to reach me
 
