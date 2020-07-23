@@ -24,7 +24,7 @@ I like to automate systems where there is a need.
 
 #### 👥 Check out some of my recent followers
 {{range followers 5}}
-- [{{.Login}}]({{.URL}})
+- [<img src="{{.AvatarURL}}" height="20"/> {{.Login}}]({{.URL}})
 {{- end}}
 
 
