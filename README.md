@@ -27,14 +27,15 @@ I like to automate systems where there is a need.
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.9.3-rc.0](https://github.com/gopasspw/gopass/releases/tag/v1.9.3-rc.0), 1 week ago) - The slightly more awesome standard unix password manager for teams
 - [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.21.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.21.0), 1 week ago) - A pure Ruby code highlighter that is compatible with Pygments
 - [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) ([1.2.0](https://github.com/voxpupuli/modulesync/releases/tag/1.2.0), 2 weeks ago) - Synchronize common files across your Git repositories.
+- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v2.1.2](https://github.com/voxpupuli/puppetboard/releases/tag/v2.1.2), 3 weeks ago) - Web frontend for PuppetDB
 - [raphink/moderntimeline](https://github.com/raphink/moderntimeline) ([v0.11](https://github.com/raphink/moderntimeline/releases/tag/v0.11), 1 month ago) - A timeline package for moderncv
 - [camptocamp/prometheus-puppetdb-exporter](https://github.com/camptocamp/prometheus-puppetdb-exporter) ([1.0.0](https://github.com/camptocamp/prometheus-puppetdb-exporter/releases/tag/1.0.0), 1 month ago) -  Prometheus Exporter for PuppetDB
 - [raphink/genearoman](https://github.com/raphink/genearoman) ([2020-04-11](https://github.com/raphink/genearoman/releases/tag/2020-04-11), 3 months ago) - 📖 Long Tom, un roman généalogique
 - [camptocamp/terraform-provider-freeipa](https://github.com/camptocamp/terraform-provider-freeipa) ([0.5.0](https://github.com/camptocamp/terraform-provider-freeipa/releases/tag/0.5.0), 3 months ago) - FreeIPA Terraform Provider
-- [camptocamp/bivac](https://github.com/camptocamp/bivac) ([2.2.0](https://github.com/camptocamp/bivac/releases/tag/2.2.0), 9 months ago) - 🏕 📦 Backup Interface for Volumes Attached to Containers
 
 #### 📜 My recent blog posts
 
+- [Decomissioning with Puppet: report &amp; purge unmanaged resources](https://dev.to/camptocamp-ops/decomissioning-with-puppet-report-purge-unmanaged-resources-1jgk) (today)
 - [Templating Puppet Control Repositories](https://dev.to/camptocamp-ops/templating-puppet-control-repositories-3pk7) (2 days ago)
 - [💡 GitHub Sponsors and dev.to posts](https://dev.to/raphink/github-sponsors-and-dev-to-posts-51b1) (3 weeks ago)
 - [Enhance and Colorize Old Pictures](https://dev.to/raphink/enhance-and-colorize-old-pictures-5c9g) (3 weeks ago)
@@ -44,15 +45,19 @@ I like to automate systems where there is a need.
 - [All the ways to manage files with Puppet](https://dev.to/camptocamp-ops/how-to-manage-files-with-puppet-55e4) (1 month ago)
 - [Tracing X to my 4th great-grandmother](https://dev.to/raphink/tracing-x-to-my-4th-great-grandmother-2af9) (1 month ago)
 - [Getting Puppet Report Metrics from PuppetDB](https://dev.to/camptocamp-ops/getting-puppet-report-metrics-from-puppetdb-6bp) (1 month ago)
-- [Bitten by HA: PuppetDB &amp; PostgreSQL](https://dev.to/camptocamp-ops/bitten-by-ha-puppetdb-postgresql-1eld) (2 months ago)
 
 #### 👥 Check out some of my recent followers
 
+- [Xtigyro](https://github.com/Xtigyro)
 - [yoan-adfinis](https://github.com/yoan-adfinis)
 - [muesli](https://github.com/muesli)
 - [juame](https://github.com/juame)
 - [rtzll](https://github.com/rtzll)
-- [bibleable](https://github.com/bibleable)
+
+
+### Top languages
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raphink&hide_title=true)
 
 
 #### 📫 How to reach me
