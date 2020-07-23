@@ -31,9 +31,9 @@ I like to automate systems where there is a need.
 
 I'm online as **raphink** on most platforms:
 
-- 🐦 Twitter: https://twitter.com/raphink
+-  Twitter: https://twitter.com/raphink
 - 🌍 Blog: https://dev.to/raphink
-- 🏢 LinkedIn: https://www.linkedin.com/in/raphink
+- <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/linkedin.svg" width="20" style="fill: #777" /> LinkedIn: https://www.linkedin.com/in/raphink
 - Slack: [Puppet Community](https://slack.puppet.com/), [Hangops](https://signup.hangops.com/), [Kubernetes](https://slack.k8s.io/)
 
 *Want your own awesome profile page? Check out [markscribe](https://github.com/muesli/markscribe)!*
