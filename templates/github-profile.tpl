@@ -30,7 +30,7 @@ I like to automate systems where there is a need.
 
 #### 💚 My awesome sponsors
 {{ range sponsors 10 }}
-- [<img src="{{.AvatarURL}}" height="20"/> {{.Login}}]({{.URL}})
+- [<img src="{{.Avatar}}" height="20"/> {{.Login}}]({{.URL}})
 {{- end}}
 
 
