@@ -7,7 +7,12 @@ I'm Raphaël, an Infrastructure Developer working at [Camptocamp 🏔](https://g
 I like to automate systems where there is a need.
 
 
-#### 🌱 Check out what I'm currently working on
+#### 👷 Check out what I'm currently working on
+{{range recentContributions 10}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
+
+#### 🌱 My latest personal projects
 {{range recentRepos 10}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
@@ -28,15 +33,22 @@ I like to automate systems where there is a need.
 {{- end}}
 
 
-#### 💚 My awesome sponsors
+#### 💚 My awesome sponsors (thank you!)
 {{ range sponsors 10 }}
-- [<img src="{{.Avatar}}" height="20"/> {{.Login}}]({{.URL}})
+- [<img src="{{.User.AvatarURL}}" height="20"/> {{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
 
-### Top languages
+#### 👨‍💻 Top languages
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raphink&hide_title=true)
+
+
+#### 💬 Feedback
+
+If you use one of my projects, I'd love to hear from you!
+Don't be shy and let me know what you liked and what needs being improved.
+Got an issue? Open a ticket, I don't bite and will try my best to help!
 
 
 #### 📫 How to reach me
@@ -48,4 +60,4 @@ I'm online as **raphink** on most platforms:
 - <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/linkedin.svg" width="20" alt="LinkedIn" /> https://www.linkedin.com/in/raphink
 - <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/slack.svg" width="20" alt="Slack" /> [Puppet Community](https://slack.puppet.com/), [Hangops](https://signup.hangops.com/), [Kubernetes](https://slack.k8s.io/)
 
-*Want your own awesome profile page? Check out [markscribe](https://github.com/muesli/markscribe)!*
+*Do you want your own awesome profile page? Check out [markscribe](https://github.com/muesli/markscribe)!*
