@@ -28,6 +28,12 @@ I like to automate systems where there is a need.
 {{- end}}
 
 
+#### 💚 My awesome sponsors
+{{ range sponsors 10 }}
+- [<img src="{{.AvatarURL}}" height="20"/> {{.Login}}]({{.URL}})
+{{- end}}
+
+
 ### Top languages
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raphink&hide_title=true)
