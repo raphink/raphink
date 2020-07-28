@@ -8,22 +8,22 @@ I like to automate systems where there is a need.
 
 
 #### 👷 Check out what I'm currently working on
-{{range recentContributions 10}}
+{{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### 🌱 My latest personal projects
-{{range recentRepos 10}}
+{{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
 #### 🔭 Latest releases I've contributed to
-{{range recentReleases 10}}
+{{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://dev.to/feed/raphink" 10}}
+{{range rss "https://dev.to/feed/raphink" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
@@ -34,7 +34,7 @@ I like to automate systems where there is a need.
 
 
 #### 💚 My awesome sponsors (thank you!)
-{{ range sponsors 10 }}
+{{ range sponsors 5 }}
 - [<img src="{{.User.AvatarURL}}" height="20"/> {{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
