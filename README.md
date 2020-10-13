@@ -9,8 +9,8 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (4 days ago)
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1700&#43; contributors) framework for managing your zsh configuration. Includes 200&#43; optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. (4 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (5 days ago)
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1700&#43; contributors) framework for managing your zsh configuration. Includes 200&#43; optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. (5 days ago)
 - [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (1 week ago)
 - [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) - An all-in-one Kubernetes ☸ demo using ArgoCD 🐙 as a base component (1 week ago)
 - [camptocamp/antora-ui](https://github.com/camptocamp/antora-ui) - Camptocamp&#39;s version of antora-ui, forked from https://gitlab.com/antora/antora-ui-default (1 week ago)
@@ -25,15 +25,15 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.4.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.4.0), 2 days ago) - An all-in-one Kubernetes ☸ demo using ArgoCD 🐙 as a base component
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.0-alpha20201007](https://github.com/hashicorp/terraform/releases/tag/v0.14.0-alpha20201007), 5 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.4.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.4.0), 3 days ago) - An all-in-one Kubernetes ☸ demo using ArgoCD 🐙 as a base component
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.0-alpha20201007](https://github.com/hashicorp/terraform/releases/tag/v0.14.0-alpha20201007), 6 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [camptocamp/bivac](https://github.com/camptocamp/bivac) ([2.3.2](https://github.com/camptocamp/bivac/releases/tag/2.3.2), 1 week ago) - 🏕 📦 Backup Interface for Volumes Attached to Containers
 - [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.23.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.23.0), 1 month ago) - A pure Ruby code highlighter that is compatible with Pygments
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.10.1](https://github.com/gopasspw/gopass/releases/tag/v1.10.1), 1 month ago) - The slightly more awesome standard unix password manager for teams
 
 #### 📜 My recent blog posts
 
-- [Colored wrappers for kubectl](https://dev.to/raphink/colored-wrappers-for-kubectl-2pj1) (6 days ago)
+- [Colored wrappers for kubectl](https://dev.to/raphink/colored-wrappers-for-kubectl-2pj1) (1 week ago)
 - [Simple secret sharing with gopass and summon](https://dev.to/camptocamp-ops/simple-secret-sharing-with-gopass-and-summon-40jk) (2 months ago)
 - [Decomissioning with Puppet: report &amp; purge unmanaged resources](https://dev.to/camptocamp-ops/decomissioning-with-puppet-report-purge-unmanaged-resources-1jgk) (2 months ago)
 - [Templating Puppet Control Repositories](https://dev.to/camptocamp-ops/templating-puppet-control-repositories-3pk7) (2 months ago)
