@@ -9,8 +9,8 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (today)
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1700&#43; contributors) framework for managing your zsh configuration. Includes 200&#43; optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. (5 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (1 day ago)
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1700&#43; contributors) framework for managing your zsh configuration. Includes 200&#43; optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. (6 days ago)
 - [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (1 week ago)
 - [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) - An all-in-one Kubernetes ☸ demo using ArgoCD 🐙 as a base component (1 week ago)
 - [camptocamp/antora-ui](https://github.com/camptocamp/antora-ui) - Camptocamp&#39;s version of antora-ui, forked from https://gitlab.com/antora/antora-ui-default (1 week ago)
@@ -25,9 +25,9 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.24.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.24.0), today) - A pure Ruby code highlighter that is compatible with Pygments
-- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.4.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.4.0), 3 days ago) - An all-in-one Kubernetes ☸ demo using ArgoCD 🐙 as a base component
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.0-alpha20201007](https://github.com/hashicorp/terraform/releases/tag/v0.14.0-alpha20201007), 6 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.24.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.24.0), 1 day ago) - A pure Ruby code highlighter that is compatible with Pygments
+- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.4.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.4.0), 4 days ago) - An all-in-one Kubernetes ☸ demo using ArgoCD 🐙 as a base component
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.0-alpha20201007](https://github.com/hashicorp/terraform/releases/tag/v0.14.0-alpha20201007), 1 week ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [camptocamp/bivac](https://github.com/camptocamp/bivac) ([2.3.2](https://github.com/camptocamp/bivac/releases/tag/2.3.2), 1 week ago) - 🏕 📦 Backup Interface for Volumes Attached to Containers
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.10.1](https://github.com/gopasspw/gopass/releases/tag/v1.10.1), 1 month ago) - The slightly more awesome standard unix password manager for teams
 
