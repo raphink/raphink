@@ -41,11 +41,11 @@ I like to automate systems where there is a need.
 
 #### 👥 Check out some of my recent followers
 
+- [<img src="https://avatars2.githubusercontent.com/u/9319656?u=7fa781bea6b95a845d256df83e6cd7d93769f467&amp;v=4" height="20"/> aweris](https://github.com/aweris)
 - [<img src="https://avatars1.githubusercontent.com/u/47944742?u=4e93fbbcc9ebc98b07bed539f7a95e088b9ebdc0&amp;v=4" height="20"/> adieperi](https://github.com/adieperi)
 - [<img src="https://avatars0.githubusercontent.com/u/755742?u=5164a68244cb13678796d0e65ce617c613bfa079&amp;v=4" height="20"/> nershman](https://github.com/nershman)
 - [<img src="https://avatars0.githubusercontent.com/u/54734963?u=0e6dbf2584c49adc622ea946c3fe54f03d41391c&amp;v=4" height="20"/> JustSoval](https://github.com/JustSoval)
 - [<img src="https://avatars2.githubusercontent.com/u/5199109?u=595867f93f8a013bd33f286dd9272cb690655b3c&amp;v=4" height="20"/> chihung93](https://github.com/chihung93)
-- [<img src="https://avatars2.githubusercontent.com/u/7875085?u=d3c95a2719db2758bdf6f3490335cc782108625f&amp;v=4" height="20"/> egorsmkv](https://github.com/egorsmkv)
 
 
 #### 💚 My awesome sponsors (thank you!)
