@@ -25,7 +25,7 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.5.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.5.0), 1 day ago) - An all-in-one Kubernetes ☸ demo using ArgoCD 🐙 as a base component
+- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.5.1](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.5.1), today) - An all-in-one Kubernetes ☸ demo using ArgoCD 🐙 as a base component
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.1.0-alpha.0](https://github.com/jetstack/cert-manager/releases/tag/v1.1.0-alpha.0), 5 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.0-beta1](https://github.com/hashicorp/terraform/releases/tag/v0.14.0-beta1), 6 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.24.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.24.0), 1 week ago) - A pure Ruby code highlighter that is compatible with Pygments
