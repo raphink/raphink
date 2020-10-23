@@ -9,11 +9,11 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
+- [camptocamp/puppet-catalog-diff-viewer](https://github.com/camptocamp/puppet-catalog-diff-viewer) - A viewer for the puppet-catalog-diff tool (today)
 - [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (1 day ago)
 - [camptocamp/puppet-puppet_config_providers](https://github.com/camptocamp/puppet-puppet_config_providers) -  (2 days ago)
 - [camptocamp/puppetca-issuer](https://github.com/camptocamp/puppetca-issuer) - Cert-manager issuer for the Puppet Certificate Authority (3 days ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (1 week ago)
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1700&#43; contributors) framework for managing your zsh configuration. Includes 200&#43; optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. (2 weeks ago)
 
 #### 🌱 My latest personal projects
 
