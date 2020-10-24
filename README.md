@@ -9,10 +9,10 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/puppet-catalog-diff-viewer](https://github.com/camptocamp/puppet-catalog-diff-viewer) - A viewer for the puppet-catalog-diff tool (today)
-- [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (1 day ago)
-- [camptocamp/puppet-puppet_config_providers](https://github.com/camptocamp/puppet-puppet_config_providers) -  (2 days ago)
-- [camptocamp/puppetca-issuer](https://github.com/camptocamp/puppetca-issuer) - Cert-manager issuer for the Puppet Certificate Authority (3 days ago)
+- [camptocamp/puppet-catalog-diff-viewer](https://github.com/camptocamp/puppet-catalog-diff-viewer) - A viewer for the puppet-catalog-diff tool (1 day ago)
+- [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (2 days ago)
+- [camptocamp/puppet-puppet_config_providers](https://github.com/camptocamp/puppet-puppet_config_providers) -  (3 days ago)
+- [camptocamp/puppetca-issuer](https://github.com/camptocamp/puppetca-issuer) - Cert-manager issuer for the Puppet Certificate Authority (4 days ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (1 week ago)
 
 #### 🌱 My latest personal projects
@@ -25,8 +25,8 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.13.5](https://github.com/hashicorp/terraform/releases/tag/v0.13.5), 2 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.5.1](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.5.1), 2 days ago) - An all-in-one Kubernetes ☸ demo using ArgoCD 🐙 as a base component
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.13.5](https://github.com/hashicorp/terraform/releases/tag/v0.13.5), 3 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.5.1](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.5.1), 3 days ago) - An all-in-one Kubernetes ☸ demo using ArgoCD 🐙 as a base component
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.1.0-alpha.0](https://github.com/jetstack/cert-manager/releases/tag/v1.1.0-alpha.0), 1 week ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.24.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.24.0), 1 week ago) - A pure Ruby code highlighter that is compatible with Pygments
 - [camptocamp/bivac](https://github.com/camptocamp/bivac) ([2.3.2](https://github.com/camptocamp/bivac/releases/tag/2.3.2), 3 weeks ago) - 🏕 📦 Backup Interface for Volumes Attached to Containers
@@ -50,7 +50,7 @@ I like to automate systems where there is a need.
 
 #### 💚 My awesome sponsors (thank you!)
 
-- [<img src="https://avatars1.githubusercontent.com/u/1110127?v=4" height="20"/> kennedye](https://github.com/kennedye) (4 months ago)
+- [<img src="https://avatars1.githubusercontent.com/u/1110127?v=4" height="20"/> kennedye](https://github.com/kennedye) (5 months ago)
 
 
 #### 👨‍💻 Top languages
