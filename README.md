@@ -9,11 +9,11 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (today)
 - [camptocamp/puppet-catalog-diff-viewer](https://github.com/camptocamp/puppet-catalog-diff-viewer) - A viewer for the puppet-catalog-diff tool (2 days ago)
 - [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (3 days ago)
 - [camptocamp/puppet-puppet_config_providers](https://github.com/camptocamp/puppet-puppet_config_providers) -  (4 days ago)
 - [camptocamp/puppetca-issuer](https://github.com/camptocamp/puppetca-issuer) - Cert-manager issuer for the Puppet Certificate Authority (5 days ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (1 week ago)
 
 #### 🌱 My latest personal projects
 
