@@ -9,7 +9,7 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (1 day ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (today)
 - [hercules-team/augeasproviders_sysctl](https://github.com/hercules-team/augeasproviders_sysctl) - Augeas-based sysctl type and provider for Puppet (1 day ago)
 - [camptocamp/puppet-catalog-diff-viewer](https://github.com/camptocamp/puppet-catalog-diff-viewer) - A viewer for the puppet-catalog-diff tool (5 days ago)
 - [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (6 days ago)
