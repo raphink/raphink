@@ -25,9 +25,9 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.1.0-alpha.1](https://github.com/jetstack/cert-manager/releases/tag/v1.1.0-alpha.1), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.6.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.6.0), today) - An all-in-one Kubernetes ☸ demo using ArgoCD 🐙 as a base component
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.13.5](https://github.com/hashicorp/terraform/releases/tag/v0.13.5), 1 week ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.1.0-alpha.0](https://github.com/jetstack/cert-manager/releases/tag/v1.1.0-alpha.0), 1 week ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.24.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.24.0), 2 weeks ago) - A pure Ruby code highlighter that is compatible with Pygments
 - [camptocamp/bivac](https://github.com/camptocamp/bivac) ([2.3.2](https://github.com/camptocamp/bivac/releases/tag/2.3.2), 3 weeks ago) - 🏕 📦 Backup Interface for Volumes Attached to Containers
 
@@ -42,7 +42,7 @@ I like to automate systems where there is a need.
 #### 👥 Check out some of my recent followers
 
 - [<img src="https://avatars0.githubusercontent.com/u/14808551?v=4" height="20"/> Lisprez](https://github.com/Lisprez)
-- [<img src="https://avatars2.githubusercontent.com/u/9319656?u=7fa781bea6b95a845d256df83e6cd7d93769f467&amp;v=4" height="20"/> aweris](https://github.com/aweris)
+- [<img src="https://avatars2.githubusercontent.com/u/9319656?u=19cabccbf9fb089407a79f8a98901f029259362a&amp;v=4" height="20"/> aweris](https://github.com/aweris)
 - [<img src="https://avatars1.githubusercontent.com/u/47944742?u=4e93fbbcc9ebc98b07bed539f7a95e088b9ebdc0&amp;v=4" height="20"/> adieperi](https://github.com/adieperi)
 - [<img src="https://avatars0.githubusercontent.com/u/755742?u=5164a68244cb13678796d0e65ce617c613bfa079&amp;v=4" height="20"/> nershman](https://github.com/nershman)
 - [<img src="https://avatars0.githubusercontent.com/u/54734963?u=0e6dbf2584c49adc622ea946c3fe54f03d41391c&amp;v=4" height="20"/> JustSoval](https://github.com/JustSoval)
