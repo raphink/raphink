@@ -41,11 +41,11 @@ I like to automate systems where there is a need.
 
 #### 👥 Check out some of my recent followers
 
+- [<img src="https://avatars2.githubusercontent.com/u/24563836?u=b637f924508b2447f8d6ad27739b337d89b9299f&amp;v=4" height="20"/> oknozor](https://github.com/oknozor)
+- [<img src="https://avatars2.githubusercontent.com/u/64399011?u=ab80cb21501b17bce4b8698f3d13479ed9587fff&amp;v=4" height="20"/> obliviate](https://github.com/obliviate)
 - [<img src="https://avatars0.githubusercontent.com/u/14808551?v=4" height="20"/> Lisprez](https://github.com/Lisprez)
 - [<img src="https://avatars2.githubusercontent.com/u/9319656?u=19cabccbf9fb089407a79f8a98901f029259362a&amp;v=4" height="20"/> aweris](https://github.com/aweris)
 - [<img src="https://avatars1.githubusercontent.com/u/47944742?u=4e93fbbcc9ebc98b07bed539f7a95e088b9ebdc0&amp;v=4" height="20"/> adieperi](https://github.com/adieperi)
-- [<img src="https://avatars0.githubusercontent.com/u/755742?u=5164a68244cb13678796d0e65ce617c613bfa079&amp;v=4" height="20"/> nershman](https://github.com/nershman)
-- [<img src="https://avatars0.githubusercontent.com/u/54734963?u=0e6dbf2584c49adc622ea946c3fe54f03d41391c&amp;v=4" height="20"/> JustSoval](https://github.com/JustSoval)
 
 
 #### 💚 My awesome sponsors (thank you!)
