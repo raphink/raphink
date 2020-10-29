@@ -25,9 +25,9 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.0.4](https://github.com/jetstack/cert-manager/releases/tag/v1.0.4), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [camptocamp/terraform-provider-freeipa](https://github.com/camptocamp/terraform-provider-freeipa) ([v0.7.0](https://github.com/camptocamp/terraform-provider-freeipa/releases/tag/v0.7.0), today) - FreeIPA Terraform Provider
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.0-beta2](https://github.com/hashicorp/terraform/releases/tag/v0.14.0-beta2), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.1.0-alpha.1](https://github.com/jetstack/cert-manager/releases/tag/v1.1.0-alpha.1), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.6.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.6.0), 1 day ago) - An all-in-one Kubernetes ☸ demo using ArgoCD 🐙 as a base component
 - [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.24.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.24.0), 2 weeks ago) - A pure Ruby code highlighter that is compatible with Pygments
 
@@ -42,10 +42,10 @@ I like to automate systems where there is a need.
 #### 👥 Check out some of my recent followers
 
 - [<img src="https://avatars2.githubusercontent.com/u/24563836?u=b637f924508b2447f8d6ad27739b337d89b9299f&amp;v=4" height="20"/> oknozor](https://github.com/oknozor)
-- [<img src="https://avatars2.githubusercontent.com/u/64399011?u=ab80cb21501b17bce4b8698f3d13479ed9587fff&amp;v=4" height="20"/> obliviate](https://github.com/obliviate)
 - [<img src="https://avatars0.githubusercontent.com/u/14808551?v=4" height="20"/> Lisprez](https://github.com/Lisprez)
 - [<img src="https://avatars2.githubusercontent.com/u/9319656?u=19cabccbf9fb089407a79f8a98901f029259362a&amp;v=4" height="20"/> aweris](https://github.com/aweris)
 - [<img src="https://avatars1.githubusercontent.com/u/47944742?u=4e93fbbcc9ebc98b07bed539f7a95e088b9ebdc0&amp;v=4" height="20"/> adieperi](https://github.com/adieperi)
+- [<img src="https://avatars0.githubusercontent.com/u/755742?u=5164a68244cb13678796d0e65ce617c613bfa079&amp;v=4" height="20"/> nershman](https://github.com/nershman)
 
 
 #### 💚 My awesome sponsors (thank you!)
