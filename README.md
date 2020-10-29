@@ -9,7 +9,7 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (1 day ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (today)
 - [hercules-team/augeasproviders_sysctl](https://github.com/hercules-team/augeasproviders_sysctl) - Augeas-based sysctl type and provider for Puppet (2 days ago)
 - [camptocamp/puppet-catalog-diff-viewer](https://github.com/camptocamp/puppet-catalog-diff-viewer) - A viewer for the puppet-catalog-diff tool (6 days ago)
 - [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (1 week ago)
@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/terraform-provider-freeipa](https://github.com/camptocamp/terraform-provider-freeipa) ([v0.7.0](https://github.com/camptocamp/terraform-provider-freeipa/releases/tag/v0.7.0), today) - FreeIPA Terraform Provider
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.0-beta2](https://github.com/hashicorp/terraform/releases/tag/v0.14.0-beta2), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.1.0-alpha.1](https://github.com/jetstack/cert-manager/releases/tag/v1.1.0-alpha.1), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.6.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.6.0), 1 day ago) - An all-in-one Kubernetes ☸ demo using ArgoCD 🐙 as a base component
 - [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.24.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.24.0), 2 weeks ago) - A pure Ruby code highlighter that is compatible with Pygments
+- [camptocamp/bivac](https://github.com/camptocamp/bivac) ([2.3.2](https://github.com/camptocamp/bivac/releases/tag/2.3.2), 4 weeks ago) - 🏕 📦 Backup Interface for Volumes Attached to Containers
 
 #### 📜 My recent blog posts
 
