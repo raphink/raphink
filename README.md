@@ -10,10 +10,10 @@ I like to automate systems where there is a need.
 #### 👷 Check out what I'm currently working on
 
 - [camptocamp/puppet-tomcat](https://github.com/camptocamp/puppet-tomcat) - Tomcat puppet module (today)
+- [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (today)
 - [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (1 day ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (5 days ago)
 - [hercules-team/augeasproviders_sysctl](https://github.com/hercules-team/augeasproviders_sysctl) - Augeas-based sysctl type and provider for Puppet (1 week ago)
-- [camptocamp/puppet-catalog-diff-viewer](https://github.com/camptocamp/puppet-catalog-diff-viewer) - A viewer for the puppet-catalog-diff tool (1 week ago)
 
 #### 🌱 My latest personal projects
 
