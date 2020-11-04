@@ -9,10 +9,10 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/puppet-tomcat](https://github.com/camptocamp/puppet-tomcat) - Tomcat puppet module (today)
-- [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (today)
-- [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (1 day ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (5 days ago)
+- [camptocamp/puppet-tomcat](https://github.com/camptocamp/puppet-tomcat) - Tomcat puppet module (1 day ago)
+- [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (1 day ago)
+- [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (2 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (6 days ago)
 - [hercules-team/augeasproviders_sysctl](https://github.com/hercules-team/augeasproviders_sysctl) - Augeas-based sysctl type and provider for Puppet (1 week ago)
 
 #### 🌱 My latest personal projects
@@ -25,10 +25,10 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.0.4](https://github.com/jetstack/cert-manager/releases/tag/v1.0.4), 5 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [camptocamp/terraform-provider-freeipa](https://github.com/camptocamp/terraform-provider-freeipa) ([v0.7.0](https://github.com/camptocamp/terraform-provider-freeipa/releases/tag/v0.7.0), 5 days ago) - FreeIPA Terraform Provider
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.0-beta2](https://github.com/hashicorp/terraform/releases/tag/v0.14.0-beta2), 6 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.6.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.6.0), 6 days ago) - An all-in-one Kubernetes ☸ demo using ArgoCD 🐙 as a base component
+- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.0.4](https://github.com/jetstack/cert-manager/releases/tag/v1.0.4), 6 days ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [camptocamp/terraform-provider-freeipa](https://github.com/camptocamp/terraform-provider-freeipa) ([v0.7.0](https://github.com/camptocamp/terraform-provider-freeipa/releases/tag/v0.7.0), 6 days ago) - FreeIPA Terraform Provider
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.0-beta2](https://github.com/hashicorp/terraform/releases/tag/v0.14.0-beta2), 1 week ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.6.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.6.0), 1 week ago) - An all-in-one Kubernetes ☸ demo using ArgoCD 🐙 as a base component
 - [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.24.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.24.0), 3 weeks ago) - A pure Ruby code highlighter that is compatible with Pygments
 
 #### 📜 My recent blog posts
