@@ -9,11 +9,11 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
+- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) - An all-in-one Kubernetes ☸ demo using ArgoCD 🐙 as a base component (today)
 - [camptocamp/puppet-windows_securityoptions](https://github.com/camptocamp/puppet-windows_securityoptions) - Puppet module for Windows Local Security Policy types (today)
-- [camptocamp/puppet-tomcat](https://github.com/camptocamp/puppet-tomcat) - Tomcat puppet module (1 day ago)
 - [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (1 day ago)
+- [camptocamp/puppet-tomcat](https://github.com/camptocamp/puppet-tomcat) - Tomcat puppet module (1 day ago)
 - [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (2 days ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (6 days ago)
 
 #### 🌱 My latest personal projects
 
