@@ -9,11 +9,11 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
+- [puppetlabs/showoff](https://github.com/puppetlabs/showoff) - Don&#39;t just present; interact with your audience! (today)
 - [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (today)
+- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) - An all-in-one Kubernetes ☸ demo using ArgoCD 🐙 as a base component (today)
 - [camptocamp/aws-iam-authenticator-proxy](https://github.com/camptocamp/aws-iam-authenticator-proxy) - A simple HTTP proxy to share AWS IAM authentication (1 day ago)
-- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) - An all-in-one Kubernetes ☸ demo using ArgoCD 🐙 as a base component (1 day ago)
 - [camptocamp/puppet-windows_securityoptions](https://github.com/camptocamp/puppet-windows_securityoptions) - Puppet module for Windows Local Security Policy types (2 days ago)
-- [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (3 days ago)
 
 #### 🌱 My latest personal projects
 
