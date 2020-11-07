@@ -10,10 +10,10 @@ I like to automate systems where there is a need.
 #### 👷 Check out what I'm currently working on
 
 - [raphink/find-my-ancestor](https://github.com/raphink/find-my-ancestor) - 📷🎩 A project to recognize faces in old photographies using AWS Rekognition (today)
-- [puppetlabs/showoff](https://github.com/puppetlabs/showoff) - Don&#39;t just present; interact with your audience! (1 day ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (today)
 - [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) - An all-in-one Kubernetes ☸ demo using ArgoCD 🐙 as a base component (1 day ago)
 - [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (1 day ago)
-- [camptocamp/aws-iam-authenticator-proxy](https://github.com/camptocamp/aws-iam-authenticator-proxy) - A simple HTTP proxy to share AWS IAM authentication (2 days ago)
+- [puppetlabs/showoff](https://github.com/puppetlabs/showoff) - Don&#39;t just present; interact with your audience! (1 day ago)
 
 #### 🌱 My latest personal projects
 
