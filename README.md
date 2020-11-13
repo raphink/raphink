@@ -9,7 +9,7 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) - An all-in-one Kubernetes ☸ demo using ArgoCD 🐙 as a base component (1 day ago)
+- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) - An all-in-one Kubernetes ☸ demo using ArgoCD 🐙 as a base component (today)
 - [camptocamp/terraform-aws-efs](https://github.com/camptocamp/terraform-aws-efs) - AWS EFS module for Terraform (1 day ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (2 days ago)
 - [raphink/find-my-ancestor](https://github.com/raphink/find-my-ancestor) - 📷🎩 A project to recognize faces in old photographies using AWS Rekognition (6 days ago)
