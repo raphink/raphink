@@ -9,10 +9,10 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) - An all-in-one Kubernetes ☸ demo using ArgoCD 🐙 as a base component (today)
-- [camptocamp/terraform-aws-efs](https://github.com/camptocamp/terraform-aws-efs) - AWS EFS module for Terraform (1 day ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (2 days ago)
-- [raphink/find-my-ancestor](https://github.com/raphink/find-my-ancestor) - 📷🎩 A project to recognize faces in old photographies using AWS Rekognition (6 days ago)
+- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) - An all-in-one Kubernetes ☸ demo using ArgoCD 🐙 as a base component (1 day ago)
+- [camptocamp/terraform-aws-efs](https://github.com/camptocamp/terraform-aws-efs) - AWS EFS module for Terraform (2 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (3 days ago)
+- [raphink/find-my-ancestor](https://github.com/raphink/find-my-ancestor) - 📷🎩 A project to recognize faces in old photographies using AWS Rekognition (1 week ago)
 - [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (1 week ago)
 
 #### 🌱 My latest personal projects
@@ -25,15 +25,15 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.8.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.8.0), 1 day ago) - An all-in-one Kubernetes ☸ demo using ArgoCD 🐙 as a base component
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.0-rc1](https://github.com/hashicorp/terraform/releases/tag/v0.14.0-rc1), 2 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.25.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.25.0), 3 days ago) - A pure Ruby code highlighter that is compatible with Pygments
+- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.8.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.8.0), 2 days ago) - An all-in-one Kubernetes ☸ demo using ArgoCD 🐙 as a base component
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.0-rc1](https://github.com/hashicorp/terraform/releases/tag/v0.14.0-rc1), 3 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.25.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.25.0), 4 days ago) - A pure Ruby code highlighter that is compatible with Pygments
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.0.4](https://github.com/jetstack/cert-manager/releases/tag/v1.0.4), 2 weeks ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [camptocamp/terraform-provider-freeipa](https://github.com/camptocamp/terraform-provider-freeipa) ([v0.7.0](https://github.com/camptocamp/terraform-provider-freeipa/releases/tag/v0.7.0), 2 weeks ago) - FreeIPA Terraform Provider
 
 #### 📜 My recent blog posts
 
-- [A Simple Auth Proxy for EKS](https://dev.to/camptocamp-ops/a-simple-auth-proxy-for-eks-24dh) (2 days ago)
+- [A Simple Auth Proxy for EKS](https://dev.to/camptocamp-ops/a-simple-auth-proxy-for-eks-24dh) (3 days ago)
 - [Colored wrappers for kubectl](https://dev.to/raphink/colored-wrappers-for-kubectl-2pj1) (1 month ago)
 - [Simple secret sharing with gopass and summon](https://dev.to/camptocamp-ops/simple-secret-sharing-with-gopass-and-summon-40jk) (3 months ago)
 - [Decomissioning with Puppet: report &amp; purge unmanaged resources](https://dev.to/camptocamp-ops/decomissioning-with-puppet-report-purge-unmanaged-resources-1jgk) (3 months ago)
