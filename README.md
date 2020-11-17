@@ -41,11 +41,11 @@ I like to automate systems where there is a need.
 
 #### 👥 Check out some of my recent followers
 
+- [<img src="https://avatars3.githubusercontent.com/u/59119729?v=4" height="20"/> a-meynard](https://github.com/a-meynard)
 - [<img src="https://avatars0.githubusercontent.com/u/825750?v=4" height="20"/> jonesbusy](https://github.com/jonesbusy)
 - [<img src="https://avatars0.githubusercontent.com/u/8693463?u=980db600745644d50fbbbc055cbc0ddd82771430&amp;v=4" height="20"/> saxbophone](https://github.com/saxbophone)
 - [<img src="https://avatars2.githubusercontent.com/u/20806860?u=badd9a93ea6accfb3400e63af2f1bb9b8951e429&amp;v=4" height="20"/> nsmedira](https://github.com/nsmedira)
 - [<img src="https://avatars2.githubusercontent.com/u/24563836?u=b637f924508b2447f8d6ad27739b337d89b9299f&amp;v=4" height="20"/> oknozor](https://github.com/oknozor)
-- [<img src="https://avatars0.githubusercontent.com/u/14808551?v=4" height="20"/> Lisprez](https://github.com/Lisprez)
 
 
 #### 💚 My awesome sponsors (thank you!)
