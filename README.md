@@ -9,9 +9,9 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) - An all-in-one Kubernetes ☸ demo using ArgoCD 🐙 as a base component (today)
-- [camptocamp/aws-iam-authenticator-proxy](https://github.com/camptocamp/aws-iam-authenticator-proxy) - A simple HTTP proxy to share AWS IAM authentication (today)
-- [camptocamp/facterdb](https://github.com/camptocamp/facterdb) - A Database of OS facts provided by Facter (today)
+- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) - An all-in-one Kubernetes ☸ demo using ArgoCD 🐙 as a base component (1 day ago)
+- [camptocamp/aws-iam-authenticator-proxy](https://github.com/camptocamp/aws-iam-authenticator-proxy) - A simple HTTP proxy to share AWS IAM authentication (1 day ago)
+- [camptocamp/facterdb](https://github.com/camptocamp/facterdb) - A Database of OS facts provided by Facter (1 day ago)
 - [camptocamp/terraform-aws-efs](https://github.com/camptocamp/terraform-aws-efs) - AWS EFS module for Terraform (1 week ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (1 week ago)
 
@@ -25,7 +25,7 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.11.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.11.0), today) - An all-in-one Kubernetes ☸ demo using ArgoCD 🐙 as a base component
+- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.11.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.11.0), 1 day ago) - An all-in-one Kubernetes ☸ demo using ArgoCD 🐙 as a base component
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.0-rc1](https://github.com/hashicorp/terraform/releases/tag/v0.14.0-rc1), 1 week ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.25.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.25.0), 1 week ago) - A pure Ruby code highlighter that is compatible with Pygments
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.0.4](https://github.com/jetstack/cert-manager/releases/tag/v1.0.4), 3 weeks ago) - Automatically provision and manage TLS certificates in Kubernetes
@@ -36,7 +36,7 @@ I like to automate systems where there is a need.
 - [A Simple Auth Proxy for EKS](https://dev.to/camptocamp-ops/a-simple-auth-proxy-for-eks-24dh) (1 week ago)
 - [Colored wrappers for kubectl](https://dev.to/raphink/colored-wrappers-for-kubectl-2pj1) (1 month ago)
 - [Simple secret sharing with gopass and summon](https://dev.to/camptocamp-ops/simple-secret-sharing-with-gopass-and-summon-40jk) (3 months ago)
-- [Decomissioning with Puppet: report &amp; purge unmanaged resources](https://dev.to/camptocamp-ops/decomissioning-with-puppet-report-purge-unmanaged-resources-1jgk) (3 months ago)
+- [Decomissioning with Puppet: report &amp; purge unmanaged resources](https://dev.to/camptocamp-ops/decomissioning-with-puppet-report-purge-unmanaged-resources-1jgk) (4 months ago)
 - [Templating Puppet Control Repositories](https://dev.to/camptocamp-ops/templating-puppet-control-repositories-3pk7) (4 months ago)
 
 #### 👥 Check out some of my recent followers
