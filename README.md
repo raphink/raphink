@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.3.0](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.3.0), today) - 
 - [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.11.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.11.0), 1 day ago) - An all-in-one Kubernetes ☸ demo using ArgoCD 🐙 as a base component
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.0-rc1](https://github.com/hashicorp/terraform/releases/tag/v0.14.0-rc1), 1 week ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.25.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.25.0), 1 week ago) - A pure Ruby code highlighter that is compatible with Pygments
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.0.4](https://github.com/jetstack/cert-manager/releases/tag/v1.0.4), 3 weeks ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [camptocamp/terraform-provider-freeipa](https://github.com/camptocamp/terraform-provider-freeipa) ([v0.7.0](https://github.com/camptocamp/terraform-provider-freeipa/releases/tag/v0.7.0), 3 weeks ago) - FreeIPA Terraform Provider
 
 #### 📜 My recent blog posts
 
