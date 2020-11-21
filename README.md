@@ -9,10 +9,10 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/puppet-catalog-diff-viewer](https://github.com/camptocamp/puppet-catalog-diff-viewer) - A viewer for the puppet-catalog-diff tool (today)
-- [camptocamp/aws-iam-authenticator-proxy](https://github.com/camptocamp/aws-iam-authenticator-proxy) - A simple HTTP proxy to share AWS IAM authentication (1 day ago)
-- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) - An all-in-one Kubernetes ☸ demo using ArgoCD 🐙 as a base component (1 day ago)
-- [camptocamp/facterdb](https://github.com/camptocamp/facterdb) - A Database of OS facts provided by Facter (1 day ago)
+- [camptocamp/puppet-catalog-diff-viewer](https://github.com/camptocamp/puppet-catalog-diff-viewer) - A viewer for the puppet-catalog-diff tool (1 day ago)
+- [camptocamp/aws-iam-authenticator-proxy](https://github.com/camptocamp/aws-iam-authenticator-proxy) - A simple HTTP proxy to share AWS IAM authentication (2 days ago)
+- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) - An all-in-one Kubernetes ☸ demo using ArgoCD 🐙 as a base component (2 days ago)
+- [camptocamp/facterdb](https://github.com/camptocamp/facterdb) - A Database of OS facts provided by Facter (2 days ago)
 - [camptocamp/terraform-aws-efs](https://github.com/camptocamp/terraform-aws-efs) - AWS EFS module for Terraform (1 week ago)
 
 #### 🌱 My latest personal projects
@@ -25,8 +25,8 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.3.0](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.3.0), today) - 
-- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.11.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.11.0), 1 day ago) - An all-in-one Kubernetes ☸ demo using ArgoCD 🐙 as a base component
+- [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.3.0](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.3.0), 1 day ago) - 
+- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.11.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.11.0), 2 days ago) - An all-in-one Kubernetes ☸ demo using ArgoCD 🐙 as a base component
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.0-rc1](https://github.com/hashicorp/terraform/releases/tag/v0.14.0-rc1), 1 week ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.25.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.25.0), 1 week ago) - A pure Ruby code highlighter that is compatible with Pygments
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.0.4](https://github.com/jetstack/cert-manager/releases/tag/v1.0.4), 3 weeks ago) - Automatically provision and manage TLS certificates in Kubernetes
