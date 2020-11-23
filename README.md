@@ -25,7 +25,7 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-12.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-12.2.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-12.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-12.2.2), today) - Prometheus community Helm charts
 - [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.3.0](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.3.0), 3 days ago) - 
 - [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.11.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.11.0), 4 days ago) - An all-in-one Kubernetes ☸ demo using ArgoCD 🐙 as a base component
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.0-rc1](https://github.com/hashicorp/terraform/releases/tag/v0.14.0-rc1), 1 week ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
