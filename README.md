@@ -9,11 +9,11 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
+- [camptocamp/terraform-docker-k3s](https://github.com/camptocamp/terraform-docker-k3s) -  (today)
+- [camptocamp/terraform-libvirt-k3os](https://github.com/camptocamp/terraform-libvirt-k3os) -  (today)
 - [camptocamp/puppet-windows_securityoptions](https://github.com/camptocamp/puppet-windows_securityoptions) - Puppet module for Windows Local Security Policy types (2 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
 - [camptocamp/puppet-catalog-diff-viewer](https://github.com/camptocamp/puppet-catalog-diff-viewer) - A viewer for the puppet-catalog-diff tool (6 days ago)
-- [camptocamp/aws-iam-authenticator-proxy](https://github.com/camptocamp/aws-iam-authenticator-proxy) - A simple HTTP proxy to share AWS IAM authentication (1 week ago)
-- [camptocamp/facterdb](https://github.com/camptocamp/facterdb) - A Database of OS facts provided by Facter (1 week ago)
 
 #### 🌱 My latest personal projects
 
