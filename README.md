@@ -9,11 +9,11 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/puppet-windows_securityoptions](https://github.com/camptocamp/puppet-windows_securityoptions) - Puppet module for Windows Local Security Policy types (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
-- [camptocamp/puppet-catalog-diff-viewer](https://github.com/camptocamp/puppet-catalog-diff-viewer) - A viewer for the puppet-catalog-diff tool (5 days ago)
-- [camptocamp/aws-iam-authenticator-proxy](https://github.com/camptocamp/aws-iam-authenticator-proxy) - A simple HTTP proxy to share AWS IAM authentication (6 days ago)
-- [camptocamp/facterdb](https://github.com/camptocamp/facterdb) - A Database of OS facts provided by Facter (6 days ago)
+- [camptocamp/puppet-windows_securityoptions](https://github.com/camptocamp/puppet-windows_securityoptions) - Puppet module for Windows Local Security Policy types (2 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
+- [camptocamp/puppet-catalog-diff-viewer](https://github.com/camptocamp/puppet-catalog-diff-viewer) - A viewer for the puppet-catalog-diff tool (6 days ago)
+- [camptocamp/aws-iam-authenticator-proxy](https://github.com/camptocamp/aws-iam-authenticator-proxy) - A simple HTTP proxy to share AWS IAM authentication (1 week ago)
+- [camptocamp/facterdb](https://github.com/camptocamp/facterdb) - A Database of OS facts provided by Facter (1 week ago)
 
 #### 🌱 My latest personal projects
 
@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.2.0), today) - Prometheus community Helm charts
-- [camptocamp/bivac](https://github.com/camptocamp/bivac) ([2.4.0](https://github.com/camptocamp/bivac/releases/tag/2.4.0), today) - 🏕 📦 Backup Interface for Volumes Attached to Containers
-- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.14.1](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.14.1), today) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
-- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.1.0](https://github.com/jetstack/cert-manager/releases/tag/v1.1.0), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.3.0](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.3.0), 5 days ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.2.0), 1 day ago) - Prometheus community Helm charts
+- [camptocamp/bivac](https://github.com/camptocamp/bivac) ([2.4.0](https://github.com/camptocamp/bivac/releases/tag/2.4.0), 1 day ago) - 🏕 📦 Backup Interface for Volumes Attached to Containers
+- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.14.1](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.14.1), 1 day ago) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
+- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.1.0](https://github.com/jetstack/cert-manager/releases/tag/v1.1.0), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.3.0](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.3.0), 6 days ago) - 
 
 #### 📜 My recent blog posts
 
