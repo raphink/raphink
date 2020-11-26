@@ -25,7 +25,7 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.14.2](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.14.2), today) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
+- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.15.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.15.0), today) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.2.0), 1 day ago) - Prometheus community Helm charts
 - [camptocamp/bivac](https://github.com/camptocamp/bivac) ([2.4.0](https://github.com/camptocamp/bivac/releases/tag/2.4.0), 1 day ago) - 🏕 📦 Backup Interface for Volumes Attached to Containers
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.1.0](https://github.com/jetstack/cert-manager/releases/tag/v1.1.0), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
