@@ -9,11 +9,11 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/terraform-docker-k3s](https://github.com/camptocamp/terraform-docker-k3s) -  (today)
-- [camptocamp/terraform-libvirt-k3os](https://github.com/camptocamp/terraform-libvirt-k3os) -  (today)
-- [camptocamp/puppet-windows_securityoptions](https://github.com/camptocamp/puppet-windows_securityoptions) - Puppet module for Windows Local Security Policy types (2 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
-- [camptocamp/puppet-catalog-diff-viewer](https://github.com/camptocamp/puppet-catalog-diff-viewer) - A viewer for the puppet-catalog-diff tool (6 days ago)
+- [camptocamp/terraform-docker-k3s](https://github.com/camptocamp/terraform-docker-k3s) -  (1 day ago)
+- [camptocamp/terraform-libvirt-k3os](https://github.com/camptocamp/terraform-libvirt-k3os) -  (1 day ago)
+- [camptocamp/puppet-windows_securityoptions](https://github.com/camptocamp/puppet-windows_securityoptions) - Puppet module for Windows Local Security Policy types (3 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
+- [camptocamp/puppet-catalog-diff-viewer](https://github.com/camptocamp/puppet-catalog-diff-viewer) - A viewer for the puppet-catalog-diff tool (1 week ago)
 
 #### 🌱 My latest personal projects
 
@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-0.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-0.1.1), today) - Prometheus community Helm charts
-- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.15.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.15.0), today) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
-- [camptocamp/bivac](https://github.com/camptocamp/bivac) ([2.4.0](https://github.com/camptocamp/bivac/releases/tag/2.4.0), 1 day ago) - 🏕 📦 Backup Interface for Volumes Attached to Containers
-- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.1.0](https://github.com/jetstack/cert-manager/releases/tag/v1.1.0), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.3.0](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.3.0), 6 days ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-0.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-0.1.1), 1 day ago) - Prometheus community Helm charts
+- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.15.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.15.0), 1 day ago) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
+- [camptocamp/bivac](https://github.com/camptocamp/bivac) ([2.4.0](https://github.com/camptocamp/bivac/releases/tag/2.4.0), 2 days ago) - 🏕 📦 Backup Interface for Volumes Attached to Containers
+- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.1.0](https://github.com/jetstack/cert-manager/releases/tag/v1.1.0), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.3.0](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.3.0), 1 week ago) - 
 
 #### 📜 My recent blog posts
 
