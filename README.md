@@ -25,8 +25,8 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-consul-exporter-0.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-consul-exporter-0.4.0), today) - Prometheus community Helm charts
 - [camptocamp/bivac](https://github.com/camptocamp/bivac) ([2.4.1](https://github.com/camptocamp/bivac/releases/tag/2.4.1), 2 days ago) - 🏕 📦 Backup Interface for Volumes Attached to Containers
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-12.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-12.3.0), 2 days ago) - Prometheus community Helm charts
 - [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.15.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.15.0), 6 days ago) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.1.0](https://github.com/jetstack/cert-manager/releases/tag/v1.1.0), 1 week ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.3.0](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.3.0), 1 week ago) - 
