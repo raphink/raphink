@@ -9,19 +9,19 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
+- [raphink/katacoda-scenarios](https://github.com/raphink/katacoda-scenarios) - Katacoda Scenarios (today)
 - [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (today)
 - [camptocamp/puppet-rsyncd](https://github.com/camptocamp/puppet-rsyncd) - Manage rsyncd.conf using augeas (2 days ago)
 - [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (5 days ago)
-- [camptocamp/terraform-docker-k3s](https://github.com/camptocamp/terraform-docker-k3s) -  (6 days ago)
 - [camptocamp/terraform-libvirt-k3os](https://github.com/camptocamp/terraform-libvirt-k3os) -  (6 days ago)
 
 #### 🌱 My latest personal projects
 
+- [raphink/katacoda-scenarios](https://github.com/raphink/katacoda-scenarios) - Katacoda Scenarios
 - [raphink/countdown_video](https://github.com/raphink/countdown_video) - 🎥 Simple ffmpeg script to generate a countdown video from an image and a sound file
 - [raphink/genearoman](https://github.com/raphink/genearoman) - 📖 Long Tom, un roman généalogique
 - [raphink/pinsonnet](https://github.com/raphink/pinsonnet) - 🐦 A bird recognition AI learning project using fastai
 - [raphink/find-my-ancestor](https://github.com/raphink/find-my-ancestor) - 📷🎩 A project to recognize faces in old photographies using AWS Rekognition
-- [raphink/puppet-securityoptions](https://github.com/raphink/puppet-securityoptions) - 
 
 #### 🔭 Latest releases I've contributed to
 
