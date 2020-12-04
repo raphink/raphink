@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.16.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.16.0), today) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
 - [camptocamp/prometheus-puppetdb-exporter](https://github.com/camptocamp/prometheus-puppetdb-exporter) ([1.1.0](https://github.com/camptocamp/prometheus-puppetdb-exporter/releases/tag/1.1.0), 1 day ago) -  Prometheus Exporter for PuppetDB
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.0](https://github.com/hashicorp/terraform/releases/tag/v0.14.0), 2 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-12.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-12.4.0), 2 days ago) - Prometheus community Helm charts
 - [camptocamp/bivac](https://github.com/camptocamp/bivac) ([2.4.1](https://github.com/camptocamp/bivac/releases/tag/2.4.1), 4 days ago) - 🏕 📦 Backup Interface for Volumes Attached to Containers
-- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.15.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.15.0), 1 week ago) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
 
 #### 📜 My recent blog posts
 
