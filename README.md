@@ -9,10 +9,10 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [raphink/katacoda-scenarios](https://github.com/raphink/katacoda-scenarios) - Katacoda Scenarios (today)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (1 day ago)
-- [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (2 days ago)
-- [camptocamp/puppet-rsyncd](https://github.com/camptocamp/puppet-rsyncd) - Manage rsyncd.conf using augeas (4 days ago)
+- [raphink/katacoda-scenarios](https://github.com/raphink/katacoda-scenarios) - Katacoda Scenarios (1 day ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (2 days ago)
+- [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (3 days ago)
+- [camptocamp/puppet-rsyncd](https://github.com/camptocamp/puppet-rsyncd) - Manage rsyncd.conf using augeas (5 days ago)
 - [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (1 week ago)
 
 #### 🌱 My latest personal projects
@@ -25,16 +25,16 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.16.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.16.0), today) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
-- [camptocamp/prometheus-puppetdb-exporter](https://github.com/camptocamp/prometheus-puppetdb-exporter) ([1.1.0](https://github.com/camptocamp/prometheus-puppetdb-exporter/releases/tag/1.1.0), 1 day ago) -  Prometheus Exporter for PuppetDB
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.0](https://github.com/hashicorp/terraform/releases/tag/v0.14.0), 2 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-12.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-12.4.0), 2 days ago) - Prometheus community Helm charts
-- [camptocamp/bivac](https://github.com/camptocamp/bivac) ([2.4.1](https://github.com/camptocamp/bivac/releases/tag/2.4.1), 4 days ago) - 🏕 📦 Backup Interface for Volumes Attached to Containers
+- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.16.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.16.0), 1 day ago) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
+- [camptocamp/prometheus-puppetdb-exporter](https://github.com/camptocamp/prometheus-puppetdb-exporter) ([1.1.0](https://github.com/camptocamp/prometheus-puppetdb-exporter/releases/tag/1.1.0), 2 days ago) -  Prometheus Exporter for PuppetDB
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.0](https://github.com/hashicorp/terraform/releases/tag/v0.14.0), 3 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-12.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-12.4.0), 3 days ago) - Prometheus community Helm charts
+- [camptocamp/bivac](https://github.com/camptocamp/bivac) ([2.4.1](https://github.com/camptocamp/bivac/releases/tag/2.4.1), 5 days ago) - 🏕 📦 Backup Interface for Volumes Attached to Containers
 
 #### 📜 My recent blog posts
 
 - [A Simple Auth Proxy for EKS](https://dev.to/camptocamp-ops/a-simple-auth-proxy-for-eks-24dh) (3 weeks ago)
-- [Colored wrappers for kubectl](https://dev.to/raphink/colored-wrappers-for-kubectl-2pj1) (1 month ago)
+- [Colored wrappers for kubectl](https://dev.to/raphink/colored-wrappers-for-kubectl-2pj1) (2 months ago)
 - [Simple secret sharing with gopass and summon](https://dev.to/camptocamp-ops/simple-secret-sharing-with-gopass-and-summon-40jk) (4 months ago)
 - [Decomissioning with Puppet: report &amp; purge unmanaged resources](https://dev.to/camptocamp-ops/decomissioning-with-puppet-report-purge-unmanaged-resources-1jgk) (4 months ago)
 - [Templating Puppet Control Repositories](https://dev.to/camptocamp-ops/templating-puppet-control-repositories-3pk7) (4 months ago)
