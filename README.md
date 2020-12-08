@@ -25,8 +25,8 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-13.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-13.0.0), today) - Prometheus community Helm charts
 - [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.26.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.26.0), today) - A pure Ruby code highlighter that is compatible with Pygments
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.1.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.1](https://github.com/hashicorp/terraform/releases/tag/v0.14.1), today) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.16.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.16.0), 4 days ago) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
 - [camptocamp/prometheus-puppetdb-exporter](https://github.com/camptocamp/prometheus-puppetdb-exporter) ([1.1.0](https://github.com/camptocamp/prometheus-puppetdb-exporter/releases/tag/1.1.0), 5 days ago) -  Prometheus Exporter for PuppetDB
