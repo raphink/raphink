@@ -9,11 +9,11 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (today)
-- [camptocamp/puppet-bind](https://github.com/camptocamp/puppet-bind) - Installs and configures Bind9 domain name server (today)
-- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (2 days ago)
-- [raphink/katacoda-scenarios](https://github.com/raphink/katacoda-scenarios) - Katacoda Scenarios (2 days ago)
-- [raphink/panlettre](https://github.com/raphink/panlettre) - Generate French-speaking PDF letters using pandoc and lettre.cls (5 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (1 day ago)
+- [camptocamp/puppet-bind](https://github.com/camptocamp/puppet-bind) - Installs and configures Bind9 domain name server (1 day ago)
+- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (3 days ago)
+- [raphink/katacoda-scenarios](https://github.com/raphink/katacoda-scenarios) - Katacoda Scenarios (3 days ago)
+- [raphink/panlettre](https://github.com/raphink/panlettre) - Generate French-speaking PDF letters using pandoc and lettre.cls (6 days ago)
 
 #### 🌱 My latest personal projects
 
@@ -25,15 +25,15 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-4.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-4.0.1), today) - Prometheus community Helm charts
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.2](https://github.com/hashicorp/terraform/releases/tag/v0.14.2), 2 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.26.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.26.0), 2 days ago) - A pure Ruby code highlighter that is compatible with Pygments
-- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.16.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.16.0), 6 days ago) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-4.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-4.0.1), 1 day ago) - Prometheus community Helm charts
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.2](https://github.com/hashicorp/terraform/releases/tag/v0.14.2), 3 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.26.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.26.0), 3 days ago) - A pure Ruby code highlighter that is compatible with Pygments
+- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.16.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.16.0), 1 week ago) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
 - [camptocamp/prometheus-puppetdb-exporter](https://github.com/camptocamp/prometheus-puppetdb-exporter) ([1.1.0](https://github.com/camptocamp/prometheus-puppetdb-exporter/releases/tag/1.1.0), 1 week ago) -  Prometheus Exporter for PuppetDB
 
 #### 📜 My recent blog posts
 
-- [A Simple Auth Proxy for EKS](https://dev.to/camptocamp-ops/a-simple-auth-proxy-for-eks-24dh) (4 weeks ago)
+- [A Simple Auth Proxy for EKS](https://dev.to/camptocamp-ops/a-simple-auth-proxy-for-eks-24dh) (1 month ago)
 - [Colored wrappers for kubectl](https://dev.to/raphink/colored-wrappers-for-kubectl-2pj1) (2 months ago)
 - [Simple secret sharing with gopass and summon](https://dev.to/camptocamp-ops/simple-secret-sharing-with-gopass-and-summon-40jk) (4 months ago)
 - [Decomissioning with Puppet: report &amp; purge unmanaged resources](https://dev.to/camptocamp-ops/decomissioning-with-puppet-report-purge-unmanaged-resources-1jgk) (4 months ago)
