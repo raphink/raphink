@@ -9,10 +9,10 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
+- [camptocamp/puppet-rsyncd](https://github.com/camptocamp/puppet-rsyncd) - Manage rsyncd.conf using augeas (today)
 - [camptocamp/puppet-openssl](https://github.com/camptocamp/puppet-openssl) - Puppet OpenSSL module (today)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (6 days ago)
 - [camptocamp/puppet-bind](https://github.com/camptocamp/puppet-bind) - Installs and configures Bind9 domain name server (6 days ago)
-- [raphink/katacoda-scenarios](https://github.com/raphink/katacoda-scenarios) - Katacoda Scenarios (1 week ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (6 days ago)
 - [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (1 week ago)
 
 #### 🌱 My latest personal projects
@@ -53,9 +53,11 @@ I like to automate systems where there is a need.
 - [<img src="https://avatars1.githubusercontent.com/u/1110127?v=4" height="20"/> kennedye](https://github.com/kennedye) (6 months ago)
 
 
-#### 👨‍💻 Top languages
+#### 👨‍💻 General activity
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raphink&hide_title=true)
+GitHub + GitLab + StackOverflow
+
+[![Codersrank activity](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=raphink&labels=true)](https://profile.codersrank.io/user/raphink/)
 
 
 #### 💬 Feedback
