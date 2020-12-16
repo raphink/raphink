@@ -9,53 +9,56 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/puppet-openssl](https://github.com/camptocamp/puppet-openssl) - Puppet OpenSSL module (today)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (6 days ago)
-- [camptocamp/puppet-bind](https://github.com/camptocamp/puppet-bind) - Installs and configures Bind9 domain name server (6 days ago)
-- [raphink/katacoda-scenarios](https://github.com/raphink/katacoda-scenarios) - Katacoda Scenarios (1 week ago)
-- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (1 week ago)
+- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (today)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (today)
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (2 days ago)
+- [camptocamp/kube-muppet](https://github.com/camptocamp/kube-muppet) - A Kubernetes DaemonSet to feed node facts into the PuppetDB (1 week ago)
+- [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (1 week ago)
 
 #### 🌱 My latest personal projects
 
+- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871
 - [raphink/katacoda-scenarios](https://github.com/raphink/katacoda-scenarios) - Katacoda Scenarios
 - [raphink/countdown_video](https://github.com/raphink/countdown_video) - 🎥 Simple ffmpeg script to generate a countdown video from an image and a sound file
 - [raphink/genearoman](https://github.com/raphink/genearoman) - 📖 Long Tom, un roman généalogique
 - [raphink/pinsonnet](https://github.com/raphink/pinsonnet) - 🐦 A bird recognition AI learning project using fastai
-- [raphink/find-my-ancestor](https://github.com/raphink/find-my-ancestor) - 📷🎩 A project to recognize faces in old photographies using AWS Rekognition
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-2.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-2.10.1), 1 day ago) - Prometheus community Helm charts
-- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.18.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.18.0), 1 day ago) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.2](https://github.com/hashicorp/terraform/releases/tag/v0.14.2), 1 week ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.26.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.26.0), 1 week ago) - A pure Ruby code highlighter that is compatible with Pygments
-- [camptocamp/prometheus-puppetdb-exporter](https://github.com/camptocamp/prometheus-puppetdb-exporter) ([1.1.0](https://github.com/camptocamp/prometheus-puppetdb-exporter/releases/tag/1.1.0), 1 week ago) -  Prometheus Exporter for PuppetDB
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-14.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-14.10.0), today) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.25.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.25.0), 2 days ago) - ArgoProj Helm Charts
+- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v2.1.0](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v2.1.0), 2 weeks ago) - Terraform provider for ArgoCD 
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.1.3](https://github.com/argoproj/argo-cd/releases/tag/v2.1.3), 2 weeks ago) - Declarative continuous deployment for Kubernetes.
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.48.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.48.0), 3 weeks ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 
 #### 📜 My recent blog posts
 
-- [A Simple Auth Proxy for EKS](https://dev.to/camptocamp-ops/a-simple-auth-proxy-for-eks-24dh) (1 month ago)
-- [Colored wrappers for kubectl](https://dev.to/raphink/colored-wrappers-for-kubectl-2pj1) (2 months ago)
-- [Simple secret sharing with gopass and summon](https://dev.to/camptocamp-ops/simple-secret-sharing-with-gopass-and-summon-40jk) (4 months ago)
-- [Decomissioning with Puppet: report &amp; purge unmanaged resources](https://dev.to/camptocamp-ops/decomissioning-with-puppet-report-purge-unmanaged-resources-1jgk) (4 months ago)
-- [Templating Puppet Control Repositories](https://dev.to/camptocamp-ops/templating-puppet-control-repositories-3pk7) (4 months ago)
+- [How to allow dynamic Terraform Provider Configuration](https://dev.to/camptocamp-ops/how-to-allow-dynamic-terraform-provider-configuration-20ik) (5 months ago)
+- [March Cloud Native Romandie Meetup](https://dev.to/camptocamp-ops/march-cloud-native-romandie-meetup-o2f) (6 months ago)
+- [Immutability &amp; loose coupling: a match made in heaven](https://dev.to/camptocamp-ops/immutability-loose-coupling-a-match-made-in-heaven-37kl) (7 months ago)
+- [Open Source, Standards, and Technical Debt](https://dev.to/camptocamp-ops/open-source-standards-and-technical-debt-2g1) (8 months ago)
+- [A Simple Auth Proxy for EKS](https://dev.to/camptocamp-ops/a-simple-auth-proxy-for-eks-24dh) (11 months ago)
 
 #### 👥 Check out some of my recent followers
 
-- [<img src="https://avatars1.githubusercontent.com/u/821240?u=9f3126661bc94aa3d41d9c495c360355b0bb2880&amp;v=4" height="20"/> JDvorak](https://github.com/JDvorak)
-- [<img src="https://avatars0.githubusercontent.com/u/1753348?u=5a80a80a5066d3d7f8a1098b6f4599d8708d3e38&amp;v=4" height="20"/> MonsieurV](https://github.com/MonsieurV)
-- [<img src="https://avatars3.githubusercontent.com/u/59119729?v=4" height="20"/> a-meynard](https://github.com/a-meynard)
-- [<img src="https://avatars0.githubusercontent.com/u/825750?v=4" height="20"/> jonesbusy](https://github.com/jonesbusy)
-- [<img src="https://avatars0.githubusercontent.com/u/8693463?u=980db600745644d50fbbbc055cbc0ddd82771430&amp;v=4" height="20"/> saxbophone](https://github.com/saxbophone)
+- [<img src="https://avatars.githubusercontent.com/u/90005223?u=cb723b8232185c53c5ea356b923b11edad5aec85&amp;v=4" height="20"/> vmthread](https://github.com/vmthread)
+- [<img src="https://avatars.githubusercontent.com/u/52964724?u=e9ea19fc6aebfd58a4bcfac339fd3d8b326da3b1&amp;v=4" height="20"/> umegbewe](https://github.com/umegbewe)
+- [<img src="https://avatars.githubusercontent.com/u/48373490?u=2fae9956bc1f8f3651e0859364a1a08b877f3066&amp;v=4" height="20"/> segunemmanuel](https://github.com/segunemmanuel)
+- [<img src="https://avatars.githubusercontent.com/u/42875763?u=2b8e625a8a6ce67f89b7dfe18ac225e956c7c966&amp;v=4" height="20"/> tuanpham96](https://github.com/tuanpham96)
+- [<img src="https://avatars.githubusercontent.com/u/29024886?u=694212590b355f28a3b7c9d09bae3a4f832c9a16&amp;v=4" height="20"/> daliborkoenig](https://github.com/daliborkoenig)
 
 
 #### 💚 My awesome sponsors (thank you!)
 
-- [<img src="https://avatars1.githubusercontent.com/u/1110127?v=4" height="20"/> kennedye](https://github.com/kennedye) (6 months ago)
+- [<img src="https://avatars.githubusercontent.com/u/3693851?v=4" height="20"/> nmaludy](https://github.com/nmaludy) (2 months ago)
+- [<img src="https://avatars.githubusercontent.com/u/1110127?v=4" height="20"/> kennedye](https://github.com/kennedye) (1 year ago)
 
 
-#### 👨‍💻 Top languages
+#### 👨‍💻 General activity
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raphink&hide_title=true)
+GitHub + GitLab + StackOverflow
+
+[![Codersrank activity](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=raphink&labels=true)](https://profile.codersrank.io/user/raphink/)
 
 
 #### 💬 Feedback
