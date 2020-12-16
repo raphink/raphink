@@ -39,9 +39,11 @@ I like to automate systems where there is a need.
 {{- end}}
 
 
-#### 👨‍💻 Top languages
+#### 👨‍💻 General activity
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raphink&hide_title=true)
+GitHub + GitLab + StackOverflow
+
+[![Codersrank activity](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=raphink&labels=true)](https://profile.codersrank.io/user/raphink/)
 
 
 #### 💬 Feedback
