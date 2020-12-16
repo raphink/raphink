@@ -9,11 +9,11 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
+- [camptocamp/puppet-openssl](https://github.com/camptocamp/puppet-openssl) - Puppet OpenSSL module (today)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (6 days ago)
 - [camptocamp/puppet-bind](https://github.com/camptocamp/puppet-bind) - Installs and configures Bind9 domain name server (6 days ago)
-- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (1 week ago)
 - [raphink/katacoda-scenarios](https://github.com/raphink/katacoda-scenarios) - Katacoda Scenarios (1 week ago)
-- [raphink/panlettre](https://github.com/raphink/panlettre) - Generate French-speaking PDF letters using pandoc and lettre.cls (1 week ago)
+- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (1 week ago)
 
 #### 🌱 My latest personal projects
 
