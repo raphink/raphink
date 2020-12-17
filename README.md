@@ -9,11 +9,11 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
+- [raphink/genearoman](https://github.com/raphink/genearoman) - 📖 Long Tom, un roman généalogique (today)
 - [camptocamp/puppet-rsyncd](https://github.com/camptocamp/puppet-rsyncd) - Manage rsyncd.conf using augeas (1 day ago)
 - [camptocamp/puppet-openssl](https://github.com/camptocamp/puppet-openssl) - Puppet OpenSSL module (1 day ago)
-- [camptocamp/puppet-bind](https://github.com/camptocamp/puppet-bind) - Installs and configures Bind9 domain name server (1 week ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (1 week ago)
-- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (1 week ago)
+- [camptocamp/puppet-bind](https://github.com/camptocamp/puppet-bind) - Installs and configures Bind9 domain name server (1 week ago)
 
 #### 🌱 My latest personal projects
 
