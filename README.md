@@ -9,10 +9,10 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (today)
 - [raphink/genearoman](https://github.com/raphink/genearoman) - 📖 Long Tom, un roman généalogique (3 days ago)
 - [camptocamp/puppet-rsyncd](https://github.com/camptocamp/puppet-rsyncd) - Manage rsyncd.conf using augeas (4 days ago)
 - [camptocamp/puppet-openssl](https://github.com/camptocamp/puppet-openssl) - Puppet OpenSSL module (4 days ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (1 week ago)
 - [camptocamp/puppet-bind](https://github.com/camptocamp/puppet-bind) - Installs and configures Bind9 domain name server (1 week ago)
 
 #### 🌱 My latest personal projects
