@@ -25,8 +25,8 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-12.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-12.8.1), today) - Prometheus community Helm charts
 - [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.4.0](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.4.0), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-1.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-1.6.0), today) - Prometheus community Helm charts
 - [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.20.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.20.0), today) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.2.0-alpha.0](https://github.com/jetstack/cert-manager/releases/tag/v1.2.0-alpha.0), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.3](https://github.com/hashicorp/terraform/releases/tag/v0.14.3), 5 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
