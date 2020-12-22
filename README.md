@@ -9,10 +9,10 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (1 day ago)
-- [raphink/genearoman](https://github.com/raphink/genearoman) - 📖 Long Tom, un roman généalogique (4 days ago)
-- [camptocamp/puppet-openssl](https://github.com/camptocamp/puppet-openssl) - Puppet OpenSSL module (5 days ago)
-- [camptocamp/puppet-rsyncd](https://github.com/camptocamp/puppet-rsyncd) - Manage rsyncd.conf using augeas (5 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (2 days ago)
+- [raphink/genearoman](https://github.com/raphink/genearoman) - 📖 Long Tom, un roman généalogique (5 days ago)
+- [camptocamp/puppet-openssl](https://github.com/camptocamp/puppet-openssl) - Puppet OpenSSL module (6 days ago)
+- [camptocamp/puppet-rsyncd](https://github.com/camptocamp/puppet-rsyncd) - Manage rsyncd.conf using augeas (6 days ago)
 - [camptocamp/puppet-bind](https://github.com/camptocamp/puppet-bind) - Installs and configures Bind9 domain name server (1 week ago)
 
 #### 🌱 My latest personal projects
@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-13.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-13.0.1), today) - Prometheus community Helm charts
-- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.2.0-alpha.0](https://github.com/jetstack/cert-manager/releases/tag/v1.2.0-alpha.0), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.3](https://github.com/hashicorp/terraform/releases/tag/v0.14.3), 4 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.19.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.19.0), 4 days ago) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
-- [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.26.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.26.0), 1 week ago) - A pure Ruby code highlighter that is compatible with Pygments
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-13.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-13.0.1), 1 day ago) - Prometheus community Helm charts
+- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.2.0-alpha.0](https://github.com/jetstack/cert-manager/releases/tag/v1.2.0-alpha.0), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.3](https://github.com/hashicorp/terraform/releases/tag/v0.14.3), 5 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.19.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.19.0), 5 days ago) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
+- [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) ([v3.26.0](https://github.com/rouge-ruby/rouge/releases/tag/v3.26.0), 2 weeks ago) - A pure Ruby code highlighter that is compatible with Pygments
 
 #### 📜 My recent blog posts
 
