@@ -12,8 +12,8 @@ I like to automate systems where there is a need.
 - [raphink/lettres_1870](https://github.com/raphink/lettres_1870) -  (today)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (3 days ago)
 - [raphink/genearoman](https://github.com/raphink/genearoman) - 📖 Long Tom, un roman généalogique (1 week ago)
-- [camptocamp/puppet-rsyncd](https://github.com/camptocamp/puppet-rsyncd) - Manage rsyncd.conf using augeas (2 weeks ago)
 - [camptocamp/puppet-openssl](https://github.com/camptocamp/puppet-openssl) - Puppet OpenSSL module (2 weeks ago)
+- [camptocamp/puppet-rsyncd](https://github.com/camptocamp/puppet-rsyncd) - Manage rsyncd.conf using augeas (2 weeks ago)
 
 #### 🌱 My latest personal projects
 
