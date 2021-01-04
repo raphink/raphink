@@ -9,7 +9,7 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) -  (1 day ago)
+- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) -  (today)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (1 week ago)
 - [raphink/genearoman](https://github.com/raphink/genearoman) - 📖 Long Tom, un roman généalogique (2 weeks ago)
 - [camptocamp/puppet-openssl](https://github.com/camptocamp/puppet-openssl) - Puppet OpenSSL module (2 weeks ago)
@@ -25,7 +25,7 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-12.10.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-12.10.3), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-12.10.4](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-12.10.4), today) - Prometheus community Helm charts
 - [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.4.0](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.4.0), 1 week ago) - 
 - [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.20.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.20.0), 1 week ago) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.2.0-alpha.0](https://github.com/jetstack/cert-manager/releases/tag/v1.2.0-alpha.0), 2 weeks ago) - Automatically provision and manage TLS certificates in Kubernetes
