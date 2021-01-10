@@ -9,8 +9,8 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (today)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (1 week ago)
+- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (1 day ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (2 weeks ago)
 - [raphink/genearoman](https://github.com/raphink/genearoman) - 📖 Long Tom, un roman généalogique (3 weeks ago)
 - [camptocamp/puppet-rsyncd](https://github.com/camptocamp/puppet-rsyncd) - Manage rsyncd.conf using augeas (3 weeks ago)
 - [camptocamp/puppet-openssl](https://github.com/camptocamp/puppet-openssl) - Puppet OpenSSL module (3 weeks ago)
@@ -25,15 +25,15 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.2.0), today) - Prometheus community Helm charts
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-alpha20210107](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-alpha20210107), 2 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.2.0), 1 day ago) - Prometheus community Helm charts
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-alpha20210107](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-alpha20210107), 3 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.4.0](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.4.0), 2 weeks ago) - 
 - [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.20.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.20.0), 2 weeks ago) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.2.0-alpha.0](https://github.com/jetstack/cert-manager/releases/tag/v1.2.0-alpha.0), 3 weeks ago) - Automatically provision and manage TLS certificates in Kubernetes
 
 #### 📜 My recent blog posts
 
-- [A Simple Auth Proxy for EKS](https://dev.to/camptocamp-ops/a-simple-auth-proxy-for-eks-24dh) (1 month ago)
+- [A Simple Auth Proxy for EKS](https://dev.to/camptocamp-ops/a-simple-auth-proxy-for-eks-24dh) (2 months ago)
 - [Colored wrappers for kubectl](https://dev.to/raphink/colored-wrappers-for-kubectl-2pj1) (3 months ago)
 - [Simple secret sharing with gopass and summon](https://dev.to/camptocamp-ops/simple-secret-sharing-with-gopass-and-summon-40jk) (5 months ago)
 - [Decomissioning with Puppet: report &amp; purge unmanaged resources](https://dev.to/camptocamp-ops/decomissioning-with-puppet-report-purge-unmanaged-resources-1jgk) (5 months ago)
