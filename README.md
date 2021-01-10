@@ -25,7 +25,7 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-12.11.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-12.11.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-12.11.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-12.11.3), today) - Prometheus community Helm charts
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-alpha20210107](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-alpha20210107), 3 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.4.0](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.4.0), 2 weeks ago) - 
 - [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.20.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.20.0), 2 weeks ago) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
