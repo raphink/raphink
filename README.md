@@ -10,10 +10,10 @@ I like to automate systems where there is a need.
 #### 👷 Check out what I'm currently working on
 
 - [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (today)
+- [camptocamp/terraform-provider-pass](https://github.com/camptocamp/terraform-provider-pass) - Pass Terraform provider (today)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (1 day ago)
 - [hercules-team/augeas-website](https://github.com/hercules-team/augeas-website) - Augeas website (1 day ago)
 - [raphink/genearoman](https://github.com/raphink/genearoman) - 📖 Long Tom, un roman généalogique (3 weeks ago)
-- [camptocamp/puppet-openssl](https://github.com/camptocamp/puppet-openssl) - Puppet OpenSSL module (3 weeks ago)
 
 #### 🌱 My latest personal projects
 
