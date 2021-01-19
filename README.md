@@ -9,11 +9,11 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (today)
-- [camptocamp/puppet-networkmanager](https://github.com/camptocamp/puppet-networkmanager) - Parameter NetworkManager connections (today)
-- [camptocamp/puppet-systemd](https://github.com/camptocamp/puppet-systemd) - Puppet module to manage systemd (today)
-- [camptocamp/puppet-augeas](https://github.com/camptocamp/puppet-augeas) - Helper for using augeas with puppet (today)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (4 days ago)
+- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (1 day ago)
+- [camptocamp/puppet-networkmanager](https://github.com/camptocamp/puppet-networkmanager) - Parameter NetworkManager connections (1 day ago)
+- [camptocamp/puppet-systemd](https://github.com/camptocamp/puppet-systemd) - Puppet module to manage systemd (1 day ago)
+- [camptocamp/puppet-augeas](https://github.com/camptocamp/puppet-augeas) - Helper for using augeas with puppet (1 day ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (5 days ago)
 
 #### 🌱 My latest personal projects
 
@@ -25,18 +25,18 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-13.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-13.0.0), today) - Prometheus community Helm charts
-- [camptocamp/terraform-provider-pass](https://github.com/camptocamp/terraform-provider-pass) ([v2.0.0](https://github.com/camptocamp/terraform-provider-pass/releases/tag/v2.0.0), 4 days ago) - Pass Terraform provider
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.11.0](https://github.com/gopasspw/gopass/releases/tag/v1.11.0), 6 days ago) - The slightly more awesome standard unix password manager for teams
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-13.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-13.0.0), 1 day ago) - Prometheus community Helm charts
+- [camptocamp/terraform-provider-pass](https://github.com/camptocamp/terraform-provider-pass) ([v2.0.0](https://github.com/camptocamp/terraform-provider-pass/releases/tag/v2.0.0), 5 days ago) - Pass Terraform provider
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.11.0](https://github.com/gopasspw/gopass/releases/tag/v1.11.0), 1 week ago) - The slightly more awesome standard unix password manager for teams
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-alpha20210107](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-alpha20210107), 1 week ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.4.0](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.4.0), 3 weeks ago) - 
+- [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.4.0](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.4.0), 4 weeks ago) - 
 
 #### 📜 My recent blog posts
 
 - [A Simple Auth Proxy for EKS](https://dev.to/camptocamp-ops/a-simple-auth-proxy-for-eks-24dh) (2 months ago)
 - [Colored wrappers for kubectl](https://dev.to/raphink/colored-wrappers-for-kubectl-2pj1) (3 months ago)
 - [Simple secret sharing with gopass and summon](https://dev.to/camptocamp-ops/simple-secret-sharing-with-gopass-and-summon-40jk) (5 months ago)
-- [Decomissioning with Puppet: report &amp; purge unmanaged resources](https://dev.to/camptocamp-ops/decomissioning-with-puppet-report-purge-unmanaged-resources-1jgk) (5 months ago)
+- [Decomissioning with Puppet: report &amp; purge unmanaged resources](https://dev.to/camptocamp-ops/decomissioning-with-puppet-report-purge-unmanaged-resources-1jgk) (6 months ago)
 - [Templating Puppet Control Repositories](https://dev.to/camptocamp-ops/templating-puppet-control-repositories-3pk7) (6 months ago)
 
 #### 👥 Check out some of my recent followers
