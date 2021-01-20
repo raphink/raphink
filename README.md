@@ -9,11 +9,11 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
+- [camptocamp/puppet-postfix](https://github.com/camptocamp/puppet-postfix) - Puppet postfix module (today)
 - [camptocamp/puppet-systemd](https://github.com/camptocamp/puppet-systemd) - Puppet module to manage systemd (1 day ago)
 - [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (2 days ago)
 - [camptocamp/puppet-networkmanager](https://github.com/camptocamp/puppet-networkmanager) - Parameter NetworkManager connections (2 days ago)
 - [camptocamp/puppet-augeas](https://github.com/camptocamp/puppet-augeas) - Helper for using augeas with puppet (2 days ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (6 days ago)
 
 #### 🌱 My latest personal projects
 
