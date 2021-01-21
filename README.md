@@ -50,7 +50,7 @@ I like to automate systems where there is a need.
 
 #### 💚 My awesome sponsors (thank you!)
 
-- [<img src="https://avatars1.githubusercontent.com/u/1110127?v=4" height="20"/> kennedye](https://github.com/kennedye) (7 months ago)
+- [<img src="https://avatars.githubusercontent.com/u/1110127?v=4" height="20"/> kennedye](https://github.com/kennedye) (7 months ago)
 
 
 #### 👨‍💻 General activity
