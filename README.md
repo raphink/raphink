@@ -9,10 +9,10 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
+- [hercules-team/augeasproviders_sysctl](https://github.com/hercules-team/augeasproviders_sysctl) - Augeas-based sysctl type and provider for Puppet (today)
 - [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (1 day ago)
 - [camptocamp/puppet-postfix](https://github.com/camptocamp/puppet-postfix) - Puppet postfix module (1 day ago)
 - [camptocamp/puppet-systemd](https://github.com/camptocamp/puppet-systemd) - Puppet module to manage systemd (2 days ago)
-- [camptocamp/puppet-networkmanager](https://github.com/camptocamp/puppet-networkmanager) - Parameter NetworkManager connections (3 days ago)
 - [camptocamp/puppet-augeas](https://github.com/camptocamp/puppet-augeas) - Helper for using augeas with puppet (3 days ago)
 
 #### 🌱 My latest personal projects
@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [hercules-team/augeasproviders_sysctl](https://github.com/hercules-team/augeasproviders_sysctl) ([2.6.0](https://github.com/hercules-team/augeasproviders_sysctl/releases/tag/2.6.0), today) - Augeas-based sysctl type and provider for Puppet
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-13.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-13.1.1), 1 day ago) - Prometheus community Helm charts
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.5](https://github.com/hashicorp/terraform/releases/tag/v0.14.5), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [camptocamp/terraform-provider-pass](https://github.com/camptocamp/terraform-provider-pass) ([v2.0.0](https://github.com/camptocamp/terraform-provider-pass/releases/tag/v2.0.0), 1 week ago) - Pass Terraform provider
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.11.0](https://github.com/gopasspw/gopass/releases/tag/v1.11.0), 1 week ago) - The slightly more awesome standard unix password manager for teams
-- [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.4.0](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.4.0), 1 month ago) - 
 
 #### 📜 My recent blog posts
 
