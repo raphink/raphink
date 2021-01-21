@@ -41,11 +41,11 @@ I like to automate systems where there is a need.
 
 #### 👥 Check out some of my recent followers
 
-- [<img src="https://avatars3.githubusercontent.com/u/19993872?v=4" height="20"/> oleksandriegorov](https://github.com/oleksandriegorov)
-- [<img src="https://avatars3.githubusercontent.com/u/76446415?v=4" height="20"/> anuchami](https://github.com/anuchami)
-- [<img src="https://avatars1.githubusercontent.com/u/821240?u=9f3126661bc94aa3d41d9c495c360355b0bb2880&amp;v=4" height="20"/> JDvorak](https://github.com/JDvorak)
-- [<img src="https://avatars0.githubusercontent.com/u/1753348?u=5a80a80a5066d3d7f8a1098b6f4599d8708d3e38&amp;v=4" height="20"/> MonsieurV](https://github.com/MonsieurV)
-- [<img src="https://avatars3.githubusercontent.com/u/59119729?v=4" height="20"/> a-meynard](https://github.com/a-meynard)
+- [<img src="https://avatars.githubusercontent.com/u/19993872?v=4" height="20"/> oleksandriegorov](https://github.com/oleksandriegorov)
+- [<img src="https://avatars.githubusercontent.com/u/76446415?v=4" height="20"/> anuchami](https://github.com/anuchami)
+- [<img src="https://avatars.githubusercontent.com/u/821240?u=9f3126661bc94aa3d41d9c495c360355b0bb2880&amp;v=4" height="20"/> JDvorak](https://github.com/JDvorak)
+- [<img src="https://avatars.githubusercontent.com/u/1753348?u=5a80a80a5066d3d7f8a1098b6f4599d8708d3e38&amp;v=4" height="20"/> MonsieurV](https://github.com/MonsieurV)
+- [<img src="https://avatars.githubusercontent.com/u/59119729?v=4" height="20"/> a-meynard](https://github.com/a-meynard)
 
 
 #### 💚 My awesome sponsors (thank you!)
