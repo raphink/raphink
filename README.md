@@ -10,7 +10,7 @@ I like to automate systems where there is a need.
 #### 👷 Check out what I'm currently working on
 
 - [camptocamp/docker-puppetboard](https://github.com/camptocamp/docker-puppetboard) - Puppetboard Docker image (today)
-- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (1 day ago)
+- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (today)
 - [hercules-team/augeasproviders_sysctl](https://github.com/hercules-team/augeasproviders_sysctl) - Augeas-based sysctl type and provider for Puppet (4 days ago)
 - [camptocamp/puppet-postfix](https://github.com/camptocamp/puppet-postfix) - Puppet postfix module (5 days ago)
 - [camptocamp/puppet-systemd](https://github.com/camptocamp/puppet-systemd) - Puppet module to manage systemd (6 days ago)
@@ -41,7 +41,7 @@ I like to automate systems where there is a need.
 
 #### 👥 Check out some of my recent followers
 
-- [<img src="https://avatars.githubusercontent.com/u/44785096?u=a56d4a902e49b6f81630f7851c15bbb1de1ce9b1&amp;v=4" height="20"/> irevenko](https://github.com/irevenko)
+- [<img src="https://avatars.githubusercontent.com/u/44785096?u=a856182a507bd2a2a603d447c599bc0c152be9c7&amp;v=4" height="20"/> irevenko](https://github.com/irevenko)
 - [<img src="https://avatars.githubusercontent.com/u/19993872?v=4" height="20"/> oleksandriegorov](https://github.com/oleksandriegorov)
 - [<img src="https://avatars.githubusercontent.com/u/76446415?v=4" height="20"/> anuchami](https://github.com/anuchami)
 - [<img src="https://avatars.githubusercontent.com/u/821240?u=9f3126661bc94aa3d41d9c495c360355b0bb2880&amp;v=4" height="20"/> JDvorak](https://github.com/JDvorak)
