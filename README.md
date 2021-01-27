@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.21.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.21.0), today) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-1.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-1.9.0), 1 day ago) - Prometheus community Helm charts
 - [hercules-team/augeasproviders_sysctl](https://github.com/hercules-team/augeasproviders_sysctl) ([2.6.0](https://github.com/hercules-team/augeasproviders_sysctl/releases/tag/2.6.0), 6 days ago) - Augeas-based sysctl type and provider for Puppet
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.5](https://github.com/hashicorp/terraform/releases/tag/v0.14.5), 1 week ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [camptocamp/terraform-provider-pass](https://github.com/camptocamp/terraform-provider-pass) ([v2.0.0](https://github.com/camptocamp/terraform-provider-pass/releases/tag/v2.0.0), 1 week ago) - Pass Terraform provider
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.11.0](https://github.com/gopasspw/gopass/releases/tag/v1.11.0), 2 weeks ago) - The slightly more awesome standard unix password manager for teams
 
 #### 📜 My recent blog posts
 
