@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-alpha20210127](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-alpha20210127), today) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.2.0-alpha.1](https://github.com/jetstack/cert-manager/releases/tag/v1.2.0-alpha.1), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-13.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-13.3.0), today) - Prometheus community Helm charts
 - [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.21.1](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.21.1), today) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
 - [hercules-team/augeasproviders_sysctl](https://github.com/hercules-team/augeasproviders_sysctl) ([2.6.0](https://github.com/hercules-team/augeasproviders_sysctl/releases/tag/2.6.0), 6 days ago) - Augeas-based sysctl type and provider for Puppet
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.5](https://github.com/hashicorp/terraform/releases/tag/v0.14.5), 1 week ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 
 #### 📜 My recent blog posts
 
@@ -41,7 +41,7 @@ I like to automate systems where there is a need.
 
 #### 👥 Check out some of my recent followers
 
-- [<img src="https://avatars.githubusercontent.com/u/44785096?u=d75667a827a8349052ac10093de30c0d2f0d5293&amp;v=4" height="20"/> irevenko](https://github.com/irevenko)
+- [<img src="https://avatars.githubusercontent.com/u/44785096?u=1c8b84646906c051188716e6ea06040c3d5f45de&amp;v=4" height="20"/> irevenko](https://github.com/irevenko)
 - [<img src="https://avatars.githubusercontent.com/u/19993872?v=4" height="20"/> oleksandriegorov](https://github.com/oleksandriegorov)
 - [<img src="https://avatars.githubusercontent.com/u/76446415?v=4" height="20"/> anuchami](https://github.com/anuchami)
 - [<img src="https://avatars.githubusercontent.com/u/821240?u=9f3126661bc94aa3d41d9c495c360355b0bb2880&amp;v=4" height="20"/> JDvorak](https://github.com/JDvorak)
