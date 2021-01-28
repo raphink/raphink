@@ -9,9 +9,9 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (today)
-- [camptocamp/docker-puppetboard](https://github.com/camptocamp/docker-puppetboard) - Puppetboard Docker image (2 days ago)
-- [hercules-team/augeasproviders_sysctl](https://github.com/hercules-team/augeasproviders_sysctl) - Augeas-based sysctl type and provider for Puppet (6 days ago)
+- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (1 day ago)
+- [camptocamp/docker-puppetboard](https://github.com/camptocamp/docker-puppetboard) - Puppetboard Docker image (3 days ago)
+- [hercules-team/augeasproviders_sysctl](https://github.com/hercules-team/augeasproviders_sysctl) - Augeas-based sysctl type and provider for Puppet (1 week ago)
 - [camptocamp/puppet-postfix](https://github.com/camptocamp/puppet-postfix) - Puppet postfix module (1 week ago)
 - [camptocamp/puppet-systemd](https://github.com/camptocamp/puppet-systemd) - Puppet module to manage systemd (1 week ago)
 
@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-alpha20210127](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-alpha20210127), today) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.2.0-alpha.1](https://github.com/jetstack/cert-manager/releases/tag/v1.2.0-alpha.1), today) - Automatically provision and manage TLS certificates in Kubernetes
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-13.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-13.3.0), today) - Prometheus community Helm charts
-- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.21.1](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.21.1), today) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
-- [hercules-team/augeasproviders_sysctl](https://github.com/hercules-team/augeasproviders_sysctl) ([2.6.0](https://github.com/hercules-team/augeasproviders_sysctl/releases/tag/2.6.0), 6 days ago) - Augeas-based sysctl type and provider for Puppet
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-alpha20210127](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-alpha20210127), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.2.0-alpha.1](https://github.com/jetstack/cert-manager/releases/tag/v1.2.0-alpha.1), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-13.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-13.3.0), 1 day ago) - Prometheus community Helm charts
+- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.21.1](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.21.1), 1 day ago) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
+- [hercules-team/augeasproviders_sysctl](https://github.com/hercules-team/augeasproviders_sysctl) ([2.6.0](https://github.com/hercules-team/augeasproviders_sysctl/releases/tag/2.6.0), 1 week ago) - Augeas-based sysctl type and provider for Puppet
 
 #### 📜 My recent blog posts
 
