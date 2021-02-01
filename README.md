@@ -25,7 +25,7 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-13.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-13.4.1), 3 days ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-1.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-1.14.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-alpha20210127](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-alpha20210127), 5 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.2.0-alpha.1](https://github.com/jetstack/cert-manager/releases/tag/v1.2.0-alpha.1), 5 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.21.1](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.21.1), 5 days ago) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
