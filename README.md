@@ -9,19 +9,19 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (today)
-- [raphink/gid-test](https://github.com/raphink/gid-test) -  (today)
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (today)
+- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (today)
 - [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (3 days ago)
 - [camptocamp/docker-puppetboard](https://github.com/camptocamp/docker-puppetboard) - Puppetboard Docker image (1 week ago)
+- [hercules-team/augeasproviders_sysctl](https://github.com/hercules-team/augeasproviders_sysctl) - Augeas-based sysctl type and provider for Puppet (1 week ago)
 
 #### 🌱 My latest personal projects
 
-- [raphink/gid-test](https://github.com/raphink/gid-test) - 
 - [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871
 - [raphink/katacoda-scenarios](https://github.com/raphink/katacoda-scenarios) - Katacoda Scenarios
 - [raphink/countdown_video](https://github.com/raphink/countdown_video) - 🎥 Simple ffmpeg script to generate a countdown video from an image and a sound file
 - [raphink/genearoman](https://github.com/raphink/genearoman) - 📖 Long Tom, un roman généalogique
+- [raphink/pinsonnet](https://github.com/raphink/pinsonnet) - 🐦 A bird recognition AI learning project using fastai
 
 #### 🔭 Latest releases I've contributed to
 
