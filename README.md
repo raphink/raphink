@@ -17,11 +17,11 @@ I like to automate systems where there is a need.
 
 #### 🌱 My latest personal projects
 
+- [raphink/gid-test](https://github.com/raphink/gid-test) - 
 - [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871
 - [raphink/katacoda-scenarios](https://github.com/raphink/katacoda-scenarios) - Katacoda Scenarios
 - [raphink/countdown_video](https://github.com/raphink/countdown_video) - 🎥 Simple ffmpeg script to generate a countdown video from an image and a sound file
 - [raphink/genearoman](https://github.com/raphink/genearoman) - 📖 Long Tom, un roman généalogique
-- [raphink/pinsonnet](https://github.com/raphink/pinsonnet) - 🐦 A bird recognition AI learning project using fastai
 
 #### 🔭 Latest releases I've contributed to
 
