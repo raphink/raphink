@@ -25,10 +25,10 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-13.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-13.5.0), today) - Prometheus community Helm charts
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.6](https://github.com/hashicorp/terraform/releases/tag/v0.14.6), today) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.5.0](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.5.0), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-1.14.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-1.14.2), 1 day ago) - Prometheus community Helm charts
 - [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.23.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.23.0), 1 day ago) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-alpha20210127](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-alpha20210127), 1 week ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.2.0-alpha.1](https://github.com/jetstack/cert-manager/releases/tag/v1.2.0-alpha.1), 1 week ago) - Automatically provision and manage TLS certificates in Kubernetes
 
 #### 📜 My recent blog posts
