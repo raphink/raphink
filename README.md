@@ -10,10 +10,10 @@ I like to automate systems where there is a need.
 #### 👷 Check out what I'm currently working on
 
 - [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (today)
-- [camptocamp/puppet-postfix](https://github.com/camptocamp/puppet-postfix) - Puppet postfix module (today)
-- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (2 days ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (2 days ago)
-- [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (5 days ago)
+- [camptocamp/puppet-postfix](https://github.com/camptocamp/puppet-postfix) - Puppet postfix module (1 day ago)
+- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (3 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (3 days ago)
+- [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (6 days ago)
 
 #### 🌱 My latest personal projects
 
@@ -25,15 +25,15 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-1.14.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-1.14.2), today) - Prometheus community Helm charts
-- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.23.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.23.0), today) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-1.14.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-1.14.2), 1 day ago) - Prometheus community Helm charts
+- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.23.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.23.0), 1 day ago) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-alpha20210127](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-alpha20210127), 1 week ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.2.0-alpha.1](https://github.com/jetstack/cert-manager/releases/tag/v1.2.0-alpha.1), 1 week ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [hercules-team/augeasproviders_sysctl](https://github.com/hercules-team/augeasproviders_sysctl) ([2.6.0](https://github.com/hercules-team/augeasproviders_sysctl/releases/tag/2.6.0), 1 week ago) - Augeas-based sysctl type and provider for Puppet
+- [hercules-team/augeasproviders_sysctl](https://github.com/hercules-team/augeasproviders_sysctl) ([2.6.0](https://github.com/hercules-team/augeasproviders_sysctl/releases/tag/2.6.0), 2 weeks ago) - Augeas-based sysctl type and provider for Puppet
 
 #### 📜 My recent blog posts
 
-- [Open Source, Standards, and Technical Debt](https://dev.to/camptocamp-ops/open-source-standards-and-technical-debt-2g1) (today)
+- [Open Source, Standards, and Technical Debt](https://dev.to/camptocamp-ops/open-source-standards-and-technical-debt-2g1) (1 day ago)
 - [A Simple Auth Proxy for EKS](https://dev.to/camptocamp-ops/a-simple-auth-proxy-for-eks-24dh) (2 months ago)
 - [Colored wrappers for kubectl](https://dev.to/raphink/colored-wrappers-for-kubectl-2pj1) (4 months ago)
 - [Simple secret sharing with gopass and summon](https://dev.to/camptocamp-ops/simple-secret-sharing-with-gopass-and-summon-40jk) (6 months ago)
