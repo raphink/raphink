@@ -9,9 +9,9 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (today)
-- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (2 days ago)
-- [camptocamp/puppet-postfix](https://github.com/camptocamp/puppet-postfix) - Puppet postfix module (5 days ago)
+- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (1 day ago)
+- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (3 days ago)
+- [camptocamp/puppet-postfix](https://github.com/camptocamp/puppet-postfix) - Puppet postfix module (6 days ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (1 week ago)
 - [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (1 week ago)
 
@@ -25,16 +25,16 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.0-rc2](https://github.com/gopasspw/gopass/releases/tag/v1.12.0-rc2), today) - The slightly more awesome standard unix password manager for teams
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-13.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-13.5.1), today) - Prometheus community Helm charts
-- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.2.0-alpha.2](https://github.com/jetstack/cert-manager/releases/tag/v1.2.0-alpha.2), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.6](https://github.com/hashicorp/terraform/releases/tag/v0.14.6), 4 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.5.0](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.5.0), 4 days ago) - 
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.0-rc2](https://github.com/gopasspw/gopass/releases/tag/v1.12.0-rc2), 1 day ago) - The slightly more awesome standard unix password manager for teams
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-13.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-13.5.1), 1 day ago) - Prometheus community Helm charts
+- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.2.0-alpha.2](https://github.com/jetstack/cert-manager/releases/tag/v1.2.0-alpha.2), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.6](https://github.com/hashicorp/terraform/releases/tag/v0.14.6), 5 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.5.0](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.5.0), 5 days ago) - 
 
 #### 📜 My recent blog posts
 
-- [Open Source, Standards, and Technical Debt](https://dev.to/camptocamp-ops/open-source-standards-and-technical-debt-2g1) (5 days ago)
-- [A Simple Auth Proxy for EKS](https://dev.to/camptocamp-ops/a-simple-auth-proxy-for-eks-24dh) (2 months ago)
+- [Open Source, Standards, and Technical Debt](https://dev.to/camptocamp-ops/open-source-standards-and-technical-debt-2g1) (6 days ago)
+- [A Simple Auth Proxy for EKS](https://dev.to/camptocamp-ops/a-simple-auth-proxy-for-eks-24dh) (3 months ago)
 - [Colored wrappers for kubectl](https://dev.to/raphink/colored-wrappers-for-kubectl-2pj1) (4 months ago)
 - [Simple secret sharing with gopass and summon](https://dev.to/camptocamp-ops/simple-secret-sharing-with-gopass-and-summon-40jk) (6 months ago)
 - [Decomissioning with Puppet: report &amp; purge unmanaged resources](https://dev.to/camptocamp-ops/decomissioning-with-puppet-report-purge-unmanaged-resources-1jgk) (6 months ago)
