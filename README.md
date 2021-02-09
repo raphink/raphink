@@ -25,7 +25,7 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-13.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-13.3.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-0.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-0.1.2), today) - Prometheus community Helm charts
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.0-rc2](https://github.com/gopasspw/gopass/releases/tag/v1.12.0-rc2), 1 day ago) - The slightly more awesome standard unix password manager for teams
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.2.0-alpha.2](https://github.com/jetstack/cert-manager/releases/tag/v1.2.0-alpha.2), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.6](https://github.com/hashicorp/terraform/releases/tag/v0.14.6), 5 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
