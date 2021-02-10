@@ -9,11 +9,11 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (today)
-- [camptocamp/bivac](https://github.com/camptocamp/bivac) - 🏕 📦 Backup Interface for Volumes Attached to Containers (today)
-- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (today)
-- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (today)
-- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (3 days ago)
+- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (1 day ago)
+- [camptocamp/bivac](https://github.com/camptocamp/bivac) - 🏕 📦 Backup Interface for Volumes Attached to Containers (1 day ago)
+- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (1 day ago)
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (1 day ago)
+- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (4 days ago)
 
 #### 🌱 My latest personal projects
 
@@ -25,15 +25,15 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.3.0), today) - Prometheus community Helm charts
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.0-rc2](https://github.com/gopasspw/gopass/releases/tag/v1.12.0-rc2), 1 day ago) - The slightly more awesome standard unix password manager for teams
-- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.2.0-alpha.2](https://github.com/jetstack/cert-manager/releases/tag/v1.2.0-alpha.2), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.6](https://github.com/hashicorp/terraform/releases/tag/v0.14.6), 5 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.5.0](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.5.0), 5 days ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.3.0), 1 day ago) - Prometheus community Helm charts
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.0-rc2](https://github.com/gopasspw/gopass/releases/tag/v1.12.0-rc2), 2 days ago) - The slightly more awesome standard unix password manager for teams
+- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.2.0-alpha.2](https://github.com/jetstack/cert-manager/releases/tag/v1.2.0-alpha.2), 5 days ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.6](https://github.com/hashicorp/terraform/releases/tag/v0.14.6), 6 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.5.0](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.5.0), 6 days ago) - 
 
 #### 📜 My recent blog posts
 
-- [Open Source, Standards, and Technical Debt](https://dev.to/camptocamp-ops/open-source-standards-and-technical-debt-2g1) (6 days ago)
+- [Open Source, Standards, and Technical Debt](https://dev.to/camptocamp-ops/open-source-standards-and-technical-debt-2g1) (1 week ago)
 - [A Simple Auth Proxy for EKS](https://dev.to/camptocamp-ops/a-simple-auth-proxy-for-eks-24dh) (3 months ago)
 - [Colored wrappers for kubectl](https://dev.to/raphink/colored-wrappers-for-kubectl-2pj1) (4 months ago)
 - [Simple secret sharing with gopass and summon](https://dev.to/camptocamp-ops/simple-secret-sharing-with-gopass-and-summon-40jk) (6 months ago)
