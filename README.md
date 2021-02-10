@@ -25,7 +25,7 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-13.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-13.7.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-1.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-1.15.0), today) - Prometheus community Helm charts
 - [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.24.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.24.0), today) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.0-rc2](https://github.com/gopasspw/gopass/releases/tag/v1.12.0-rc2), 2 days ago) - The slightly more awesome standard unix password manager for teams
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.2.0-alpha.2](https://github.com/jetstack/cert-manager/releases/tag/v1.2.0-alpha.2), 5 days ago) - Automatically provision and manage TLS certificates in Kubernetes
