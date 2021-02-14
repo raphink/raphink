@@ -9,11 +9,11 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (today)
-- [camptocamp/puppet-systemd](https://github.com/camptocamp/puppet-systemd) - Puppet module to manage systemd (3 days ago)
-- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (3 days ago)
-- [camptocamp/bivac](https://github.com/camptocamp/bivac) - 🏕 📦 Backup Interface for Volumes Attached to Containers (4 days ago)
-- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (4 days ago)
+- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (1 day ago)
+- [camptocamp/puppet-systemd](https://github.com/camptocamp/puppet-systemd) - Puppet module to manage systemd (4 days ago)
+- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (4 days ago)
+- [camptocamp/bivac](https://github.com/camptocamp/bivac) - 🏕 📦 Backup Interface for Volumes Attached to Containers (5 days ago)
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (5 days ago)
 
 #### 🌱 My latest personal projects
 
@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-1.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-1.9.1), 1 day ago) - Prometheus community Helm charts
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.0](https://github.com/gopasspw/gopass/releases/tag/v1.12.0), 2 days ago) - The slightly more awesome standard unix password manager for teams
-- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.2.0](https://github.com/jetstack/cert-manager/releases/tag/v1.2.0), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-alpha20210210](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-alpha20210210), 3 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.24.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.24.0), 3 days ago) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-1.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-1.9.1), 2 days ago) - Prometheus community Helm charts
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.0](https://github.com/gopasspw/gopass/releases/tag/v1.12.0), 3 days ago) - The slightly more awesome standard unix password manager for teams
+- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.2.0](https://github.com/jetstack/cert-manager/releases/tag/v1.2.0), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-alpha20210210](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-alpha20210210), 4 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.24.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.24.0), 4 days ago) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
 
 #### 📜 My recent blog posts
 
@@ -41,11 +41,11 @@ I like to automate systems where there is a need.
 
 #### 👥 Check out some of my recent followers
 
+- [<img src="https://avatars.githubusercontent.com/u/13318431?u=3544956821bc910185b02182e268ef7d2a7b0cc2&amp;v=4" height="20"/> ayo-dele](https://github.com/ayo-dele)
 - [<img src="https://avatars.githubusercontent.com/u/26042050?u=7d87232508adc0fbf98a38653b964e2bcb8901dd&amp;v=4" height="20"/> almokhtarbr](https://github.com/almokhtarbr)
 - [<img src="https://avatars.githubusercontent.com/u/44785096?u=0a042f0aeeb3db1fbf0330e57f7220c8435daac6&amp;v=4" height="20"/> irevenko](https://github.com/irevenko)
 - [<img src="https://avatars.githubusercontent.com/u/19993872?v=4" height="20"/> oleksandriegorov](https://github.com/oleksandriegorov)
 - [<img src="https://avatars.githubusercontent.com/u/76446415?v=4" height="20"/> anuchami](https://github.com/anuchami)
-- [<img src="https://avatars.githubusercontent.com/u/821240?u=9f3126661bc94aa3d41d9c495c360355b0bb2880&amp;v=4" height="20"/> JDvorak](https://github.com/JDvorak)
 
 
 #### 💚 My awesome sponsors (thank you!)
