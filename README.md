@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([1.0.0](https://github.com/camptocamp/terraboard/releases/tag/1.0.0), today) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.1.1](https://github.com/jetstack/cert-manager/releases/tag/v1.1.1), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [camptocamp/bivac](https://github.com/camptocamp/bivac) ([2.5.0](https://github.com/camptocamp/bivac/releases/tag/2.5.0), 1 day ago) - 🏕 📦 Backup Interface for Volumes Attached to Containers
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-cloudwatch-exporter-0.14.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.14.1), 1 day ago) - Prometheus community Helm charts
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.0](https://github.com/gopasspw/gopass/releases/tag/v1.12.0), 6 days ago) - The slightly more awesome standard unix password manager for teams
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-alpha20210210](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-alpha20210210), 1 week ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 
 #### 📜 My recent blog posts
 
