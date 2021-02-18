@@ -9,8 +9,8 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (today)
-- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (today)
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (1 day ago)
+- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (1 day ago)
 - [camptocamp/puppet-systemd](https://github.com/camptocamp/puppet-systemd) - Puppet module to manage systemd (1 week ago)
 - [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (1 week ago)
 - [camptocamp/bivac](https://github.com/camptocamp/bivac) - 🏕 📦 Backup Interface for Volumes Attached to Containers (1 week ago)
@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.1](https://github.com/gopasspw/gopass/releases/tag/v1.12.1), today) - The slightly more awesome standard unix password manager for teams
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.7](https://github.com/hashicorp/terraform/releases/tag/v0.14.7), today) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-13.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-13.9.1), today) - Prometheus community Helm charts
-- [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.6.0](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.6.0), today) - 
-- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([1.0.0](https://github.com/camptocamp/terraboard/releases/tag/1.0.0), today) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.1](https://github.com/gopasspw/gopass/releases/tag/v1.12.1), 1 day ago) - The slightly more awesome standard unix password manager for teams
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.7](https://github.com/hashicorp/terraform/releases/tag/v0.14.7), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-13.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-13.9.1), 1 day ago) - Prometheus community Helm charts
+- [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.6.0](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.6.0), 1 day ago) - 
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([1.0.0](https://github.com/camptocamp/terraboard/releases/tag/1.0.0), 1 day ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
 
 #### 📜 My recent blog posts
 
@@ -37,7 +37,7 @@ I like to automate systems where there is a need.
 - [A Simple Auth Proxy for EKS](https://dev.to/camptocamp-ops/a-simple-auth-proxy-for-eks-24dh) (3 months ago)
 - [Colored wrappers for kubectl](https://dev.to/raphink/colored-wrappers-for-kubectl-2pj1) (4 months ago)
 - [Simple secret sharing with gopass and summon](https://dev.to/camptocamp-ops/simple-secret-sharing-with-gopass-and-summon-40jk) (6 months ago)
-- [Decomissioning with Puppet: report &amp; purge unmanaged resources](https://dev.to/camptocamp-ops/decomissioning-with-puppet-report-purge-unmanaged-resources-1jgk) (6 months ago)
+- [Decomissioning with Puppet: report &amp; purge unmanaged resources](https://dev.to/camptocamp-ops/decomissioning-with-puppet-report-purge-unmanaged-resources-1jgk) (7 months ago)
 
 #### 👥 Check out some of my recent followers
 
