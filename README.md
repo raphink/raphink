@@ -25,7 +25,7 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-13.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-13.10.0), 2 days ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-13.3.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-13.3.3), today) - Prometheus community Helm charts
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.1](https://github.com/gopasspw/gopass/releases/tag/v1.12.1), 3 days ago) - The slightly more awesome standard unix password manager for teams
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.7](https://github.com/hashicorp/terraform/releases/tag/v0.14.7), 3 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.6.0](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.6.0), 3 days ago) - 
