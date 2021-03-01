@@ -10,10 +10,10 @@ I like to automate systems where there is a need.
 #### 👷 Check out what I'm currently working on
 
 - [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (today)
-- [camptocamp/puppet-selinux](https://github.com/camptocamp/puppet-selinux) -  (2 days ago)
-- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (4 days ago)
-- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (4 days ago)
-- [themefisher/bigspring-hugo-startup-theme](https://github.com/themefisher/bigspring-hugo-startup-theme) -  (5 days ago)
+- [camptocamp/puppet-selinux](https://github.com/camptocamp/puppet-selinux) -  (3 days ago)
+- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (5 days ago)
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (5 days ago)
+- [themefisher/bigspring-hugo-startup-theme](https://github.com/themefisher/bigspring-hugo-startup-theme) -  (6 days ago)
 
 #### 🌱 My latest personal projects
 
@@ -25,10 +25,10 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-13.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-13.4.0), 1 day ago) - Prometheus community Helm charts
-- [camptocamp/puppet-varnishkafka](https://github.com/camptocamp/puppet-varnishkafka) ([0.1.2](https://github.com/camptocamp/puppet-varnishkafka/releases/tag/0.1.2), 2 days ago) - 
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-beta1](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-beta1), 4 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.26.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.26.0), 4 days ago) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-13.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-13.4.0), 2 days ago) - Prometheus community Helm charts
+- [camptocamp/puppet-varnishkafka](https://github.com/camptocamp/puppet-varnishkafka) ([0.1.2](https://github.com/camptocamp/puppet-varnishkafka/releases/tag/0.1.2), 3 days ago) - 
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-beta1](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-beta1), 5 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.26.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.26.0), 5 days ago) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.1](https://github.com/gopasspw/gopass/releases/tag/v1.12.1), 1 week ago) - The slightly more awesome standard unix password manager for teams
 
 #### 📜 My recent blog posts
