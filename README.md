@@ -9,10 +9,10 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
+- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (today)
+- [camptocamp/puppet-selinux](https://github.com/camptocamp/puppet-selinux) -  (today)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (1 day ago)
 - [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (2 days ago)
-- [camptocamp/puppet-selinux](https://github.com/camptocamp/puppet-selinux) -  (5 days ago)
-- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (1 week ago)
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (1 week ago)
 
 #### 🌱 My latest personal projects
