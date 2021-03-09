@@ -42,7 +42,7 @@ I like to automate systems where there is a need.
 #### 👥 Check out some of my recent followers
 
 - [<img src="https://avatars.githubusercontent.com/u/29101873?v=4" height="20"/> AnikaSU](https://github.com/AnikaSU)
-- [<img src="https://avatars.githubusercontent.com/u/13318431?u=3544956821bc910185b02182e268ef7d2a7b0cc2&amp;v=4" height="20"/> ayo-dele](https://github.com/ayo-dele)
+- [<img src="https://avatars.githubusercontent.com/u/13318431?u=c00793d230a790a2146d1c9aeab2c0b02c42b519&amp;v=4" height="20"/> ayo-dele](https://github.com/ayo-dele)
 - [<img src="https://avatars.githubusercontent.com/u/26042050?u=b5b27701e4edaac52fdb9b0fa24b40ec11c36698&amp;v=4" height="20"/> almokhtarbr](https://github.com/almokhtarbr)
 - [<img src="https://avatars.githubusercontent.com/u/44785096?u=dc02f59b4040d53ac3c76029084d3751f1cf53ea&amp;v=4" height="20"/> irevenko](https://github.com/irevenko)
 - [<img src="https://avatars.githubusercontent.com/u/19993872?v=4" height="20"/> oleksandriegorov](https://github.com/oleksandriegorov)
