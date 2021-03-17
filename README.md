@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.6.1](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.6.1), today) - 
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.2](https://github.com/gopasspw/gopass/releases/tag/v1.12.2), 4 days ago) - The slightly more awesome standard unix password manager for teams
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.3.1), 1 week ago) - Prometheus community Helm charts
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.8](https://github.com/hashicorp/terraform/releases/tag/v0.14.8), 1 week ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.28.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.28.0), 1 week ago) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
-- [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.6.0](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.6.0), 4 weeks ago) - 
 
 #### 📜 My recent blog posts
 
