@@ -25,7 +25,7 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-14.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-14.1.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-1.16.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-1.16.1), today) - Prometheus community Helm charts
 - [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.29.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.29.0), today) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-beta2](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-beta2), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.6.1](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.6.1), 1 day ago) - 
@@ -41,11 +41,11 @@ I like to automate systems where there is a need.
 
 #### 👥 Check out some of my recent followers
 
+- [<img src="https://avatars.githubusercontent.com/u/6858585?u=8ce4b31ad6726c18bca7a08a8669fc534a9e8536&amp;v=4" height="20"/> ondrejtomcik](https://github.com/ondrejtomcik)
 - [<img src="https://avatars.githubusercontent.com/u/29101873?v=4" height="20"/> AnikaSU](https://github.com/AnikaSU)
 - [<img src="https://avatars.githubusercontent.com/u/13318431?u=c00793d230a790a2146d1c9aeab2c0b02c42b519&amp;v=4" height="20"/> ayo-dele](https://github.com/ayo-dele)
 - [<img src="https://avatars.githubusercontent.com/u/26042050?u=b5b27701e4edaac52fdb9b0fa24b40ec11c36698&amp;v=4" height="20"/> almokhtarbr](https://github.com/almokhtarbr)
 - [<img src="https://avatars.githubusercontent.com/u/44785096?u=e6340e2cdcb5e21b8687d9c1aa5b728cdcbb4ac8&amp;v=4" height="20"/> irevenko](https://github.com/irevenko)
-- [<img src="https://avatars.githubusercontent.com/u/19993872?v=4" height="20"/> oleksandriegorov](https://github.com/oleksandriegorov)
 
 
 #### 💚 My awesome sponsors (thank you!)
