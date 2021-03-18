@@ -33,11 +33,11 @@ I like to automate systems where there is a need.
 
 #### 📜 My recent blog posts
 
+- [Immutability &amp; loose coupling: a match made in heaven](https://dev.to/camptocamp-ops/immutability-loose-coupling-a-match-made-in-heaven-37kl) (today)
 - [Open Source, Standards, and Technical Debt](https://dev.to/camptocamp-ops/open-source-standards-and-technical-debt-2g1) (1 month ago)
 - [A Simple Auth Proxy for EKS](https://dev.to/camptocamp-ops/a-simple-auth-proxy-for-eks-24dh) (4 months ago)
 - [Colored wrappers for kubectl](https://dev.to/raphink/colored-wrappers-for-kubectl-2pj1) (5 months ago)
 - [Simple secret sharing with gopass and summon](https://dev.to/camptocamp-ops/simple-secret-sharing-with-gopass-and-summon-40jk) (7 months ago)
-- [Decomissioning with Puppet: report &amp; purge unmanaged resources](https://dev.to/camptocamp-ops/decomissioning-with-puppet-report-purge-unmanaged-resources-1jgk) (7 months ago)
 
 #### 👥 Check out some of my recent followers
 
