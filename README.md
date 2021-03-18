@@ -25,10 +25,10 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-2.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-2.1.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-beta2](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-beta2), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.6.1](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.6.1), 1 day ago) - 
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.2](https://github.com/gopasspw/gopass/releases/tag/v1.12.2), 5 days ago) - The slightly more awesome standard unix password manager for teams
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.3.1), 1 week ago) - Prometheus community Helm charts
 - [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.28.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.28.0), 1 week ago) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
 
 #### 📜 My recent blog posts
