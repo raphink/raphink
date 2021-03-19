@@ -9,8 +9,8 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (today)
-- [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (1 day ago)
+- [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (1 day ago)
+- [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (2 days ago)
 - [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (1 week ago)
 - [camptocamp/puppet-selinux](https://github.com/camptocamp/puppet-selinux) -  (2 weeks ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (2 weeks ago)
@@ -25,15 +25,15 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-1.16.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-1.16.2), today) - Prometheus community Helm charts
-- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.29.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.29.0), today) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-beta2](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-beta2), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.6.1](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.6.1), 1 day ago) - 
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.2](https://github.com/gopasspw/gopass/releases/tag/v1.12.2), 5 days ago) - The slightly more awesome standard unix password manager for teams
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-1.16.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-1.16.2), 1 day ago) - Prometheus community Helm charts
+- [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.29.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.29.0), 1 day ago) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-beta2](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-beta2), 2 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.6.1](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.6.1), 2 days ago) - 
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.2](https://github.com/gopasspw/gopass/releases/tag/v1.12.2), 6 days ago) - The slightly more awesome standard unix password manager for teams
 
 #### 📜 My recent blog posts
 
-- [Immutability &amp; loose coupling: a match made in heaven](https://dev.to/camptocamp-ops/immutability-loose-coupling-a-match-made-in-heaven-37kl) (today)
+- [Immutability &amp; loose coupling: a match made in heaven](https://dev.to/camptocamp-ops/immutability-loose-coupling-a-match-made-in-heaven-37kl) (1 day ago)
 - [Open Source, Standards, and Technical Debt](https://dev.to/camptocamp-ops/open-source-standards-and-technical-debt-2g1) (1 month ago)
 - [A Simple Auth Proxy for EKS](https://dev.to/camptocamp-ops/a-simple-auth-proxy-for-eks-24dh) (4 months ago)
 - [Colored wrappers for kubectl](https://dev.to/raphink/colored-wrappers-for-kubectl-2pj1) (5 months ago)
