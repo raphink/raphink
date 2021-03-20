@@ -25,8 +25,8 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-14.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-14.3.0), today) - Prometheus community Helm charts
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.4](https://github.com/gopasspw/gopass/releases/tag/v1.12.4), today) - The slightly more awesome standard unix password manager for teams
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-14.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-14.2.0), 1 day ago) - Prometheus community Helm charts
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.3](https://github.com/derailed/k9s/releases/tag/v0.24.3), 1 day ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [camptocamp/camptocamp-devops-stack](https://github.com/camptocamp/camptocamp-devops-stack) ([v0.29.0](https://github.com/camptocamp/camptocamp-devops-stack/releases/tag/v0.29.0), 2 days ago) - An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-beta2](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-beta2), 3 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
