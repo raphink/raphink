@@ -9,10 +9,10 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (today)
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (today)
 - [camptocamp/antora-ui](https://github.com/camptocamp/antora-ui) - Camptocamp&#39;s version of antora-ui, forked from https://gitlab.com/antora/antora-ui-default (today)
 - [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) - Antora UI for the DevOps Stack Project (today)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (today)
 - [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (5 days ago)
 
 #### 🌱 My latest personal projects
@@ -25,8 +25,8 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/antora-ui](https://github.com/camptocamp/antora-ui) ([master-LATEST](https://github.com/camptocamp/antora-ui/releases/tag/master-LATEST), today) - Camptocamp&#39;s version of antora-ui, forked from https://gitlab.com/antora/antora-ui-default
 - [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) ([master-LATEST](https://github.com/camptocamp/devops-stack-antora-ui/releases/tag/master-LATEST), today) - Antora UI for the DevOps Stack Project
+- [camptocamp/antora-ui](https://github.com/camptocamp/antora-ui) ([master-LATEST](https://github.com/camptocamp/antora-ui/releases/tag/master-LATEST), today) - Camptocamp&#39;s version of antora-ui, forked from https://gitlab.com/antora/antora-ui-default
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-14.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-14.3.0), 4 days ago) - Prometheus community Helm charts
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.4](https://github.com/gopasspw/gopass/releases/tag/v1.12.4), 4 days ago) - The slightly more awesome standard unix password manager for teams
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.3](https://github.com/derailed/k9s/releases/tag/v0.24.3), 5 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
