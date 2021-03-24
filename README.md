@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.9](https://github.com/hashicorp/terraform/releases/tag/v0.14.9), today) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.4](https://github.com/derailed/k9s/releases/tag/v0.24.4), today) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [camptocamp/antora-ui](https://github.com/camptocamp/antora-ui) ([master-LATEST](https://github.com/camptocamp/antora-ui/releases/tag/master-LATEST), today) - Camptocamp&#39;s version of antora-ui, forked from https://gitlab.com/antora/antora-ui-default
 - [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) ([master-LATEST](https://github.com/camptocamp/devops-stack-antora-ui/releases/tag/master-LATEST), today) - Antora UI for the DevOps Stack Project
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-14.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-14.3.0), 4 days ago) - Prometheus community Helm charts
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.4](https://github.com/gopasspw/gopass/releases/tag/v1.12.4), 4 days ago) - The slightly more awesome standard unix password manager for teams
 
 #### 📜 My recent blog posts
 
