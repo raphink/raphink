@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.30.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.30.0), today) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
+- [camptocamp/bivac](https://github.com/camptocamp/bivac) ([2.5.1](https://github.com/camptocamp/bivac/releases/tag/2.5.1), today) - 🏕 📦 Backup Interface for Volumes Attached to Containers
+- [camptocamp/antora-ui](https://github.com/camptocamp/antora-ui) ([master-LATEST](https://github.com/camptocamp/antora-ui/releases/tag/master-LATEST), today) - Camptocamp&#39;s version of antora-ui, forked from https://gitlab.com/antora/antora-ui-default
 - [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) ([master-LATEST](https://github.com/camptocamp/devops-stack-antora-ui/releases/tag/master-LATEST), today) - Antora UI for the DevOps Stack Project
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.9](https://github.com/hashicorp/terraform/releases/tag/v0.14.9), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.4](https://github.com/derailed/k9s/releases/tag/v0.24.4), 1 day ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [camptocamp/antora-ui](https://github.com/camptocamp/antora-ui) ([master-LATEST](https://github.com/camptocamp/antora-ui/releases/tag/master-LATEST), 1 day ago) - Camptocamp&#39;s version of antora-ui, forked from https://gitlab.com/antora/antora-ui-default
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-14.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-14.3.0), 5 days ago) - Prometheus community Helm charts
 
 #### 📜 My recent blog posts
 
