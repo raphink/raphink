@@ -9,11 +9,11 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (today)
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (today)
-- [camptocamp/antora-ui](https://github.com/camptocamp/antora-ui) - Camptocamp&#39;s version of antora-ui, forked from https://gitlab.com/antora/antora-ui-default (today)
-- [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) - Antora UI for the DevOps Stack Project (today)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (today)
+- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (1 day ago)
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (1 day ago)
+- [camptocamp/antora-ui](https://github.com/camptocamp/antora-ui) - Camptocamp&#39;s version of antora-ui, forked from https://gitlab.com/antora/antora-ui-default (1 day ago)
+- [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) - Antora UI for the DevOps Stack Project (1 day ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (1 day ago)
 
 #### 🌱 My latest personal projects
 
@@ -25,19 +25,19 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.9](https://github.com/hashicorp/terraform/releases/tag/v0.14.9), today) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-- [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.4](https://github.com/derailed/k9s/releases/tag/v0.24.4), today) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [camptocamp/antora-ui](https://github.com/camptocamp/antora-ui) ([master-LATEST](https://github.com/camptocamp/antora-ui/releases/tag/master-LATEST), today) - Camptocamp&#39;s version of antora-ui, forked from https://gitlab.com/antora/antora-ui-default
-- [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) ([master-LATEST](https://github.com/camptocamp/devops-stack-antora-ui/releases/tag/master-LATEST), today) - Antora UI for the DevOps Stack Project
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-14.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-14.3.0), 4 days ago) - Prometheus community Helm charts
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.9](https://github.com/hashicorp/terraform/releases/tag/v0.14.9), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.4](https://github.com/derailed/k9s/releases/tag/v0.24.4), 1 day ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [camptocamp/antora-ui](https://github.com/camptocamp/antora-ui) ([master-LATEST](https://github.com/camptocamp/antora-ui/releases/tag/master-LATEST), 1 day ago) - Camptocamp&#39;s version of antora-ui, forked from https://gitlab.com/antora/antora-ui-default
+- [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) ([master-LATEST](https://github.com/camptocamp/devops-stack-antora-ui/releases/tag/master-LATEST), 1 day ago) - Antora UI for the DevOps Stack Project
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-14.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-14.3.0), 5 days ago) - Prometheus community Helm charts
 
 #### 📜 My recent blog posts
 
-- [Immutability &amp; loose coupling: a match made in heaven](https://dev.to/camptocamp-ops/immutability-loose-coupling-a-match-made-in-heaven-37kl) (6 days ago)
+- [Immutability &amp; loose coupling: a match made in heaven](https://dev.to/camptocamp-ops/immutability-loose-coupling-a-match-made-in-heaven-37kl) (1 week ago)
 - [Open Source, Standards, and Technical Debt](https://dev.to/camptocamp-ops/open-source-standards-and-technical-debt-2g1) (1 month ago)
 - [A Simple Auth Proxy for EKS](https://dev.to/camptocamp-ops/a-simple-auth-proxy-for-eks-24dh) (4 months ago)
 - [Colored wrappers for kubectl](https://dev.to/raphink/colored-wrappers-for-kubectl-2pj1) (5 months ago)
-- [Simple secret sharing with gopass and summon](https://dev.to/camptocamp-ops/simple-secret-sharing-with-gopass-and-summon-40jk) (7 months ago)
+- [Simple secret sharing with gopass and summon](https://dev.to/camptocamp-ops/simple-secret-sharing-with-gopass-and-summon-40jk) (8 months ago)
 
 #### 👥 Check out some of my recent followers
 
