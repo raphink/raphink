@@ -41,7 +41,7 @@ I like to automate systems where there is a need.
 
 #### 👥 Check out some of my recent followers
 
-- [<img src="https://avatars.githubusercontent.com/u/81395371?v=4" height="20"/> BitcoinIsNotAToyAnymore](https://github.com/BitcoinIsNotAToyAnymore)
+- [<img src="https://avatars.githubusercontent.com/u/81395371?u=0eb195fcdbbc07fcbe0993a5e00b50aaa06ef9a1&amp;v=4" height="20"/> BitcoinIsNotAToyAnymore](https://github.com/BitcoinIsNotAToyAnymore)
 - [<img src="https://avatars.githubusercontent.com/u/35377962?v=4" height="20"/> mrcmn](https://github.com/mrcmn)
 - [<img src="https://avatars.githubusercontent.com/u/6858585?u=8ce4b31ad6726c18bca7a08a8669fc534a9e8536&amp;v=4" height="20"/> ondrejtomcik](https://github.com/ondrejtomcik)
 - [<img src="https://avatars.githubusercontent.com/u/29101873?v=4" height="20"/> AnikaSU](https://github.com/AnikaSU)
