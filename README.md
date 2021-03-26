@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.3.0-alpha.0](https://github.com/jetstack/cert-manager/releases/tag/v1.3.0-alpha.0), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.30.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.30.0), 1 day ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
 - [camptocamp/bivac](https://github.com/camptocamp/bivac) ([2.5.1](https://github.com/camptocamp/bivac/releases/tag/2.5.1), 1 day ago) - 🏕 📦 Backup Interface for Volumes Attached to Containers
 - [camptocamp/antora-ui](https://github.com/camptocamp/antora-ui) ([master-LATEST](https://github.com/camptocamp/antora-ui/releases/tag/master-LATEST), 1 day ago) - Camptocamp&#39;s version of antora-ui, forked from https://gitlab.com/antora/antora-ui-default
 - [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) ([master-LATEST](https://github.com/camptocamp/devops-stack-antora-ui/releases/tag/master-LATEST), 1 day ago) - Antora UI for the DevOps Stack Project
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.14.9](https://github.com/hashicorp/terraform/releases/tag/v0.14.9), 2 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 
 #### 📜 My recent blog posts
 
