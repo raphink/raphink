@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.5](https://github.com/derailed/k9s/releases/tag/v0.24.5), today) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.3.0-alpha.0](https://github.com/jetstack/cert-manager/releases/tag/v1.3.0-alpha.0), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.30.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.30.0), 2 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
 - [camptocamp/bivac](https://github.com/camptocamp/bivac) ([2.5.1](https://github.com/camptocamp/bivac/releases/tag/2.5.1), 2 days ago) - 🏕 📦 Backup Interface for Volumes Attached to Containers
 - [camptocamp/antora-ui](https://github.com/camptocamp/antora-ui) ([master-LATEST](https://github.com/camptocamp/antora-ui/releases/tag/master-LATEST), 2 days ago) - Camptocamp&#39;s version of antora-ui, forked from https://gitlab.com/antora/antora-ui-default
-- [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) ([master-LATEST](https://github.com/camptocamp/devops-stack-antora-ui/releases/tag/master-LATEST), 2 days ago) - Antora UI for the DevOps Stack Project
 
 #### 📜 My recent blog posts
 
