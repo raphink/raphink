@@ -9,11 +9,11 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [hercules-team/augeasproviders_core](https://github.com/hercules-team/augeasproviders_core) - Alternative Augeas-based providers for Puppet, core library  http://augeasproviders.com/ (1 day ago)
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (1 day ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (1 day ago)
-- [camptocamp/antora-ui](https://github.com/camptocamp/antora-ui) - Camptocamp&#39;s version of antora-ui, forked from https://gitlab.com/antora/antora-ui-default (3 days ago)
-- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (3 days ago)
+- [hercules-team/augeasproviders_core](https://github.com/hercules-team/augeasproviders_core) - Alternative Augeas-based providers for Puppet, core library  http://augeasproviders.com/ (2 days ago)
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (2 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (2 days ago)
+- [camptocamp/antora-ui](https://github.com/camptocamp/antora-ui) - Camptocamp&#39;s version of antora-ui, forked from https://gitlab.com/antora/antora-ui-default (4 days ago)
+- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (4 days ago)
 
 #### 🌱 My latest personal projects
 
@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.6](https://github.com/derailed/k9s/releases/tag/v0.24.6), today) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.5](https://github.com/gopasspw/gopass/releases/tag/v1.12.5), today) - The slightly more awesome standard unix password manager for teams
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-14.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-14.4.0), today) - Prometheus community Helm charts
-- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.3.0-alpha.0](https://github.com/jetstack/cert-manager/releases/tag/v1.3.0-alpha.0), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.30.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.30.0), 2 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
+- [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.6](https://github.com/derailed/k9s/releases/tag/v0.24.6), 1 day ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.5](https://github.com/gopasspw/gopass/releases/tag/v1.12.5), 1 day ago) - The slightly more awesome standard unix password manager for teams
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-14.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-14.4.0), 1 day ago) - Prometheus community Helm charts
+- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.3.0-alpha.0](https://github.com/jetstack/cert-manager/releases/tag/v1.3.0-alpha.0), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.30.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.30.0), 3 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
 
 #### 📜 My recent blog posts
 
