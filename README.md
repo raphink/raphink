@@ -10,10 +10,10 @@ I like to automate systems where there is a need.
 #### 👷 Check out what I'm currently working on
 
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (today)
+- [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) - Antora UI for the DevOps Stack Project (today)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (today)
 - [hercules-team/augeasproviders_core](https://github.com/hercules-team/augeasproviders_core) - Alternative Augeas-based providers for Puppet, core library  http://augeasproviders.com/ (3 days ago)
 - [camptocamp/antora-ui](https://github.com/camptocamp/antora-ui) - Camptocamp&#39;s version of antora-ui, forked from https://gitlab.com/antora/antora-ui-default (5 days ago)
-- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (5 days ago)
 
 #### 🌱 My latest personal projects
 
@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) ([master-LATEST](https://github.com/camptocamp/devops-stack-antora-ui/releases/tag/master-LATEST), today) - Antora UI for the DevOps Stack Project
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.0.0.post3](https://github.com/voxpupuli/puppetboard/releases/tag/v3.0.0.post3), today) - Web frontend for PuppetDB
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.6](https://github.com/derailed/k9s/releases/tag/v0.24.6), 2 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.5](https://github.com/gopasspw/gopass/releases/tag/v1.12.5), 2 days ago) - The slightly more awesome standard unix password manager for teams
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-14.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-14.4.0), 2 days ago) - Prometheus community Helm charts
-- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.3.0-alpha.0](https://github.com/jetstack/cert-manager/releases/tag/v1.3.0-alpha.0), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 
 #### 📜 My recent blog posts
 
