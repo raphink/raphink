@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.9.0), today) - Prometheus community Helm charts
 - [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) ([master-LATEST](https://github.com/camptocamp/devops-stack-antora-ui/releases/tag/master-LATEST), today) - Antora UI for the DevOps Stack Project
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.0.0.post3](https://github.com/voxpupuli/puppetboard/releases/tag/v3.0.0.post3), today) - Web frontend for PuppetDB
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.6](https://github.com/derailed/k9s/releases/tag/v0.24.6), 2 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.5](https://github.com/gopasspw/gopass/releases/tag/v1.12.5), 2 days ago) - The slightly more awesome standard unix password manager for teams
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-14.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-14.4.0), 2 days ago) - Prometheus community Helm charts
 
 #### 📜 My recent blog posts
 
