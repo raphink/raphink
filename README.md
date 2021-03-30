@@ -9,11 +9,11 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (today)
-- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) -  (today)
-- [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) - Antora UI for the DevOps Stack Project (today)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (today)
-- [hercules-team/augeasproviders_core](https://github.com/hercules-team/augeasproviders_core) - Alternative Augeas-based providers for Puppet, core library  http://augeasproviders.com/ (3 days ago)
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (1 day ago)
+- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) -  (1 day ago)
+- [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) - Antora UI for the DevOps Stack Project (1 day ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (1 day ago)
+- [hercules-team/augeasproviders_core](https://github.com/hercules-team/augeasproviders_core) - Alternative Augeas-based providers for Puppet, core library  http://augeasproviders.com/ (4 days ago)
 
 #### 🌱 My latest personal projects
 
@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.31.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.31.0), today) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.9.0), today) - Prometheus community Helm charts
-- [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) ([master-LATEST](https://github.com/camptocamp/devops-stack-antora-ui/releases/tag/master-LATEST), today) - Antora UI for the DevOps Stack Project
-- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.0.0.post3](https://github.com/voxpupuli/puppetboard/releases/tag/v3.0.0.post3), today) - Web frontend for PuppetDB
-- [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.6](https://github.com/derailed/k9s/releases/tag/v0.24.6), 2 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.31.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.31.0), 1 day ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.9.0), 1 day ago) - Prometheus community Helm charts
+- [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) ([master-LATEST](https://github.com/camptocamp/devops-stack-antora-ui/releases/tag/master-LATEST), 1 day ago) - Antora UI for the DevOps Stack Project
+- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.0.0.post3](https://github.com/voxpupuli/puppetboard/releases/tag/v3.0.0.post3), 1 day ago) - Web frontend for PuppetDB
+- [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.6](https://github.com/derailed/k9s/releases/tag/v0.24.6), 3 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 
 #### 📜 My recent blog posts
 
