@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-4.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-4.4.0), today) - Prometheus community Helm charts
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.3.0-alpha.1](https://github.com/jetstack/cert-manager/releases/tag/v1.3.0-alpha.1), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.0.0](https://github.com/voxpupuli/puppetboard/releases/tag/v3.0.0), 2 days ago) - Web frontend for PuppetDB
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.7](https://github.com/derailed/k9s/releases/tag/v0.24.7), 2 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [xorpaul/g10k](https://github.com/xorpaul/g10k) ([v0.8.13](https://github.com/xorpaul/g10k/releases/tag/v0.8.13), 2 days ago) - my r10k fork in Go
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-rc1](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-rc1), 2 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 
 #### 📜 My recent blog posts
 
