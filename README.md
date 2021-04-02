@@ -25,7 +25,7 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-4.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-4.4.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-14.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-14.5.0), today) - Prometheus community Helm charts
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.3.0-alpha.1](https://github.com/jetstack/cert-manager/releases/tag/v1.3.0-alpha.1), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.0.0](https://github.com/voxpupuli/puppetboard/releases/tag/v3.0.0), 2 days ago) - Web frontend for PuppetDB
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.7](https://github.com/derailed/k9s/releases/tag/v0.24.7), 2 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
