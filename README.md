@@ -9,11 +9,11 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (1 day ago)
-- [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (1 day ago)
-- [camptocamp/puppet-augeas](https://github.com/camptocamp/puppet-augeas) - Helper for using augeas with puppet (1 day ago)
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (2 days ago)
-- [hercules-team/augeasproviders_core](https://github.com/hercules-team/augeasproviders_core) - Alternative Augeas-based providers for Puppet, core library  http://augeasproviders.com/ (2 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (2 days ago)
+- [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (2 days ago)
+- [camptocamp/puppet-augeas](https://github.com/camptocamp/puppet-augeas) - Helper for using augeas with puppet (2 days ago)
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (3 days ago)
+- [hercules-team/augeasproviders_core](https://github.com/hercules-team/augeasproviders_core) - Alternative Augeas-based providers for Puppet, core library  http://augeasproviders.com/ (3 days ago)
 
 #### 🌱 My latest personal projects
 
@@ -25,15 +25,15 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.3.0-alpha.1](https://github.com/jetstack/cert-manager/releases/tag/v1.3.0-alpha.1), today) - Automatically provision and manage TLS certificates in Kubernetes
-- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.0.0](https://github.com/voxpupuli/puppetboard/releases/tag/v3.0.0), 1 day ago) - Web frontend for PuppetDB
-- [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.7](https://github.com/derailed/k9s/releases/tag/v0.24.7), 1 day ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [xorpaul/g10k](https://github.com/xorpaul/g10k) ([v0.8.13](https://github.com/xorpaul/g10k/releases/tag/v0.8.13), 1 day ago) - my r10k fork in Go
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-rc1](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-rc1), 1 day ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.3.0-alpha.1](https://github.com/jetstack/cert-manager/releases/tag/v1.3.0-alpha.1), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.0.0](https://github.com/voxpupuli/puppetboard/releases/tag/v3.0.0), 2 days ago) - Web frontend for PuppetDB
+- [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.7](https://github.com/derailed/k9s/releases/tag/v0.24.7), 2 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [xorpaul/g10k](https://github.com/xorpaul/g10k) ([v0.8.13](https://github.com/xorpaul/g10k/releases/tag/v0.8.13), 2 days ago) - my r10k fork in Go
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) ([v0.15.0-rc1](https://github.com/hashicorp/terraform/releases/tag/v0.15.0-rc1), 2 days ago) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 
 #### 📜 My recent blog posts
 
-- [March Cloud Native Romandie Meetup](https://dev.to/camptocamp-ops/march-cloud-native-romandie-meetup-o2f) (today)
+- [March Cloud Native Romandie Meetup](https://dev.to/camptocamp-ops/march-cloud-native-romandie-meetup-o2f) (1 day ago)
 - [Immutability &amp; loose coupling: a match made in heaven](https://dev.to/camptocamp-ops/immutability-loose-coupling-a-match-made-in-heaven-37kl) (2 weeks ago)
 - [Open Source, Standards, and Technical Debt](https://dev.to/camptocamp-ops/open-source-standards-and-technical-debt-2g1) (1 month ago)
 - [A Simple Auth Proxy for EKS](https://dev.to/camptocamp-ops/a-simple-auth-proxy-for-eks-24dh) (4 months ago)
