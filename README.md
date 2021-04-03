@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) ([2.0.2](https://github.com/voxpupuli/modulesync/releases/tag/2.0.2), today) - Synchronize common files across your Git repositories.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-14.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-14.5.0), 1 day ago) - Prometheus community Helm charts
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.3.0-alpha.1](https://github.com/jetstack/cert-manager/releases/tag/v1.3.0-alpha.1), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.0.0](https://github.com/voxpupuli/puppetboard/releases/tag/v3.0.0), 3 days ago) - Web frontend for PuppetDB
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.7](https://github.com/derailed/k9s/releases/tag/v0.24.7), 3 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [xorpaul/g10k](https://github.com/xorpaul/g10k) ([v0.8.13](https://github.com/xorpaul/g10k/releases/tag/v0.8.13), 3 days ago) - my r10k fork in Go
 
 #### 📜 My recent blog posts
 
