@@ -25,9 +25,9 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-rabbitmq-exporter-1.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-rabbitmq-exporter-1.0.0), today) - Prometheus community Helm charts
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.6-rc0](https://github.com/gopasspw/gopass/releases/tag/v1.12.6-rc0), 1 day ago) - The slightly more awesome standard unix password manager for teams
 - [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) ([2.0.2](https://github.com/voxpupuli/modulesync/releases/tag/2.0.2), 3 days ago) - Synchronize common files across your Git repositories.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-14.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-14.5.0), 4 days ago) - Prometheus community Helm charts
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.3.0-alpha.1](https://github.com/jetstack/cert-manager/releases/tag/v1.3.0-alpha.1), 5 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.0.0](https://github.com/voxpupuli/puppetboard/releases/tag/v3.0.0), 6 days ago) - Web frontend for PuppetDB
 
