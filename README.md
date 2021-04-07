@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.3.0-beta.0](https://github.com/jetstack/cert-manager/releases/tag/v1.3.0-beta.0), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.0.0](https://github.com/argoproj/argo-cd/releases/tag/v2.0.0), today) - Declarative continuous deployment for Kubernetes.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-rabbitmq-exporter-1.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-rabbitmq-exporter-1.0.0), 1 day ago) - Prometheus community Helm charts
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.6-rc0](https://github.com/gopasspw/gopass/releases/tag/v1.12.6-rc0), 2 days ago) - The slightly more awesome standard unix password manager for teams
 - [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) ([2.0.2](https://github.com/voxpupuli/modulesync/releases/tag/2.0.2), 4 days ago) - Synchronize common files across your Git repositories.
-- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.3.0-alpha.1](https://github.com/jetstack/cert-manager/releases/tag/v1.3.0-alpha.1), 6 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 
 #### 📜 My recent blog posts
 
