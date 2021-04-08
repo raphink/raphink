@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.32.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.32.0), today) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.3.0](https://github.com/jetstack/cert-manager/releases/tag/v1.3.0), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-4.10.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-4.10.4), today) - Prometheus community Helm charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.0.0](https://github.com/argoproj/argo-cd/releases/tag/v2.0.0), 1 day ago) - Declarative continuous deployment for Kubernetes.
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.6-rc0](https://github.com/gopasspw/gopass/releases/tag/v1.12.6-rc0), 3 days ago) - The slightly more awesome standard unix password manager for teams
-- [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) ([2.0.2](https://github.com/voxpupuli/modulesync/releases/tag/2.0.2), 5 days ago) - Synchronize common files across your Git repositories.
 
 #### 📜 My recent blog posts
 
