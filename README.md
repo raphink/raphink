@@ -25,7 +25,7 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v7.0.3](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v7.0.3), today) - Puppet module for managing PostgreSQL
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v7.1.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v7.1.0), today) - Puppet module for managing PostgreSQL
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-4.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-4.0.1), today) - Prometheus community Helm charts
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.32.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.32.0), 4 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.3.0](https://github.com/jetstack/cert-manager/releases/tag/v1.3.0), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
