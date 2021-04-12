@@ -25,7 +25,7 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pingdom-exporter-2.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pingdom-exporter-2.4.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-4.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-4.0.1), today) - Prometheus community Helm charts
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.32.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.32.0), 4 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.3.0](https://github.com/jetstack/cert-manager/releases/tag/v1.3.0), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.0.0](https://github.com/argoproj/argo-cd/releases/tag/v2.0.0), 5 days ago) - Declarative continuous deployment for Kubernetes.
