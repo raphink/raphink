@@ -10,10 +10,10 @@ I like to automate systems where there is a need.
 #### 👷 Check out what I'm currently working on
 
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (today)
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (today)
 - [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (today)
+- [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) - Antora UI for the DevOps Stack Project (today)
 - [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (today)
-- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (1 day ago)
-- [raphink/temoignage_jesus](https://github.com/raphink/temoignage_jesus) - Ce que Jésus-Christ dit de lui-même (1 day ago)
 
 #### 🌱 My latest personal projects
 
@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) ([master-LATEST](https://github.com/camptocamp/devops-stack-antora-ui/releases/tag/master-LATEST), today) - Antora UI for the DevOps Stack Project
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.3.1](https://github.com/jetstack/cert-manager/releases/tag/v1.3.1), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([1.1.0](https://github.com/camptocamp/terraboard/releases/tag/1.1.0), today) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-1.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-1.8.0), 2 days ago) - Prometheus community Helm charts
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v7.1.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v7.1.0), 2 days ago) - Puppet module for managing PostgreSQL
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.32.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.32.0), 6 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
 
 #### 📜 My recent blog posts
 
