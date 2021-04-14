@@ -9,10 +9,10 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (today)
-- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (today)
-- [raphink/temoignage_jesus](https://github.com/raphink/temoignage_jesus) - Ce que Jésus-Christ dit de lui-même (today)
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes. (6 days ago)
+- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (1 day ago)
+- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (1 day ago)
+- [raphink/temoignage_jesus](https://github.com/raphink/temoignage_jesus) - Ce que Jésus-Christ dit de lui-même (1 day ago)
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes. (1 week ago)
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (1 week ago)
 
 #### 🌱 My latest personal projects
@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-1.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-1.8.0), 1 day ago) - Prometheus community Helm charts
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v7.1.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v7.1.0), 1 day ago) - Puppet module for managing PostgreSQL
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.32.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.32.0), 5 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
-- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.3.0](https://github.com/jetstack/cert-manager/releases/tag/v1.3.0), 5 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.0.0](https://github.com/argoproj/argo-cd/releases/tag/v2.0.0), 6 days ago) - Declarative continuous deployment for Kubernetes.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-1.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-1.8.0), 2 days ago) - Prometheus community Helm charts
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v7.1.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v7.1.0), 2 days ago) - Puppet module for managing PostgreSQL
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.32.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.32.0), 6 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
+- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.3.0](https://github.com/jetstack/cert-manager/releases/tag/v1.3.0), 6 days ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.0.0](https://github.com/argoproj/argo-cd/releases/tag/v2.0.0), 1 week ago) - Declarative continuous deployment for Kubernetes.
 
 #### 📜 My recent blog posts
 
