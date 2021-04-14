@@ -25,10 +25,10 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-14.6.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-14.6.3), today) - Prometheus community Helm charts
 - [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) ([master-LATEST](https://github.com/camptocamp/devops-stack-antora-ui/releases/tag/master-LATEST), today) - Antora UI for the DevOps Stack Project
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.3.1](https://github.com/jetstack/cert-manager/releases/tag/v1.3.1), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([1.1.0](https://github.com/camptocamp/terraboard/releases/tag/1.1.0), today) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-1.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-1.8.0), 2 days ago) - Prometheus community Helm charts
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v7.1.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v7.1.0), 2 days ago) - Puppet module for managing PostgreSQL
 
 #### 📜 My recent blog posts
