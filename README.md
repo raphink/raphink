@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.0.1](https://github.com/argoproj/argo-cd/releases/tag/v2.0.1), today) - Declarative continuous deployment for Kubernetes.
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.1.0.rc1](https://github.com/voxpupuli/puppetboard/releases/tag/v3.1.0.rc1), today) - Web frontend for PuppetDB
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-14.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-14.9.0), 1 day ago) - Prometheus community Helm charts
 - [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) ([master-LATEST](https://github.com/camptocamp/devops-stack-antora-ui/releases/tag/master-LATEST), 1 day ago) - Antora UI for the DevOps Stack Project
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.3.1](https://github.com/jetstack/cert-manager/releases/tag/v1.3.1), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([1.1.0](https://github.com/camptocamp/terraboard/releases/tag/1.1.0), 1 day ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
 
 #### 📜 My recent blog posts
 
