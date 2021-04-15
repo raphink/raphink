@@ -10,10 +10,10 @@ I like to automate systems where there is a need.
 #### 👷 Check out what I'm currently working on
 
 - [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (today)
-- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (today)
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (today)
-- [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) - Antora UI for the DevOps Stack Project (today)
-- [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (today)
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (1 day ago)
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (1 day ago)
+- [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) - Antora UI for the DevOps Stack Project (1 day ago)
+- [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (1 day ago)
 
 #### 🌱 My latest personal projects
 
@@ -25,16 +25,16 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-14.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-14.9.0), today) - Prometheus community Helm charts
-- [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) ([master-LATEST](https://github.com/camptocamp/devops-stack-antora-ui/releases/tag/master-LATEST), today) - Antora UI for the DevOps Stack Project
-- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.3.1](https://github.com/jetstack/cert-manager/releases/tag/v1.3.1), today) - Automatically provision and manage TLS certificates in Kubernetes
-- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([1.1.0](https://github.com/camptocamp/terraboard/releases/tag/1.1.0), today) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v7.1.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v7.1.0), 2 days ago) - Puppet module for managing PostgreSQL
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-14.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-14.9.0), 1 day ago) - Prometheus community Helm charts
+- [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) ([master-LATEST](https://github.com/camptocamp/devops-stack-antora-ui/releases/tag/master-LATEST), 1 day ago) - Antora UI for the DevOps Stack Project
+- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.3.1](https://github.com/jetstack/cert-manager/releases/tag/v1.3.1), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([1.1.0](https://github.com/camptocamp/terraboard/releases/tag/1.1.0), 1 day ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v7.1.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v7.1.0), 3 days ago) - Puppet module for managing PostgreSQL
 
 #### 📜 My recent blog posts
 
-- [March Cloud Native Romandie Meetup](https://dev.to/camptocamp-ops/march-cloud-native-romandie-meetup-o2f) (1 week ago)
-- [Immutability &amp; loose coupling: a match made in heaven](https://dev.to/camptocamp-ops/immutability-loose-coupling-a-match-made-in-heaven-37kl) (3 weeks ago)
+- [March Cloud Native Romandie Meetup](https://dev.to/camptocamp-ops/march-cloud-native-romandie-meetup-o2f) (2 weeks ago)
+- [Immutability &amp; loose coupling: a match made in heaven](https://dev.to/camptocamp-ops/immutability-loose-coupling-a-match-made-in-heaven-37kl) (4 weeks ago)
 - [Open Source, Standards, and Technical Debt](https://dev.to/camptocamp-ops/open-source-standards-and-technical-debt-2g1) (2 months ago)
 - [A Simple Auth Proxy for EKS](https://dev.to/camptocamp-ops/a-simple-auth-proxy-for-eks-24dh) (5 months ago)
 - [Colored wrappers for kubectl](https://dev.to/raphink/colored-wrappers-for-kubectl-2pj1) (6 months ago)
