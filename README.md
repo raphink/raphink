@@ -9,11 +9,11 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/bivac](https://github.com/camptocamp/bivac) - 🏕 📦 Backup Interface for Volumes Attached to Containers (today)
-- [camptocamp/puppet-openldap](https://github.com/camptocamp/puppet-openldap) - Manage OpenLDAP with Puppet (today)
-- [camptocamp/puppet-catalog-diff-viewer](https://github.com/camptocamp/puppet-catalog-diff-viewer) - A viewer for the puppet-catalog-diff tool (today)
-- [camptocamp/puppet-kmod](https://github.com/camptocamp/puppet-kmod) - manage kernel module with puppet (today)
 - [camptocamp/puppet-systemd](https://github.com/camptocamp/puppet-systemd) - Puppet module to manage systemd (today)
+- [camptocamp/puppet-openldap](https://github.com/camptocamp/puppet-openldap) - Manage OpenLDAP with Puppet (today)
+- [camptocamp/puppet-kmod](https://github.com/camptocamp/puppet-kmod) - manage kernel module with puppet (today)
+- [camptocamp/bivac](https://github.com/camptocamp/bivac) - 🏕 📦 Backup Interface for Volumes Attached to Containers (today)
+- [camptocamp/puppet-openssl](https://github.com/camptocamp/puppet-openssl) - Puppet OpenSSL module (today)
 
 #### 🌱 My latest personal projects
 
