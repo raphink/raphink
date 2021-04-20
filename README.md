@@ -11,7 +11,7 @@ I like to automate systems where there is a need.
 
 - [camptocamp/r10k-dashboard](https://github.com/camptocamp/r10k-dashboard) - R10k&#39;s friendly companion (today)
 - [camptocamp/puppet-augeas](https://github.com/camptocamp/puppet-augeas) - Helper for using augeas with puppet (today)
-- [camptocamp/puppet-systemd](https://github.com/camptocamp/puppet-systemd) - Puppet module to manage systemd (1 day ago)
+- [camptocamp/puppet-openldap](https://github.com/camptocamp/puppet-openldap) - Manage OpenLDAP with Puppet (1 day ago)
 - [camptocamp/puppet-openssl](https://github.com/camptocamp/puppet-openssl) - Puppet OpenSSL module (1 day ago)
 - [camptocamp/bivac](https://github.com/camptocamp/bivac) - 🏕 📦 Backup Interface for Volumes Attached to Containers (1 day ago)
 
