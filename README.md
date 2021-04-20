@@ -25,7 +25,7 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-4.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-4.0.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-4.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-4.11.0), today) - Prometheus community Helm charts
 - [xorpaul/g10k](https://github.com/xorpaul/g10k) ([v0.8.15](https://github.com/xorpaul/g10k/releases/tag/v0.8.15), 1 day ago) - my r10k fork in Go
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.0.1](https://github.com/argoproj/argo-cd/releases/tag/v2.0.1), 5 days ago) - Declarative continuous deployment for Kubernetes.
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.1.0.rc1](https://github.com/voxpupuli/puppetboard/releases/tag/v3.1.0.rc1), 5 days ago) - Web frontend for PuppetDB
