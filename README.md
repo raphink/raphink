@@ -9,11 +9,11 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/r10k-dashboard](https://github.com/camptocamp/r10k-dashboard) - R10k&#39;s friendly companion (1 day ago)
-- [camptocamp/puppet-augeas](https://github.com/camptocamp/puppet-augeas) - Helper for using augeas with puppet (1 day ago)
-- [camptocamp/puppet-openldap](https://github.com/camptocamp/puppet-openldap) - Manage OpenLDAP with Puppet (2 days ago)
-- [camptocamp/puppet-openssl](https://github.com/camptocamp/puppet-openssl) - Puppet OpenSSL module (2 days ago)
-- [camptocamp/bivac](https://github.com/camptocamp/bivac) - 🏕 📦 Backup Interface for Volumes Attached to Containers (2 days ago)
+- [camptocamp/r10k-dashboard](https://github.com/camptocamp/r10k-dashboard) - R10k&#39;s friendly companion (2 days ago)
+- [camptocamp/puppet-augeas](https://github.com/camptocamp/puppet-augeas) - Helper for using augeas with puppet (2 days ago)
+- [camptocamp/puppet-openldap](https://github.com/camptocamp/puppet-openldap) - Manage OpenLDAP with Puppet (3 days ago)
+- [camptocamp/puppet-openssl](https://github.com/camptocamp/puppet-openssl) - Puppet OpenSSL module (3 days ago)
+- [camptocamp/bivac](https://github.com/camptocamp/bivac) - 🏕 📦 Backup Interface for Volumes Attached to Containers (3 days ago)
 
 #### 🌱 My latest personal projects
 
@@ -25,15 +25,15 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-15.1.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-15.1.3), today) - Prometheus community Helm charts
-- [xorpaul/g10k](https://github.com/xorpaul/g10k) ([v0.8.15](https://github.com/xorpaul/g10k/releases/tag/v0.8.15), 2 days ago) - my r10k fork in Go
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.0.1](https://github.com/argoproj/argo-cd/releases/tag/v2.0.1), 6 days ago) - Declarative continuous deployment for Kubernetes.
-- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.1.0.rc1](https://github.com/voxpupuli/puppetboard/releases/tag/v3.1.0.rc1), 6 days ago) - Web frontend for PuppetDB
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-15.1.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-15.1.3), 1 day ago) - Prometheus community Helm charts
+- [xorpaul/g10k](https://github.com/xorpaul/g10k) ([v0.8.15](https://github.com/xorpaul/g10k/releases/tag/v0.8.15), 3 days ago) - my r10k fork in Go
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.0.1](https://github.com/argoproj/argo-cd/releases/tag/v2.0.1), 1 week ago) - Declarative continuous deployment for Kubernetes.
+- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.1.0.rc1](https://github.com/voxpupuli/puppetboard/releases/tag/v3.1.0.rc1), 1 week ago) - Web frontend for PuppetDB
 - [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) ([master-LATEST](https://github.com/camptocamp/devops-stack-antora-ui/releases/tag/master-LATEST), 1 week ago) - Antora UI for the DevOps Stack Project
 
 #### 📜 My recent blog posts
 
-- [March Cloud Native Romandie Meetup](https://dev.to/camptocamp-ops/march-cloud-native-romandie-meetup-o2f) (2 weeks ago)
+- [March Cloud Native Romandie Meetup](https://dev.to/camptocamp-ops/march-cloud-native-romandie-meetup-o2f) (3 weeks ago)
 - [Immutability &amp; loose coupling: a match made in heaven](https://dev.to/camptocamp-ops/immutability-loose-coupling-a-match-made-in-heaven-37kl) (1 month ago)
 - [Open Source, Standards, and Technical Debt](https://dev.to/camptocamp-ops/open-source-standards-and-technical-debt-2g1) (2 months ago)
 - [A Simple Auth Proxy for EKS](https://dev.to/camptocamp-ops/a-simple-auth-proxy-for-eks-24dh) (5 months ago)
@@ -50,7 +50,7 @@ I like to automate systems where there is a need.
 
 #### 💚 My awesome sponsors (thank you!)
 
-- [<img src="https://avatars.githubusercontent.com/u/1110127?v=4" height="20"/> kennedye](https://github.com/kennedye) (10 months ago)
+- [<img src="https://avatars.githubusercontent.com/u/1110127?v=4" height="20"/> kennedye](https://github.com/kennedye) (11 months ago)
 
 
 #### 👨‍💻 General activity
