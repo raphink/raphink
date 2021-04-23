@@ -9,11 +9,11 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
+- [camptocamp/puppet-postfix](https://github.com/camptocamp/puppet-postfix) - Puppet postfix module (today)
 - [camptocamp/r10k-dashboard](https://github.com/camptocamp/r10k-dashboard) - R10k&#39;s friendly companion (3 days ago)
 - [camptocamp/puppet-augeas](https://github.com/camptocamp/puppet-augeas) - Helper for using augeas with puppet (3 days ago)
-- [camptocamp/puppet-openldap](https://github.com/camptocamp/puppet-openldap) - Manage OpenLDAP with Puppet (4 days ago)
-- [camptocamp/puppet-openssl](https://github.com/camptocamp/puppet-openssl) - Puppet OpenSSL module (4 days ago)
 - [camptocamp/bivac](https://github.com/camptocamp/bivac) - 🏕 📦 Backup Interface for Volumes Attached to Containers (4 days ago)
+- [camptocamp/puppet-systemd](https://github.com/camptocamp/puppet-systemd) - Puppet module to manage systemd (4 days ago)
 
 #### 🌱 My latest personal projects
 
@@ -41,11 +41,11 @@ I like to automate systems where there is a need.
 
 #### 👥 Check out some of my recent followers
 
+- [<img src="https://avatars.githubusercontent.com/u/64563726?u=459f1a93f4d1403ec2f6138d961b9157db95ce0b&amp;v=4" height="20"/> ghaku](https://github.com/ghaku)
 - [<img src="https://avatars.githubusercontent.com/u/73953538?u=67a2feee6d10991294a27af5275dabe54e9a090b&amp;v=4" height="20"/> togy-work](https://github.com/togy-work)
 - [<img src="https://avatars.githubusercontent.com/u/1585815?u=b1ccb150db8fef050d7d7e1eb620e873461bbf0a&amp;v=4" height="20"/> soulshake](https://github.com/soulshake)
 - [<img src="https://avatars.githubusercontent.com/u/35377962?v=4" height="20"/> mrcmn](https://github.com/mrcmn)
 - [<img src="https://avatars.githubusercontent.com/u/6858585?u=8ce4b31ad6726c18bca7a08a8669fc534a9e8536&amp;v=4" height="20"/> ondrejtomcik](https://github.com/ondrejtomcik)
-- [<img src="https://avatars.githubusercontent.com/u/29101873?v=4" height="20"/> AnikaSU](https://github.com/AnikaSU)
 
 
 #### 💚 My awesome sponsors (thank you!)
