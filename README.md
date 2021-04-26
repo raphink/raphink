@@ -41,11 +41,11 @@ I like to automate systems where there is a need.
 
 #### 👥 Check out some of my recent followers
 
+- [<img src="https://avatars.githubusercontent.com/u/5656140?u=577f05b20ddedadf5e8ec5eec0f61de42ce887a7&amp;v=4" height="20"/> jrhouston](https://github.com/jrhouston)
 - [<img src="https://avatars.githubusercontent.com/u/64563726?u=459f1a93f4d1403ec2f6138d961b9157db95ce0b&amp;v=4" height="20"/> ghaku](https://github.com/ghaku)
 - [<img src="https://avatars.githubusercontent.com/u/73953538?u=67a2feee6d10991294a27af5275dabe54e9a090b&amp;v=4" height="20"/> togy-work](https://github.com/togy-work)
 - [<img src="https://avatars.githubusercontent.com/u/1585815?u=b1ccb150db8fef050d7d7e1eb620e873461bbf0a&amp;v=4" height="20"/> soulshake](https://github.com/soulshake)
 - [<img src="https://avatars.githubusercontent.com/u/35377962?v=4" height="20"/> mrcmn](https://github.com/mrcmn)
-- [<img src="https://avatars.githubusercontent.com/u/6858585?u=8ce4b31ad6726c18bca7a08a8669fc534a9e8536&amp;v=4" height="20"/> ondrejtomcik](https://github.com/ondrejtomcik)
 
 
 #### 💚 My awesome sponsors (thank you!)
