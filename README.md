@@ -10,10 +10,10 @@ I like to automate systems where there is a need.
 #### 👷 Check out what I'm currently working on
 
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (today)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (today)
 - [camptocamp/puppet-postfix](https://github.com/camptocamp/puppet-postfix) - Puppet postfix module (3 days ago)
 - [fsismondi/devops-stack-tutorial](https://github.com/fsismondi/devops-stack-tutorial) - This is a project containing tutorials for running apps into the devops-stack (4 days ago)
 - [camptocamp/puppet-augeas](https://github.com/camptocamp/puppet-augeas) - Helper for using augeas with puppet (6 days ago)
-- [camptocamp/r10k-dashboard](https://github.com/camptocamp/r10k-dashboard) - R10k&#39;s friendly companion (6 days ago)
 
 #### 🌱 My latest personal projects
 
