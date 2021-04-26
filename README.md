@@ -9,11 +9,11 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
+- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) -  The Helm Chart for Puppet Server (today)
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (today)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (today)
 - [camptocamp/puppet-postfix](https://github.com/camptocamp/puppet-postfix) - Puppet postfix module (3 days ago)
 - [fsismondi/devops-stack-tutorial](https://github.com/fsismondi/devops-stack-tutorial) - This is a project containing tutorials for running apps into the devops-stack (4 days ago)
-- [camptocamp/puppet-augeas](https://github.com/camptocamp/puppet-augeas) - Helper for using augeas with puppet (6 days ago)
 
 #### 🌱 My latest personal projects
 
@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.4.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.4.0), today) -  The Helm Chart for Puppet Server
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-15.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-15.2.1), today) - Prometheus community Helm charts
 - [xorpaul/g10k](https://github.com/xorpaul/g10k) ([v0.8.15](https://github.com/xorpaul/g10k/releases/tag/v0.8.15), 1 week ago) - my r10k fork in Go
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.0.1](https://github.com/argoproj/argo-cd/releases/tag/v2.0.1), 1 week ago) - Declarative continuous deployment for Kubernetes.
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.1.0.rc1](https://github.com/voxpupuli/puppetboard/releases/tag/v3.1.0.rc1), 1 week ago) - Web frontend for PuppetDB
-- [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) ([master-LATEST](https://github.com/camptocamp/devops-stack-antora-ui/releases/tag/master-LATEST), 1 week ago) - Antora UI for the DevOps Stack Project
 
 #### 📜 My recent blog posts
 
