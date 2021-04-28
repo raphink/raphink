@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.4.0-alpha.0](https://github.com/jetstack/cert-manager/releases/tag/v1.4.0-alpha.0), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-1.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-1.1.0), today) - Prometheus community Helm charts
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.33.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.33.0), 1 day ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
 - [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.7.0](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.7.0), 1 day ago) - 
 - [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.4.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.4.0), 2 days ago) -  The Helm Chart for Puppet Server
-- [xorpaul/g10k](https://github.com/xorpaul/g10k) ([v0.8.15](https://github.com/xorpaul/g10k/releases/tag/v0.8.15), 1 week ago) - my r10k fork in Go
 
 #### 📜 My recent blog posts
 
