@@ -25,7 +25,7 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-15.2.4](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-15.2.4), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-15.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-15.3.1), today) - Prometheus community Helm charts
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.8](https://github.com/derailed/k9s/releases/tag/v0.24.8), today) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.4.0-alpha.0](https://github.com/jetstack/cert-manager/releases/tag/v1.4.0-alpha.0), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.33.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.33.0), 2 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
