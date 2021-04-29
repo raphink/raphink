@@ -25,7 +25,7 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-15.2.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-15.2.3), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nats-exporter-2.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nats-exporter-2.7.0), today) - Prometheus community Helm charts
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.4.0-alpha.0](https://github.com/jetstack/cert-manager/releases/tag/v1.4.0-alpha.0), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.33.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.33.0), 2 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
 - [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.7.0](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.7.0), 2 days ago) - 
