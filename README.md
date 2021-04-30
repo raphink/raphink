@@ -9,11 +9,11 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (2 days ago)
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (3 days ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (3 days ago)
-- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) -  The Helm Chart for Puppet Server (3 days ago)
-- [camptocamp/puppet-postfix](https://github.com/camptocamp/puppet-postfix) - Puppet postfix module (6 days ago)
+- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (3 days ago)
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (4 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (4 days ago)
+- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) -  The Helm Chart for Puppet Server (4 days ago)
+- [camptocamp/puppet-postfix](https://github.com/camptocamp/puppet-postfix) - Puppet postfix module (1 week ago)
 
 #### 🌱 My latest personal projects
 
@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-15.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-15.3.1), today) - Prometheus community Helm charts
-- [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.8](https://github.com/derailed/k9s/releases/tag/v0.24.8), today) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.4.0-alpha.0](https://github.com/jetstack/cert-manager/releases/tag/v1.4.0-alpha.0), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.33.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.33.0), 2 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
-- [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.7.0](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.7.0), 2 days ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-15.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-15.3.1), 1 day ago) - Prometheus community Helm charts
+- [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.8](https://github.com/derailed/k9s/releases/tag/v0.24.8), 1 day ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.4.0-alpha.0](https://github.com/jetstack/cert-manager/releases/tag/v1.4.0-alpha.0), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.33.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.33.0), 3 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
+- [exoscale/exoscale-cloud-controller-manager](https://github.com/exoscale/exoscale-cloud-controller-manager) ([v0.7.0](https://github.com/exoscale/exoscale-cloud-controller-manager/releases/tag/v0.7.0), 3 days ago) - 
 
 #### 📜 My recent blog posts
 
