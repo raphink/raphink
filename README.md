@@ -25,8 +25,8 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.6.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.6.0), today) -  The Helm Chart for Puppet Server
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.6](https://github.com/gopasspw/gopass/releases/tag/v1.12.6), today) - The slightly more awesome standard unix password manager for teams
-- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.5.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.5.0), 1 day ago) -  The Helm Chart for Puppet Server
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-15.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-15.3.1), 2 days ago) - Prometheus community Helm charts
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.8](https://github.com/derailed/k9s/releases/tag/v0.24.8), 2 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.4.0-alpha.0](https://github.com/jetstack/cert-manager/releases/tag/v1.4.0-alpha.0), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
