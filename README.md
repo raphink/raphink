@@ -9,10 +9,10 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) -  The Helm Chart for Puppet Server (2 days ago)
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (3 days ago)
-- [camptocamp/puppet-openssl](https://github.com/camptocamp/puppet-openssl) - Puppet OpenSSL module (3 days ago)
-- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (6 days ago)
+- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) -  The Helm Chart for Puppet Server (3 days ago)
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (4 days ago)
+- [camptocamp/puppet-openssl](https://github.com/camptocamp/puppet-openssl) - Puppet OpenSSL module (4 days ago)
+- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (1 week ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (1 week ago)
 
 #### 🌱 My latest personal projects
@@ -25,19 +25,19 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-cloudwatch-exporter-0.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.16.0), today) - Prometheus community Helm charts
-- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.6.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.6.0), 2 days ago) -  The Helm Chart for Puppet Server
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.6](https://github.com/gopasspw/gopass/releases/tag/v1.12.6), 2 days ago) - The slightly more awesome standard unix password manager for teams
-- [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.8](https://github.com/derailed/k9s/releases/tag/v0.24.8), 4 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.4.0-alpha.0](https://github.com/jetstack/cert-manager/releases/tag/v1.4.0-alpha.0), 5 days ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-15.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-15.4.0), today) - Prometheus community Helm charts
+- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.6.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.6.0), 3 days ago) -  The Helm Chart for Puppet Server
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.6](https://github.com/gopasspw/gopass/releases/tag/v1.12.6), 3 days ago) - The slightly more awesome standard unix password manager for teams
+- [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.8](https://github.com/derailed/k9s/releases/tag/v0.24.8), 5 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.4.0-alpha.0](https://github.com/jetstack/cert-manager/releases/tag/v1.4.0-alpha.0), 6 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 
 #### 📜 My recent blog posts
 
 - [March Cloud Native Romandie Meetup](https://dev.to/camptocamp-ops/march-cloud-native-romandie-meetup-o2f) (1 month ago)
 - [Immutability &amp; loose coupling: a match made in heaven](https://dev.to/camptocamp-ops/immutability-loose-coupling-a-match-made-in-heaven-37kl) (1 month ago)
-- [Open Source, Standards, and Technical Debt](https://dev.to/camptocamp-ops/open-source-standards-and-technical-debt-2g1) (2 months ago)
+- [Open Source, Standards, and Technical Debt](https://dev.to/camptocamp-ops/open-source-standards-and-technical-debt-2g1) (3 months ago)
 - [A Simple Auth Proxy for EKS](https://dev.to/camptocamp-ops/a-simple-auth-proxy-for-eks-24dh) (5 months ago)
-- [Colored wrappers for kubectl](https://dev.to/raphink/colored-wrappers-for-kubectl-2pj1) (6 months ago)
+- [Colored wrappers for kubectl](https://dev.to/raphink/colored-wrappers-for-kubectl-2pj1) (7 months ago)
 
 #### 👥 Check out some of my recent followers
 
