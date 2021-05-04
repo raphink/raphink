@@ -25,9 +25,9 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-3.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-3.0.1), today) - Prometheus community Helm charts
 - [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) ([master-LATEST](https://github.com/camptocamp/devops-stack-antora-ui/releases/tag/master-LATEST), today) - Antora UI for the DevOps Stack Project
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.9](https://github.com/derailed/k9s/releases/tag/v0.24.9), today) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-15.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-15.4.2), today) - Prometheus community Helm charts
 - [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.6.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.6.0), 3 days ago) -  The Helm Chart for Puppet Server
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.6](https://github.com/gopasspw/gopass/releases/tag/v1.12.6), 3 days ago) - The slightly more awesome standard unix password manager for teams
 
@@ -41,11 +41,11 @@ I like to automate systems where there is a need.
 
 #### 👥 Check out some of my recent followers
 
+- [<img src="https://avatars.githubusercontent.com/u/5523431?u=3c0b9cbc2416f5cd8685cd62396d151aeac25427&amp;v=4" height="20"/> kimim](https://github.com/kimim)
 - [<img src="https://avatars.githubusercontent.com/u/5656140?u=577f05b20ddedadf5e8ec5eec0f61de42ce887a7&amp;v=4" height="20"/> jrhouston](https://github.com/jrhouston)
 - [<img src="https://avatars.githubusercontent.com/u/73953538?u=67a2feee6d10991294a27af5275dabe54e9a090b&amp;v=4" height="20"/> togy-work](https://github.com/togy-work)
 - [<img src="https://avatars.githubusercontent.com/u/1585815?u=b1ccb150db8fef050d7d7e1eb620e873461bbf0a&amp;v=4" height="20"/> soulshake](https://github.com/soulshake)
 - [<img src="https://avatars.githubusercontent.com/u/35377962?v=4" height="20"/> mrcmn](https://github.com/mrcmn)
-- [<img src="https://avatars.githubusercontent.com/u/6858585?u=8ce4b31ad6726c18bca7a08a8669fc534a9e8536&amp;v=4" height="20"/> ondrejtomcik](https://github.com/ondrejtomcik)
 
 
 #### 💚 My awesome sponsors (thank you!)
