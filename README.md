@@ -25,7 +25,7 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-15.4.4](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-15.4.4), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.10.0), today) - Prometheus community Helm charts
 - [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) ([master-LATEST](https://github.com/camptocamp/devops-stack-antora-ui/releases/tag/master-LATEST), 1 day ago) - Antora UI for the DevOps Stack Project
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.9](https://github.com/derailed/k9s/releases/tag/v0.24.9), 1 day ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.6.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.6.0), 4 days ago) -  The Helm Chart for Puppet Server
