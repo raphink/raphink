@@ -9,10 +9,10 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/containers-course-argocd](https://github.com/camptocamp/containers-course-argocd) -  (today)
-- [camptocamp/puppet-openssl](https://github.com/camptocamp/puppet-openssl) - Puppet OpenSSL module (1 day ago)
-- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) -  The Helm Chart for Puppet Server (5 days ago)
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (6 days ago)
+- [camptocamp/containers-course-argocd](https://github.com/camptocamp/containers-course-argocd) -  (1 day ago)
+- [camptocamp/puppet-openssl](https://github.com/camptocamp/puppet-openssl) - Puppet OpenSSL module (2 days ago)
+- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) -  The Helm Chart for Puppet Server (6 days ago)
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components (1 week ago)
 - [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (1 week ago)
 
 #### 🌱 My latest personal projects
@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.10.0), 1 day ago) - Prometheus community Helm charts
-- [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) ([master-LATEST](https://github.com/camptocamp/devops-stack-antora-ui/releases/tag/master-LATEST), 2 days ago) - Antora UI for the DevOps Stack Project
-- [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.9](https://github.com/derailed/k9s/releases/tag/v0.24.9), 2 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.6.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.6.0), 5 days ago) -  The Helm Chart for Puppet Server
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.6](https://github.com/gopasspw/gopass/releases/tag/v1.12.6), 5 days ago) - The slightly more awesome standard unix password manager for teams
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.10.0), 2 days ago) - Prometheus community Helm charts
+- [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) ([master-LATEST](https://github.com/camptocamp/devops-stack-antora-ui/releases/tag/master-LATEST), 3 days ago) - Antora UI for the DevOps Stack Project
+- [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.9](https://github.com/derailed/k9s/releases/tag/v0.24.9), 3 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.6.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.6.0), 6 days ago) -  The Helm Chart for Puppet Server
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.6](https://github.com/gopasspw/gopass/releases/tag/v1.12.6), 6 days ago) - The slightly more awesome standard unix password manager for teams
 
 #### 📜 My recent blog posts
 
