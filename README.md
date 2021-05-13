@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.4.0-alpha.1](https://github.com/jetstack/cert-manager/releases/tag/v1.4.0-alpha.1), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-15.4.6](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-15.4.6), 1 day ago) - Prometheus community Helm charts
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.33.1](https://github.com/camptocamp/devops-stack/releases/tag/v0.33.1), 1 day ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
 - [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) ([master-LATEST](https://github.com/camptocamp/devops-stack-antora-ui/releases/tag/master-LATEST), 1 week ago) - Antora UI for the DevOps Stack Project
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.9](https://github.com/derailed/k9s/releases/tag/v0.24.9), 1 week ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.6.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.6.0), 1 week ago) -  The Helm Chart for Puppet Server
 
 #### 📜 My recent blog posts
 
