@@ -25,8 +25,8 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.1.0.post3](https://github.com/voxpupuli/puppetboard/releases/tag/v3.1.0.post3), today) - Web frontend for PuppetDB
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-14.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-14.0.0), 1 day ago) - Prometheus community Helm charts
+- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.1.0](https://github.com/voxpupuli/puppetboard/releases/tag/v3.1.0), 2 days ago) - Web frontend for PuppetDB
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.33.2](https://github.com/camptocamp/devops-stack/releases/tag/v0.33.2), 2 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.4.0-alpha.1](https://github.com/jetstack/cert-manager/releases/tag/v1.4.0-alpha.1), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) ([master-LATEST](https://github.com/camptocamp/devops-stack-antora-ui/releases/tag/master-LATEST), 1 week ago) - Antora UI for the DevOps Stack Project
