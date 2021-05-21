@@ -10,7 +10,7 @@ I like to automate systems where there is a need.
 #### 👷 Check out what I'm currently working on
 
 - [camptocamp/aws-iam-authenticator-proxy](https://github.com/camptocamp/aws-iam-authenticator-proxy) - A simple HTTP proxy to share AWS IAM authentication (1 week ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (1 week ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (2 weeks ago)
 - [camptocamp/containers-course-argocd](https://github.com/camptocamp/containers-course-argocd) -  (2 weeks ago)
 - [camptocamp/puppet-openssl](https://github.com/camptocamp/puppet-openssl) - Puppet OpenSSL module (2 weeks ago)
 - [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) -  The Helm Chart for Puppet Server (2 weeks ago)
@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.0.2](https://github.com/argoproj/argo-cd/releases/tag/v2.0.2), today) - Declarative continuous deployment for Kubernetes.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.0.0), today) - Prometheus community Helm charts
-- [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.10](https://github.com/derailed/k9s/releases/tag/v0.24.10), today) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.33.3](https://github.com/camptocamp/devops-stack/releases/tag/v0.33.3), 1 day ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
-- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.1.0](https://github.com/voxpupuli/puppetboard/releases/tag/v3.1.0), 6 days ago) - Web frontend for PuppetDB
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.0.2](https://github.com/argoproj/argo-cd/releases/tag/v2.0.2), 1 day ago) - Declarative continuous deployment for Kubernetes.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.0.0), 1 day ago) - Prometheus community Helm charts
+- [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.10](https://github.com/derailed/k9s/releases/tag/v0.24.10), 1 day ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.33.3](https://github.com/camptocamp/devops-stack/releases/tag/v0.33.3), 2 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
+- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.1.0](https://github.com/voxpupuli/puppetboard/releases/tag/v3.1.0), 1 week ago) - Web frontend for PuppetDB
 
 #### 📜 My recent blog posts
 
