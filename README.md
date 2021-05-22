@@ -9,7 +9,7 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (today)
+- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (1 day ago)
 - [camptocamp/aws-iam-authenticator-proxy](https://github.com/camptocamp/aws-iam-authenticator-proxy) - A simple HTTP proxy to share AWS IAM authentication (1 week ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (2 weeks ago)
 - [camptocamp/containers-course-argocd](https://github.com/camptocamp/containers-course-argocd) -  (2 weeks ago)
@@ -25,10 +25,10 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.0.1), today) - Prometheus community Helm charts
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.33.4](https://github.com/camptocamp/devops-stack/releases/tag/v0.33.4), today) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.0.2](https://github.com/argoproj/argo-cd/releases/tag/v2.0.2), 1 day ago) - Declarative continuous deployment for Kubernetes.
-- [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.10](https://github.com/derailed/k9s/releases/tag/v0.24.10), 1 day ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.0.1), 1 day ago) - Prometheus community Helm charts
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.33.4](https://github.com/camptocamp/devops-stack/releases/tag/v0.33.4), 1 day ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.0.2](https://github.com/argoproj/argo-cd/releases/tag/v2.0.2), 2 days ago) - Declarative continuous deployment for Kubernetes.
+- [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.10](https://github.com/derailed/k9s/releases/tag/v0.24.10), 2 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.1.0](https://github.com/voxpupuli/puppetboard/releases/tag/v3.1.0), 1 week ago) - Web frontend for PuppetDB
 
 #### 📜 My recent blog posts
@@ -50,7 +50,7 @@ I like to automate systems where there is a need.
 
 #### 💚 My awesome sponsors (thank you!)
 
-- [<img src="https://avatars.githubusercontent.com/u/1110127?v=4" height="20"/> kennedye](https://github.com/kennedye) (11 months ago)
+- [<img src="https://avatars.githubusercontent.com/u/1110127?v=4" height="20"/> kennedye](https://github.com/kennedye) (1 year ago)
 
 
 #### 👨‍💻 General activity
