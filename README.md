@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v7.2.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v7.2.0), today) - Puppet module for managing PostgreSQL
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.0.1), 3 days ago) - Prometheus community Helm charts
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.33.4](https://github.com/camptocamp/devops-stack/releases/tag/v0.33.4), 3 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.0.2](https://github.com/argoproj/argo-cd/releases/tag/v2.0.2), 4 days ago) - Declarative continuous deployment for Kubernetes.
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.10](https://github.com/derailed/k9s/releases/tag/v0.24.10), 4 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.1.0](https://github.com/voxpupuli/puppetboard/releases/tag/v3.1.0), 1 week ago) - Web frontend for PuppetDB
 
 #### 📜 My recent blog posts
 
