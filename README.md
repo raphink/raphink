@@ -9,8 +9,8 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (3 days ago)
-- [camptocamp/aws-iam-authenticator-proxy](https://github.com/camptocamp/aws-iam-authenticator-proxy) - A simple HTTP proxy to share AWS IAM authentication (1 week ago)
+- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (4 days ago)
+- [camptocamp/aws-iam-authenticator-proxy](https://github.com/camptocamp/aws-iam-authenticator-proxy) - A simple HTTP proxy to share AWS IAM authentication (2 weeks ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (2 weeks ago)
 - [camptocamp/containers-course-argocd](https://github.com/camptocamp/containers-course-argocd) -  (2 weeks ago)
 - [camptocamp/puppet-openssl](https://github.com/camptocamp/puppet-openssl) - Puppet OpenSSL module (2 weeks ago)
@@ -25,15 +25,15 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v7.2.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v7.2.0), today) - Puppet module for managing PostgreSQL
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.0.1), 3 days ago) - Prometheus community Helm charts
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.33.4](https://github.com/camptocamp/devops-stack/releases/tag/v0.33.4), 3 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.0.2](https://github.com/argoproj/argo-cd/releases/tag/v2.0.2), 4 days ago) - Declarative continuous deployment for Kubernetes.
-- [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.10](https://github.com/derailed/k9s/releases/tag/v0.24.10), 4 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v7.2.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v7.2.0), 1 day ago) - Puppet module for managing PostgreSQL
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.0.1), 4 days ago) - Prometheus community Helm charts
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.33.4](https://github.com/camptocamp/devops-stack/releases/tag/v0.33.4), 4 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.0.2](https://github.com/argoproj/argo-cd/releases/tag/v2.0.2), 5 days ago) - Declarative continuous deployment for Kubernetes.
+- [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.10](https://github.com/derailed/k9s/releases/tag/v0.24.10), 5 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 
 #### 📜 My recent blog posts
 
-- [How to allow dynamic Terraform Provider Configuration](https://dev.to/camptocamp-ops/how-to-allow-dynamic-terraform-provider-configuration-20ik) (1 week ago)
+- [How to allow dynamic Terraform Provider Configuration](https://dev.to/camptocamp-ops/how-to-allow-dynamic-terraform-provider-configuration-20ik) (2 weeks ago)
 - [March Cloud Native Romandie Meetup](https://dev.to/camptocamp-ops/march-cloud-native-romandie-meetup-o2f) (1 month ago)
 - [Immutability &amp; loose coupling: a match made in heaven](https://dev.to/camptocamp-ops/immutability-loose-coupling-a-match-made-in-heaven-37kl) (2 months ago)
 - [Open Source, Standards, and Technical Debt](https://dev.to/camptocamp-ops/open-source-standards-and-technical-debt-2g1) (3 months ago)
