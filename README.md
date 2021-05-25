@@ -9,11 +9,11 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
+- [voxpupuli/puppet-rhsm](https://github.com/voxpupuli/puppet-rhsm) - Puppet module for registering systems with RedHat. (today)
 - [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (4 days ago)
 - [camptocamp/aws-iam-authenticator-proxy](https://github.com/camptocamp/aws-iam-authenticator-proxy) - A simple HTTP proxy to share AWS IAM authentication (2 weeks ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (2 weeks ago)
 - [camptocamp/containers-course-argocd](https://github.com/camptocamp/containers-course-argocd) -  (2 weeks ago)
-- [camptocamp/puppet-openssl](https://github.com/camptocamp/puppet-openssl) - Puppet OpenSSL module (2 weeks ago)
 
 #### 🌱 My latest personal projects
 
