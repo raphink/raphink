@@ -25,9 +25,9 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-4.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-4.13.0), today) - Prometheus community Helm charts
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.34.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.34.0), today) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v7.2.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v7.2.0), 1 day ago) - Puppet module for managing PostgreSQL
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.0.1), 4 days ago) - Prometheus community Helm charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.0.2](https://github.com/argoproj/argo-cd/releases/tag/v2.0.2), 5 days ago) - Declarative continuous deployment for Kubernetes.
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.10](https://github.com/derailed/k9s/releases/tag/v0.24.10), 5 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 
