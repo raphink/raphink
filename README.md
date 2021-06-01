@@ -9,11 +9,11 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (today)
 - [hercules-team/augeasproviders_core](https://github.com/hercules-team/augeasproviders_core) - Alternative Augeas-based providers for Puppet, core library  http://augeasproviders.com/ (1 day ago)
 - [voxpupuli/puppet-rhsm](https://github.com/voxpupuli/puppet-rhsm) - Puppet module for registering systems with RedHat. (1 week ago)
 - [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (1 week ago)
 - [camptocamp/aws-iam-authenticator-proxy](https://github.com/camptocamp/aws-iam-authenticator-proxy) - A simple HTTP proxy to share AWS IAM authentication (3 weeks ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (3 weeks ago)
 
 #### 🌱 My latest personal projects
 
