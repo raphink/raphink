@@ -9,10 +9,10 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [hercules-team/augeasproviders_core](https://github.com/hercules-team/augeasproviders_core) - Alternative Augeas-based providers for Puppet, core library  http://augeasproviders.com/ (today)
-- [voxpupuli/puppet-rhsm](https://github.com/voxpupuli/puppet-rhsm) - Puppet module for registering systems with RedHat. (6 days ago)
+- [hercules-team/augeasproviders_core](https://github.com/hercules-team/augeasproviders_core) - Alternative Augeas-based providers for Puppet, core library  http://augeasproviders.com/ (1 day ago)
+- [voxpupuli/puppet-rhsm](https://github.com/voxpupuli/puppet-rhsm) - Puppet module for registering systems with RedHat. (1 week ago)
 - [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (1 week ago)
-- [camptocamp/aws-iam-authenticator-proxy](https://github.com/camptocamp/aws-iam-authenticator-proxy) - A simple HTTP proxy to share AWS IAM authentication (2 weeks ago)
+- [camptocamp/aws-iam-authenticator-proxy](https://github.com/camptocamp/aws-iam-authenticator-proxy) - A simple HTTP proxy to share AWS IAM authentication (3 weeks ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (3 weeks ago)
 
 #### 🌱 My latest personal projects
@@ -25,15 +25,15 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-3.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-3.1.1), today) - Prometheus community Helm charts
-- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.4.0-beta.0](https://github.com/jetstack/cert-manager/releases/tag/v1.4.0-beta.0), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.0.3](https://github.com/argoproj/argo-cd/releases/tag/v2.0.3), 4 days ago) - Declarative continuous deployment for Kubernetes.
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.34.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.34.0), 6 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-3.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-3.1.1), 1 day ago) - Prometheus community Helm charts
+- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.4.0-beta.0](https://github.com/jetstack/cert-manager/releases/tag/v1.4.0-beta.0), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.0.3](https://github.com/argoproj/argo-cd/releases/tag/v2.0.3), 5 days ago) - Declarative continuous deployment for Kubernetes.
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.34.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.34.0), 1 week ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v7.2.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v7.2.0), 1 week ago) - Puppet module for managing PostgreSQL
 
 #### 📜 My recent blog posts
 
-- [How to allow dynamic Terraform Provider Configuration](https://dev.to/camptocamp-ops/how-to-allow-dynamic-terraform-provider-configuration-20ik) (2 weeks ago)
+- [How to allow dynamic Terraform Provider Configuration](https://dev.to/camptocamp-ops/how-to-allow-dynamic-terraform-provider-configuration-20ik) (3 weeks ago)
 - [March Cloud Native Romandie Meetup](https://dev.to/camptocamp-ops/march-cloud-native-romandie-meetup-o2f) (2 months ago)
 - [Immutability &amp; loose coupling: a match made in heaven](https://dev.to/camptocamp-ops/immutability-loose-coupling-a-match-made-in-heaven-37kl) (2 months ago)
 - [Open Source, Standards, and Technical Debt](https://dev.to/camptocamp-ops/open-source-standards-and-technical-debt-2g1) (3 months ago)
