@@ -25,8 +25,8 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-1.18.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-1.18.1), today) - Prometheus community Helm charts
 - [camptocamp/terraform-libvirt-k3s](https://github.com/camptocamp/terraform-libvirt-k3s) ([v0.4.0](https://github.com/camptocamp/terraform-libvirt-k3s/releases/tag/v0.4.0), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.11.0), 1 day ago) - Prometheus community Helm charts
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.4.0-beta.0](https://github.com/jetstack/cert-manager/releases/tag/v1.4.0-beta.0), 6 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.0.3](https://github.com/argoproj/argo-cd/releases/tag/v2.0.3), 1 week ago) - Declarative continuous deployment for Kubernetes.
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.34.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.34.0), 1 week ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
