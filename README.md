@@ -41,11 +41,11 @@ I like to automate systems where there is a need.
 
 #### 👥 Check out some of my recent followers
 
+- [<img src="https://avatars.githubusercontent.com/u/79524299?u=538207151f50a7bc37736ce3f6df342dd7affea4&amp;v=4" height="20"/> Tr1angular](https://github.com/Tr1angular)
 - [<img src="https://avatars.githubusercontent.com/u/27230141?u=536de1edd992f6cbd2868d1bfee544c128e6be2f&amp;v=4" height="20"/> hbollon](https://github.com/hbollon)
 - [<img src="https://avatars.githubusercontent.com/u/425059?u=bdec12c38d2d85d820b21c8adf0ba5bfd1701bf9&amp;v=4" height="20"/> pringshia](https://github.com/pringshia)
 - [<img src="https://avatars.githubusercontent.com/u/5523431?u=3c0b9cbc2416f5cd8685cd62396d151aeac25427&amp;v=4" height="20"/> kimim](https://github.com/kimim)
 - [<img src="https://avatars.githubusercontent.com/u/5656140?u=577f05b20ddedadf5e8ec5eec0f61de42ce887a7&amp;v=4" height="20"/> jrhouston](https://github.com/jrhouston)
-- [<img src="https://avatars.githubusercontent.com/u/73953538?u=67a2feee6d10991294a27af5275dabe54e9a090b&amp;v=4" height="20"/> togy-work](https://github.com/togy-work)
 
 
 #### 💚 My awesome sponsors (thank you!)
