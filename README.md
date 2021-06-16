@@ -9,11 +9,11 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [voxpupuli/rspec-puppet-facts](https://github.com/voxpupuli/rspec-puppet-facts) - Simplify your unit tests by looping on every supported Operating System and populating facts. (1 day ago)
-- [voxpupuli/puppet-openldap](https://github.com/voxpupuli/puppet-openldap) - Manage OpenLDAP with Puppet (1 day ago)
-- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (1 day ago)
-- [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) - Puppet OpenSSL module (1 day ago)
-- [camptocamp/puppet-varnish](https://github.com/camptocamp/puppet-varnish) -  (1 day ago)
+- [voxpupuli/rspec-puppet-facts](https://github.com/voxpupuli/rspec-puppet-facts) - Simplify your unit tests by looping on every supported Operating System and populating facts. (2 days ago)
+- [voxpupuli/puppet-openldap](https://github.com/voxpupuli/puppet-openldap) - Manage OpenLDAP with Puppet (2 days ago)
+- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (2 days ago)
+- [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) - Puppet OpenSSL module (2 days ago)
+- [camptocamp/puppet-varnish](https://github.com/camptocamp/puppet-varnish) -  (2 days ago)
 
 #### 🌱 My latest personal projects
 
@@ -25,9 +25,9 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-2.14.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-2.14.2), today) - Prometheus community Helm charts
-- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.4.0](https://github.com/jetstack/cert-manager/releases/tag/v1.4.0), today) - Automatically provision and manage TLS certificates in Kubernetes
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.37.1](https://github.com/camptocamp/devops-stack/releases/tag/v0.37.1), 4 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-14.1.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-14.1.3), today) - Prometheus community Helm charts
+- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.4.0](https://github.com/jetstack/cert-manager/releases/tag/v1.4.0), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.37.1](https://github.com/camptocamp/devops-stack/releases/tag/v0.37.1), 5 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [camptocamp/terraform-libvirt-k3s](https://github.com/camptocamp/terraform-libvirt-k3s) ([v0.4.0](https://github.com/camptocamp/terraform-libvirt-k3s/releases/tag/v0.4.0), 1 week ago) - 
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.0.3](https://github.com/argoproj/argo-cd/releases/tag/v2.0.3), 2 weeks ago) - Declarative continuous deployment for Kubernetes.
 
@@ -35,7 +35,7 @@ I like to automate systems where there is a need.
 
 - [How to allow dynamic Terraform Provider Configuration](https://dev.to/camptocamp-ops/how-to-allow-dynamic-terraform-provider-configuration-20ik) (1 month ago)
 - [March Cloud Native Romandie Meetup](https://dev.to/camptocamp-ops/march-cloud-native-romandie-meetup-o2f) (2 months ago)
-- [Immutability &amp; loose coupling: a match made in heaven](https://dev.to/camptocamp-ops/immutability-loose-coupling-a-match-made-in-heaven-37kl) (2 months ago)
+- [Immutability &amp; loose coupling: a match made in heaven](https://dev.to/camptocamp-ops/immutability-loose-coupling-a-match-made-in-heaven-37kl) (3 months ago)
 - [Open Source, Standards, and Technical Debt](https://dev.to/camptocamp-ops/open-source-standards-and-technical-debt-2g1) (4 months ago)
 - [A Simple Auth Proxy for EKS](https://dev.to/camptocamp-ops/a-simple-auth-proxy-for-eks-24dh) (7 months ago)
 
