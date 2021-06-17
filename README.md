@@ -9,11 +9,11 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (today)
-- [voxpupuli/rspec-puppet-facts](https://github.com/voxpupuli/rspec-puppet-facts) - Simplify your unit tests by looping on every supported Operating System and populating facts. (2 days ago)
-- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (2 days ago)
-- [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) - Puppet OpenSSL module (2 days ago)
-- [camptocamp/puppet-varnish](https://github.com/camptocamp/puppet-varnish) -  (2 days ago)
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (1 day ago)
+- [voxpupuli/rspec-puppet-facts](https://github.com/voxpupuli/rspec-puppet-facts) - Simplify your unit tests by looping on every supported Operating System and populating facts. (3 days ago)
+- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (3 days ago)
+- [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) - Puppet OpenSSL module (3 days ago)
+- [camptocamp/puppet-varnish](https://github.com/camptocamp/puppet-varnish) -  (3 days ago)
 
 #### 🌱 My latest personal projects
 
@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.9.0), today) - Prometheus community Helm charts
-- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.4.0](https://github.com/jetstack/cert-manager/releases/tag/v1.4.0), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.37.1](https://github.com/camptocamp/devops-stack/releases/tag/v0.37.1), 5 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
-- [camptocamp/terraform-libvirt-k3s](https://github.com/camptocamp/terraform-libvirt-k3s) ([v0.4.0](https://github.com/camptocamp/terraform-libvirt-k3s/releases/tag/v0.4.0), 1 week ago) - 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.0.3](https://github.com/argoproj/argo-cd/releases/tag/v2.0.3), 2 weeks ago) - Declarative continuous deployment for Kubernetes.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.9.0), 1 day ago) - Prometheus community Helm charts
+- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.4.0](https://github.com/jetstack/cert-manager/releases/tag/v1.4.0), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.37.1](https://github.com/camptocamp/devops-stack/releases/tag/v0.37.1), 6 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
+- [camptocamp/terraform-libvirt-k3s](https://github.com/camptocamp/terraform-libvirt-k3s) ([v0.4.0](https://github.com/camptocamp/terraform-libvirt-k3s/releases/tag/v0.4.0), 2 weeks ago) - 
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.0.3](https://github.com/argoproj/argo-cd/releases/tag/v2.0.3), 3 weeks ago) - Declarative continuous deployment for Kubernetes.
 
 #### 📜 My recent blog posts
 
