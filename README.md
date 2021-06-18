@@ -25,7 +25,7 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.9.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.9.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-3.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-3.2.2), today) - Prometheus community Helm charts
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.4.0](https://github.com/jetstack/cert-manager/releases/tag/v1.4.0), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.37.1](https://github.com/camptocamp/devops-stack/releases/tag/v0.37.1), 1 week ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [camptocamp/terraform-libvirt-k3s](https://github.com/camptocamp/terraform-libvirt-k3s) ([v0.4.0](https://github.com/camptocamp/terraform-libvirt-k3s/releases/tag/v0.4.0), 2 weeks ago) - 
@@ -41,7 +41,7 @@ I like to automate systems where there is a need.
 
 #### 👥 Check out some of my recent followers
 
-- [<img src="https://avatars.githubusercontent.com/u/79524299?u=733bc5260f21f32ee481928fa03905d2b258e1c2&amp;v=4" height="20"/> Tr1angular](https://github.com/Tr1angular)
+- [<img src="https://avatars.githubusercontent.com/u/79524299?u=0155d46115c208b91a01e730936e2541b94d50e4&amp;v=4" height="20"/> Tr1angular](https://github.com/Tr1angular)
 - [<img src="https://avatars.githubusercontent.com/u/27230141?u=536de1edd992f6cbd2868d1bfee544c128e6be2f&amp;v=4" height="20"/> hbollon](https://github.com/hbollon)
 - [<img src="https://avatars.githubusercontent.com/u/425059?u=bdec12c38d2d85d820b21c8adf0ba5bfd1701bf9&amp;v=4" height="20"/> pringshia](https://github.com/pringshia)
 - [<img src="https://avatars.githubusercontent.com/u/5523431?u=3c0b9cbc2416f5cd8685cd62396d151aeac25427&amp;v=4" height="20"/> kimim](https://github.com/kimim)
