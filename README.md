@@ -9,11 +9,11 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (6 days ago)
+- [voxpupuli/puppet-postfix](https://github.com/voxpupuli/puppet-postfix) - Puppet postfix module (3 days ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (3 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (3 days ago)
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (4 days ago)
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (1 week ago)
-- [voxpupuli/rspec-puppet-facts](https://github.com/voxpupuli/rspec-puppet-facts) - Simplify your unit tests by looping on every supported Operating System and populating facts. (1 week ago)
-- [voxpupuli/puppet-openldap](https://github.com/voxpupuli/puppet-openldap) - Manage OpenLDAP with Puppet (1 week ago)
-- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (1 week ago)
 
 #### 🌱 My latest personal projects
 
@@ -25,11 +25,11 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.38.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.38.0), today) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-1.18.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-1.18.2), 3 days ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.12.1](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.12.1), 1 day ago) - Prometheus community Helm charts
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.0.4](https://github.com/argoproj/argo-cd/releases/tag/v2.0.4), 3 days ago) - Declarative continuous deployment for Kubernetes.
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.38.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.38.0), 4 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.4.0](https://github.com/jetstack/cert-manager/releases/tag/v1.4.0), 1 week ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [camptocamp/terraform-libvirt-k3s](https://github.com/camptocamp/terraform-libvirt-k3s) ([v0.4.0](https://github.com/camptocamp/terraform-libvirt-k3s/releases/tag/v0.4.0), 2 weeks ago) - 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.0.3](https://github.com/argoproj/argo-cd/releases/tag/v2.0.3), 3 weeks ago) - Declarative continuous deployment for Kubernetes.
+- [camptocamp/terraform-libvirt-k3s](https://github.com/camptocamp/terraform-libvirt-k3s) ([v0.4.0](https://github.com/camptocamp/terraform-libvirt-k3s/releases/tag/v0.4.0), 3 weeks ago) - 
 
 #### 📜 My recent blog posts
 
@@ -43,7 +43,7 @@ I like to automate systems where there is a need.
 
 - [<img src="https://avatars.githubusercontent.com/u/79524299?u=0155d46115c208b91a01e730936e2541b94d50e4&amp;v=4" height="20"/> Tr1angular](https://github.com/Tr1angular)
 - [<img src="https://avatars.githubusercontent.com/u/27230141?u=536de1edd992f6cbd2868d1bfee544c128e6be2f&amp;v=4" height="20"/> hbollon](https://github.com/hbollon)
-- [<img src="https://avatars.githubusercontent.com/u/425059?u=bdec12c38d2d85d820b21c8adf0ba5bfd1701bf9&amp;v=4" height="20"/> pringshia](https://github.com/pringshia)
+- [<img src="https://avatars.githubusercontent.com/u/425059?u=2ba359bfc409dfdad43474ccd9f33d125ad5b8b5&amp;v=4" height="20"/> pringshia](https://github.com/pringshia)
 - [<img src="https://avatars.githubusercontent.com/u/5523431?u=3c0b9cbc2416f5cd8685cd62396d151aeac25427&amp;v=4" height="20"/> kimim](https://github.com/kimim)
 - [<img src="https://avatars.githubusercontent.com/u/5656140?u=577f05b20ddedadf5e8ec5eec0f61de42ce887a7&amp;v=4" height="20"/> jrhouston](https://github.com/jrhouston)
 
