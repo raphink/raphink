@@ -25,7 +25,7 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-1.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-1.2.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-1.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-1.10.1), today) - Prometheus community Helm charts
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.11](https://github.com/derailed/k9s/releases/tag/v0.24.11), 1 day ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.0.4](https://github.com/argoproj/argo-cd/releases/tag/v2.0.4), 6 days ago) - Declarative continuous deployment for Kubernetes.
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.38.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.38.0), 1 week ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
