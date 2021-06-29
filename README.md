@@ -25,8 +25,8 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
+- [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.12](https://github.com/derailed/k9s/releases/tag/v0.24.12), today) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-1.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-1.10.1), today) - Prometheus community Helm charts
-- [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.11](https://github.com/derailed/k9s/releases/tag/v0.24.11), 1 day ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.0.4](https://github.com/argoproj/argo-cd/releases/tag/v2.0.4), 6 days ago) - Declarative continuous deployment for Kubernetes.
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.38.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.38.0), 1 week ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) ([v1.4.0](https://github.com/jetstack/cert-manager/releases/tag/v1.4.0), 2 weeks ago) - Automatically provision and manage TLS certificates in Kubernetes
