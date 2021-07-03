@@ -9,7 +9,7 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (4 days ago)
+- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (5 days ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (1 week ago)
 - [voxpupuli/puppet-postfix](https://github.com/voxpupuli/puppet-postfix) - Puppet postfix module (1 week ago)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 week ago)
@@ -25,9 +25,9 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.7](https://github.com/gopasspw/gopass/releases/tag/v1.12.7), today) - The slightly more awesome standard unix password manager for teams
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.12.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.12.1), 1 day ago) - Prometheus community Helm charts
-- [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.13](https://github.com/derailed/k9s/releases/tag/v0.24.13), 1 day ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.7](https://github.com/gopasspw/gopass/releases/tag/v1.12.7), 1 day ago) - The slightly more awesome standard unix password manager for teams
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.12.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.12.1), 2 days ago) - Prometheus community Helm charts
+- [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.13](https://github.com/derailed/k9s/releases/tag/v0.24.13), 2 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.0.4](https://github.com/argoproj/argo-cd/releases/tag/v2.0.4), 1 week ago) - Declarative continuous deployment for Kubernetes.
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.38.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.38.0), 1 week ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 
@@ -36,7 +36,7 @@ I like to automate systems where there is a need.
 - [How to allow dynamic Terraform Provider Configuration](https://dev.to/camptocamp-ops/how-to-allow-dynamic-terraform-provider-configuration-20ik) (1 month ago)
 - [March Cloud Native Romandie Meetup](https://dev.to/camptocamp-ops/march-cloud-native-romandie-meetup-o2f) (3 months ago)
 - [Immutability &amp; loose coupling: a match made in heaven](https://dev.to/camptocamp-ops/immutability-loose-coupling-a-match-made-in-heaven-37kl) (3 months ago)
-- [Open Source, Standards, and Technical Debt](https://dev.to/camptocamp-ops/open-source-standards-and-technical-debt-2g1) (4 months ago)
+- [Open Source, Standards, and Technical Debt](https://dev.to/camptocamp-ops/open-source-standards-and-technical-debt-2g1) (5 months ago)
 - [A Simple Auth Proxy for EKS](https://dev.to/camptocamp-ops/a-simple-auth-proxy-for-eks-24dh) (7 months ago)
 
 #### 👥 Check out some of my recent followers
