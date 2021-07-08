@@ -9,7 +9,7 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [hercules-team/augeasproviders_core](https://github.com/hercules-team/augeasproviders_core) - Alternative Augeas-based providers for Puppet, core library  http://augeasproviders.com/ (1 day ago)
+- [hercules-team/augeasproviders_core](https://github.com/hercules-team/augeasproviders_core) - Alternative Augeas-based providers for Puppet, core library  http://augeasproviders.com/ (2 days ago)
 - [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (1 week ago)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (2 weeks ago)
 - [voxpupuli/puppet-postfix](https://github.com/voxpupuli/puppet-postfix) - Puppet postfix module (2 weeks ago)
@@ -25,10 +25,10 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-14.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-14.3.1), today) - Prometheus community Helm charts
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.39.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.39.0), 2 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.7](https://github.com/gopasspw/gopass/releases/tag/v1.12.7), 5 days ago) - The slightly more awesome standard unix password manager for teams
-- [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.13](https://github.com/derailed/k9s/releases/tag/v0.24.13), 6 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-14.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-14.3.1), 1 day ago) - Prometheus community Helm charts
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.39.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.39.0), 3 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.7](https://github.com/gopasspw/gopass/releases/tag/v1.12.7), 6 days ago) - The slightly more awesome standard unix password manager for teams
+- [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.13](https://github.com/derailed/k9s/releases/tag/v0.24.13), 1 week ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.0.4](https://github.com/argoproj/argo-cd/releases/tag/v2.0.4), 2 weeks ago) - Declarative continuous deployment for Kubernetes.
 
 #### 📜 My recent blog posts
