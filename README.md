@@ -41,11 +41,11 @@ I like to automate systems where there is a need.
 
 #### 👥 Check out some of my recent followers
 
+- [<img src="https://avatars.githubusercontent.com/u/1022187?u=10f1cf810496049512a1903e37a585bafba71e04&amp;v=4" height="20"/> Novusvetus](https://github.com/Novusvetus)
 - [<img src="https://avatars.githubusercontent.com/u/79524299?u=0155d46115c208b91a01e730936e2541b94d50e4&amp;v=4" height="20"/> Tr1angular](https://github.com/Tr1angular)
 - [<img src="https://avatars.githubusercontent.com/u/27230141?u=536de1edd992f6cbd2868d1bfee544c128e6be2f&amp;v=4" height="20"/> hbollon](https://github.com/hbollon)
 - [<img src="https://avatars.githubusercontent.com/u/425059?u=2ba359bfc409dfdad43474ccd9f33d125ad5b8b5&amp;v=4" height="20"/> pringshia](https://github.com/pringshia)
 - [<img src="https://avatars.githubusercontent.com/u/5523431?u=3c0b9cbc2416f5cd8685cd62396d151aeac25427&amp;v=4" height="20"/> kimim](https://github.com/kimim)
-- [<img src="https://avatars.githubusercontent.com/u/5656140?u=577f05b20ddedadf5e8ec5eec0f61de42ce887a7&amp;v=4" height="20"/> jrhouston](https://github.com/jrhouston)
 
 
 #### 💚 My awesome sponsors (thank you!)
