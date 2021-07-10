@@ -9,9 +9,9 @@ I like to automate systems where there is a need.
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (today)
-- [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (today)
-- [hercules-team/augeasproviders_core](https://github.com/hercules-team/augeasproviders_core) - Alternative Augeas-based providers for Puppet, core library  http://augeasproviders.com/ (3 days ago)
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (1 day ago)
+- [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (1 day ago)
+- [hercules-team/augeasproviders_core](https://github.com/hercules-team/augeasproviders_core) - Alternative Augeas-based providers for Puppet, core library  http://augeasproviders.com/ (4 days ago)
 - [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (1 week ago)
 - [voxpupuli/puppet-postfix](https://github.com/voxpupuli/puppet-postfix) - Puppet postfix module (2 weeks ago)
 
@@ -25,15 +25,15 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.14](https://github.com/derailed/k9s/releases/tag/v0.24.14), 1 day ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-14.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-14.4.0), 1 day ago) - Prometheus community Helm charts
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.39.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.39.0), 4 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
+- [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.14](https://github.com/derailed/k9s/releases/tag/v0.24.14), 2 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-14.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-14.4.0), 2 days ago) - Prometheus community Helm charts
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.39.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.39.0), 5 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.7](https://github.com/gopasspw/gopass/releases/tag/v1.12.7), 1 week ago) - The slightly more awesome standard unix password manager for teams
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.0.4](https://github.com/argoproj/argo-cd/releases/tag/v2.0.4), 2 weeks ago) - Declarative continuous deployment for Kubernetes.
 
 #### 📜 My recent blog posts
 
-- [How to allow dynamic Terraform Provider Configuration](https://dev.to/camptocamp-ops/how-to-allow-dynamic-terraform-provider-configuration-20ik) (1 month ago)
+- [How to allow dynamic Terraform Provider Configuration](https://dev.to/camptocamp-ops/how-to-allow-dynamic-terraform-provider-configuration-20ik) (2 months ago)
 - [March Cloud Native Romandie Meetup](https://dev.to/camptocamp-ops/march-cloud-native-romandie-meetup-o2f) (3 months ago)
 - [Immutability &amp; loose coupling: a match made in heaven](https://dev.to/camptocamp-ops/immutability-loose-coupling-a-match-made-in-heaven-37kl) (3 months ago)
 - [Open Source, Standards, and Technical Debt](https://dev.to/camptocamp-ops/open-source-standards-and-technical-debt-2g1) (5 months ago)
