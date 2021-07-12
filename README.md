@@ -25,7 +25,7 @@ I like to automate systems where there is a need.
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-2.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-2.15.0), 2 days ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-16.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-16.13.0), today) - Prometheus community Helm charts
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.24.14](https://github.com/derailed/k9s/releases/tag/v0.24.14), 4 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.39.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.39.0), 1 week ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.7](https://github.com/gopasspw/gopass/releases/tag/v1.12.7), 1 week ago) - The slightly more awesome standard unix password manager for teams
