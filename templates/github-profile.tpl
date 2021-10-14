@@ -1,6 +1,9 @@
 ### Hi there 👋🏼
 
-<img align="right" src="https://raw.githubusercontent.com/raphink/raphink/master/assets/raphink.jpg" width="260">
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raphink&theme=onedark&margin-w=15&margin-h=15&no-frame=true&column=5"/></a>
+</p>
 
 
 I'm Raphaël, an Infrastructure Developer working at [Camptocamp 🏔](https://github.com/camptocamp) in Lausanne, Switzerland 🇨🇭.
@@ -22,6 +25,11 @@ I like to automate systems where there is a need.
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
+#### 🔨 Latest Pull Requests I published
+{{range recentPullRequests 5}}
+- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
+
 #### 📜 My recent blog posts
 {{range rss "https://dev.to/feed/raphink" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
@@ -37,13 +45,6 @@ I like to automate systems where there is a need.
 {{ range sponsors 5 }}
 - [<img src="{{.User.AvatarURL}}" height="20"/> {{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
-
-
-#### 👨‍💻 General activity
-
-GitHub + GitLab + StackOverflow
-
-[![Codersrank activity](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=raphink&labels=true)](https://profile.codersrank.io/user/raphink/)
 
 
 #### 💬 Feedback

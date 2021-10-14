@@ -1,6 +1,9 @@
 ### Hi there 👋🏼
 
-<img align="right" src="https://raw.githubusercontent.com/raphink/raphink/master/assets/raphink.jpg" width="260">
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raphink&theme=onedark&margin-w=15&margin-h=15&no-frame=true&column=5"/></a>
+</p>
 
 
 I'm Raphaël, an Infrastructure Developer working at [Camptocamp 🏔](https://github.com/camptocamp) in Lausanne, Switzerland 🇨🇭.
@@ -31,6 +34,14 @@ I like to automate systems where there is a need.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.1.3](https://github.com/argoproj/argo-cd/releases/tag/v2.1.3), 2 weeks ago) - Declarative continuous deployment for Kubernetes.
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.48.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.48.0), 3 weeks ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 
+#### 🔨 Latest Pull Requests I published
+
+- [fix(argocd): fix kube-prometheus-stack dependency on OIDC](https://github.com/camptocamp/devops-stack/pull/795) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (2 weeks ago)
+- [fix(terraform): terraform uses `TF_VAR_aws_user` instead of `AWSUSER`](https://github.com/bespinian/serverless-workshop/pull/7) on [bespinian/serverless-workshop](https://github.com/bespinian/serverless-workshop) (3 weeks ago)
+- [fix(terraform): fix function name according to README](https://github.com/bespinian/serverless-workshop/pull/6) on [bespinian/serverless-workshop](https://github.com/bespinian/serverless-workshop) (3 weeks ago)
+- [feat(docs): add SKS quickstart](https://github.com/camptocamp/devops-stack/pull/784) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (4 weeks ago)
+- [chore(docs): update version in Terraform module call](https://github.com/camptocamp/devops-stack/pull/783) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (4 weeks ago)
+
 #### 📜 My recent blog posts
 
 - [How to allow dynamic Terraform Provider Configuration](https://dev.to/camptocamp-ops/how-to-allow-dynamic-terraform-provider-configuration-20ik) (5 months ago)
@@ -52,13 +63,6 @@ I like to automate systems where there is a need.
 
 - [<img src="https://avatars.githubusercontent.com/u/3693851?v=4" height="20"/> nmaludy](https://github.com/nmaludy) (2 months ago)
 - [<img src="https://avatars.githubusercontent.com/u/1110127?v=4" height="20"/> kennedye](https://github.com/kennedye) (1 year ago)
-
-
-#### 👨‍💻 General activity
-
-GitHub + GitLab + StackOverflow
-
-[![Codersrank activity](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=raphink&labels=true)](https://profile.codersrank.io/user/raphink/)
 
 
 #### 💬 Feedback
