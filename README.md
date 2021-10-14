@@ -13,10 +13,10 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 👷 Check out what I'm currently working on
 
-- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (today)
+- [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (today)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (today)
+- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (today)
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (2 days ago)
-- [camptocamp/kube-muppet](https://github.com/camptocamp/kube-muppet) - A Kubernetes DaemonSet to feed node facts into the PuppetDB (1 week ago)
 - [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (1 week ago)
 
 #### 🌱 My latest personal projects
@@ -29,8 +29,8 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-5.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-5.2.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.2.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.2.0), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-14.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-14.10.0), today) - Prometheus community Helm charts
 - [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v2.1.0](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v2.1.0), 2 weeks ago) - Terraform provider for ArgoCD 
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.1.3](https://github.com/argoproj/argo-cd/releases/tag/v2.1.3), 2 weeks ago) - Declarative continuous deployment for Kubernetes.
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.48.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.48.0), 3 weeks ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
