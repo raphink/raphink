@@ -7,7 +7,8 @@
 
 
 I'm Raphaël, an Infrastructure Developer working at [Camptocamp 🏔](https://github.com/camptocamp) in Lausanne, Switzerland 🇨🇭.
-I like to automate systems where there is a need.
+
+<hr />
 
 
 #### 👷 Check out what I'm currently working on
