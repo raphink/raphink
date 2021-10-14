@@ -29,7 +29,7 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.25.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.25.1), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.2.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.2.0), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-14.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-14.10.0), today) - Prometheus community Helm charts
 - [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v2.1.0](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v2.1.0), 2 weeks ago) - Terraform provider for ArgoCD 
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.1.3](https://github.com/argoproj/argo-cd/releases/tag/v2.1.3), 2 weeks ago) - Declarative continuous deployment for Kubernetes.
@@ -37,11 +37,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(lens): sshd_config match groups accept quoted strings with opt spaces](https://github.com/hercules-team/augeas/pull/739) on [hercules-team/augeas](https://github.com/hercules-team/augeas) (today)
 - [fix(argocd): fix kube-prometheus-stack dependency on OIDC](https://github.com/camptocamp/devops-stack/pull/795) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (2 weeks ago)
 - [fix(terraform): terraform uses `TF_VAR_aws_user` instead of `AWSUSER`](https://github.com/bespinian/serverless-workshop/pull/7) on [bespinian/serverless-workshop](https://github.com/bespinian/serverless-workshop) (3 weeks ago)
 - [fix(terraform): fix function name according to README](https://github.com/bespinian/serverless-workshop/pull/6) on [bespinian/serverless-workshop](https://github.com/bespinian/serverless-workshop) (3 weeks ago)
 - [feat(docs): add SKS quickstart](https://github.com/camptocamp/devops-stack/pull/784) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (4 weeks ago)
-- [chore(docs): update version in Terraform module call](https://github.com/camptocamp/devops-stack/pull/783) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (4 weeks ago)
 
 #### 📜 My recent blog posts
 
