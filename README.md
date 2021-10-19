@@ -29,7 +29,7 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-19.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-19.2.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-19.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-19.2.2), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.3.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.3.0), 1 day ago) - ArgoProj Helm Charts
 - [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v2.1.0](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v2.1.0), 2 weeks ago) - Terraform provider for ArgoCD 
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.1.3](https://github.com/argoproj/argo-cd/releases/tag/v2.1.3), 2 weeks ago) - Declarative continuous deployment for Kubernetes.
