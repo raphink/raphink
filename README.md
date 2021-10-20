@@ -53,7 +53,7 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 👥 Check out some of my recent followers
 
-- [<img src="https://avatars.githubusercontent.com/u/90005223?u=cb723b8232185c53c5ea356b923b11edad5aec85&amp;v=4" height="20"/> vmthread](https://github.com/vmthread)
+- [<img src="https://avatars.githubusercontent.com/u/90005223?u=b55aa9171774ed82c8a88f097f55b094d2f2b0fd&amp;v=4" height="20"/> scopes1337](https://github.com/scopes1337)
 - [<img src="https://avatars.githubusercontent.com/u/52964724?u=e9ea19fc6aebfd58a4bcfac339fd3d8b326da3b1&amp;v=4" height="20"/> umegbewe](https://github.com/umegbewe)
 - [<img src="https://avatars.githubusercontent.com/u/42875763?u=2b8e625a8a6ce67f89b7dfe18ac225e956c7c966&amp;v=4" height="20"/> tuanpham96](https://github.com/tuanpham96)
 - [<img src="https://avatars.githubusercontent.com/u/29024886?u=694212590b355f28a3b7c9d09bae3a4f832c9a16&amp;v=4" height="20"/> daliborkoenig](https://github.com/daliborkoenig)
