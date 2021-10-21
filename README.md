@@ -13,9 +13,9 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 👷 Check out what I'm currently working on
 
-- [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (6 days ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (6 days ago)
-- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (6 days ago)
+- [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (1 week ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (1 week ago)
+- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (1 week ago)
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (1 week ago)
 - [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (2 weeks ago)
 
@@ -29,18 +29,18 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-3.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-3.0.0), today) - Prometheus community Helm charts
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.1.5](https://github.com/argoproj/argo-cd/releases/tag/v2.1.5), today) - Declarative continuous deployment for Kubernetes.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.26.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.26.1), today) - ArgoProj Helm Charts
-- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v2.1.0](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v2.1.0), 2 weeks ago) - Terraform provider for ArgoCD 
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.48.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.48.0), 3 weeks ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-3.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-3.0.0), 1 day ago) - Prometheus community Helm charts
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.1.5](https://github.com/argoproj/argo-cd/releases/tag/v2.1.5), 1 day ago) - Declarative continuous deployment for Kubernetes.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.26.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.26.1), 1 day ago) - ArgoProj Helm Charts
+- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v2.1.0](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v2.1.0), 3 weeks ago) - Terraform provider for ArgoCD 
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.48.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.48.0), 4 weeks ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(lens): sshd_config match groups accept quoted strings with opt spaces](https://github.com/hercules-team/augeas/pull/739) on [hercules-team/augeas](https://github.com/hercules-team/augeas) (6 days ago)
+- [fix(lens): sshd_config match groups accept quoted strings with opt spaces](https://github.com/hercules-team/augeas/pull/739) on [hercules-team/augeas](https://github.com/hercules-team/augeas) (1 week ago)
 - [fix(argocd): fix kube-prometheus-stack dependency on OIDC](https://github.com/camptocamp/devops-stack/pull/795) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (3 weeks ago)
-- [fix(terraform): terraform uses `TF_VAR_aws_user` instead of `AWSUSER`](https://github.com/bespinian/serverless-workshop/pull/7) on [bespinian/serverless-workshop](https://github.com/bespinian/serverless-workshop) (3 weeks ago)
-- [fix(terraform): fix function name according to README](https://github.com/bespinian/serverless-workshop/pull/6) on [bespinian/serverless-workshop](https://github.com/bespinian/serverless-workshop) (3 weeks ago)
+- [fix(terraform): terraform uses `TF_VAR_aws_user` instead of `AWSUSER`](https://github.com/bespinian/serverless-workshop/pull/7) on [bespinian/serverless-workshop](https://github.com/bespinian/serverless-workshop) (4 weeks ago)
+- [fix(terraform): fix function name according to README](https://github.com/bespinian/serverless-workshop/pull/6) on [bespinian/serverless-workshop](https://github.com/bespinian/serverless-workshop) (4 weeks ago)
 - [feat(docs): add SKS quickstart](https://github.com/camptocamp/devops-stack/pull/784) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 month ago)
 
 #### 📜 My recent blog posts
