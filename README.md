@@ -29,9 +29,9 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.26.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.26.3), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-3.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-3.0.0), 1 day ago) - Prometheus community Helm charts
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.1.5](https://github.com/argoproj/argo-cd/releases/tag/v2.1.5), 1 day ago) - Declarative continuous deployment for Kubernetes.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.26.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.26.3), 1 day ago) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-3.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-3.0.0), 2 days ago) - Prometheus community Helm charts
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.1.5](https://github.com/argoproj/argo-cd/releases/tag/v2.1.5), 2 days ago) - Declarative continuous deployment for Kubernetes.
 - [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v2.1.0](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v2.1.0), 3 weeks ago) - Terraform provider for ArgoCD 
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.48.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.48.0), 4 weeks ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 
