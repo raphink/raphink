@@ -53,11 +53,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 👥 Check out some of my recent followers
 
+- [<img src="https://avatars.githubusercontent.com/u/7550495?u=d4e3cda186f611449d167e1cbdd5218f57e7a494&amp;v=4" height="20"/> KristianFJones](https://github.com/KristianFJones)
 - [<img src="https://avatars.githubusercontent.com/u/1445852?u=955383d72e7bfa43514a526682210048a67c93df&amp;v=4" height="20"/> g0hl1n](https://github.com/g0hl1n)
 - [<img src="https://avatars.githubusercontent.com/u/56155720?v=4" height="20"/> imdanique](https://github.com/imdanique)
 - [<img src="https://avatars.githubusercontent.com/u/90005223?u=b55aa9171774ed82c8a88f097f55b094d2f2b0fd&amp;v=4" height="20"/> scopes1337](https://github.com/scopes1337)
 - [<img src="https://avatars.githubusercontent.com/u/52964724?u=e9ea19fc6aebfd58a4bcfac339fd3d8b326da3b1&amp;v=4" height="20"/> umegbewe](https://github.com/umegbewe)
-- [<img src="https://avatars.githubusercontent.com/u/42875763?u=2b8e625a8a6ce67f89b7dfe18ac225e956c7c966&amp;v=4" height="20"/> tuanpham96](https://github.com/tuanpham96)
 
 
 #### 💚 My awesome sponsors (thank you!)
