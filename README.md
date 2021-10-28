@@ -13,11 +13,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (2 days ago)
-- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (2 days ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (1 week ago)
-- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (1 week ago)
-- [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (1 week ago)
+- [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (3 days ago)
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (3 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (2 weeks ago)
+- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (2 weeks ago)
+- [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (2 weeks ago)
 
 #### 🌱 My latest personal projects
 
@@ -29,15 +29,15 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-5.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-5.3.1), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-1.8.0](https://github.com/argoproj/argo-helm/releases/tag/argo-events-1.8.0), today) - ArgoProj Helm Charts
-- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.0.0](https://github.com/camptocamp/terraboard/releases/tag/v2.0.0), 2 days ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
-- [hercules-team/augeas](https://github.com/hercules-team/augeas) ([release-1.13.0](https://github.com/hercules-team/augeas/releases/tag/release-1.13.0), 3 days ago) - A configuration editing tool and API
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-5.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-5.3.1), 1 day ago) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-1.8.0](https://github.com/argoproj/argo-helm/releases/tag/argo-events-1.8.0), 1 day ago) - ArgoProj Helm Charts
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.0.0](https://github.com/camptocamp/terraboard/releases/tag/v2.0.0), 3 days ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
+- [hercules-team/augeas](https://github.com/hercules-team/augeas) ([release-1.13.0](https://github.com/hercules-team/augeas/releases/tag/release-1.13.0), 4 days ago) - A configuration editing tool and API
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.1.5](https://github.com/argoproj/argo-cd/releases/tag/v2.1.5), 1 week ago) - Declarative continuous deployment for Kubernetes.
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(lens): sshd_config match groups accept quoted strings with opt spaces](https://github.com/hercules-team/augeas/pull/739) on [hercules-team/augeas](https://github.com/hercules-team/augeas) (1 week ago)
+- [fix(lens): sshd_config match groups accept quoted strings with opt spaces](https://github.com/hercules-team/augeas/pull/739) on [hercules-team/augeas](https://github.com/hercules-team/augeas) (2 weeks ago)
 - [fix(argocd): fix kube-prometheus-stack dependency on OIDC](https://github.com/camptocamp/devops-stack/pull/795) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 month ago)
 - [fix(terraform): terraform uses `TF_VAR_aws_user` instead of `AWSUSER`](https://github.com/bespinian/serverless-workshop/pull/7) on [bespinian/serverless-workshop](https://github.com/bespinian/serverless-workshop) (1 month ago)
 - [fix(terraform): fix function name according to README](https://github.com/bespinian/serverless-workshop/pull/6) on [bespinian/serverless-workshop](https://github.com/bespinian/serverless-workshop) (1 month ago)
@@ -46,7 +46,7 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 #### 📜 My recent blog posts
 
 - [How to allow dynamic Terraform Provider Configuration](https://dev.to/camptocamp-ops/how-to-allow-dynamic-terraform-provider-configuration-20ik) (5 months ago)
-- [March Cloud Native Romandie Meetup](https://dev.to/camptocamp-ops/march-cloud-native-romandie-meetup-o2f) (6 months ago)
+- [March Cloud Native Romandie Meetup](https://dev.to/camptocamp-ops/march-cloud-native-romandie-meetup-o2f) (7 months ago)
 - [Immutability &amp; loose coupling: a match made in heaven](https://dev.to/camptocamp-ops/immutability-loose-coupling-a-match-made-in-heaven-37kl) (7 months ago)
 - [Open Source, Standards, and Technical Debt](https://dev.to/camptocamp-ops/open-source-standards-and-technical-debt-2g1) (8 months ago)
 - [A Simple Auth Proxy for EKS](https://dev.to/camptocamp-ops/a-simple-auth-proxy-for-eks-24dh) (11 months ago)
