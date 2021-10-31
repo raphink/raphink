@@ -29,7 +29,7 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.26.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.26.4), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.26.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.26.5), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-1.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-1.3.0), 2 days ago) - Prometheus community Helm charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.1.6](https://github.com/argoproj/argo-cd/releases/tag/v2.1.6), 3 days ago) - Declarative continuous deployment for Kubernetes.
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.0.0](https://github.com/camptocamp/terraboard/releases/tag/v2.0.0), 6 days ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
