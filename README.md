@@ -13,7 +13,7 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (today)
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (1 day ago)
 - [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (2 weeks ago)
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (2 weeks ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (3 weeks ago)
@@ -29,15 +29,15 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-cloudwatch-exporter-0.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.17.0), 1 day ago) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.26.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.26.6), 2 days ago) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-cloudwatch-exporter-0.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.17.0), 2 days ago) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.26.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.26.6), 3 days ago) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.1.6](https://github.com/argoproj/argo-cd/releases/tag/v2.1.6), 1 week ago) - Declarative continuous deployment for Kubernetes.
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.0.0](https://github.com/camptocamp/terraboard/releases/tag/v2.0.0), 2 weeks ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
 - [hercules-team/augeas](https://github.com/hercules-team/augeas) ([release-1.13.0](https://github.com/hercules-team/augeas/releases/tag/release-1.13.0), 2 weeks ago) - A configuration editing tool and API
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat(tests): add kind tests](https://github.com/camptocamp/devops-stack/pull/804) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (today)
+- [feat(tests): add kind tests](https://github.com/camptocamp/devops-stack/pull/804) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 day ago)
 - [fix(lens): sshd_config match groups accept quoted strings with opt spaces](https://github.com/hercules-team/augeas/pull/739) on [hercules-team/augeas](https://github.com/hercules-team/augeas) (3 weeks ago)
 - [fix(argocd): fix kube-prometheus-stack dependency on OIDC](https://github.com/camptocamp/devops-stack/pull/795) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 month ago)
 - [fix(terraform): terraform uses `TF_VAR_aws_user` instead of `AWSUSER`](https://github.com/bespinian/serverless-workshop/pull/7) on [bespinian/serverless-workshop](https://github.com/bespinian/serverless-workshop) (1 month ago)
