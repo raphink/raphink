@@ -37,11 +37,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔨 Latest Pull Requests I published
 
+- [docs(kind): add docs for Kind](https://github.com/camptocamp/devops-stack/pull/805) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (today)
 - [feat(tests): add kind tests](https://github.com/camptocamp/devops-stack/pull/804) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 day ago)
 - [fix(lens): sshd_config match groups accept quoted strings with opt spaces](https://github.com/hercules-team/augeas/pull/739) on [hercules-team/augeas](https://github.com/hercules-team/augeas) (3 weeks ago)
 - [fix(argocd): fix kube-prometheus-stack dependency on OIDC](https://github.com/camptocamp/devops-stack/pull/795) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 month ago)
 - [fix(terraform): terraform uses `TF_VAR_aws_user` instead of `AWSUSER`](https://github.com/bespinian/serverless-workshop/pull/7) on [bespinian/serverless-workshop](https://github.com/bespinian/serverless-workshop) (1 month ago)
-- [fix(terraform): fix function name according to README](https://github.com/bespinian/serverless-workshop/pull/6) on [bespinian/serverless-workshop](https://github.com/bespinian/serverless-workshop) (1 month ago)
 
 #### 📜 My recent blog posts
 
