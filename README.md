@@ -13,11 +13,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (2 days ago)
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (3 days ago)
 - [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (2 weeks ago)
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (2 weeks ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (3 weeks ago)
-- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (3 weeks ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (4 weeks ago)
+- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (4 weeks ago)
 
 #### 🌱 My latest personal projects
 
@@ -29,19 +29,19 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.26.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.26.7), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-20.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-20.0.1), today) - Prometheus community Helm charts
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.1.6](https://github.com/argoproj/argo-cd/releases/tag/v2.1.6), 1 week ago) - Declarative continuous deployment for Kubernetes.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.26.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.26.7), 1 day ago) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-20.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-20.0.1), 1 day ago) - Prometheus community Helm charts
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.1.6](https://github.com/argoproj/argo-cd/releases/tag/v2.1.6), 2 weeks ago) - Declarative continuous deployment for Kubernetes.
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.0.0](https://github.com/camptocamp/terraboard/releases/tag/v2.0.0), 2 weeks ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
 - [hercules-team/augeas](https://github.com/hercules-team/augeas) ([release-1.13.0](https://github.com/hercules-team/augeas/releases/tag/release-1.13.0), 2 weeks ago) - A configuration editing tool and API
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore(k3s): update default Kubernetes version to 1.21](https://github.com/camptocamp/devops-stack/pull/809) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 day ago)
-- [chore(eks): update Kubernetes version to 1.21](https://github.com/camptocamp/devops-stack/pull/808) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 day ago)
-- [chore(aks): update Kubernetes version to 1.21.2](https://github.com/camptocamp/devops-stack/pull/807) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 day ago)
-- [chore(sks): update default Kubernetes version to 1.21.5](https://github.com/camptocamp/devops-stack/pull/806) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 day ago)
-- [docs(kind): add docs for Kind](https://github.com/camptocamp/devops-stack/pull/805) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 day ago)
+- [chore(k3s): update default Kubernetes version to 1.21](https://github.com/camptocamp/devops-stack/pull/809) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (2 days ago)
+- [chore(eks): update Kubernetes version to 1.21](https://github.com/camptocamp/devops-stack/pull/808) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (2 days ago)
+- [chore(aks): update Kubernetes version to 1.21.2](https://github.com/camptocamp/devops-stack/pull/807) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (2 days ago)
+- [chore(sks): update default Kubernetes version to 1.21.5](https://github.com/camptocamp/devops-stack/pull/806) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (2 days ago)
+- [docs(kind): add docs for Kind](https://github.com/camptocamp/devops-stack/pull/805) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (2 days ago)
 
 #### 📜 My recent blog posts
 
