@@ -37,11 +37,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(kubeconfig): use exo compute sks](https://github.com/camptocamp/terraform-exoscale-sks/pull/7) on [camptocamp/terraform-exoscale-sks](https://github.com/camptocamp/terraform-exoscale-sks) (today)
 - [chore(k3s): update default Kubernetes version to 1.21](https://github.com/camptocamp/devops-stack/pull/809) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 week ago)
 - [chore(eks): update Kubernetes version to 1.21](https://github.com/camptocamp/devops-stack/pull/808) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 week ago)
 - [chore(aks): update Kubernetes version to 1.21.2](https://github.com/camptocamp/devops-stack/pull/807) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 week ago)
 - [chore(sks): update default Kubernetes version to 1.21.5](https://github.com/camptocamp/devops-stack/pull/806) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 week ago)
-- [docs(kind): add docs for Kind](https://github.com/camptocamp/devops-stack/pull/805) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 week ago)
 
 #### 📜 My recent blog posts
 
