@@ -29,11 +29,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔭 Latest releases I've contributed to
 
+- [derailed/k9s](https://github.com/derailed/k9s) ([v0.25.0](https://github.com/derailed/k9s/releases/tag/v0.25.0), today) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-0.4.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.4.0), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.4.2), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.0-rc1](https://github.com/argoproj/argo-cd/releases/tag/v2.2.0-rc1), 4 days ago) - Declarative continuous deployment for Kubernetes.
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.0.0](https://github.com/camptocamp/terraboard/releases/tag/v2.0.0), 3 weeks ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
-- [hercules-team/augeas](https://github.com/hercules-team/augeas) ([release-1.13.0](https://github.com/hercules-team/augeas/releases/tag/release-1.13.0), 3 weeks ago) - A configuration editing tool and API
 
 #### 🔨 Latest Pull Requests I published
 
