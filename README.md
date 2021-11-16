@@ -13,8 +13,8 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 👷 Check out what I'm currently working on
 
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (today)
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (5 days ago)
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (1 week ago)
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (3 weeks ago)
 - [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (3 weeks ago)
 - [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (1 month ago)
