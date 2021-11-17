@@ -13,8 +13,8 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (today)
-- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (5 days ago)
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (1 day ago)
+- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (6 days ago)
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (3 weeks ago)
 - [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (3 weeks ago)
 - [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (1 month ago)
@@ -29,15 +29,15 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔭 Latest releases I've contributed to
 
-- [derailed/k9s](https://github.com/derailed/k9s) ([v0.25.1](https://github.com/derailed/k9s/releases/tag/v0.25.1), today) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-0.4.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.4.0), 1 day ago) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.4.2), 1 day ago) - Prometheus community Helm charts
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.0-rc1](https://github.com/argoproj/argo-cd/releases/tag/v2.2.0-rc1), 4 days ago) - Declarative continuous deployment for Kubernetes.
+- [derailed/k9s](https://github.com/derailed/k9s) ([v0.25.1](https://github.com/derailed/k9s/releases/tag/v0.25.1), 1 day ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-0.4.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.4.0), 2 days ago) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.4.2), 2 days ago) - Prometheus community Helm charts
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.0-rc1](https://github.com/argoproj/argo-cd/releases/tag/v2.2.0-rc1), 5 days ago) - Declarative continuous deployment for Kubernetes.
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.0.0](https://github.com/camptocamp/terraboard/releases/tag/v2.0.0), 3 weeks ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(kubeconfig): use exo compute sks](https://github.com/camptocamp/terraform-exoscale-sks/pull/7) on [camptocamp/terraform-exoscale-sks](https://github.com/camptocamp/terraform-exoscale-sks) (today)
+- [fix(kubeconfig): use exo compute sks](https://github.com/camptocamp/terraform-exoscale-sks/pull/7) on [camptocamp/terraform-exoscale-sks](https://github.com/camptocamp/terraform-exoscale-sks) (1 day ago)
 - [chore(k3s): update default Kubernetes version to 1.21](https://github.com/camptocamp/devops-stack/pull/809) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 week ago)
 - [chore(eks): update Kubernetes version to 1.21](https://github.com/camptocamp/devops-stack/pull/808) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 week ago)
 - [chore(aks): update Kubernetes version to 1.21.2](https://github.com/camptocamp/devops-stack/pull/807) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 week ago)
@@ -62,7 +62,7 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 💚 My awesome sponsors (thank you!)
 
-- [<img src="https://avatars.githubusercontent.com/u/3693851?v=4" height="20"/> nmaludy](https://github.com/nmaludy) (3 months ago)
+- [<img src="https://avatars.githubusercontent.com/u/3693851?v=4" height="20"/> nmaludy](https://github.com/nmaludy) (4 months ago)
 - [<img src="https://avatars.githubusercontent.com/u/1110127?v=4" height="20"/> kennedye](https://github.com/kennedye) (1 year ago)
 
 
