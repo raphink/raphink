@@ -13,7 +13,7 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (1 day ago)
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (today)
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (6 days ago)
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (3 weeks ago)
 - [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (3 weeks ago)
@@ -37,11 +37,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore(sks): update default kubernetes version to 1.21.6](https://github.com/camptocamp/devops-stack/pull/812) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (today)
 - [fix(kubeconfig): use exo compute sks](https://github.com/camptocamp/terraform-exoscale-sks/pull/7) on [camptocamp/terraform-exoscale-sks](https://github.com/camptocamp/terraform-exoscale-sks) (1 day ago)
 - [chore(k3s): update default Kubernetes version to 1.21](https://github.com/camptocamp/devops-stack/pull/809) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 week ago)
 - [chore(eks): update Kubernetes version to 1.21](https://github.com/camptocamp/devops-stack/pull/808) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 week ago)
 - [chore(aks): update Kubernetes version to 1.21.2](https://github.com/camptocamp/devops-stack/pull/807) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 week ago)
-- [chore(sks): update default Kubernetes version to 1.21.5](https://github.com/camptocamp/devops-stack/pull/806) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 week ago)
 
 #### 📜 My recent blog posts
 
