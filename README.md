@@ -62,7 +62,6 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 💚 My awesome sponsors (thank you!)
 
-- [<img src="https://avatars.githubusercontent.com/u/3693851?v=4" height="20"/> nmaludy](https://github.com/nmaludy) (4 months ago)
 - [<img src="https://avatars.githubusercontent.com/u/1110127?v=4" height="20"/> kennedye](https://github.com/kennedye) (2 years ago)
 
 
