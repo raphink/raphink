@@ -29,7 +29,7 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.26.10](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.26.10), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.8.3](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.8.3), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.0.1), 1 day ago) - Prometheus community Helm charts
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.25.4](https://github.com/derailed/k9s/releases/tag/v0.25.4), 1 day ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.1.7](https://github.com/argoproj/argo-cd/releases/tag/v2.1.7), 4 days ago) - Declarative continuous deployment for Kubernetes.
