@@ -32,8 +32,8 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.25.5](https://github.com/derailed/k9s/releases/tag/v0.25.5), today) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.9.2](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.9.2), today) - ArgoProj Helm Charts
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.49.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.49.0), 1 day ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.0.2), 2 days ago) - Prometheus community Helm charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.1.7](https://github.com/argoproj/argo-cd/releases/tag/v2.1.7), 6 days ago) - Declarative continuous deployment for Kubernetes.
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.0.0](https://github.com/camptocamp/terraboard/releases/tag/v2.0.0), 4 weeks ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
 
 #### 🔨 Latest Pull Requests I published
 
