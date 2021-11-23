@@ -29,8 +29,8 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.9.2](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.9.2), today) - ArgoProj Helm Charts
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.49.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.49.0), 1 day ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.9.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.9.1), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.0.2), 2 days ago) - Prometheus community Helm charts
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.25.4](https://github.com/derailed/k9s/releases/tag/v0.25.4), 3 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.1.7](https://github.com/argoproj/argo-cd/releases/tag/v2.1.7), 6 days ago) - Declarative continuous deployment for Kubernetes.
@@ -54,7 +54,7 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 #### 👥 Check out some of my recent followers
 
 - [<img src="https://avatars.githubusercontent.com/u/7550495?u=d4e3cda186f611449d167e1cbdd5218f57e7a494&amp;v=4" height="20"/> KristianFJones](https://github.com/KristianFJones)
-- [<img src="https://avatars.githubusercontent.com/u/1445852?u=955383d72e7bfa43514a526682210048a67c93df&amp;v=4" height="20"/> g0hl1n](https://github.com/g0hl1n)
+- [<img src="https://avatars.githubusercontent.com/u/1445852?u=35f0b440f0547c3640e58cb79b84a6d0e1aa219c&amp;v=4" height="20"/> g0hl1n](https://github.com/g0hl1n)
 - [<img src="https://avatars.githubusercontent.com/u/56155720?v=4" height="20"/> imdanique](https://github.com/imdanique)
 - [<img src="https://avatars.githubusercontent.com/u/90005223?u=b55aa9171774ed82c8a88f097f55b094d2f2b0fd&amp;v=4" height="20"/> scopes1337](https://github.com/scopes1337)
 - [<img src="https://avatars.githubusercontent.com/u/52964724?u=e9ea19fc6aebfd58a4bcfac339fd3d8b326da3b1&amp;v=4" height="20"/> umegbewe](https://github.com/umegbewe)
