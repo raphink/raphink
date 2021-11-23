@@ -54,7 +54,7 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 #### 👥 Check out some of my recent followers
 
 - [<img src="https://avatars.githubusercontent.com/u/7550495?u=d4e3cda186f611449d167e1cbdd5218f57e7a494&amp;v=4" height="20"/> KristianFJones](https://github.com/KristianFJones)
-- [<img src="https://avatars.githubusercontent.com/u/1445852?u=35f0b440f0547c3640e58cb79b84a6d0e1aa219c&amp;v=4" height="20"/> g0hl1n](https://github.com/g0hl1n)
+- [<img src="https://avatars.githubusercontent.com/u/1445852?u=3eaa55a6c3e7b37e90bd83be053d1fa9915b496d&amp;v=4" height="20"/> g0hl1n](https://github.com/g0hl1n)
 - [<img src="https://avatars.githubusercontent.com/u/56155720?v=4" height="20"/> imdanique](https://github.com/imdanique)
 - [<img src="https://avatars.githubusercontent.com/u/90005223?u=b55aa9171774ed82c8a88f097f55b094d2f2b0fd&amp;v=4" height="20"/> scopes1337](https://github.com/scopes1337)
 - [<img src="https://avatars.githubusercontent.com/u/52964724?u=e9ea19fc6aebfd58a4bcfac339fd3d8b326da3b1&amp;v=4" height="20"/> umegbewe](https://github.com/umegbewe)
