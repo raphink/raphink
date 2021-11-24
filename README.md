@@ -29,7 +29,7 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.26.11](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.26.11), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-0.5.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.5.0), today) - ArgoProj Helm Charts
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.25.6](https://github.com/derailed/k9s/releases/tag/v0.25.6), today) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.49.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.49.0), 2 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.1.7](https://github.com/argoproj/argo-cd/releases/tag/v2.1.7), 1 week ago) - Declarative continuous deployment for Kubernetes.
