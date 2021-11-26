@@ -37,11 +37,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat(eyaml): allow more than one pub/priv keypair in existing eyaml key map](https://github.com/puppetlabs/puppetserver-helm-chart/pull/99) on [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) (today)
 - [feat(docs): improve KinD docs](https://github.com/camptocamp/devops-stack/pull/820) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (4 days ago)
 - [chore: post-release commit](https://github.com/camptocamp/devops-stack/pull/819) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (4 days ago)
 - [chore(sks): update default kubernetes version to 1.21.6](https://github.com/camptocamp/devops-stack/pull/812) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 week ago)
 - [fix(kubeconfig): use exo compute sks](https://github.com/camptocamp/terraform-exoscale-sks/pull/7) on [camptocamp/terraform-exoscale-sks](https://github.com/camptocamp/terraform-exoscale-sks) (1 week ago)
-- [chore(k3s): update default Kubernetes version to 1.21](https://github.com/camptocamp/devops-stack/pull/809) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
