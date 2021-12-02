@@ -29,7 +29,7 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/kubernetes-csr-exporter](https://github.com/camptocamp/kubernetes-csr-exporter) ([kubernetes-csr-exporter-0.1.4](https://github.com/camptocamp/kubernetes-csr-exporter/releases/tag/kubernetes-csr-exporter-0.1.4), today) - 
+- [camptocamp/kubernetes-csr-exporter](https://github.com/camptocamp/kubernetes-csr-exporter) ([kubernetes-csr-exporter-0.1.5](https://github.com/camptocamp/kubernetes-csr-exporter/releases/tag/kubernetes-csr-exporter-0.1.5), today) - 
 - [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.13.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.13.0), 3 days ago) -  The Helm Chart for Puppet Server
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.26.12](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.26.12), 3 days ago) - ArgoProj Helm Charts
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.25.7](https://github.com/derailed/k9s/releases/tag/v0.25.7), 6 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
