@@ -13,11 +13,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 👷 Check out what I'm currently working on
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (1 day ago)
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (1 day ago)
-- [voxpupuli/puppet-augeasproviders_postgresql](https://github.com/voxpupuli/puppet-augeasproviders_postgresql) - Augeas-based postgresql types and providers for Puppet  (2 days ago)
-- [voxpupuli/puppet-augeasproviders_base](https://github.com/voxpupuli/puppet-augeasproviders_base) - Augeas-based additional providers for Puppet base types (2 days ago)
-- [voxpupuli/puppet-augeasproviders](https://github.com/voxpupuli/puppet-augeasproviders) - Alternative Augeas-based providers for Puppet (2 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (2 days ago)
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (2 days ago)
+- [voxpupuli/puppet-augeasproviders_postgresql](https://github.com/voxpupuli/puppet-augeasproviders_postgresql) - Augeas-based postgresql types and providers for Puppet  (3 days ago)
+- [voxpupuli/puppet-augeasproviders_base](https://github.com/voxpupuli/puppet-augeasproviders_base) - Augeas-based additional providers for Puppet base types (3 days ago)
+- [voxpupuli/puppet-augeasproviders](https://github.com/voxpupuli/puppet-augeasproviders) - Alternative Augeas-based providers for Puppet (3 days ago)
 
 #### 🌱 My latest personal projects
 
@@ -29,15 +29,15 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.27.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.27.1), 1 day ago) - ArgoProj Helm Charts
-- [derailed/k9s](https://github.com/derailed/k9s) ([v0.25.8](https://github.com/derailed/k9s/releases/tag/v0.25.8), 1 day ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.50.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.50.0), 1 day ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
-- [camptocamp/kubernetes-csr-exporter](https://github.com/camptocamp/kubernetes-csr-exporter) ([kubernetes-csr-exporter-0.1.5](https://github.com/camptocamp/kubernetes-csr-exporter/releases/tag/kubernetes-csr-exporter-0.1.5), 2 days ago) - 
-- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.13.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.13.0), 5 days ago) -  The Helm Chart for Puppet Server
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.27.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.27.1), 2 days ago) - ArgoProj Helm Charts
+- [derailed/k9s](https://github.com/derailed/k9s) ([v0.25.8](https://github.com/derailed/k9s/releases/tag/v0.25.8), 2 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.50.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.50.0), 2 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
+- [camptocamp/kubernetes-csr-exporter](https://github.com/camptocamp/kubernetes-csr-exporter) ([kubernetes-csr-exporter-0.1.5](https://github.com/camptocamp/kubernetes-csr-exporter/releases/tag/kubernetes-csr-exporter-0.1.5), 3 days ago) - 
+- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.13.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.13.0), 6 days ago) -  The Helm Chart for Puppet Server
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: create post-release commit](https://github.com/camptocamp/devops-stack/pull/824) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 day ago)
+- [chore: create post-release commit](https://github.com/camptocamp/devops-stack/pull/824) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (2 days ago)
 - [feat(eyaml): allow more than one pub/priv keypair in existing eyaml key map](https://github.com/puppetlabs/puppetserver-helm-chart/pull/99) on [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) (1 week ago)
 - [feat(docs): improve KinD docs](https://github.com/camptocamp/devops-stack/pull/820) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 week ago)
 - [chore: post-release commit](https://github.com/camptocamp/devops-stack/pull/819) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 week ago)
