@@ -29,7 +29,7 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.27.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.27.1), 3 days ago) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.9.3](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.9.3), today) - ArgoProj Helm Charts
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.25.8](https://github.com/derailed/k9s/releases/tag/v0.25.8), 3 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.50.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.50.0), 3 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [camptocamp/kubernetes-csr-exporter](https://github.com/camptocamp/kubernetes-csr-exporter) ([kubernetes-csr-exporter-0.1.5](https://github.com/camptocamp/kubernetes-csr-exporter/releases/tag/kubernetes-csr-exporter-0.1.5), 4 days ago) - 
