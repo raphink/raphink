@@ -13,8 +13,8 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 👷 Check out what I'm currently working on
 
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (today)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (3 days ago)
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (3 days ago)
 - [voxpupuli/puppet-augeasproviders_pam](https://github.com/voxpupuli/puppet-augeasproviders_pam) - Augeas-based PAM type and provider for Puppet  (4 days ago)
 - [voxpupuli/puppet-augeasproviders_postgresql](https://github.com/voxpupuli/puppet-augeasproviders_postgresql) - Augeas-based postgresql types and providers for Puppet  (4 days ago)
 - [voxpupuli/puppet-augeasproviders](https://github.com/voxpupuli/puppet-augeasproviders) - Alternative Augeas-based providers for Puppet (4 days ago)
