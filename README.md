@@ -29,7 +29,7 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.50.1](https://github.com/camptocamp/devops-stack/releases/tag/v0.50.1), today) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.50.2](https://github.com/camptocamp/devops-stack/releases/tag/v0.50.2), today) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-0.6.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.6.0), today) - ArgoProj Helm Charts
 - [camptocamp/kubernetes-csr-exporter](https://github.com/camptocamp/kubernetes-csr-exporter) ([kubernetes-csr-exporter-1.0.0](https://github.com/camptocamp/kubernetes-csr-exporter/releases/tag/kubernetes-csr-exporter-1.0.0), today) - 
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.25.8](https://github.com/derailed/k9s/releases/tag/v0.25.8), 4 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
@@ -37,11 +37,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(website): build on published](https://github.com/camptocamp/devops-stack/pull/831) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (today)
+- [fix(website): build website on release published](https://github.com/camptocamp/devops-stack/pull/829) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (today)
 - [chore(release): keep tags in docs after release](https://github.com/camptocamp/devops-stack/pull/828) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (today)
 - [chore: create post-release commit](https://github.com/camptocamp/devops-stack/pull/824) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (4 days ago)
 - [feat(eyaml): allow more than one pub/priv keypair in existing eyaml key map](https://github.com/puppetlabs/puppetserver-helm-chart/pull/99) on [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) (1 week ago)
-- [feat(docs): improve KinD docs](https://github.com/camptocamp/devops-stack/pull/820) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (2 weeks ago)
-- [chore: post-release commit](https://github.com/camptocamp/devops-stack/pull/819) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
