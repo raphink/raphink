@@ -37,11 +37,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat(README): add note on built-in PuppetDB SD support](https://github.com/camptocamp/prometheus-puppetdb-sd/pull/43) on [camptocamp/prometheus-puppetdb-sd](https://github.com/camptocamp/prometheus-puppetdb-sd) (today)
 - [fix(website): build on released](https://github.com/camptocamp/devops-stack/pull/833) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (2 days ago)
 - [fix(website): build on published](https://github.com/camptocamp/devops-stack/pull/831) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (3 days ago)
 - [fix(website): build website on release published](https://github.com/camptocamp/devops-stack/pull/829) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (3 days ago)
 - [chore(release): keep tags in docs after release](https://github.com/camptocamp/devops-stack/pull/828) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (3 days ago)
-- [chore: create post-release commit](https://github.com/camptocamp/devops-stack/pull/824) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 week ago)
 
 #### 📜 My recent blog posts
 
