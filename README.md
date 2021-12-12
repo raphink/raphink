@@ -16,7 +16,7 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 - [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (3 days ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (4 days ago)
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (4 days ago)
-- [voxpupuli/puppet-augeasproviders_pam](https://github.com/voxpupuli/puppet-augeasproviders_pam) - Augeas-based PAM type and provider for Puppet  (1 week ago)
+- [camptocamp/kubernetes-csr-exporter](https://github.com/camptocamp/kubernetes-csr-exporter) -  (1 week ago)
 - [voxpupuli/puppet-augeasproviders_postgresql](https://github.com/voxpupuli/puppet-augeasproviders_postgresql) - Augeas-based postgresql types and providers for Puppet  (1 week ago)
 
 #### 🌱 My latest personal projects
