@@ -29,10 +29,10 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔭 Latest releases I've contributed to
 
+- [derailed/k9s](https://github.com/derailed/k9s) ([v0.25.9](https://github.com/derailed/k9s/releases/tag/v0.25.9), today) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.28.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.28.1), 2 days ago) - ArgoProj Helm Charts
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.50.4](https://github.com/camptocamp/devops-stack/releases/tag/v0.50.4), 5 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [camptocamp/kubernetes-csr-exporter](https://github.com/camptocamp/kubernetes-csr-exporter) ([kubernetes-csr-exporter-1.0.0](https://github.com/camptocamp/kubernetes-csr-exporter/releases/tag/kubernetes-csr-exporter-1.0.0), 6 days ago) - 
-- [derailed/k9s](https://github.com/derailed/k9s) ([v0.25.8](https://github.com/derailed/k9s/releases/tag/v0.25.8), 1 week ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.13.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.13.0), 2 weeks ago) -  The Helm Chart for Puppet Server
 
 #### 🔨 Latest Pull Requests I published
