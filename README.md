@@ -13,19 +13,19 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 👷 Check out what I'm currently working on
 
+- [raphink/applicationsets-demo](https://github.com/raphink/applicationsets-demo) -  (today)
 - [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (5 days ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (6 days ago)
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (6 days ago)
 - [camptocamp/kubernetes-csr-exporter](https://github.com/camptocamp/kubernetes-csr-exporter) -  (1 week ago)
-- [voxpupuli/puppet-augeasproviders_postgresql](https://github.com/voxpupuli/puppet-augeasproviders_postgresql) - Augeas-based postgresql types and providers for Puppet  (1 week ago)
 
 #### 🌱 My latest personal projects
 
+- [raphink/applicationsets-demo](https://github.com/raphink/applicationsets-demo) - 
 - [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871
 - [raphink/katacoda-scenarios](https://github.com/raphink/katacoda-scenarios) - Katacoda Scenarios
 - [raphink/countdown_video](https://github.com/raphink/countdown_video) - 🎥 Simple ffmpeg script to generate a countdown video from an image and a sound file
 - [raphink/genearoman](https://github.com/raphink/genearoman) - 📖 Long Tom, un roman généalogique
-- [raphink/pinsonnet](https://github.com/raphink/pinsonnet) - 🐦 A bird recognition AI learning project using fastai
 
 #### 🔭 Latest releases I've contributed to
 
