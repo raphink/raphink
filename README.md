@@ -13,10 +13,10 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 👷 Check out what I'm currently working on
 
-- [raphink/applicationsets-demo](https://github.com/raphink/applicationsets-demo) -  (today)
-- [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (5 days ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (6 days ago)
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (6 days ago)
+- [raphink/applicationsets-demo](https://github.com/raphink/applicationsets-demo) -  (1 day ago)
+- [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (6 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (1 week ago)
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (1 week ago)
 - [camptocamp/kubernetes-csr-exporter](https://github.com/camptocamp/kubernetes-csr-exporter) -  (1 week ago)
 
 #### 🌱 My latest personal projects
@@ -29,16 +29,16 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.0](https://github.com/argoproj/argo-cd/releases/tag/v2.2.0), today) - Declarative continuous deployment for Kubernetes.
-- [derailed/k9s](https://github.com/derailed/k9s) ([v0.25.10](https://github.com/derailed/k9s/releases/tag/v0.25.10), 1 day ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.28.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.28.1), 3 days ago) - ArgoProj Helm Charts
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.50.4](https://github.com/camptocamp/devops-stack/releases/tag/v0.50.4), 6 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.0](https://github.com/argoproj/argo-cd/releases/tag/v2.2.0), 1 day ago) - Declarative continuous deployment for Kubernetes.
+- [derailed/k9s](https://github.com/derailed/k9s) ([v0.25.10](https://github.com/derailed/k9s/releases/tag/v0.25.10), 2 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.28.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.28.1), 4 days ago) - ArgoProj Helm Charts
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.50.4](https://github.com/camptocamp/devops-stack/releases/tag/v0.50.4), 1 week ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [camptocamp/kubernetes-csr-exporter](https://github.com/camptocamp/kubernetes-csr-exporter) ([kubernetes-csr-exporter-1.0.0](https://github.com/camptocamp/kubernetes-csr-exporter/releases/tag/kubernetes-csr-exporter-1.0.0), 1 week ago) - 
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat(README): add note on built-in PuppetDB SD support](https://github.com/camptocamp/prometheus-puppetdb-sd/pull/43) on [camptocamp/prometheus-puppetdb-sd](https://github.com/camptocamp/prometheus-puppetdb-sd) (4 days ago)
-- [fix(website): build on released](https://github.com/camptocamp/devops-stack/pull/833) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (6 days ago)
+- [feat(README): add note on built-in PuppetDB SD support](https://github.com/camptocamp/prometheus-puppetdb-sd/pull/43) on [camptocamp/prometheus-puppetdb-sd](https://github.com/camptocamp/prometheus-puppetdb-sd) (5 days ago)
+- [fix(website): build on released](https://github.com/camptocamp/devops-stack/pull/833) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 week ago)
 - [fix(website): build on published](https://github.com/camptocamp/devops-stack/pull/831) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 week ago)
 - [fix(website): build website on release published](https://github.com/camptocamp/devops-stack/pull/829) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 week ago)
 - [chore(release): keep tags in docs after release](https://github.com/camptocamp/devops-stack/pull/828) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 week ago)
