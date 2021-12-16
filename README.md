@@ -13,11 +13,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 👷 Check out what I'm currently working on
 
+- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) -  (today)
 - [raphink/applicationsets-demo](https://github.com/raphink/applicationsets-demo) -  (2 days ago)
 - [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (1 week ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (1 week ago)
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (1 week ago)
-- [camptocamp/kubernetes-csr-exporter](https://github.com/camptocamp/kubernetes-csr-exporter) -  (2 weeks ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (1 week ago)
 
 #### 🌱 My latest personal projects
 
