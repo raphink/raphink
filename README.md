@@ -13,8 +13,8 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) -  (today)
-- [raphink/applicationsets-demo](https://github.com/raphink/applicationsets-demo) -  (3 days ago)
+- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) -  (1 day ago)
+- [raphink/applicationsets-demo](https://github.com/raphink/applicationsets-demo) -  (4 days ago)
 - [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (1 week ago)
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (1 week ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (1 week ago)
@@ -29,10 +29,10 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.29.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.29.2), today) - ArgoProj Helm Charts
-- [derailed/k9s](https://github.com/derailed/k9s) ([v0.25.15](https://github.com/derailed/k9s/releases/tag/v0.25.15), today) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.1](https://github.com/argoproj/argo-cd/releases/tag/v2.2.1), today) - Declarative continuous deployment for Kubernetes.
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.51.1](https://github.com/camptocamp/devops-stack/releases/tag/v0.51.1), 1 day ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.29.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.29.2), 1 day ago) - ArgoProj Helm Charts
+- [derailed/k9s](https://github.com/derailed/k9s) ([v0.25.15](https://github.com/derailed/k9s/releases/tag/v0.25.15), 1 day ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.1](https://github.com/argoproj/argo-cd/releases/tag/v2.2.1), 1 day ago) - Declarative continuous deployment for Kubernetes.
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.51.1](https://github.com/camptocamp/devops-stack/releases/tag/v0.51.1), 2 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [camptocamp/kubernetes-csr-exporter](https://github.com/camptocamp/kubernetes-csr-exporter) ([kubernetes-csr-exporter-1.0.0](https://github.com/camptocamp/kubernetes-csr-exporter/releases/tag/kubernetes-csr-exporter-1.0.0), 1 week ago) - 
 
 #### 🔨 Latest Pull Requests I published
