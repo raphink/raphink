@@ -53,11 +53,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 👥 Check out some of my recent followers
 
+- [<img src="https://avatars.githubusercontent.com/u/26056989?u=669468a565ac33bd608943476ba9d9318ea78f95&amp;v=4" height="20"/> bibidu](https://github.com/bibidu)
 - [<img src="https://avatars.githubusercontent.com/u/1568845?u=9668cc200d13d294f6428f3a4778e244d871efe7&amp;v=4" height="20"/> jbarascut](https://github.com/jbarascut)
 - [<img src="https://avatars.githubusercontent.com/u/7550495?u=d4e3cda186f611449d167e1cbdd5218f57e7a494&amp;v=4" height="20"/> KristianFJones](https://github.com/KristianFJones)
 - [<img src="https://avatars.githubusercontent.com/u/1445852?u=3eaa55a6c3e7b37e90bd83be053d1fa9915b496d&amp;v=4" height="20"/> g0hl1n](https://github.com/g0hl1n)
 - [<img src="https://avatars.githubusercontent.com/u/56155720?v=4" height="20"/> imdanique](https://github.com/imdanique)
-- [<img src="https://avatars.githubusercontent.com/u/90005223?u=b55aa9171774ed82c8a88f097f55b094d2f2b0fd&amp;v=4" height="20"/> scopes1337](https://github.com/scopes1337)
 
 
 #### 💚 My awesome sponsors (thank you!)
