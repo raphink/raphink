@@ -16,8 +16,8 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 - [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) -  (1 week ago)
 - [raphink/applicationsets-demo](https://github.com/raphink/applicationsets-demo) -  (2 weeks ago)
 - [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (2 weeks ago)
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (2 weeks ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (2 weeks ago)
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (3 weeks ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) - My dot files (3 weeks ago)
 
 #### 🌱 My latest personal projects
 
@@ -33,13 +33,13 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.1](https://github.com/argoproj/argo-cd/releases/tag/v2.2.1), 1 week ago) - Declarative continuous deployment for Kubernetes.
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.51.1](https://github.com/camptocamp/devops-stack/releases/tag/v0.51.1), 1 week ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [camptocamp/kubernetes-csr-exporter](https://github.com/camptocamp/kubernetes-csr-exporter) ([kubernetes-csr-exporter-1.0.0](https://github.com/camptocamp/kubernetes-csr-exporter/releases/tag/kubernetes-csr-exporter-1.0.0), 3 weeks ago) - 
-- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.13.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.13.0), 4 weeks ago) -  The Helm Chart for Puppet Server
+- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.13.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.13.0), 1 month ago) -  The Helm Chart for Puppet Server
 
 #### 🔨 Latest Pull Requests I published
 
 - [Modularize the DevOps Stack](https://github.com/camptocamp/devops-stack/pull/843) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 week ago)
 - [feat(README): add note on built-in PuppetDB SD support](https://github.com/camptocamp/prometheus-puppetdb-sd/pull/43) on [camptocamp/prometheus-puppetdb-sd](https://github.com/camptocamp/prometheus-puppetdb-sd) (2 weeks ago)
-- [fix(website): build on released](https://github.com/camptocamp/devops-stack/pull/833) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (2 weeks ago)
+- [fix(website): build on released](https://github.com/camptocamp/devops-stack/pull/833) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (3 weeks ago)
 - [fix(website): build on published](https://github.com/camptocamp/devops-stack/pull/831) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (3 weeks ago)
 - [fix(website): build website on release published](https://github.com/camptocamp/devops-stack/pull/829) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (3 weeks ago)
 
