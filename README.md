@@ -37,11 +37,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat(application): add cascade parameter](https://github.com/oboukili/terraform-provider-argocd/pull/121) on [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) (today)
 - [Modularize the DevOps Stack](https://github.com/camptocamp/devops-stack/pull/843) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (3 weeks ago)
 - [feat(README): add note on built-in PuppetDB SD support](https://github.com/camptocamp/prometheus-puppetdb-sd/pull/43) on [camptocamp/prometheus-puppetdb-sd](https://github.com/camptocamp/prometheus-puppetdb-sd) (1 month ago)
 - [fix(website): build on released](https://github.com/camptocamp/devops-stack/pull/833) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 month ago)
 - [fix(website): build on published](https://github.com/camptocamp/devops-stack/pull/831) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 month ago)
-- [fix(website): build website on release published](https://github.com/camptocamp/devops-stack/pull/829) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 month ago)
 
 #### 📜 My recent blog posts
 
