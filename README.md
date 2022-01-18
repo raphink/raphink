@@ -13,11 +13,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/devops-stack-module-keycloak](https://github.com/camptocamp/devops-stack-module-keycloak) -  (today)
+- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) -  (today)
 - [camptocamp/devops-stack-module-minio](https://github.com/camptocamp/devops-stack-module-minio) -  (today)
-- [camptocamp/devops-stack-module-thanos](https://github.com/camptocamp/devops-stack-module-thanos) -  (today)
+- [camptocamp/devops-stack-module-keycloak](https://github.com/camptocamp/devops-stack-module-keycloak) -  (today)
 - [camptocamp/devops-stack-module-oidc-aws-cognito](https://github.com/camptocamp/devops-stack-module-oidc-aws-cognito) -  (today)
-- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) -  (1 day ago)
+- [camptocamp/devops-stack-module-thanos](https://github.com/camptocamp/devops-stack-module-thanos) -  (today)
 
 #### 🌱 My latest personal projects
 
