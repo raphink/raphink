@@ -13,11 +13,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) - A DevOps Stack module to deploy and configure Loki (4 days ago)
-- [camptocamp/devops-stack-module-oidc-aws-cognito](https://github.com/camptocamp/devops-stack-module-oidc-aws-cognito) - A DevOps Stack module to deploy and configure AWS Cognito as an OIDC provider (4 days ago)
-- [camptocamp/devops-stack-module-minio](https://github.com/camptocamp/devops-stack-module-minio) - A DevOps Stack module to deploy and configure MinIO (4 days ago)
-- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) - A DevOps Stack module to deploy and configure Traefik (4 days ago)
-- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) - A DevOps Stack module to deploy and configure Traefik (4 days ago)
+- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) - A DevOps Stack module to deploy and configure Loki (5 days ago)
+- [camptocamp/devops-stack-module-oidc-aws-cognito](https://github.com/camptocamp/devops-stack-module-oidc-aws-cognito) - A DevOps Stack module to deploy and configure AWS Cognito as an OIDC provider (5 days ago)
+- [camptocamp/devops-stack-module-minio](https://github.com/camptocamp/devops-stack-module-minio) - A DevOps Stack module to deploy and configure MinIO (5 days ago)
+- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) - A DevOps Stack module to deploy and configure Traefik (5 days ago)
+- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) - A DevOps Stack module to deploy and configure Traefik (5 days ago)
 
 #### 🌱 My latest personal projects
 
@@ -29,15 +29,15 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.31.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.31.0), 3 days ago) - ArgoProj Helm Charts
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.3](https://github.com/argoproj/argo-cd/releases/tag/v2.2.3), 5 days ago) - Declarative continuous deployment for Kubernetes.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.31.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.31.0), 4 days ago) - ArgoProj Helm Charts
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.3](https://github.com/argoproj/argo-cd/releases/tag/v2.2.3), 6 days ago) - Declarative continuous deployment for Kubernetes.
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.52.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.52.0), 1 week ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [camptocamp/kubernetes-csr-exporter](https://github.com/camptocamp/kubernetes-csr-exporter) ([kubernetes-csr-exporter-1.0.0](https://github.com/camptocamp/kubernetes-csr-exporter/releases/tag/kubernetes-csr-exporter-1.0.0), 1 month ago) - 
 - [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.13.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.13.0), 1 month ago) -  The Helm Chart for Puppet Server
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat(application): add cascade parameter](https://github.com/oboukili/terraform-provider-argocd/pull/121) on [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) (1 week ago)
+- [feat(application): add cascade parameter](https://github.com/oboukili/terraform-provider-argocd/pull/121) on [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) (2 weeks ago)
 - [Modularize the DevOps Stack](https://github.com/camptocamp/devops-stack/pull/843) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 month ago)
 - [feat(README): add note on built-in PuppetDB SD support](https://github.com/camptocamp/prometheus-puppetdb-sd/pull/43) on [camptocamp/prometheus-puppetdb-sd](https://github.com/camptocamp/prometheus-puppetdb-sd) (1 month ago)
 - [fix(website): build on released](https://github.com/camptocamp/devops-stack/pull/833) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 month ago)
