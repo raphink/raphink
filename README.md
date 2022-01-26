@@ -13,11 +13,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 👷 Check out what I'm currently working on
 
-- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) - Terraform provider for ArgoCD  (1 day ago)
+- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) - Terraform provider for ArgoCD  (today)
 - [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) - A DevOps Stack module to deploy and configure Traefik (2 days ago)
 - [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) -  (2 days ago)
-- [camptocamp/devops-stack-module-keycloak](https://github.com/camptocamp/devops-stack-module-keycloak) - A DevOps Stack module to deploy and configure Keycloak as an OIDC provider (1 week ago)
-- [camptocamp/devops-stack-module-oidc-aws-cognito](https://github.com/camptocamp/devops-stack-module-oidc-aws-cognito) - A DevOps Stack module to deploy and configure AWS Cognito as an OIDC provider (1 week ago)
+- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) - A DevOps Stack module to finalize ArgoCD (1 week ago)
+- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) - A DevOps Stack module to deploy and configure Traefik (1 week ago)
 
 #### 🌱 My latest personal projects
 
@@ -37,11 +37,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(tests): use ssh:// in TestAccArgoCDRepositoryCredentials](https://github.com/oboukili/terraform-provider-argocd/pull/128) on [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) (today)
 - [fix(tests): update go-cty and terraform-json](https://github.com/oboukili/terraform-provider-argocd/pull/127) on [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) (1 day ago)
 - [feat(application): add cascade parameter](https://github.com/oboukili/terraform-provider-argocd/pull/121) on [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) (2 weeks ago)
 - [Modularize the DevOps Stack](https://github.com/camptocamp/devops-stack/pull/843) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 month ago)
 - [feat(README): add note on built-in PuppetDB SD support](https://github.com/camptocamp/prometheus-puppetdb-sd/pull/43) on [camptocamp/prometheus-puppetdb-sd](https://github.com/camptocamp/prometheus-puppetdb-sd) (1 month ago)
-- [fix(website): build on released](https://github.com/camptocamp/devops-stack/pull/833) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 month ago)
 
 #### 📜 My recent blog posts
 
