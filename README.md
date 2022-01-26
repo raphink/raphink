@@ -13,11 +13,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 👷 Check out what I'm currently working on
 
+- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) - Terraform provider for ArgoCD  (1 day ago)
 - [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) - A DevOps Stack module to deploy and configure Traefik (2 days ago)
 - [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) -  (2 days ago)
-- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) - A DevOps Stack module to finalize ArgoCD (1 week ago)
-- [camptocamp/devops-stack-module-minio](https://github.com/camptocamp/devops-stack-module-minio) - A DevOps Stack module to deploy and configure MinIO (1 week ago)
-- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) - A DevOps Stack module to deploy and configure Traefik (1 week ago)
+- [camptocamp/devops-stack-module-keycloak](https://github.com/camptocamp/devops-stack-module-keycloak) - A DevOps Stack module to deploy and configure Keycloak as an OIDC provider (1 week ago)
+- [camptocamp/devops-stack-module-oidc-aws-cognito](https://github.com/camptocamp/devops-stack-module-oidc-aws-cognito) - A DevOps Stack module to deploy and configure AWS Cognito as an OIDC provider (1 week ago)
 
 #### 🌱 My latest personal projects
 
