@@ -13,9 +13,9 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 👷 Check out what I'm currently working on
 
-- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) - Terraform provider for ArgoCD  (2 days ago)
-- [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) -  (4 days ago)
-- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) - A DevOps Stack module to deploy and configure Traefik (4 days ago)
+- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) - Terraform provider for ArgoCD  (3 days ago)
+- [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) -  (5 days ago)
+- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) - A DevOps Stack module to deploy and configure Traefik (5 days ago)
 - [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) - A DevOps Stack module to finalize ArgoCD (1 week ago)
 - [camptocamp/devops-stack-module-oidc-aws-cognito](https://github.com/camptocamp/devops-stack-module-oidc-aws-cognito) - A DevOps Stack module to deploy and configure AWS Cognito as an OIDC provider (1 week ago)
 
@@ -29,16 +29,16 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.10.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.10.0), today) - ArgoProj Helm Charts
-- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v2.2.0](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v2.2.0), 2 days ago) - Terraform provider for ArgoCD 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.10.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.10.0), 1 day ago) - ArgoProj Helm Charts
+- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v2.2.0](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v2.2.0), 3 days ago) - Terraform provider for ArgoCD 
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.3](https://github.com/argoproj/argo-cd/releases/tag/v2.2.3), 1 week ago) - Declarative continuous deployment for Kubernetes.
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.52.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.52.0), 2 weeks ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [camptocamp/kubernetes-csr-exporter](https://github.com/camptocamp/kubernetes-csr-exporter) ([kubernetes-csr-exporter-1.0.0](https://github.com/camptocamp/kubernetes-csr-exporter/releases/tag/kubernetes-csr-exporter-1.0.0), 1 month ago) - 
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(tests): use ssh:// in TestAccArgoCDRepositoryCredentials](https://github.com/oboukili/terraform-provider-argocd/pull/128) on [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) (2 days ago)
-- [fix(tests): update go-cty and terraform-json](https://github.com/oboukili/terraform-provider-argocd/pull/127) on [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) (3 days ago)
+- [fix(tests): use ssh:// in TestAccArgoCDRepositoryCredentials](https://github.com/oboukili/terraform-provider-argocd/pull/128) on [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) (3 days ago)
+- [fix(tests): update go-cty and terraform-json](https://github.com/oboukili/terraform-provider-argocd/pull/127) on [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) (4 days ago)
 - [feat(application): add cascade parameter](https://github.com/oboukili/terraform-provider-argocd/pull/121) on [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) (2 weeks ago)
 - [Modularize the DevOps Stack](https://github.com/camptocamp/devops-stack/pull/843) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 month ago)
 - [feat(README): add note on built-in PuppetDB SD support](https://github.com/camptocamp/prometheus-puppetdb-sd/pull/43) on [camptocamp/prometheus-puppetdb-sd](https://github.com/camptocamp/prometheus-puppetdb-sd) (1 month ago)
@@ -48,7 +48,7 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 - [How to allow dynamic Terraform Provider Configuration](https://dev.to/camptocamp-ops/how-to-allow-dynamic-terraform-provider-configuration-20ik) (8 months ago)
 - [March Cloud Native Romandie Meetup](https://dev.to/camptocamp-ops/march-cloud-native-romandie-meetup-o2f) (10 months ago)
 - [Immutability &amp; loose coupling: a match made in heaven](https://dev.to/camptocamp-ops/immutability-loose-coupling-a-match-made-in-heaven-37kl) (10 months ago)
-- [Open Source, Standards, and Technical Debt](https://dev.to/camptocamp-ops/open-source-standards-and-technical-debt-2g1) (11 months ago)
+- [Open Source, Standards, and Technical Debt](https://dev.to/camptocamp-ops/open-source-standards-and-technical-debt-2g1) (1 year ago)
 - [A Simple Auth Proxy for EKS](https://dev.to/camptocamp-ops/a-simple-auth-proxy-for-eks-24dh) (1 year ago)
 
 #### 👥 Check out some of my recent followers
