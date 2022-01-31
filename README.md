@@ -14,10 +14,10 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 #### 👷 Check out what I'm currently working on
 
 - [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) - A DevOps Stack module to finalize ArgoCD (today)
-- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) - Terraform provider for ArgoCD  (5 days ago)
-- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) - A DevOps Stack module to deploy and configure Traefik (1 week ago)
-- [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) -  (1 week ago)
-- [camptocamp/devops-stack-module-thanos](https://github.com/camptocamp/devops-stack-module-thanos) - A DevOps Stack module to deploy and configure Thanos (1 week ago)
+- [camptocamp/devops-stack-module-keycloak](https://github.com/camptocamp/devops-stack-module-keycloak) - A DevOps Stack module to deploy and configure Keycloak as an OIDC provider (today)
+- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) - A DevOps Stack module to deploy and configure Traefik (today)
+- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) - A DevOps Stack module to deploy and configure Traefik (today)
+- [camptocamp/devops-stack-module-minio](https://github.com/camptocamp/devops-stack-module-minio) - A DevOps Stack module to deploy and configure MinIO (today)
 
 #### 🌱 My latest personal projects
 
