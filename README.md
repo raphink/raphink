@@ -29,8 +29,8 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.33.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.33.2), today) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.0-rc2](https://github.com/argoproj/argo-cd/releases/tag/v2.3.0-rc2), 1 day ago) - Declarative continuous deployment for Kubernetes.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-notifications-1.8.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-notifications-1.8.0), 2 days ago) - ArgoProj Helm Charts
 - [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v2.2.0](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v2.2.0), 1 week ago) - Terraform provider for ArgoCD 
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.52.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.52.0), 2 weeks ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [camptocamp/kubernetes-csr-exporter](https://github.com/camptocamp/kubernetes-csr-exporter) ([kubernetes-csr-exporter-1.0.0](https://github.com/camptocamp/kubernetes-csr-exporter/releases/tag/kubernetes-csr-exporter-1.0.0), 1 month ago) - 
