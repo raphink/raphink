@@ -37,11 +37,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat(eks): add extra_lb_target_groups and extra_lb_http_tcp_listeners variables](https://github.com/camptocamp/devops-stack/pull/853) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (today)
 - [refactor!: use var.cluster_info](https://github.com/camptocamp/devops-stack-module-loki-stack/pull/3) on [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) (3 days ago)
 - [refactor!: use var.cluster_info](https://github.com/camptocamp/devops-stack-module-minio/pull/1) on [camptocamp/devops-stack-module-minio](https://github.com/camptocamp/devops-stack-module-minio) (3 days ago)
 - [Cluster info](https://github.com/camptocamp/devops-stack-module-keycloak/pull/1) on [camptocamp/devops-stack-module-keycloak](https://github.com/camptocamp/devops-stack-module-keycloak) (3 days ago)
 - [refactor!: use var.cluster_info](https://github.com/camptocamp/devops-stack-module-argocd/pull/1) on [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) (3 days ago)
-- [refactor!: use var.cluster_info](https://github.com/camptocamp/devops-stack-module-cert-manager/pull/2) on [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) (3 days ago)
 
 #### 📜 My recent blog posts
 
