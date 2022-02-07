@@ -37,11 +37,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(aks): use soft dependency between cluster and data source](https://github.com/camptocamp/devops-stack/pull/855) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (today)
 - [feat(eks): add extra_lb_target_groups and extra_lb_http_tcp_listeners variables](https://github.com/camptocamp/devops-stack/pull/853) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (3 days ago)
 - [refactor!: use var.cluster_info](https://github.com/camptocamp/devops-stack-module-loki-stack/pull/3) on [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) (6 days ago)
 - [refactor!: use var.cluster_info](https://github.com/camptocamp/devops-stack-module-minio/pull/1) on [camptocamp/devops-stack-module-minio](https://github.com/camptocamp/devops-stack-module-minio) (6 days ago)
 - [Cluster info](https://github.com/camptocamp/devops-stack-module-keycloak/pull/1) on [camptocamp/devops-stack-module-keycloak](https://github.com/camptocamp/devops-stack-module-keycloak) (6 days ago)
-- [refactor!: use var.cluster_info](https://github.com/camptocamp/devops-stack-module-argocd/pull/1) on [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) (6 days ago)
 
 #### 📜 My recent blog posts
 
