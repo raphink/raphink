@@ -13,11 +13,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) - A DevOps Stack module to deploy and configure Traefik (2 days ago)
-- [voxpupuli/puppet-kmod](https://github.com/voxpupuli/puppet-kmod) - manage kernel module with puppet (3 days ago)
-- [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (3 days ago)
-- [camptocamp/devops-stack-module-minio](https://github.com/camptocamp/devops-stack-module-minio) - A DevOps Stack module to deploy and configure MinIO (5 days ago)
-- [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) -  (5 days ago)
+- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) - A DevOps Stack module to deploy and configure Traefik (3 days ago)
+- [voxpupuli/puppet-kmod](https://github.com/voxpupuli/puppet-kmod) - manage kernel module with puppet (4 days ago)
+- [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (4 days ago)
+- [camptocamp/devops-stack-module-minio](https://github.com/camptocamp/devops-stack-module-minio) - A DevOps Stack module to deploy and configure MinIO (6 days ago)
+- [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) -  (6 days ago)
 
 #### 🌱 My latest personal projects
 
@@ -29,23 +29,23 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.33.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.33.5), 1 day ago) - ArgoProj Helm Charts
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.5](https://github.com/argoproj/argo-cd/releases/tag/v2.2.5), 1 day ago) - Declarative continuous deployment for Kubernetes.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.33.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.33.5), 2 days ago) - ArgoProj Helm Charts
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.5](https://github.com/argoproj/argo-cd/releases/tag/v2.2.5), 2 days ago) - Declarative continuous deployment for Kubernetes.
 - [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v2.2.0](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v2.2.0), 1 week ago) - Terraform provider for ArgoCD 
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.52.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.52.0), 3 weeks ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [camptocamp/kubernetes-csr-exporter](https://github.com/camptocamp/kubernetes-csr-exporter) ([kubernetes-csr-exporter-1.0.0](https://github.com/camptocamp/kubernetes-csr-exporter/releases/tag/kubernetes-csr-exporter-1.0.0), 2 months ago) - 
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat(eks): add extra_lb_target_groups and extra_lb_http_tcp_listeners variables](https://github.com/camptocamp/devops-stack/pull/853) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (2 days ago)
-- [refactor!: use var.cluster_info](https://github.com/camptocamp/devops-stack-module-loki-stack/pull/3) on [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) (5 days ago)
-- [refactor!: use var.cluster_info](https://github.com/camptocamp/devops-stack-module-minio/pull/1) on [camptocamp/devops-stack-module-minio](https://github.com/camptocamp/devops-stack-module-minio) (5 days ago)
-- [Cluster info](https://github.com/camptocamp/devops-stack-module-keycloak/pull/1) on [camptocamp/devops-stack-module-keycloak](https://github.com/camptocamp/devops-stack-module-keycloak) (5 days ago)
-- [refactor!: use var.cluster_info](https://github.com/camptocamp/devops-stack-module-argocd/pull/1) on [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) (5 days ago)
+- [feat(eks): add extra_lb_target_groups and extra_lb_http_tcp_listeners variables](https://github.com/camptocamp/devops-stack/pull/853) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (3 days ago)
+- [refactor!: use var.cluster_info](https://github.com/camptocamp/devops-stack-module-loki-stack/pull/3) on [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) (6 days ago)
+- [refactor!: use var.cluster_info](https://github.com/camptocamp/devops-stack-module-minio/pull/1) on [camptocamp/devops-stack-module-minio](https://github.com/camptocamp/devops-stack-module-minio) (6 days ago)
+- [Cluster info](https://github.com/camptocamp/devops-stack-module-keycloak/pull/1) on [camptocamp/devops-stack-module-keycloak](https://github.com/camptocamp/devops-stack-module-keycloak) (6 days ago)
+- [refactor!: use var.cluster_info](https://github.com/camptocamp/devops-stack-module-argocd/pull/1) on [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) (6 days ago)
 
 #### 📜 My recent blog posts
 
-- [A 15-year Puppet Journey](https://dev.to/raphink/a-15-year-puppet-journey-4o39) (today)
+- [A 15-year Puppet Journey](https://dev.to/raphink/a-15-year-puppet-journey-4o39) (1 day ago)
 - [How to allow dynamic Terraform Provider Configuration](https://dev.to/camptocamp-ops/how-to-allow-dynamic-terraform-provider-configuration-20ik) (9 months ago)
 - [March Cloud Native Romandie Meetup](https://dev.to/camptocamp-ops/march-cloud-native-romandie-meetup-o2f) (10 months ago)
 - [Immutability &amp; loose coupling: a match made in heaven](https://dev.to/camptocamp-ops/immutability-loose-coupling-a-match-made-in-heaven-37kl) (10 months ago)
