@@ -13,11 +13,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/terraform-provider-puppetca](https://github.com/camptocamp/terraform-provider-puppetca) - Terraform Puppet CA Provider (today)
-- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (today)
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (today)
-- [camptocamp/go-puppetca](https://github.com/camptocamp/go-puppetca) - Golang Puppet API client (today)
-- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) - A DevOps Stack module to deploy and configure Traefik (3 days ago)
+- [camptocamp/terraform-provider-puppetca](https://github.com/camptocamp/terraform-provider-puppetca) - Terraform Puppet CA Provider (1 day ago)
+- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871 (1 day ago)
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (1 day ago)
+- [camptocamp/go-puppetca](https://github.com/camptocamp/go-puppetca) - Golang Puppet API client (1 day ago)
+- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) - A DevOps Stack module to deploy and configure Traefik (4 days ago)
 
 #### 🌱 My latest personal projects
 
@@ -29,23 +29,23 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔭 Latest releases I've contributed to
 
-- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v2.2.1](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v2.2.1), today) - Terraform provider for ArgoCD 
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.53.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.53.0), today) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.33.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.33.5), 2 days ago) - ArgoProj Helm Charts
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.5](https://github.com/argoproj/argo-cd/releases/tag/v2.2.5), 2 days ago) - Declarative continuous deployment for Kubernetes.
+- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v2.2.1](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v2.2.1), 1 day ago) - Terraform provider for ArgoCD 
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.53.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.53.0), 1 day ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.33.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.33.5), 3 days ago) - ArgoProj Helm Charts
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.5](https://github.com/argoproj/argo-cd/releases/tag/v2.2.5), 3 days ago) - Declarative continuous deployment for Kubernetes.
 - [camptocamp/kubernetes-csr-exporter](https://github.com/camptocamp/kubernetes-csr-exporter) ([kubernetes-csr-exporter-1.0.0](https://github.com/camptocamp/kubernetes-csr-exporter/releases/tag/kubernetes-csr-exporter-1.0.0), 2 months ago) - 
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(aks): use soft dependency between cluster and data source](https://github.com/camptocamp/devops-stack/pull/855) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (today)
-- [feat(eks): add extra_lb_target_groups and extra_lb_http_tcp_listeners variables](https://github.com/camptocamp/devops-stack/pull/853) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (3 days ago)
-- [refactor!: use var.cluster_info](https://github.com/camptocamp/devops-stack-module-loki-stack/pull/3) on [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) (6 days ago)
-- [refactor!: use var.cluster_info](https://github.com/camptocamp/devops-stack-module-minio/pull/1) on [camptocamp/devops-stack-module-minio](https://github.com/camptocamp/devops-stack-module-minio) (6 days ago)
-- [Cluster info](https://github.com/camptocamp/devops-stack-module-keycloak/pull/1) on [camptocamp/devops-stack-module-keycloak](https://github.com/camptocamp/devops-stack-module-keycloak) (6 days ago)
+- [fix(aks): use soft dependency between cluster and data source](https://github.com/camptocamp/devops-stack/pull/855) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 day ago)
+- [feat(eks): add extra_lb_target_groups and extra_lb_http_tcp_listeners variables](https://github.com/camptocamp/devops-stack/pull/853) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (4 days ago)
+- [refactor!: use var.cluster_info](https://github.com/camptocamp/devops-stack-module-loki-stack/pull/3) on [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) (1 week ago)
+- [refactor!: use var.cluster_info](https://github.com/camptocamp/devops-stack-module-minio/pull/1) on [camptocamp/devops-stack-module-minio](https://github.com/camptocamp/devops-stack-module-minio) (1 week ago)
+- [Cluster info](https://github.com/camptocamp/devops-stack-module-keycloak/pull/1) on [camptocamp/devops-stack-module-keycloak](https://github.com/camptocamp/devops-stack-module-keycloak) (1 week ago)
 
 #### 📜 My recent blog posts
 
-- [A 15-year Puppet Journey](https://dev.to/raphink/a-15-year-puppet-journey-4o39) (1 day ago)
+- [A 15-year Puppet Journey](https://dev.to/raphink/a-15-year-puppet-journey-4o39) (2 days ago)
 - [How to allow dynamic Terraform Provider Configuration](https://dev.to/camptocamp-ops/how-to-allow-dynamic-terraform-provider-configuration-20ik) (9 months ago)
 - [March Cloud Native Romandie Meetup](https://dev.to/camptocamp-ops/march-cloud-native-romandie-meetup-o2f) (10 months ago)
 - [Immutability &amp; loose coupling: a match made in heaven](https://dev.to/camptocamp-ops/immutability-loose-coupling-a-match-made-in-heaven-37kl) (10 months ago)
