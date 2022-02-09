@@ -13,11 +13,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) - A DevOps Stack module to finalize ArgoCD (today)
-- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) - A DevOps Stack module to deploy and configure Traefik (today)
-- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) - A DevOps Stack module to deploy and configure Loki (today)
-- [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) -  (today)
-- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) - A DevOps Stack module to deploy and configure Traefik (today)
+- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) - A DevOps Stack module to finalize ArgoCD (1 day ago)
+- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) - A DevOps Stack module to deploy and configure Traefik (1 day ago)
+- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) - A DevOps Stack module to deploy and configure Loki (1 day ago)
+- [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) -  (1 day ago)
+- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) - A DevOps Stack module to deploy and configure Traefik (1 day ago)
 
 #### 🌱 My latest personal projects
 
@@ -29,23 +29,23 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.1.0](https://github.com/camptocamp/terraboard/releases/tag/v2.1.0), today) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
-- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v2.2.1](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v2.2.1), 1 day ago) - Terraform provider for ArgoCD 
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.53.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.53.0), 1 day ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.33.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.33.5), 3 days ago) - ArgoProj Helm Charts
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.5](https://github.com/argoproj/argo-cd/releases/tag/v2.2.5), 3 days ago) - Declarative continuous deployment for Kubernetes.
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.1.0](https://github.com/camptocamp/terraboard/releases/tag/v2.1.0), 1 day ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
+- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v2.2.1](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v2.2.1), 2 days ago) - Terraform provider for ArgoCD 
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.53.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.53.0), 2 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.33.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.33.5), 4 days ago) - ArgoProj Helm Charts
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.5](https://github.com/argoproj/argo-cd/releases/tag/v2.2.5), 4 days ago) - Declarative continuous deployment for Kubernetes.
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(aks): use soft dependency between cluster and data source](https://github.com/camptocamp/devops-stack/pull/855) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 day ago)
-- [feat(eks): add extra_lb_target_groups and extra_lb_http_tcp_listeners variables](https://github.com/camptocamp/devops-stack/pull/853) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (4 days ago)
+- [fix(aks): use soft dependency between cluster and data source](https://github.com/camptocamp/devops-stack/pull/855) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (2 days ago)
+- [feat(eks): add extra_lb_target_groups and extra_lb_http_tcp_listeners variables](https://github.com/camptocamp/devops-stack/pull/853) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (5 days ago)
 - [refactor!: use var.cluster_info](https://github.com/camptocamp/devops-stack-module-loki-stack/pull/3) on [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) (1 week ago)
 - [refactor!: use var.cluster_info](https://github.com/camptocamp/devops-stack-module-minio/pull/1) on [camptocamp/devops-stack-module-minio](https://github.com/camptocamp/devops-stack-module-minio) (1 week ago)
 - [Cluster info](https://github.com/camptocamp/devops-stack-module-keycloak/pull/1) on [camptocamp/devops-stack-module-keycloak](https://github.com/camptocamp/devops-stack-module-keycloak) (1 week ago)
 
 #### 📜 My recent blog posts
 
-- [A 15-year Puppet Journey](https://dev.to/raphink/a-15-year-puppet-journey-4o39) (2 days ago)
+- [A 15-year Puppet Journey](https://dev.to/raphink/a-15-year-puppet-journey-4o39) (3 days ago)
 - [How to allow dynamic Terraform Provider Configuration](https://dev.to/camptocamp-ops/how-to-allow-dynamic-terraform-provider-configuration-20ik) (9 months ago)
 - [March Cloud Native Romandie Meetup](https://dev.to/camptocamp-ops/march-cloud-native-romandie-meetup-o2f) (10 months ago)
 - [Immutability &amp; loose coupling: a match made in heaven](https://dev.to/camptocamp-ops/immutability-loose-coupling-a-match-made-in-heaven-37kl) (10 months ago)
