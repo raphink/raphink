@@ -15,7 +15,7 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 - [camptocamp/terraform-provider-puppetdb](https://github.com/camptocamp/terraform-provider-puppetdb) - Terraform Provider to manage resources in PuppetDB (today)
 - [camptocamp/terraform-provider-puppetca](https://github.com/camptocamp/terraform-provider-puppetca) - Terraform Puppet CA Provider (today)
-- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) - A DevOps Stack module to finalize ArgoCD (1 day ago)
+- [camptocamp/devops-stack-module-applicationset](https://github.com/camptocamp/devops-stack-module-applicationset) - Generic ApplicationSet module for DevOps Stack (1 day ago)
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (1 day ago)
 - [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) -  (1 day ago)
 
@@ -37,11 +37,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(import): set name on read](https://github.com/camptocamp/terraform-provider-puppetca/pull/12) on [camptocamp/terraform-provider-puppetca](https://github.com/camptocamp/terraform-provider-puppetca) (today)
 - [feat: add passthrough importer](https://github.com/camptocamp/terraform-provider-puppetdb/pull/9) on [camptocamp/terraform-provider-puppetdb](https://github.com/camptocamp/terraform-provider-puppetdb) (today)
 - [feat: add passthrough importer](https://github.com/camptocamp/terraform-provider-puppetca/pull/11) on [camptocamp/terraform-provider-puppetca](https://github.com/camptocamp/terraform-provider-puppetca) (today)
 - [feat(eks): add load-balancer](https://github.com/camptocamp/devops-stack-module-traefik/pull/2) on [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) (1 day ago)
 - [fix(eks): make extra_lb_target_groups and extra_lb_http_tcp_listeners optional](https://github.com/camptocamp/devops-stack/pull/858) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 day ago)
-- [fix(aks): use soft dependency between cluster and data source](https://github.com/camptocamp/devops-stack/pull/855) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (3 days ago)
 
 #### 📜 My recent blog posts
 
