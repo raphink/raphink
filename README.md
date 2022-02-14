@@ -13,11 +13,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/terraform-provider-puppetdb](https://github.com/camptocamp/terraform-provider-puppetdb) - Terraform Provider to manage resources in PuppetDB (3 days ago)
-- [camptocamp/terraform-provider-puppetca](https://github.com/camptocamp/terraform-provider-puppetca) - Terraform Puppet CA Provider (3 days ago)
-- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) - A DevOps Stack module to finalize ArgoCD (4 days ago)
-- [camptocamp/devops-stack-module-applicationset](https://github.com/camptocamp/devops-stack-module-applicationset) - Generic ApplicationSet module for DevOps Stack (4 days ago)
-- [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) -  (4 days ago)
+- [camptocamp/terraform-provider-puppetdb](https://github.com/camptocamp/terraform-provider-puppetdb) - Terraform Provider to manage resources in PuppetDB (4 days ago)
+- [camptocamp/terraform-provider-puppetca](https://github.com/camptocamp/terraform-provider-puppetca) - Terraform Puppet CA Provider (4 days ago)
+- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) - A DevOps Stack module to finalize ArgoCD (5 days ago)
+- [camptocamp/devops-stack-module-applicationset](https://github.com/camptocamp/devops-stack-module-applicationset) - Generic ApplicationSet module for DevOps Stack (5 days ago)
+- [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) -  (5 days ago)
 
 #### 🌱 My latest personal projects
 
@@ -29,19 +29,19 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) ([master-LATEST](https://github.com/camptocamp/devops-stack-antora-ui/releases/tag/master-LATEST), 2 days ago) - Antora UI for the DevOps Stack Project
-- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.14.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.14.0), 3 days ago) -  The Helm Chart for Puppet Server
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.10.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.10.1), 4 days ago) - ArgoProj Helm Charts
-- [camptocamp/antora-ui](https://github.com/camptocamp/antora-ui) ([master-LATEST](https://github.com/camptocamp/antora-ui/releases/tag/master-LATEST), 4 days ago) - Camptocamp&#39;s version of antora-ui, forked from https://gitlab.com/antora/antora-ui-default
-- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.1.0](https://github.com/camptocamp/terraboard/releases/tag/v2.1.0), 5 days ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
+- [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) ([master-LATEST](https://github.com/camptocamp/devops-stack-antora-ui/releases/tag/master-LATEST), 3 days ago) - Antora UI for the DevOps Stack Project
+- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.14.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.14.0), 4 days ago) -  The Helm Chart for Puppet Server
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.10.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.10.1), 5 days ago) - ArgoProj Helm Charts
+- [camptocamp/antora-ui](https://github.com/camptocamp/antora-ui) ([master-LATEST](https://github.com/camptocamp/antora-ui/releases/tag/master-LATEST), 5 days ago) - Camptocamp&#39;s version of antora-ui, forked from https://gitlab.com/antora/antora-ui-default
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.1.0](https://github.com/camptocamp/terraboard/releases/tag/v2.1.0), 6 days ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(import): set name on read](https://github.com/camptocamp/terraform-provider-puppetca/pull/12) on [camptocamp/terraform-provider-puppetca](https://github.com/camptocamp/terraform-provider-puppetca) (3 days ago)
-- [feat: add passthrough importer](https://github.com/camptocamp/terraform-provider-puppetdb/pull/9) on [camptocamp/terraform-provider-puppetdb](https://github.com/camptocamp/terraform-provider-puppetdb) (3 days ago)
-- [feat: add passthrough importer](https://github.com/camptocamp/terraform-provider-puppetca/pull/11) on [camptocamp/terraform-provider-puppetca](https://github.com/camptocamp/terraform-provider-puppetca) (3 days ago)
-- [feat(eks): add load-balancer](https://github.com/camptocamp/devops-stack-module-traefik/pull/2) on [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) (4 days ago)
-- [fix(eks): make extra_lb_target_groups and extra_lb_http_tcp_listeners optional](https://github.com/camptocamp/devops-stack/pull/858) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (4 days ago)
+- [fix(import): set name on read](https://github.com/camptocamp/terraform-provider-puppetca/pull/12) on [camptocamp/terraform-provider-puppetca](https://github.com/camptocamp/terraform-provider-puppetca) (4 days ago)
+- [feat: add passthrough importer](https://github.com/camptocamp/terraform-provider-puppetdb/pull/9) on [camptocamp/terraform-provider-puppetdb](https://github.com/camptocamp/terraform-provider-puppetdb) (4 days ago)
+- [feat: add passthrough importer](https://github.com/camptocamp/terraform-provider-puppetca/pull/11) on [camptocamp/terraform-provider-puppetca](https://github.com/camptocamp/terraform-provider-puppetca) (4 days ago)
+- [feat(eks): add load-balancer](https://github.com/camptocamp/devops-stack-module-traefik/pull/2) on [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) (5 days ago)
+- [fix(eks): make extra_lb_target_groups and extra_lb_http_tcp_listeners optional](https://github.com/camptocamp/devops-stack/pull/858) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (5 days ago)
 
 #### 📜 My recent blog posts
 
