@@ -37,11 +37,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat(charts): upgrade chart to v1.7.1](https://github.com/camptocamp/devops-stack-module-cert-manager/pull/3) on [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) (today)
 - [fix(import): set name on read](https://github.com/camptocamp/terraform-provider-puppetca/pull/12) on [camptocamp/terraform-provider-puppetca](https://github.com/camptocamp/terraform-provider-puppetca) (4 days ago)
 - [feat: add passthrough importer](https://github.com/camptocamp/terraform-provider-puppetdb/pull/9) on [camptocamp/terraform-provider-puppetdb](https://github.com/camptocamp/terraform-provider-puppetdb) (4 days ago)
 - [feat: add passthrough importer](https://github.com/camptocamp/terraform-provider-puppetca/pull/11) on [camptocamp/terraform-provider-puppetca](https://github.com/camptocamp/terraform-provider-puppetca) (4 days ago)
 - [feat(eks): add load-balancer](https://github.com/camptocamp/devops-stack-module-traefik/pull/2) on [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) (5 days ago)
-- [fix(eks): make extra_lb_target_groups and extra_lb_http_tcp_listeners optional](https://github.com/camptocamp/devops-stack/pull/858) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (5 days ago)
 
 #### 📜 My recent blog posts
 
