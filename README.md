@@ -13,10 +13,10 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 👷 Check out what I'm currently working on
 
+- [camptocamp/devops-stack-module-keycloak](https://github.com/camptocamp/devops-stack-module-keycloak) - A DevOps Stack module to deploy and configure Keycloak as an OIDC provider (today)
 - [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) - A DevOps Stack module to deploy and configure Traefik (today)
 - [camptocamp/terraform-provider-puppetdb](https://github.com/camptocamp/terraform-provider-puppetdb) - Terraform Provider to manage resources in PuppetDB (4 days ago)
 - [camptocamp/terraform-provider-puppetca](https://github.com/camptocamp/terraform-provider-puppetca) - Terraform Puppet CA Provider (4 days ago)
-- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) - A DevOps Stack module to finalize ArgoCD (5 days ago)
 - [camptocamp/devops-stack-module-applicationset](https://github.com/camptocamp/devops-stack-module-applicationset) - Generic ApplicationSet module for DevOps Stack (5 days ago)
 
 #### 🌱 My latest personal projects
@@ -37,11 +37,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(charts): use ingress v1](https://github.com/camptocamp/devops-stack-module-keycloak/pull/2) on [camptocamp/devops-stack-module-keycloak](https://github.com/camptocamp/devops-stack-module-keycloak) (today)
 - [feat(charts): upgrade chart to v1.7.1](https://github.com/camptocamp/devops-stack-module-cert-manager/pull/3) on [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) (today)
 - [fix(import): set name on read](https://github.com/camptocamp/terraform-provider-puppetca/pull/12) on [camptocamp/terraform-provider-puppetca](https://github.com/camptocamp/terraform-provider-puppetca) (4 days ago)
 - [feat: add passthrough importer](https://github.com/camptocamp/terraform-provider-puppetdb/pull/9) on [camptocamp/terraform-provider-puppetdb](https://github.com/camptocamp/terraform-provider-puppetdb) (4 days ago)
 - [feat: add passthrough importer](https://github.com/camptocamp/terraform-provider-puppetca/pull/11) on [camptocamp/terraform-provider-puppetca](https://github.com/camptocamp/terraform-provider-puppetca) (4 days ago)
-- [feat(eks): add load-balancer](https://github.com/camptocamp/devops-stack-module-traefik/pull/2) on [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) (5 days ago)
 
 #### 📜 My recent blog posts
 
