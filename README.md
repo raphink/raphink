@@ -13,11 +13,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 👷 Check out what I'm currently working on
 
+- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) - A DevOps Stack module to deploy and configure Traefik (today)
 - [camptocamp/terraform-provider-puppetdb](https://github.com/camptocamp/terraform-provider-puppetdb) - Terraform Provider to manage resources in PuppetDB (4 days ago)
 - [camptocamp/terraform-provider-puppetca](https://github.com/camptocamp/terraform-provider-puppetca) - Terraform Puppet CA Provider (4 days ago)
 - [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) - A DevOps Stack module to finalize ArgoCD (5 days ago)
 - [camptocamp/devops-stack-module-applicationset](https://github.com/camptocamp/devops-stack-module-applicationset) - Generic ApplicationSet module for DevOps Stack (5 days ago)
-- [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) -  (5 days ago)
 
 #### 🌱 My latest personal projects
 
