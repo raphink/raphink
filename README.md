@@ -29,11 +29,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔭 Latest releases I've contributed to
 
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.54.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.54.0), today) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) ([master-LATEST](https://github.com/camptocamp/devops-stack-antora-ui/releases/tag/master-LATEST), 5 days ago) - Antora UI for the DevOps Stack Project
 - [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.14.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.14.0), 6 days ago) -  The Helm Chart for Puppet Server
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.10.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.10.1), 1 week ago) - ArgoProj Helm Charts
 - [camptocamp/antora-ui](https://github.com/camptocamp/antora-ui) ([master-LATEST](https://github.com/camptocamp/antora-ui/releases/tag/master-LATEST), 1 week ago) - Camptocamp&#39;s version of antora-ui, forked from https://gitlab.com/antora/antora-ui-default
-- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.1.0](https://github.com/camptocamp/terraboard/releases/tag/v2.1.0), 1 week ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
 
 #### 🔨 Latest Pull Requests I published
 
