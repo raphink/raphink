@@ -13,11 +13,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/devops-stack-module-keycloak](https://github.com/camptocamp/devops-stack-module-keycloak) - A DevOps Stack module to deploy and configure Keycloak as an OIDC provider (1 day ago)
-- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) - A DevOps Stack module to deploy and configure Traefik (1 day ago)
-- [camptocamp/terraform-provider-puppetdb](https://github.com/camptocamp/terraform-provider-puppetdb) - Terraform Provider to manage resources in PuppetDB (5 days ago)
-- [camptocamp/terraform-provider-puppetca](https://github.com/camptocamp/terraform-provider-puppetca) - Terraform Puppet CA Provider (5 days ago)
-- [camptocamp/devops-stack-module-applicationset](https://github.com/camptocamp/devops-stack-module-applicationset) - Generic ApplicationSet module for DevOps Stack (6 days ago)
+- [camptocamp/devops-stack-module-keycloak](https://github.com/camptocamp/devops-stack-module-keycloak) - A DevOps Stack module to deploy and configure Keycloak as an OIDC provider (2 days ago)
+- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) - A DevOps Stack module to deploy and configure Traefik (2 days ago)
+- [camptocamp/terraform-provider-puppetdb](https://github.com/camptocamp/terraform-provider-puppetdb) - Terraform Provider to manage resources in PuppetDB (6 days ago)
+- [camptocamp/terraform-provider-puppetca](https://github.com/camptocamp/terraform-provider-puppetca) - Terraform Puppet CA Provider (6 days ago)
+- [camptocamp/devops-stack-module-applicationset](https://github.com/camptocamp/devops-stack-module-applicationset) - Generic ApplicationSet module for DevOps Stack (1 week ago)
 
 #### 🌱 My latest personal projects
 
@@ -29,19 +29,19 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) ([master-LATEST](https://github.com/camptocamp/devops-stack-antora-ui/releases/tag/master-LATEST), 4 days ago) - Antora UI for the DevOps Stack Project
-- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.14.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.14.0), 5 days ago) -  The Helm Chart for Puppet Server
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.10.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.10.1), 6 days ago) - ArgoProj Helm Charts
-- [camptocamp/antora-ui](https://github.com/camptocamp/antora-ui) ([master-LATEST](https://github.com/camptocamp/antora-ui/releases/tag/master-LATEST), 6 days ago) - Camptocamp&#39;s version of antora-ui, forked from https://gitlab.com/antora/antora-ui-default
+- [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) ([master-LATEST](https://github.com/camptocamp/devops-stack-antora-ui/releases/tag/master-LATEST), 5 days ago) - Antora UI for the DevOps Stack Project
+- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.14.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.14.0), 6 days ago) -  The Helm Chart for Puppet Server
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.10.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.10.1), 1 week ago) - ArgoProj Helm Charts
+- [camptocamp/antora-ui](https://github.com/camptocamp/antora-ui) ([master-LATEST](https://github.com/camptocamp/antora-ui/releases/tag/master-LATEST), 1 week ago) - Camptocamp&#39;s version of antora-ui, forked from https://gitlab.com/antora/antora-ui-default
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.1.0](https://github.com/camptocamp/terraboard/releases/tag/v2.1.0), 1 week ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(charts): use ingress v1](https://github.com/camptocamp/devops-stack-module-keycloak/pull/2) on [camptocamp/devops-stack-module-keycloak](https://github.com/camptocamp/devops-stack-module-keycloak) (1 day ago)
-- [feat(charts): upgrade chart to v1.7.1](https://github.com/camptocamp/devops-stack-module-cert-manager/pull/3) on [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) (1 day ago)
-- [fix(import): set name on read](https://github.com/camptocamp/terraform-provider-puppetca/pull/12) on [camptocamp/terraform-provider-puppetca](https://github.com/camptocamp/terraform-provider-puppetca) (5 days ago)
-- [feat: add passthrough importer](https://github.com/camptocamp/terraform-provider-puppetdb/pull/9) on [camptocamp/terraform-provider-puppetdb](https://github.com/camptocamp/terraform-provider-puppetdb) (5 days ago)
-- [feat: add passthrough importer](https://github.com/camptocamp/terraform-provider-puppetca/pull/11) on [camptocamp/terraform-provider-puppetca](https://github.com/camptocamp/terraform-provider-puppetca) (5 days ago)
+- [fix(charts): use ingress v1](https://github.com/camptocamp/devops-stack-module-keycloak/pull/2) on [camptocamp/devops-stack-module-keycloak](https://github.com/camptocamp/devops-stack-module-keycloak) (2 days ago)
+- [feat(charts): upgrade chart to v1.7.1](https://github.com/camptocamp/devops-stack-module-cert-manager/pull/3) on [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) (2 days ago)
+- [fix(import): set name on read](https://github.com/camptocamp/terraform-provider-puppetca/pull/12) on [camptocamp/terraform-provider-puppetca](https://github.com/camptocamp/terraform-provider-puppetca) (6 days ago)
+- [feat: add passthrough importer](https://github.com/camptocamp/terraform-provider-puppetdb/pull/9) on [camptocamp/terraform-provider-puppetdb](https://github.com/camptocamp/terraform-provider-puppetdb) (6 days ago)
+- [feat: add passthrough importer](https://github.com/camptocamp/terraform-provider-puppetca/pull/11) on [camptocamp/terraform-provider-puppetca](https://github.com/camptocamp/terraform-provider-puppetca) (6 days ago)
 
 #### 📜 My recent blog posts
 
