@@ -29,11 +29,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-applicationset-1.10.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-applicationset-1.10.0), today) - ArgoProj Helm Charts
 - [camptocamp/terraform-provider-puppetdb](https://github.com/camptocamp/terraform-provider-puppetdb) ([v1.3.0](https://github.com/camptocamp/terraform-provider-puppetdb/releases/tag/v1.3.0), today) - Terraform Provider to manage resources in PuppetDB
 - [camptocamp/terraform-provider-puppetca](https://github.com/camptocamp/terraform-provider-puppetca) ([v1.4.0](https://github.com/camptocamp/terraform-provider-puppetca/releases/tag/v1.4.0), today) - Terraform Puppet CA Provider
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.54.1](https://github.com/camptocamp/devops-stack/releases/tag/v0.54.1), today) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) ([master-LATEST](https://github.com/camptocamp/devops-stack-antora-ui/releases/tag/master-LATEST), 5 days ago) - Antora UI for the DevOps Stack Project
-- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.14.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.14.0), 6 days ago) -  The Helm Chart for Puppet Server
 
 #### 🔨 Latest Pull Requests I published
 
