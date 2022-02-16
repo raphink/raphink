@@ -13,11 +13,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/devops-stack-module-keycloak](https://github.com/camptocamp/devops-stack-module-keycloak) - A DevOps Stack module to deploy and configure Keycloak as an OIDC provider (2 days ago)
+- [camptocamp/terraform-provider-puppetca](https://github.com/camptocamp/terraform-provider-puppetca) - Terraform Puppet CA Provider (today)
+- [camptocamp/terraform-provider-puppetdb](https://github.com/camptocamp/terraform-provider-puppetdb) - Terraform Provider to manage resources in PuppetDB (today)
 - [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) - A DevOps Stack module to deploy and configure Traefik (2 days ago)
-- [camptocamp/terraform-provider-puppetdb](https://github.com/camptocamp/terraform-provider-puppetdb) - Terraform Provider to manage resources in PuppetDB (6 days ago)
-- [camptocamp/terraform-provider-puppetca](https://github.com/camptocamp/terraform-provider-puppetca) - Terraform Puppet CA Provider (6 days ago)
-- [camptocamp/devops-stack-module-applicationset](https://github.com/camptocamp/devops-stack-module-applicationset) - Generic ApplicationSet module for DevOps Stack (1 week ago)
+- [camptocamp/devops-stack-module-keycloak](https://github.com/camptocamp/devops-stack-module-keycloak) - A DevOps Stack module to deploy and configure Keycloak as an OIDC provider (2 days ago)
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (1 week ago)
 
 #### 🌱 My latest personal projects
 
@@ -29,11 +29,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔭 Latest releases I've contributed to
 
+- [camptocamp/terraform-provider-puppetdb](https://github.com/camptocamp/terraform-provider-puppetdb) ([v1.3.0](https://github.com/camptocamp/terraform-provider-puppetdb/releases/tag/v1.3.0), today) - Terraform Provider to manage resources in PuppetDB
+- [camptocamp/terraform-provider-puppetca](https://github.com/camptocamp/terraform-provider-puppetca) ([v1.4.0](https://github.com/camptocamp/terraform-provider-puppetca/releases/tag/v1.4.0), today) - Terraform Puppet CA Provider
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.54.1](https://github.com/camptocamp/devops-stack/releases/tag/v0.54.1), today) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [camptocamp/devops-stack-antora-ui](https://github.com/camptocamp/devops-stack-antora-ui) ([master-LATEST](https://github.com/camptocamp/devops-stack-antora-ui/releases/tag/master-LATEST), 5 days ago) - Antora UI for the DevOps Stack Project
 - [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.14.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.14.0), 6 days ago) -  The Helm Chart for Puppet Server
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.10.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.10.1), 1 week ago) - ArgoProj Helm Charts
-- [camptocamp/antora-ui](https://github.com/camptocamp/antora-ui) ([master-LATEST](https://github.com/camptocamp/antora-ui/releases/tag/master-LATEST), 1 week ago) - Camptocamp&#39;s version of antora-ui, forked from https://gitlab.com/antora/antora-ui-default
 
 #### 🔨 Latest Pull Requests I published
 
