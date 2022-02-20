@@ -29,7 +29,7 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-0.6.3](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.6.3), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-1.11.0](https://github.com/argoproj/argo-helm/releases/tag/argo-events-1.11.0), today) - ArgoProj Helm Charts
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.54.2](https://github.com/camptocamp/devops-stack/releases/tag/v0.54.2), 3 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [camptocamp/terraform-provider-puppetdb](https://github.com/camptocamp/terraform-provider-puppetdb) ([v1.3.0](https://github.com/camptocamp/terraform-provider-puppetdb/releases/tag/v1.3.0), 4 days ago) - Terraform Provider to manage resources in PuppetDB
 - [camptocamp/terraform-provider-puppetca](https://github.com/camptocamp/terraform-provider-puppetca) ([v1.4.0](https://github.com/camptocamp/terraform-provider-puppetca/releases/tag/v1.4.0), 4 days ago) - Terraform Puppet CA Provider
