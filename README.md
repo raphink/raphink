@@ -37,11 +37,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat!: pass hcl values and rename to helm_values_overrides](https://github.com/camptocamp/devops-stack-module-cert-manager/pull/4) on [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) (today)
 - [fix(hostport)!: rename nodeport submodule as hostport](https://github.com/camptocamp/devops-stack-module-traefik/pull/3) on [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) (6 days ago)
 - [fix(charts): use ingress v1](https://github.com/camptocamp/devops-stack-module-keycloak/pull/2) on [camptocamp/devops-stack-module-keycloak](https://github.com/camptocamp/devops-stack-module-keycloak) (1 week ago)
 - [feat(charts): upgrade chart to v1.7.1](https://github.com/camptocamp/devops-stack-module-cert-manager/pull/3) on [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) (1 week ago)
 - [fix(import): set name on read](https://github.com/camptocamp/terraform-provider-puppetca/pull/12) on [camptocamp/terraform-provider-puppetca](https://github.com/camptocamp/terraform-provider-puppetca) (1 week ago)
-- [feat: add passthrough importer](https://github.com/camptocamp/terraform-provider-puppetdb/pull/9) on [camptocamp/terraform-provider-puppetdb](https://github.com/camptocamp/terraform-provider-puppetdb) (1 week ago)
 
 #### 📜 My recent blog posts
 
