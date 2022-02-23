@@ -13,11 +13,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 👷 Check out what I'm currently working on
 
+- [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (today)
 - [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) -  (today)
-- [camptocamp/terraform-provider-puppetdb](https://github.com/camptocamp/terraform-provider-puppetdb) - Terraform Provider to manage resources in PuppetDB (1 week ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 week ago)
 - [camptocamp/terraform-provider-puppetca](https://github.com/camptocamp/terraform-provider-puppetca) - Terraform Puppet CA Provider (1 week ago)
-- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) - A DevOps Stack module to deploy and configure Traefik (1 week ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 week ago)
+- [camptocamp/terraform-provider-puppetdb](https://github.com/camptocamp/terraform-provider-puppetdb) - Terraform Provider to manage resources in PuppetDB (1 week ago)
 
 #### 🌱 My latest personal projects
 
