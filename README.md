@@ -29,8 +29,8 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.33.8](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.33.8), today) - ArgoProj Helm Charts
 - [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v2.2.3](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v2.2.3), 1 day ago) - Terraform provider for ArgoCD 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.33.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.33.7), 3 days ago) - ArgoProj Helm Charts
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.54.2](https://github.com/camptocamp/devops-stack/releases/tag/v0.54.2), 1 week ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [camptocamp/terraform-provider-puppetdb](https://github.com/camptocamp/terraform-provider-puppetdb) ([v1.3.0](https://github.com/camptocamp/terraform-provider-puppetdb/releases/tag/v1.3.0), 1 week ago) - Terraform Provider to manage resources in PuppetDB
 - [camptocamp/terraform-provider-puppetca](https://github.com/camptocamp/terraform-provider-puppetca) ([v1.4.0](https://github.com/camptocamp/terraform-provider-puppetca/releases/tag/v1.4.0), 1 week ago) - Terraform Puppet CA Provider
