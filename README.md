@@ -17,7 +17,7 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 - [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (1 day ago)
 - [raphink/panlettre](https://github.com/raphink/panlettre) - Generate French-speaking PDF letters using pandoc and lettre.cls (2 days ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (4 days ago)
-- [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) -  (6 days ago)
+- [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (6 days ago)
 
 #### 🌱 My latest personal projects
 
@@ -29,7 +29,7 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.33.8](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.33.8), 3 days ago) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.11.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.11.0), today) - ArgoProj Helm Charts
 - [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v2.2.3](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v2.2.3), 4 days ago) - Terraform provider for ArgoCD 
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.54.2](https://github.com/camptocamp/devops-stack/releases/tag/v0.54.2), 1 week ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [camptocamp/terraform-provider-puppetdb](https://github.com/camptocamp/terraform-provider-puppetdb) ([v1.3.0](https://github.com/camptocamp/terraform-provider-puppetdb/releases/tag/v1.3.0), 1 week ago) - Terraform Provider to manage resources in PuppetDB
