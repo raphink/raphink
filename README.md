@@ -13,11 +13,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/docker-puppet-catalog-diff](https://github.com/camptocamp/docker-puppet-catalog-diff) - Puppet Catalog Diff Docker image (2 days ago)
+- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (today)
 - [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (2 days ago)
-- [raphink/panlettre](https://github.com/raphink/panlettre) - Generate French-speaking PDF letters using pandoc and lettre.cls (3 days ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (5 days ago)
-- [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (1 week ago)
+- [camptocamp/docker-puppet-catalog-diff](https://github.com/camptocamp/docker-puppet-catalog-diff) - Puppet Catalog Diff Docker image (2 days ago)
+- [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) -  (1 week ago)
+- [camptocamp/terraform-provider-puppetca](https://github.com/camptocamp/terraform-provider-puppetca) - Terraform Puppet CA Provider (2 weeks ago)
 
 #### 🌱 My latest personal projects
 
