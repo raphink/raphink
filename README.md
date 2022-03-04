@@ -37,11 +37,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(self-signed): typos in TLS helm parameters](https://github.com/camptocamp/devops-stack-module-cert-manager/pull/5) on [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) (today)
 - [feat!: pass hcl values and rename to helm_values_overrides](https://github.com/camptocamp/devops-stack-module-cert-manager/pull/4) on [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) (1 week ago)
 - [fix(hostport)!: rename nodeport submodule as hostport](https://github.com/camptocamp/devops-stack-module-traefik/pull/3) on [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) (2 weeks ago)
 - [fix(charts): use ingress v1](https://github.com/camptocamp/devops-stack-module-keycloak/pull/2) on [camptocamp/devops-stack-module-keycloak](https://github.com/camptocamp/devops-stack-module-keycloak) (2 weeks ago)
 - [feat(charts): upgrade chart to v1.7.1](https://github.com/camptocamp/devops-stack-module-cert-manager/pull/3) on [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) (2 weeks ago)
-- [fix(import): set name on read](https://github.com/camptocamp/terraform-provider-puppetca/pull/12) on [camptocamp/terraform-provider-puppetca](https://github.com/camptocamp/terraform-provider-puppetca) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
