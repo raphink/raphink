@@ -13,11 +13,11 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 👷 Check out what I'm currently working on
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 days ago)
-- [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (3 days ago)
-- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (3 days ago)
-- [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (5 days ago)
-- [camptocamp/docker-puppet-catalog-diff](https://github.com/camptocamp/docker-puppet-catalog-diff) - Puppet Catalog Diff Docker image (5 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (3 days ago)
+- [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (4 days ago)
+- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (4 days ago)
+- [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (6 days ago)
+- [camptocamp/docker-puppet-catalog-diff](https://github.com/camptocamp/docker-puppet-catalog-diff) - Puppet Catalog Diff Docker image (6 days ago)
 
 #### 🌱 My latest personal projects
 
@@ -29,15 +29,15 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.1.1](https://github.com/camptocamp/terraboard/releases/tag/v2.1.1), today) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
-- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v2.2.4](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v2.2.4), today) - Terraform provider for ArgoCD 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.11.2](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.11.2), today) - ArgoProj Helm Charts
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.1.1](https://github.com/camptocamp/terraboard/releases/tag/v2.1.1), 1 day ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
+- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v2.2.4](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v2.2.4), 1 day ago) - Terraform provider for ArgoCD 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.11.2](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.11.2), 1 day ago) - ArgoProj Helm Charts
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.54.2](https://github.com/camptocamp/devops-stack/releases/tag/v0.54.2), 2 weeks ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [camptocamp/terraform-provider-puppetdb](https://github.com/camptocamp/terraform-provider-puppetdb) ([v1.3.0](https://github.com/camptocamp/terraform-provider-puppetdb/releases/tag/v1.3.0), 2 weeks ago) - Terraform Provider to manage resources in PuppetDB
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(self-signed): typos in TLS helm parameters](https://github.com/camptocamp/devops-stack-module-cert-manager/pull/5) on [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) (1 day ago)
+- [fix(self-signed): typos in TLS helm parameters](https://github.com/camptocamp/devops-stack-module-cert-manager/pull/5) on [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) (2 days ago)
 - [feat!: pass hcl values and rename to helm_values_overrides](https://github.com/camptocamp/devops-stack-module-cert-manager/pull/4) on [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) (1 week ago)
 - [fix(hostport)!: rename nodeport submodule as hostport](https://github.com/camptocamp/devops-stack-module-traefik/pull/3) on [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) (2 weeks ago)
 - [fix(charts): use ingress v1](https://github.com/camptocamp/devops-stack-module-keycloak/pull/2) on [camptocamp/devops-stack-module-keycloak](https://github.com/camptocamp/devops-stack-module-keycloak) (2 weeks ago)
@@ -46,7 +46,7 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 #### 📜 My recent blog posts
 
 - [Towards a Modular DevOps Stack](https://dev.to/camptocamp-ops/towards-a-modular-devops-stack-257c) (1 week ago)
-- [A 15-year Puppet Journey](https://dev.to/raphink/a-15-year-puppet-journey-4o39) (3 weeks ago)
+- [A 15-year Puppet Journey](https://dev.to/raphink/a-15-year-puppet-journey-4o39) (4 weeks ago)
 - [How to allow dynamic Terraform Provider Configuration](https://dev.to/camptocamp-ops/how-to-allow-dynamic-terraform-provider-configuration-20ik) (9 months ago)
 - [March Cloud Native Romandie Meetup](https://dev.to/camptocamp-ops/march-cloud-native-romandie-meetup-o2f) (11 months ago)
 - [Immutability &amp; loose coupling: a match made in heaven](https://dev.to/camptocamp-ops/immutability-loose-coupling-a-match-made-in-heaven-37kl) (11 months ago)
