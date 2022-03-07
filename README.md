@@ -29,10 +29,10 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔭 Latest releases I've contributed to
 
+- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v2.2.5](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v2.2.5), today) - Terraform provider for ArgoCD 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.35.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.35.2), 1 day ago) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.0](https://github.com/argoproj/argo-cd/releases/tag/v2.3.0), 1 day ago) - Declarative continuous deployment for Kubernetes.
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.1.1](https://github.com/camptocamp/terraboard/releases/tag/v2.1.1), 2 days ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
-- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v2.2.4](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v2.2.4), 2 days ago) - Terraform provider for ArgoCD 
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.54.2](https://github.com/camptocamp/devops-stack/releases/tag/v0.54.2), 2 weeks ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 
 #### 🔨 Latest Pull Requests I published
