@@ -13,9 +13,9 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 👷 Check out what I'm currently working on
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (today)
-- [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (6 days ago)
-- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (6 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 day ago)
+- [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (1 week ago)
+- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (1 week ago)
 - [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (1 week ago)
 - [camptocamp/docker-puppet-catalog-diff](https://github.com/camptocamp/docker-puppet-catalog-diff) - Puppet Catalog Diff Docker image (1 week ago)
 
@@ -29,23 +29,23 @@ I'm Raphaël, a Cloud Native Tech Evangelist working at [Camptocamp 🏔](https:
 
 #### 🔭 Latest releases I've contributed to
 
-- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v2.2.5](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v2.2.5), 1 day ago) - Terraform provider for ArgoCD 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.35.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.35.2), 2 days ago) - ArgoProj Helm Charts
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.0](https://github.com/argoproj/argo-cd/releases/tag/v2.3.0), 2 days ago) - Declarative continuous deployment for Kubernetes.
-- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.1.1](https://github.com/camptocamp/terraboard/releases/tag/v2.1.1), 3 days ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
+- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v2.2.5](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v2.2.5), 2 days ago) - Terraform provider for ArgoCD 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.35.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.35.2), 3 days ago) - ArgoProj Helm Charts
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.0](https://github.com/argoproj/argo-cd/releases/tag/v2.3.0), 3 days ago) - Declarative continuous deployment for Kubernetes.
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.1.1](https://github.com/camptocamp/terraboard/releases/tag/v2.1.1), 4 days ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.54.2](https://github.com/camptocamp/devops-stack/releases/tag/v0.54.2), 2 weeks ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(self-signed): typos in TLS helm parameters](https://github.com/camptocamp/devops-stack-module-cert-manager/pull/5) on [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) (4 days ago)
+- [fix(self-signed): typos in TLS helm parameters](https://github.com/camptocamp/devops-stack-module-cert-manager/pull/5) on [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) (5 days ago)
 - [feat!: pass hcl values and rename to helm_values_overrides](https://github.com/camptocamp/devops-stack-module-cert-manager/pull/4) on [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) (2 weeks ago)
-- [fix(hostport)!: rename nodeport submodule as hostport](https://github.com/camptocamp/devops-stack-module-traefik/pull/3) on [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) (2 weeks ago)
+- [fix(hostport)!: rename nodeport submodule as hostport](https://github.com/camptocamp/devops-stack-module-traefik/pull/3) on [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) (3 weeks ago)
 - [fix(charts): use ingress v1](https://github.com/camptocamp/devops-stack-module-keycloak/pull/2) on [camptocamp/devops-stack-module-keycloak](https://github.com/camptocamp/devops-stack-module-keycloak) (3 weeks ago)
 - [feat(charts): upgrade chart to v1.7.1](https://github.com/camptocamp/devops-stack-module-cert-manager/pull/3) on [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
-- [Towards a Modular DevOps Stack](https://dev.to/camptocamp-ops/towards-a-modular-devops-stack-257c) (1 week ago)
+- [Towards a Modular DevOps Stack](https://dev.to/camptocamp-ops/towards-a-modular-devops-stack-257c) (2 weeks ago)
 - [A 15-year Puppet Journey](https://dev.to/raphink/a-15-year-puppet-journey-4o39) (1 month ago)
 - [How to allow dynamic Terraform Provider Configuration](https://dev.to/camptocamp-ops/how-to-allow-dynamic-terraform-provider-configuration-20ik) (10 months ago)
 - [March Cloud Native Romandie Meetup](https://dev.to/camptocamp-ops/march-cloud-native-romandie-meetup-o2f) (11 months ago)
