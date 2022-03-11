@@ -38,8 +38,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 #### 🔨 Latest Pull Requests I published
 
 - [fix: catch GET errors](https://github.com/tomgur/simple-go-http-monitor/pull/19) on [tomgur/simple-go-http-monitor](https://github.com/tomgur/simple-go-http-monitor) (today)
-- [fix(self-signed): typos in TLS helm parameters](https://github.com/camptocamp/devops-stack-module-cert-manager/pull/5) on [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) (1 week ago)
-- [feat!: pass hcl values and rename to helm_values_overrides](https://github.com/camptocamp/devops-stack-module-cert-manager/pull/4) on [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
