@@ -29,7 +29,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.13.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.13.0), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.35.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.35.4), today) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.1](https://github.com/argoproj/argo-cd/releases/tag/v2.3.1), 1 day ago) - Declarative continuous deployment for Kubernetes.
 - [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v2.2.6](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v2.2.6), 2 days ago) - Terraform provider for ArgoCD 
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.1.1](https://github.com/camptocamp/terraboard/releases/tag/v2.1.1), 1 week ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
