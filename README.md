@@ -13,10 +13,10 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 👷 Check out what I'm currently working on
 
+- [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) -  (today)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 day ago)
-- [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (2 weeks ago)
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (2 weeks ago)
-- [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (2 weeks ago)
+- [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (2 weeks ago)
 - [camptocamp/docker-puppet-catalog-diff](https://github.com/camptocamp/docker-puppet-catalog-diff) - Puppet Catalog Diff Docker image (2 weeks ago)
 
 #### 🌱 My latest personal projects
