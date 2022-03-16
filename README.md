@@ -29,7 +29,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.11.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.11.0), 2 days ago) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.0.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.0.0), today) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.1](https://github.com/argoproj/argo-cd/releases/tag/v2.3.1), 5 days ago) - Declarative continuous deployment for Kubernetes.
 - [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v2.2.6](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v2.2.6), 6 days ago) - Terraform provider for ArgoCD 
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.1.1](https://github.com/camptocamp/terraboard/releases/tag/v2.1.1), 1 week ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
@@ -50,11 +50,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 👥 Check out some of my recent followers
 
+- [<img src="https://avatars.githubusercontent.com/u/16602816?u=a9e584e6f449eefe6bc09f14c1d77bf5d0951f0a&amp;v=4" height="20"/> tuannda](https://github.com/tuannda)
 - [<img src="https://avatars.githubusercontent.com/u/9019229?u=434a8656f0f0917d35fe56322c81811036ec0e0c&amp;v=4" height="20"/> sayboras](https://github.com/sayboras)
 - [<img src="https://avatars.githubusercontent.com/u/1324157?u=332bbba4a61beeccd2755f02abf57740fd3a456d&amp;v=4" height="20"/> rolinh](https://github.com/rolinh)
 - [<img src="https://avatars.githubusercontent.com/u/539708?v=4" height="20"/> tklauser](https://github.com/tklauser)
 - [<img src="https://avatars.githubusercontent.com/u/101277285?v=4" height="20"/> hfcjoy](https://github.com/hfcjoy)
-- [<img src="https://avatars.githubusercontent.com/u/93306576?v=4" height="20"/> anijs6](https://github.com/anijs6)
 
 
 #### 💚 My awesome sponsors (thank you!)
