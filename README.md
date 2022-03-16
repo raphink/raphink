@@ -50,11 +50,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 👥 Check out some of my recent followers
 
+- [<img src="https://avatars.githubusercontent.com/u/9019229?u=434a8656f0f0917d35fe56322c81811036ec0e0c&amp;v=4" height="20"/> sayboras](https://github.com/sayboras)
+- [<img src="https://avatars.githubusercontent.com/u/1324157?u=332bbba4a61beeccd2755f02abf57740fd3a456d&amp;v=4" height="20"/> rolinh](https://github.com/rolinh)
+- [<img src="https://avatars.githubusercontent.com/u/539708?v=4" height="20"/> tklauser](https://github.com/tklauser)
 - [<img src="https://avatars.githubusercontent.com/u/101277285?v=4" height="20"/> hfcjoy](https://github.com/hfcjoy)
 - [<img src="https://avatars.githubusercontent.com/u/93306576?v=4" height="20"/> anijs6](https://github.com/anijs6)
-- [<img src="https://avatars.githubusercontent.com/u/17923599?u=49098e7fee236abc40f789f17ffa7ff1fd9fd19e&amp;v=4" height="20"/> AimWhy](https://github.com/AimWhy)
-- [<img src="https://avatars.githubusercontent.com/u/69767?v=4" height="20"/> esin](https://github.com/esin)
-- [<img src="https://avatars.githubusercontent.com/u/96088558?u=1e72acf62081790248217e982baf1e060da9158f&amp;v=4" height="20"/> blaisep-sureify](https://github.com/blaisep-sureify)
 
 
 #### 💚 My awesome sponsors (thank you!)
