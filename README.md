@@ -37,7 +37,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: catch GET errors](https://github.com/tomgur/simple-go-http-monitor/pull/19) on [tomgur/simple-go-http-monitor](https://github.com/tomgur/simple-go-http-monitor) (5 days ago)
+- [feat: add label filter](https://github.com/alvaroaleman/static-kas/pull/11) on [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) (today)
+- [fix: filter crossnamespace requests](https://github.com/alvaroaleman/static-kas/pull/10) on [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) (today)
 
 #### 📜 My recent blog posts
 
