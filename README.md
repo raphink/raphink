@@ -13,8 +13,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 👷 Check out what I'm currently working on
 
-- [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) -  (today)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 day ago)
+- [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) -  (1 day ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 days ago)
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (2 weeks ago)
 - [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (2 weeks ago)
 - [camptocamp/docker-puppet-catalog-diff](https://github.com/camptocamp/docker-puppet-catalog-diff) - Puppet Catalog Diff Docker image (2 weeks ago)
@@ -29,16 +29,16 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.0.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.0.0), today) - ArgoProj Helm Charts
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.1](https://github.com/argoproj/argo-cd/releases/tag/v2.3.1), 5 days ago) - Declarative continuous deployment for Kubernetes.
-- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v2.2.6](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v2.2.6), 6 days ago) - Terraform provider for ArgoCD 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.0.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.0.0), 1 day ago) - ArgoProj Helm Charts
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.1](https://github.com/argoproj/argo-cd/releases/tag/v2.3.1), 6 days ago) - Declarative continuous deployment for Kubernetes.
+- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v2.2.6](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v2.2.6), 1 week ago) - Terraform provider for ArgoCD 
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.1.1](https://github.com/camptocamp/terraboard/releases/tag/v2.1.1), 1 week ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.54.2](https://github.com/camptocamp/devops-stack/releases/tag/v0.54.2), 3 weeks ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.54.2](https://github.com/camptocamp/devops-stack/releases/tag/v0.54.2), 4 weeks ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: add label filter](https://github.com/alvaroaleman/static-kas/pull/11) on [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) (today)
-- [fix: filter crossnamespace requests](https://github.com/alvaroaleman/static-kas/pull/10) on [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) (today)
+- [feat: add label filter](https://github.com/alvaroaleman/static-kas/pull/11) on [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) (1 day ago)
+- [fix: filter crossnamespace requests](https://github.com/alvaroaleman/static-kas/pull/10) on [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) (1 day ago)
 
 #### 📜 My recent blog posts
 
