@@ -37,7 +37,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: add label filter](https://github.com/alvaroaleman/static-kas/pull/11) on [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) (1 day ago)
 
 #### 📜 My recent blog posts
 
