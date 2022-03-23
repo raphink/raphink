@@ -13,10 +13,10 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 👷 Check out what I'm currently working on
 
-- [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) -  (6 days ago)
+- [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) -  (1 week ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 week ago)
-- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (2 weeks ago)
-- [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (2 weeks ago)
+- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (3 weeks ago)
+- [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (3 weeks ago)
 - [camptocamp/docker-puppet-catalog-diff](https://github.com/camptocamp/docker-puppet-catalog-diff) - Puppet Catalog Diff Docker image (3 weeks ago)
 
 #### 🌱 My latest personal projects
@@ -29,8 +29,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.1.13](https://github.com/argoproj/argo-cd/releases/tag/v2.1.13), today) - Declarative continuous deployment for Kubernetes.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.2.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.2.1), 4 days ago) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.2.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.2.1), 5 days ago) - ArgoProj Helm Charts
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.1](https://github.com/argoproj/argo-cd/releases/tag/v2.3.1), 1 week ago) - Declarative continuous deployment for Kubernetes.
 - [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v2.2.6](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v2.2.6), 1 week ago) - Terraform provider for ArgoCD 
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.1.1](https://github.com/camptocamp/terraboard/releases/tag/v2.1.1), 2 weeks ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.54.2](https://github.com/camptocamp/devops-stack/releases/tag/v0.54.2), 1 month ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
@@ -40,7 +40,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 📜 My recent blog posts
 
-- [Towards a Modular DevOps Stack](https://dev.to/camptocamp-ops/towards-a-modular-devops-stack-257c) (3 weeks ago)
+- [Towards a Modular DevOps Stack](https://dev.to/camptocamp-ops/towards-a-modular-devops-stack-257c) (4 weeks ago)
 - [A 15-year Puppet Journey](https://dev.to/raphink/a-15-year-puppet-journey-4o39) (1 month ago)
 - [How to allow dynamic Terraform Provider Configuration](https://dev.to/camptocamp-ops/how-to-allow-dynamic-terraform-provider-configuration-20ik) (10 months ago)
 - [March Cloud Native Romandie Meetup](https://dev.to/camptocamp-ops/march-cloud-native-romandie-meetup-o2f) (11 months ago)
@@ -48,11 +48,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 👥 Check out some of my recent followers
 
+- [<img src="https://avatars.githubusercontent.com/u/6942?u=227a4496aba8d3f526c53bdb6aa7713b22c56906&amp;v=4" height="20"/> twpayne](https://github.com/twpayne)
 - [<img src="https://avatars.githubusercontent.com/u/79197?v=4" height="20"/> jibi](https://github.com/jibi)
 - [<img src="https://avatars.githubusercontent.com/u/16602816?u=a9e584e6f449eefe6bc09f14c1d77bf5d0951f0a&amp;v=4" height="20"/> tuannda](https://github.com/tuannda)
 - [<img src="https://avatars.githubusercontent.com/u/9019229?u=434a8656f0f0917d35fe56322c81811036ec0e0c&amp;v=4" height="20"/> sayboras](https://github.com/sayboras)
 - [<img src="https://avatars.githubusercontent.com/u/1324157?u=332bbba4a61beeccd2755f02abf57740fd3a456d&amp;v=4" height="20"/> rolinh](https://github.com/rolinh)
-- [<img src="https://avatars.githubusercontent.com/u/539708?v=4" height="20"/> tklauser](https://github.com/tklauser)
 
 
 #### 💚 My awesome sponsors (thank you!)
