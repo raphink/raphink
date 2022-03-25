@@ -13,11 +13,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 👷 Check out what I'm currently working on
 
-- [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) -  (1 week ago)
+- [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) -  (today)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 week ago)
-- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (3 weeks ago)
 - [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (3 weeks ago)
-- [camptocamp/docker-puppet-catalog-diff](https://github.com/camptocamp/docker-puppet-catalog-diff) - Puppet Catalog Diff Docker image (3 weeks ago)
+- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (3 weeks ago)
+- [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (3 weeks ago)
 
 #### 🌱 My latest personal projects
 
@@ -37,6 +37,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: set default kind and groupVersion](https://github.com/alvaroaleman/static-kas/pull/18) on [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) (today)
+- [docs: &#34;user&#34; field is required for valid cluster config](https://github.com/alvaroaleman/static-kas/pull/17) on [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) (today)
 
 #### 📜 My recent blog posts
 
