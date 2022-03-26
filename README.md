@@ -37,6 +37,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: add optional version.json file to return version information](https://github.com/alvaroaleman/static-kas/pull/19) on [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) (today)
 - [fix: set default kind and groupVersion](https://github.com/alvaroaleman/static-kas/pull/18) on [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) (1 day ago)
 - [docs: &#34;user&#34; field is required for valid cluster config](https://github.com/alvaroaleman/static-kas/pull/17) on [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) (1 day ago)
 
