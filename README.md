@@ -13,11 +13,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 👷 Check out what I'm currently working on
 
-- [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) -  (2 days ago)
+- [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) -  (3 days ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 week ago)
 - [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (3 weeks ago)
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (3 weeks ago)
-- [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (3 weeks ago)
+- [camptocamp/puppet-gitlabci-pipelines](https://github.com/camptocamp/puppet-gitlabci-pipelines) - GitLab CI Pipelines for Puppet (4 weeks ago)
 
 #### 🌱 My latest personal projects
 
@@ -29,17 +29,17 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.12.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.12.0), 4 days ago) - ArgoProj Helm Charts
-- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.15.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.15.0), 4 days ago) -  The Helm Chart for Puppet Server
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.2](https://github.com/argoproj/argo-cd/releases/tag/v2.3.2), 4 days ago) - Declarative continuous deployment for Kubernetes.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.12.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.12.0), 5 days ago) - ArgoProj Helm Charts
+- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.15.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.15.0), 5 days ago) -  The Helm Chart for Puppet Server
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.2](https://github.com/argoproj/argo-cd/releases/tag/v2.3.2), 5 days ago) - Declarative continuous deployment for Kubernetes.
 - [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v2.2.6](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v2.2.6), 2 weeks ago) - Terraform provider for ArgoCD 
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.1.1](https://github.com/camptocamp/terraboard/releases/tag/v2.1.1), 3 weeks ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: add optional version.json file to return version information](https://github.com/alvaroaleman/static-kas/pull/19) on [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) (1 day ago)
-- [fix: set default kind and groupVersion](https://github.com/alvaroaleman/static-kas/pull/18) on [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) (2 days ago)
-- [docs: &#34;user&#34; field is required for valid cluster config](https://github.com/alvaroaleman/static-kas/pull/17) on [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) (2 days ago)
+- [feat: add optional version.json file to return version information](https://github.com/alvaroaleman/static-kas/pull/19) on [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) (2 days ago)
+- [fix: set default kind and groupVersion](https://github.com/alvaroaleman/static-kas/pull/18) on [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) (3 days ago)
+- [docs: &#34;user&#34; field is required for valid cluster config](https://github.com/alvaroaleman/static-kas/pull/17) on [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) (3 days ago)
 
 #### 📜 My recent blog posts
 
