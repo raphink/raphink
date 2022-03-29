@@ -37,8 +37,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 🔨 Latest Pull Requests I published
 
+- [Update raphink&#39;s bio](https://github.com/puppet-champions/puppet-champions.github.io/pull/32) on [puppet-champions/puppet-champions.github.io](https://github.com/puppet-champions/puppet-champions.github.io) (today)
 - [feat: add optional version.json file to return version information](https://github.com/alvaroaleman/static-kas/pull/19) on [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) (3 days ago)
-- [fix: set default kind and groupVersion](https://github.com/alvaroaleman/static-kas/pull/18) on [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) (4 days ago)
 
 #### 📜 My recent blog posts
 
