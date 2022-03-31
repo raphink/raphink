@@ -29,10 +29,10 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.3.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.3.2), today) - ArgoProj Helm Charts
+- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v3.0.0](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v3.0.0), today) - Terraform provider for ArgoCD 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.4.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.4.0), today) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.3](https://github.com/argoproj/argo-cd/releases/tag/v2.3.3), 1 day ago) - Declarative continuous deployment for Kubernetes.
 - [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.15.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.15.0), 1 week ago) -  The Helm Chart for Puppet Server
-- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v2.2.6](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v2.2.6), 3 weeks ago) - Terraform provider for ArgoCD 
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.1.1](https://github.com/camptocamp/terraboard/releases/tag/v2.1.1), 3 weeks ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
 
 #### 🔨 Latest Pull Requests I published
