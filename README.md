@@ -13,9 +13,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 👷 Check out what I'm currently working on
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 day ago)
-- [puppet-champions/puppet-champions.github.io](https://github.com/puppet-champions/puppet-champions.github.io) - Empowering a better and more pervasive Puppet Community, one Champion at a time. (3 days ago)
-- [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) -  (3 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 days ago)
+- [puppet-champions/puppet-champions.github.io](https://github.com/puppet-champions/puppet-champions.github.io) - Empowering a better and more pervasive Puppet Community, one Champion at a time. (4 days ago)
+- [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) -  (4 days ago)
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (1 month ago)
 - [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (1 month ago)
 
@@ -29,15 +29,15 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.13.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.13.0), 1 day ago) - ArgoProj Helm Charts
-- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v3.0.0](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v3.0.0), 1 day ago) - Terraform provider for ArgoCD 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.3](https://github.com/argoproj/argo-cd/releases/tag/v2.3.3), 2 days ago) - Declarative continuous deployment for Kubernetes.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.13.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.13.0), 2 days ago) - ArgoProj Helm Charts
+- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v3.0.0](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v3.0.0), 2 days ago) - Terraform provider for ArgoCD 
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.3](https://github.com/argoproj/argo-cd/releases/tag/v2.3.3), 3 days ago) - Declarative continuous deployment for Kubernetes.
 - [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.15.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.15.0), 1 week ago) -  The Helm Chart for Puppet Server
-- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.1.1](https://github.com/camptocamp/terraboard/releases/tag/v2.1.1), 3 weeks ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.1.1](https://github.com/camptocamp/terraboard/releases/tag/v2.1.1), 4 weeks ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(helm): use a directory to store bootstrap time](https://github.com/cilium/cilium/pull/19286) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
+- [fix(helm): use a directory to store bootstrap time](https://github.com/cilium/cilium/pull/19286) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 
 #### 📜 My recent blog posts
 
