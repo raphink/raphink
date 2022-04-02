@@ -29,7 +29,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.13.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.13.0), 2 days ago) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.4.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.4.1), today) - ArgoProj Helm Charts
 - [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v3.0.0](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v3.0.0), 2 days ago) - Terraform provider for ArgoCD 
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.3](https://github.com/argoproj/argo-cd/releases/tag/v2.3.3), 3 days ago) - Declarative continuous deployment for Kubernetes.
 - [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.15.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.15.0), 1 week ago) -  The Helm Chart for Puppet Server
