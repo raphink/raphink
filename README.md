@@ -14,8 +14,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 #### 👷 Check out what I'm currently working on
 
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (3 days ago)
-- [puppet-champions/puppet-champions.github.io](https://github.com/puppet-champions/puppet-champions.github.io) - Empowering a better and more pervasive Puppet Community, one Champion at a time. (5 days ago)
 - [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) -  (5 days ago)
+- [puppet-champions/puppet-champions.github.io](https://github.com/puppet-champions/puppet-champions.github.io) - Empowering a better and more pervasive Puppet Community, one Champion at a time. (5 days ago)
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (1 month ago)
 - [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (1 month ago)
 
