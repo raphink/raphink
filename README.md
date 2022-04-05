@@ -29,11 +29,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 🔭 Latest releases I've contributed to
 
+- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.16.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.16.0), today) -  The Helm Chart for Puppet Server
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.14.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.14.0), today) - ArgoProj Helm Charts
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.55.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.55.0), 1 day ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v3.0.0](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v3.0.0), 5 days ago) - Terraform provider for ArgoCD 
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.3](https://github.com/argoproj/argo-cd/releases/tag/v2.3.3), 6 days ago) - Declarative continuous deployment for Kubernetes.
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.11.3](https://github.com/cilium/cilium/releases/tag/v1.11.3), 1 week ago) - eBPF-based Networking, Security, and Observability
 
 #### 🔨 Latest Pull Requests I published
 
