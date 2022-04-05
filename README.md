@@ -37,7 +37,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(helm): use a directory to store bootstrap time](https://github.com/cilium/cilium/pull/19286) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
 
 #### 📜 My recent blog posts
 
