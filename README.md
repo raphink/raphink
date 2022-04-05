@@ -13,11 +13,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 👷 Check out what I'm currently working on
 
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 day ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (5 days ago)
-- [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) -  (1 week ago)
 - [puppet-champions/puppet-champions.github.io](https://github.com/puppet-champions/puppet-champions.github.io) - Empowering a better and more pervasive Puppet Community, one Champion at a time. (1 week ago)
+- [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) -  (1 week ago)
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (1 month ago)
-- [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API (1 month ago)
 
 #### 🌱 My latest personal projects
 
@@ -33,7 +33,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.55.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.55.0), 1 day ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v3.0.0](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v3.0.0), 5 days ago) - Terraform provider for ArgoCD 
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.3](https://github.com/argoproj/argo-cd/releases/tag/v2.3.3), 6 days ago) - Declarative continuous deployment for Kubernetes.
-- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.15.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.15.0), 1 week ago) -  The Helm Chart for Puppet Server
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.11.3](https://github.com/cilium/cilium/releases/tag/v1.11.3), 1 week ago) - eBPF-based Networking, Security, and Observability
 
 #### 🔨 Latest Pull Requests I published
 
