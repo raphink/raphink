@@ -13,19 +13,19 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 👷 Check out what I'm currently working on
 
+- [raphink/localhost-run-proxy](https://github.com/raphink/localhost-run-proxy) -  (today)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 days ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (6 days ago)
-- [puppet-champions/puppet-champions.github.io](https://github.com/puppet-champions/puppet-champions.github.io) - Empowering a better and more pervasive Puppet Community, one Champion at a time. (1 week ago)
 - [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) -  (1 week ago)
-- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (1 month ago)
+- [puppet-champions/puppet-champions.github.io](https://github.com/puppet-champions/puppet-champions.github.io) - Empowering a better and more pervasive Puppet Community, one Champion at a time. (1 week ago)
 
 #### 🌱 My latest personal projects
 
+- [raphink/localhost-run-proxy](https://github.com/raphink/localhost-run-proxy) - 
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) - 
 - [raphink/applicationsets-demo](https://github.com/raphink/applicationsets-demo) - 
 - [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871
 - [raphink/katacoda-scenarios](https://github.com/raphink/katacoda-scenarios) - Katacoda Scenarios
-- [raphink/countdown_video](https://github.com/raphink/countdown_video) - 🎥 Simple ffmpeg script to generate a countdown video from an image and a sound file
 
 #### 🔭 Latest releases I've contributed to
 
