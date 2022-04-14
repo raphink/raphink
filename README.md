@@ -13,8 +13,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 👷 Check out what I'm currently working on
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 days ago)
-- [raphink/localhost-run-proxy](https://github.com/raphink/localhost-run-proxy) -  (6 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (3 days ago)
+- [raphink/localhost-run-proxy](https://github.com/raphink/localhost-run-proxy) -  (1 week ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 week ago)
 - [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) - A fake kube-apiserver that serves static data from files (2 weeks ago)
 - [puppet-champions/puppet-champions.github.io](https://github.com/puppet-champions/puppet-champions.github.io) - Empowering a better and more pervasive Puppet Community, one Champion at a time. (2 weeks ago)
@@ -29,9 +29,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.5.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.5.3), 1 day ago) - ArgoProj Helm Charts
-- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v3.0.1](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v3.0.1), 1 day ago) - Terraform provider for ArgoCD 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.0-rc1](https://github.com/cilium/cilium/releases/tag/v1.12.0-rc1), 2 days ago) - eBPF-based Networking, Security, and Observability
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.5.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.5.3), 2 days ago) - ArgoProj Helm Charts
+- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v3.0.1](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v3.0.1), 2 days ago) - Terraform provider for ArgoCD 
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.0-rc1](https://github.com/cilium/cilium/releases/tag/v1.12.0-rc1), 3 days ago) - eBPF-based Networking, Security, and Observability
 - [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.16.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.16.0), 1 week ago) -  The Helm Chart for Puppet Server
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.55.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.55.0), 1 week ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 
