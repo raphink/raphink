@@ -37,6 +37,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat(helm): allow to set Hubble UI service type and nodePort](https://github.com/cilium/cilium/pull/19450) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 
 #### 📜 My recent blog posts
 
