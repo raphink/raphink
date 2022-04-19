@@ -13,11 +13,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 👷 Check out what I'm currently working on
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (3 days ago)
 - [raphink/localhost-run-proxy](https://github.com/raphink/localhost-run-proxy) -  (1 week ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 weeks ago)
-- [puppet-champions/puppet-champions.github.io](https://github.com/puppet-champions/puppet-champions.github.io) - Empowering a better and more pervasive Puppet Community, one Champion at a time. (2 weeks ago)
-- [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) - A fake kube-apiserver that serves static data from files (2 weeks ago)
+- [puppet-champions/puppet-champions.github.io](https://github.com/puppet-champions/puppet-champions.github.io) - Empowering a better and more pervasive Puppet Community, one Champion at a time. (3 weeks ago)
+- [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) - A fake kube-apiserver that serves static data from files (3 weeks ago)
 
 #### 🌱 My latest personal projects
 
@@ -29,15 +29,15 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 🔭 Latest releases I've contributed to
 
-- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.17.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.17.0), 3 days ago) -  The Helm Chart for Puppet Server
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.5.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.5.3), 6 days ago) - ArgoProj Helm Charts
-- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v3.0.1](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v3.0.1), 6 days ago) - Terraform provider for ArgoCD 
+- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.17.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.17.0), 4 days ago) -  The Helm Chart for Puppet Server
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.5.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.5.3), 1 week ago) - ArgoProj Helm Charts
+- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v3.0.1](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v3.0.1), 1 week ago) - Terraform provider for ArgoCD 
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.0-rc1](https://github.com/cilium/cilium/releases/tag/v1.12.0-rc1), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.55.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.55.0), 2 weeks ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat(helm): allow to set Hubble UI service type and nodePort](https://github.com/cilium/cilium/pull/19450) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
+- [feat(helm): allow to set Hubble UI service type and nodePort](https://github.com/cilium/cilium/pull/19450) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
 
 #### 📜 My recent blog posts
 
