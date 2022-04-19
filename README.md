@@ -37,6 +37,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat(command): allow to dump as YAML](https://github.com/cilium/cilium/pull/19480) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [feat(helm): allow to set Hubble UI service type and nodePort](https://github.com/cilium/cilium/pull/19450) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
 
 #### 📜 My recent blog posts
