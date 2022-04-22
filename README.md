@@ -37,8 +37,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 🔨 Latest Pull Requests I published
 
+- [docs: fix some typos in DEV_GUIDE](https://github.com/cilium/hubble-otel/pull/88) on [cilium/hubble-otel](https://github.com/cilium/hubble-otel) (today)
 - [feat(command): allow to dump as YAML](https://github.com/cilium/cilium/pull/19480) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
-- [feat(helm): allow to set Hubble UI service type and nodePort](https://github.com/cilium/cilium/pull/19450) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 
 #### 📜 My recent blog posts
 
