@@ -13,11 +13,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 👷 Check out what I'm currently working on
 
+- [cilium/hubble-otel](https://github.com/cilium/hubble-otel) - Hubble adaptor for OpenTelemetry (today)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (3 days ago)
 - [raphink/localhost-run-proxy](https://github.com/raphink/localhost-run-proxy) -  (2 weeks ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 weeks ago)
 - [puppet-champions/puppet-champions.github.io](https://github.com/puppet-champions/puppet-champions.github.io) - Empowering a better and more pervasive Puppet Community, one Champion at a time. (3 weeks ago)
-- [alvaroaleman/static-kas](https://github.com/alvaroaleman/static-kas) - A fake kube-apiserver that serves static data from files (3 weeks ago)
 
 #### 🌱 My latest personal projects
 
