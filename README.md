@@ -13,8 +13,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 👷 Check out what I'm currently working on
 
-- [cilium/hubble-otel](https://github.com/cilium/hubble-otel) - Hubble adaptor for OpenTelemetry (1 day ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (4 days ago)
+- [cilium/hubble-otel](https://github.com/cilium/hubble-otel) - Hubble adaptor for OpenTelemetry (2 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (5 days ago)
 - [raphink/localhost-run-proxy](https://github.com/raphink/localhost-run-proxy) -  (2 weeks ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 weeks ago)
 - [puppet-champions/puppet-champions.github.io](https://github.com/puppet-champions/puppet-champions.github.io) - Empowering a better and more pervasive Puppet Community, one Champion at a time. (3 weeks ago)
@@ -29,20 +29,20 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-1.13.0](https://github.com/argoproj/argo-helm/releases/tag/argo-events-1.13.0), today) - ArgoProj Helm Charts
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.11.4](https://github.com/cilium/cilium/releases/tag/v1.11.4), 4 days ago) - eBPF-based Networking, Security, and Observability
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-1.13.0](https://github.com/argoproj/argo-helm/releases/tag/argo-events-1.13.0), 1 day ago) - ArgoProj Helm Charts
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.11.4](https://github.com/cilium/cilium/releases/tag/v1.11.4), 5 days ago) - eBPF-based Networking, Security, and Observability
 - [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.17.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.17.0), 1 week ago) -  The Helm Chart for Puppet Server
 - [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v3.0.1](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v3.0.1), 1 week ago) - Terraform provider for ArgoCD 
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.55.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.55.0), 2 weeks ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 
 #### 🔨 Latest Pull Requests I published
 
-- [docs: fix some typos in DEV_GUIDE](https://github.com/cilium/hubble-otel/pull/88) on [cilium/hubble-otel](https://github.com/cilium/hubble-otel) (1 day ago)
-- [feat(command): allow to dump as YAML](https://github.com/cilium/cilium/pull/19480) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
+- [docs: fix some typos in DEV_GUIDE](https://github.com/cilium/hubble-otel/pull/88) on [cilium/hubble-otel](https://github.com/cilium/hubble-otel) (2 days ago)
+- [feat(command): allow to dump as YAML](https://github.com/cilium/cilium/pull/19480) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
 
 #### 📜 My recent blog posts
 
-- [Towards a Modular DevOps Stack](https://dev.to/camptocamp-ops/towards-a-modular-devops-stack-257c) (1 month ago)
+- [Towards a Modular DevOps Stack](https://dev.to/camptocamp-ops/towards-a-modular-devops-stack-257c) (2 months ago)
 - [A 15-year Puppet Journey](https://dev.to/raphink/a-15-year-puppet-journey-4o39) (2 months ago)
 - [How to allow dynamic Terraform Provider Configuration](https://dev.to/camptocamp-ops/how-to-allow-dynamic-terraform-provider-configuration-20ik) (11 months ago)
 - [March Cloud Native Romandie Meetup](https://dev.to/camptocamp-ops/march-cloud-native-romandie-meetup-o2f) (1 year ago)
