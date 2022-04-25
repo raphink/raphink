@@ -37,9 +37,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 🔨 Latest Pull Requests I published
 
+- [docs: use v1.12.0-rc1 images](https://github.com/cilium/cilium-service-mesh-beta/pull/31) on [cilium/cilium-service-mesh-beta](https://github.com/cilium/cilium-service-mesh-beta) (today)
 - [fix(helm): force extraConfigMap values as string](https://github.com/cilium/cilium-cli/pull/806) on [cilium/cilium-cli](https://github.com/cilium/cilium-cli) (today)
 - [docs: fix some typos in DEV_GUIDE](https://github.com/cilium/hubble-otel/pull/88) on [cilium/hubble-otel](https://github.com/cilium/hubble-otel) (3 days ago)
-- [feat(command): allow to dump as YAML](https://github.com/cilium/cilium/pull/19480) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
 
 #### 📜 My recent blog posts
 
