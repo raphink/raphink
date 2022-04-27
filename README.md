@@ -13,8 +13,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 👷 Check out what I'm currently working on
 
-- [cilium/cilium-service-mesh-beta](https://github.com/cilium/cilium-service-mesh-beta) - Instructions and issue tracking for Service Mesh capabilities of Cilium (1 day ago)
-- [cilium/hubble-otel](https://github.com/cilium/hubble-otel) - Hubble adaptor for OpenTelemetry (4 days ago)
+- [cilium/cilium-service-mesh-beta](https://github.com/cilium/cilium-service-mesh-beta) - Instructions and issue tracking for Service Mesh capabilities of Cilium (2 days ago)
+- [cilium/hubble-otel](https://github.com/cilium/hubble-otel) - Hubble adaptor for OpenTelemetry (5 days ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 week ago)
 - [raphink/localhost-run-proxy](https://github.com/raphink/localhost-run-proxy) -  (2 weeks ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (3 weeks ago)
@@ -29,7 +29,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-1.13.0](https://github.com/argoproj/argo-helm/releases/tag/argo-events-1.13.0), 3 days ago) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-1.13.0](https://github.com/argoproj/argo-helm/releases/tag/argo-events-1.13.0), 4 days ago) - ArgoProj Helm Charts
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.11.4](https://github.com/cilium/cilium/releases/tag/v1.11.4), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.17.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.17.0), 1 week ago) -  The Helm Chart for Puppet Server
 - [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v3.0.1](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v3.0.1), 2 weeks ago) - Terraform provider for ArgoCD 
@@ -37,9 +37,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 🔨 Latest Pull Requests I published
 
-- [docs: use v1.12.0-rc1 images](https://github.com/cilium/cilium-service-mesh-beta/pull/31) on [cilium/cilium-service-mesh-beta](https://github.com/cilium/cilium-service-mesh-beta) (1 day ago)
-- [fix(helm): force extraConfigMap values as string](https://github.com/cilium/cilium-cli/pull/806) on [cilium/cilium-cli](https://github.com/cilium/cilium-cli) (1 day ago)
-- [docs: fix some typos in DEV_GUIDE](https://github.com/cilium/hubble-otel/pull/88) on [cilium/hubble-otel](https://github.com/cilium/hubble-otel) (4 days ago)
+- [docs: use v1.12.0-rc1 images](https://github.com/cilium/cilium-service-mesh-beta/pull/31) on [cilium/cilium-service-mesh-beta](https://github.com/cilium/cilium-service-mesh-beta) (2 days ago)
+- [fix(helm): force extraConfigMap values as string](https://github.com/cilium/cilium-cli/pull/806) on [cilium/cilium-cli](https://github.com/cilium/cilium-cli) (2 days ago)
+- [docs: fix some typos in DEV_GUIDE](https://github.com/cilium/hubble-otel/pull/88) on [cilium/hubble-otel](https://github.com/cilium/hubble-otel) (5 days ago)
 
 #### 📜 My recent blog posts
 
