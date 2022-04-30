@@ -29,7 +29,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-1.13.0](https://github.com/argoproj/argo-helm/releases/tag/argo-events-1.13.0), 1 week ago) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.5.8](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.5.8), today) - ArgoProj Helm Charts
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.11.4](https://github.com/cilium/cilium/releases/tag/v1.11.4), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.17.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.17.0), 2 weeks ago) -  The Helm Chart for Puppet Server
 - [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v3.0.1](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v3.0.1), 2 weeks ago) - Terraform provider for ArgoCD 
