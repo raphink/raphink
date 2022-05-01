@@ -15,8 +15,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (3 days ago)
 - [cilium/cilium-service-mesh-beta](https://github.com/cilium/cilium-service-mesh-beta) - Instructions and issue tracking for Service Mesh capabilities of Cilium (6 days ago)
-- [cilium/hubble-otel](https://github.com/cilium/hubble-otel) - Hubble adaptor for OpenTelemetry (1 week ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 week ago)
+- [cilium/hubble-otel](https://github.com/cilium/hubble-otel) - Hubble adaptor for OpenTelemetry (1 week ago)
 - [raphink/localhost-run-proxy](https://github.com/raphink/localhost-run-proxy) -  (3 weeks ago)
 
 #### 🌱 My latest personal projects
