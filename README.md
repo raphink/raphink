@@ -13,7 +13,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 👷 Check out what I'm currently working on
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (4 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (5 days ago)
 - [cilium/cilium-service-mesh-beta](https://github.com/cilium/cilium-service-mesh-beta) - Instructions and issue tracking for Service Mesh capabilities of Cilium (1 week ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 week ago)
 - [cilium/hubble-otel](https://github.com/cilium/hubble-otel) - Hubble adaptor for OpenTelemetry (1 week ago)
@@ -29,10 +29,10 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.14.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.14.1), 1 day ago) - ArgoProj Helm Charts
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.11.4](https://github.com/cilium/cilium/releases/tag/v1.11.4), 1 week ago) - eBPF-based Networking, Security, and Observability
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.14.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.14.1), 2 days ago) - ArgoProj Helm Charts
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.11.4](https://github.com/cilium/cilium/releases/tag/v1.11.4), 2 weeks ago) - eBPF-based Networking, Security, and Observability
 - [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.17.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.17.0), 2 weeks ago) -  The Helm Chart for Puppet Server
-- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v3.0.1](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v3.0.1), 2 weeks ago) - Terraform provider for ArgoCD 
+- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v3.0.1](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v3.0.1), 3 weeks ago) - Terraform provider for ArgoCD 
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.55.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.55.0), 4 weeks ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 
 #### 🔨 Latest Pull Requests I published
