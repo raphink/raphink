@@ -38,7 +38,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 #### 🔨 Latest Pull Requests I published
 
 - [docs: use v1.12.0-rc1 images](https://github.com/cilium/cilium-service-mesh-beta/pull/31) on [cilium/cilium-service-mesh-beta](https://github.com/cilium/cilium-service-mesh-beta) (1 week ago)
-- [fix(helm): force extraConfigMap values as string](https://github.com/cilium/cilium-cli/pull/806) on [cilium/cilium-cli](https://github.com/cilium/cilium-cli) (1 week ago)
 
 #### 📜 My recent blog posts
 
