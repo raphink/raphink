@@ -13,11 +13,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 👷 Check out what I'm currently working on
 
+- [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement (today)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (6 days ago)
 - [cilium/cilium-service-mesh-beta](https://github.com/cilium/cilium-service-mesh-beta) - Instructions and issue tracking for Service Mesh capabilities of Cilium (4 weeks ago)
-- [cilium/hubble-otel](https://github.com/cilium/hubble-otel) - Hubble adaptor for OpenTelemetry (1 month ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 month ago)
-- [raphink/localhost-run-proxy](https://github.com/raphink/localhost-run-proxy) -  (1 month ago)
+- [cilium/hubble-otel](https://github.com/cilium/hubble-otel) - Hubble adaptor for OpenTelemetry (1 month ago)
 
 #### 🌱 My latest personal projects
 
@@ -31,12 +31,13 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.14.1](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.14.1), today) - ArgoProj Helm Charts
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.11.5](https://github.com/cilium/cilium/releases/tag/v1.11.5), 1 week ago) - eBPF-based Networking, Security, and Observability
+- [cilium/tetragon](https://github.com/cilium/tetragon) ([v0.8.0](https://github.com/cilium/tetragon/releases/tag/v0.8.0), 1 week ago) - eBPF-based Security Observability and Runtime Enforcement
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.56.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.56.0), 2 weeks ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.17.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.17.0), 1 month ago) -  The Helm Chart for Puppet Server
-- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v3.0.1](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v3.0.1), 1 month ago) - Terraform provider for ArgoCD 
 
 #### 🔨 Latest Pull Requests I published
 
+- [docs(README): add dark logo option](https://github.com/cilium/tetragon/pull/58) on [cilium/tetragon](https://github.com/cilium/tetragon) (today)
 
 #### 📜 My recent blog posts
 
