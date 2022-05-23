@@ -37,6 +37,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 🔨 Latest Pull Requests I published
 
+- [docs: update logos and add dark logo](https://github.com/cilium/hubble/pull/726) on [cilium/hubble](https://github.com/cilium/hubble) (today)
+- [docs(README): add dark logo option](https://github.com/cilium/cilium/pull/19920) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [docs(README): add dark logo option](https://github.com/cilium/tetragon/pull/58) on [cilium/tetragon](https://github.com/cilium/tetragon) (today)
 
 #### 📜 My recent blog posts
