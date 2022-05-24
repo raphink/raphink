@@ -13,11 +13,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 👷 Check out what I'm currently working on
 
+- [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of conferences&#39;s date in order to help conferences organizers &amp; attendees (today)
 - [cilium/hubble](https://github.com/cilium/hubble) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF (1 day ago)
 - [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement (1 day ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 week ago)
 - [cilium/cilium-service-mesh-beta](https://github.com/cilium/cilium-service-mesh-beta) - Instructions and issue tracking for Service Mesh capabilities of Cilium (4 weeks ago)
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 month ago)
 
 #### 🌱 My latest personal projects
 
