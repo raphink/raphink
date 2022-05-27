@@ -13,10 +13,10 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 👷 Check out what I'm currently working on
 
-- [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of conferences&#39;s date in order to help conferences organizers &amp; attendees (2 days ago)
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (3 days ago)
-- [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement (3 days ago)
-- [cilium/hubble](https://github.com/cilium/hubble) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF (3 days ago)
+- [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of conferences&#39;s date in order to help conferences organizers &amp; attendees (3 days ago)
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (4 days ago)
+- [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement (4 days ago)
+- [cilium/hubble](https://github.com/cilium/hubble) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF (4 days ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 week ago)
 
 #### 🌱 My latest personal projects
@@ -29,19 +29,19 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.15.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.15.0), today) - ArgoProj Helm Charts
-- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.2.0](https://github.com/camptocamp/terraboard/releases/tag/v2.2.0), 1 day ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
-- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.18.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.18.0), 2 days ago) -  The Helm Chart for Puppet Server
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.15.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.15.0), 1 day ago) - ArgoProj Helm Charts
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.2.0](https://github.com/camptocamp/terraboard/releases/tag/v2.2.0), 2 days ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
+- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.18.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.18.0), 3 days ago) -  The Helm Chart for Puppet Server
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.11.5](https://github.com/cilium/cilium/releases/tag/v1.11.5), 1 week ago) - eBPF-based Networking, Security, and Observability
-- [cilium/tetragon](https://github.com/cilium/tetragon) ([v0.8.0](https://github.com/cilium/tetragon/releases/tag/v0.8.0), 1 week ago) - eBPF-based Security Observability and Runtime Enforcement
+- [cilium/tetragon](https://github.com/cilium/tetragon) ([v0.8.0](https://github.com/cilium/tetragon/releases/tag/v0.8.0), 2 weeks ago) - eBPF-based Security Observability and Runtime Enforcement
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add OSMC](https://github.com/scraly/developers-conferences-agenda/pull/188) on [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) (2 days ago)
-- [Add DevOpsCon Munich](https://github.com/scraly/developers-conferences-agenda/pull/187) on [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) (2 days ago)
-- [docs: update logos and add dark logo](https://github.com/cilium/hubble/pull/726) on [cilium/hubble](https://github.com/cilium/hubble) (3 days ago)
-- [docs(README): add logo option for dark theme](https://github.com/cilium/cilium/pull/19920) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
-- [docs(README): add dark logo option](https://github.com/cilium/tetragon/pull/58) on [cilium/tetragon](https://github.com/cilium/tetragon) (3 days ago)
+- [Add OSMC](https://github.com/scraly/developers-conferences-agenda/pull/188) on [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) (3 days ago)
+- [Add DevOpsCon Munich](https://github.com/scraly/developers-conferences-agenda/pull/187) on [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) (3 days ago)
+- [docs: update logos and add dark logo](https://github.com/cilium/hubble/pull/726) on [cilium/hubble](https://github.com/cilium/hubble) (4 days ago)
+- [docs(README): add logo option for dark theme](https://github.com/cilium/cilium/pull/19920) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
+- [docs(README): add dark logo option](https://github.com/cilium/tetragon/pull/58) on [cilium/tetragon](https://github.com/cilium/tetragon) (4 days ago)
 
 #### 📜 My recent blog posts
 
