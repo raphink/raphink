@@ -39,7 +39,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 - [Add OSMC](https://github.com/scraly/developers-conferences-agenda/pull/188) on [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) (6 days ago)
 - [Add DevOpsCon Munich](https://github.com/scraly/developers-conferences-agenda/pull/187) on [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) (6 days ago)
-- [docs: update logos and add dark logo](https://github.com/cilium/hubble/pull/726) on [cilium/hubble](https://github.com/cilium/hubble) (1 week ago)
 
 #### 📜 My recent blog posts
 
