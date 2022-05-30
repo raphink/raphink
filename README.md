@@ -40,8 +40,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 - [Add OSMC](https://github.com/scraly/developers-conferences-agenda/pull/188) on [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) (6 days ago)
 - [Add DevOpsCon Munich](https://github.com/scraly/developers-conferences-agenda/pull/187) on [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) (6 days ago)
 - [docs: update logos and add dark logo](https://github.com/cilium/hubble/pull/726) on [cilium/hubble](https://github.com/cilium/hubble) (1 week ago)
-- [docs(README): add logo option for dark theme](https://github.com/cilium/cilium/pull/19920) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
-- [docs(README): add dark logo option](https://github.com/cilium/tetragon/pull/58) on [cilium/tetragon](https://github.com/cilium/tetragon) (1 week ago)
 
 #### 📜 My recent blog posts
 
