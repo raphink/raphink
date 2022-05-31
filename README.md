@@ -13,11 +13,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 👷 Check out what I'm currently working on
 
-- [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of conferences&#39;s date in order to help conferences organizers &amp; attendees (6 days ago)
+- [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of conferences&#39;s date in order to help conferences organizers &amp; attendees (1 week ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 week ago)
 - [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement (1 week ago)
 - [cilium/hubble](https://github.com/cilium/hubble) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF (1 week ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 week ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 weeks ago)
 
 #### 🌱 My latest personal projects
 
@@ -29,15 +29,15 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.8.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.8.0), today) - ArgoProj Helm Charts
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.57.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.57.0), today) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
-- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.19.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.19.0), 3 days ago) -  The Helm Chart for Puppet Server
-- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.2.0](https://github.com/camptocamp/terraboard/releases/tag/v2.2.0), 5 days ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.8.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.8.0), 1 day ago) - ArgoProj Helm Charts
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.57.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.57.0), 1 day ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
+- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.19.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.19.0), 4 days ago) -  The Helm Chart for Puppet Server
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.2.0](https://github.com/camptocamp/terraboard/releases/tag/v2.2.0), 6 days ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.11.5](https://github.com/cilium/cilium/releases/tag/v1.11.5), 2 weeks ago) - eBPF-based Networking, Security, and Observability
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add OSMC](https://github.com/scraly/developers-conferences-agenda/pull/188) on [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) (6 days ago)
+- [Add OSMC](https://github.com/scraly/developers-conferences-agenda/pull/188) on [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) (1 week ago)
 
 #### 📜 My recent blog posts
 
