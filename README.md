@@ -48,11 +48,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 👥 Check out some of my recent followers
 
+- [<img src="https://avatars.githubusercontent.com/u/17404140?v=4" height="20"/> davidphay](https://github.com/davidphay)
 - [<img src="https://avatars.githubusercontent.com/u/105554955?u=ae922f99e18e5fe6975ec093758e9dc96799841c&amp;v=4" height="20"/> barnesbruce](https://github.com/barnesbruce)
 - [<img src="https://avatars.githubusercontent.com/u/1400401?u=cb454908819864903b4b83d2b05ea2db1af41019&amp;v=4" height="20"/> chancez](https://github.com/chancez)
 - [<img src="https://avatars.githubusercontent.com/u/95119607?v=4" height="20"/> ImageNature](https://github.com/ImageNature)
 - [<img src="https://avatars.githubusercontent.com/u/887095?u=0b12d6890d44b083c6155af138c8d7ba93cae24f&amp;v=4" height="20"/> heussd](https://github.com/heussd)
-- [<img src="https://avatars.githubusercontent.com/u/92455821?u=84759154eb20acdc1a467b3e2e62f96b5a872e34&amp;v=4" height="20"/> haleyfox12](https://github.com/haleyfox12)
 
 
 #### 💚 My awesome sponsors (thank you!)
