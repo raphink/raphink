@@ -13,10 +13,10 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 👷 Check out what I'm currently working on
 
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 days ago)
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (3 days ago)
 - [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of conferences&#39;s date in order to help conferences organizers &amp; attendees (1 week ago)
-- [cilium/hubble](https://github.com/cilium/hubble) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF (1 week ago)
-- [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement (1 week ago)
+- [cilium/hubble](https://github.com/cilium/hubble) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF (2 weeks ago)
+- [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement (2 weeks ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 weeks ago)
 
 #### 🌱 My latest personal projects
@@ -29,20 +29,20 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.8.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.8.2), 3 days ago) - ArgoProj Helm Charts
-- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.20.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.20.0), 5 days ago) -  The Helm Chart for Puppet Server
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.57.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.57.0), 6 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.8.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.8.2), 4 days ago) - ArgoProj Helm Charts
+- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v5.20.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v5.20.0), 6 days ago) -  The Helm Chart for Puppet Server
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.57.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.57.0), 1 week ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.2.0](https://github.com/camptocamp/terraboard/releases/tag/v2.2.0), 1 week ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.11.5](https://github.com/cilium/cilium/releases/tag/v1.11.5), 2 weeks ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.11.5](https://github.com/cilium/cilium/releases/tag/v1.11.5), 3 weeks ago) - eBPF-based Networking, Security, and Observability
 
 #### 🔨 Latest Pull Requests I published
 
-- [docs(MAINTAINERS): fix link to commit_access.rst](https://github.com/cilium/cilium/pull/20081) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
+- [docs(MAINTAINERS): fix link to commit_access.rst](https://github.com/cilium/cilium/pull/20081) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 
 #### 📜 My recent blog posts
 
 - [Towards a Modular DevOps Stack](https://dev.to/camptocamp-ops/towards-a-modular-devops-stack-257c) (3 months ago)
-- [A 15-year Puppet Journey](https://dev.to/raphink/a-15-year-puppet-journey-4o39) (3 months ago)
+- [A 15-year Puppet Journey](https://dev.to/raphink/a-15-year-puppet-journey-4o39) (4 months ago)
 - [How to allow dynamic Terraform Provider Configuration](https://dev.to/camptocamp-ops/how-to-allow-dynamic-terraform-provider-configuration-20ik) (1 year ago)
 - [March Cloud Native Romandie Meetup](https://dev.to/camptocamp-ops/march-cloud-native-romandie-meetup-o2f) (1 year ago)
 - [Immutability &amp; loose coupling: a match made in heaven](https://dev.to/camptocamp-ops/immutability-loose-coupling-a-match-made-in-heaven-37kl) (1 year ago)
