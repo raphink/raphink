@@ -37,6 +37,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 🔨 Latest Pull Requests I published
 
+- [docs(README): fix small typo](https://github.com/cilium/proxy/pull/73) on [cilium/proxy](https://github.com/cilium/proxy) (today)
 - [docs(MAINTAINERS): fix link to commit_access.rst](https://github.com/cilium/cilium/pull/20081) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
 
 #### 📜 My recent blog posts
