@@ -13,10 +13,10 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 👷 Check out what I'm currently working on
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (4 days ago)
-- [cilium/proxy](https://github.com/cilium/proxy) - Envoy with Cilium filters (4 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (5 days ago)
+- [cilium/proxy](https://github.com/cilium/proxy) - Envoy with Cilium filters (5 days ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 week ago)
-- [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of tech conferences&#39;s date and CFP in order to help conferences organizers, speakers &amp; attendees (2 weeks ago)
+- [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of tech conferences&#39;s date and CFP in order to help conferences organizers, speakers &amp; attendees (3 weeks ago)
 - [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement (3 weeks ago)
 
 #### 🌱 My latest personal projects
@@ -29,15 +29,15 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.16.3](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.16.3), 3 days ago) - ArgoProj Helm Charts
-- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.1.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.1.0), 6 days ago) -  The Helm Chart for Puppet Server
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.16.3](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.16.3), 4 days ago) - ArgoProj Helm Charts
+- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.1.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.1.0), 1 week ago) -  The Helm Chart for Puppet Server
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.57.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.57.0), 2 weeks ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.2.0](https://github.com/camptocamp/terraboard/releases/tag/v2.2.0), 2 weeks ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.11.5](https://github.com/cilium/cilium/releases/tag/v1.11.5), 4 weeks ago) - eBPF-based Networking, Security, and Observability
 
 #### 🔨 Latest Pull Requests I published
 
-- [docs(README): fix small typo](https://github.com/cilium/proxy/pull/73) on [cilium/proxy](https://github.com/cilium/proxy) (4 days ago)
+- [docs(README): fix small typo](https://github.com/cilium/proxy/pull/73) on [cilium/proxy](https://github.com/cilium/proxy) (5 days ago)
 - [docs(MAINTAINERS): fix link to commit_access.rst](https://github.com/cilium/cilium/pull/20081) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 
 #### 📜 My recent blog posts
