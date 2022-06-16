@@ -63,11 +63,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👥 My recent followers</summary>
 
+- [<img src="https://avatars.githubusercontent.com/u/97345885?u=26fbe5b027bfc7c2093cc6a52726a9c9511eeedf&amp;v=4" height="20"/> Gangster0312](https://github.com/Gangster0312)
 - [<img src="https://avatars.githubusercontent.com/u/3199463?u=f893db5fca3d75cb18aa2f0f178b76907ab2bf1b&amp;v=4" height="20"/> lambdanis](https://github.com/lambdanis)
 - [<img src="https://avatars.githubusercontent.com/u/17404140?v=4" height="20"/> davidphay](https://github.com/davidphay)
 - [<img src="https://avatars.githubusercontent.com/u/105554955?u=ae922f99e18e5fe6975ec093758e9dc96799841c&amp;v=4" height="20"/> barnesbruce](https://github.com/barnesbruce)
 - [<img src="https://avatars.githubusercontent.com/u/1400401?u=cb454908819864903b4b83d2b05ea2db1af41019&amp;v=4" height="20"/> chancez](https://github.com/chancez)
-- [<img src="https://avatars.githubusercontent.com/u/95119607?v=4" height="20"/> ImageNature](https://github.com/ImageNature)
 </details>
 
 
