@@ -47,7 +47,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
 - [docs(README): fix small typo](https://github.com/cilium/proxy/pull/73) on [cilium/proxy](https://github.com/cilium/proxy) (1 week ago)
-- [docs(MAINTAINERS): fix link to commit_access.rst](https://github.com/cilium/cilium/pull/20081) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 </details>
 
 <details>
