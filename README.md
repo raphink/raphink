@@ -16,10 +16,10 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (6 days ago)
-- [cilium/proxy](https://github.com/cilium/proxy) - Envoy with Cilium filters (1 week ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 week ago)
+- [cilium/proxy](https://github.com/cilium/proxy) - Envoy with Cilium filters (2 weeks ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 weeks ago)
-- [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of tech conferences&#39;s date and CFP in order to help conferences organizers, speakers &amp; attendees (4 weeks ago)
+- [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of tech conferences&#39;s date and CFP in order to help conferences organizers, speakers &amp; attendees (1 month ago)
 - [cilium/hubble](https://github.com/cilium/hubble) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF (1 month ago)
 </details>
 
@@ -36,23 +36,23 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/hubble](https://github.com/cilium/hubble) ([v0.10.0](https://github.com/cilium/hubble/releases/tag/v0.10.0), today) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.0-rc3](https://github.com/cilium/cilium/releases/tag/v1.12.0-rc3), today) - eBPF-based Networking, Security, and Observability
-- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.2.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.2.0), 2 days ago) -  The Helm Chart for Puppet Server
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.17.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.17.0), 5 days ago) - ArgoProj Helm Charts
+- [cilium/hubble](https://github.com/cilium/hubble) ([v0.10.0](https://github.com/cilium/hubble/releases/tag/v0.10.0), 1 day ago) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.0-rc3](https://github.com/cilium/cilium/releases/tag/v1.12.0-rc3), 1 day ago) - eBPF-based Networking, Security, and Observability
+- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.2.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.2.0), 3 days ago) -  The Helm Chart for Puppet Server
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.17.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.17.0), 6 days ago) - ArgoProj Helm Charts
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.57.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.57.0), 3 weeks ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 </details>
 
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [docs(README): fix small typo](https://github.com/cilium/proxy/pull/73) on [cilium/proxy](https://github.com/cilium/proxy) (1 week ago)
+- [docs(README): fix small typo](https://github.com/cilium/proxy/pull/73) on [cilium/proxy](https://github.com/cilium/proxy) (2 weeks ago)
 </details>
 
 <details>
 <summary>📜 My recent blog posts</summary>
 
-- [Towards a Modular DevOps Stack](https://dev.to/camptocamp-ops/towards-a-modular-devops-stack-257c) (3 months ago)
+- [Towards a Modular DevOps Stack](https://dev.to/camptocamp-ops/towards-a-modular-devops-stack-257c) (4 months ago)
 - [A 15-year Puppet Journey](https://dev.to/raphink/a-15-year-puppet-journey-4o39) (4 months ago)
 - [How to allow dynamic Terraform Provider Configuration](https://dev.to/camptocamp-ops/how-to-allow-dynamic-terraform-provider-configuration-20ik) (1 year ago)
 - [March Cloud Native Romandie Meetup](https://dev.to/camptocamp-ops/march-cloud-native-romandie-meetup-o2f) (1 year ago)
