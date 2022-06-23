@@ -46,6 +46,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
+- [docs(policy): add notes on DNS/L7 policies &amp; Cilium agent availability](https://github.com/cilium/cilium/pull/20289) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [docs(README): fix small typo](https://github.com/cilium/proxy/pull/73) on [cilium/proxy](https://github.com/cilium/proxy) (2 weeks ago)
 </details>
 
