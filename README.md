@@ -18,7 +18,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 week ago)
 - [cilium/proxy](https://github.com/cilium/proxy) - Envoy with Cilium filters (2 weeks ago)
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 weeks ago)
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (3 weeks ago)
 - [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of tech conferences&#39;s date and CFP in order to help conferences organizers, speakers &amp; attendees (1 month ago)
 - [cilium/hubble](https://github.com/cilium/hubble) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF (1 month ago)
 </details>
@@ -36,17 +36,17 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.16.5](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.16.5), today) - ArgoProj Helm Charts
-- [cilium/hubble](https://github.com/cilium/hubble) ([v0.10.0](https://github.com/cilium/hubble/releases/tag/v0.10.0), 1 day ago) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.0-rc3](https://github.com/cilium/cilium/releases/tag/v1.12.0-rc3), 1 day ago) - eBPF-based Networking, Security, and Observability
-- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.2.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.2.0), 3 days ago) -  The Helm Chart for Puppet Server
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.16.5](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.16.5), 1 day ago) - ArgoProj Helm Charts
+- [cilium/hubble](https://github.com/cilium/hubble) ([v0.10.0](https://github.com/cilium/hubble/releases/tag/v0.10.0), 2 days ago) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.0-rc3](https://github.com/cilium/cilium/releases/tag/v1.12.0-rc3), 2 days ago) - eBPF-based Networking, Security, and Observability
+- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.2.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.2.0), 4 days ago) -  The Helm Chart for Puppet Server
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.57.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.57.0), 3 weeks ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 </details>
 
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [docs(policy): add notes on DNS/L7 policies &amp; Cilium agent availability](https://github.com/cilium/cilium/pull/20289) on [cilium/cilium](https://github.com/cilium/cilium) (today)
+- [docs(policy): add notes on DNS/L7 policies &amp; Cilium agent availability](https://github.com/cilium/cilium/pull/20289) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [docs(README): fix small typo](https://github.com/cilium/proxy/pull/73) on [cilium/proxy](https://github.com/cilium/proxy) (2 weeks ago)
 </details>
 
