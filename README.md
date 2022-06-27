@@ -49,7 +49,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 - [Typo Montolieu](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830/pull/205) on [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) (3 days ago)
 - [Trüschel spelling](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830/pull/204) on [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) (3 days ago)
 - [Typos Elisabeth de Cerjeat](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830/pull/203) on [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) (3 days ago)
-- [docs(policy): add notes on DNS/L7 policies &amp; Cilium agent availability](https://github.com/cilium/cilium/pull/20289) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
 </details>
 
 <details>
