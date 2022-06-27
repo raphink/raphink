@@ -36,7 +36,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.16.6](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.16.6), 3 days ago) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.9.8](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.9.8), today) - ArgoProj Helm Charts
 - [cilium/hubble](https://github.com/cilium/hubble) ([v0.10.0](https://github.com/cilium/hubble/releases/tag/v0.10.0), 5 days ago) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.0-rc3](https://github.com/cilium/cilium/releases/tag/v1.12.0-rc3), 5 days ago) - eBPF-based Networking, Security, and Observability
 - [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.2.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.2.0), 1 week ago) -  The Helm Chart for Puppet Server
