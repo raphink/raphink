@@ -16,8 +16,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) - Open-Source Historically accurate RPG based in 1830s Lausanne. (2 days ago)
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (3 days ago)
+- [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) - Open-Source Historically accurate RPG based in 1830s Lausanne. (3 days ago)
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (4 days ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 week ago)
 - [cilium/proxy](https://github.com/cilium/proxy) - Envoy with Cilium filters (2 weeks ago)
 - [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of tech conferences&#39;s date and CFP in order to help conferences organizers, speakers &amp; attendees (1 month ago)
@@ -36,20 +36,20 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.16.6](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.16.6), 2 days ago) - ArgoProj Helm Charts
-- [cilium/hubble](https://github.com/cilium/hubble) ([v0.10.0](https://github.com/cilium/hubble/releases/tag/v0.10.0), 4 days ago) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.0-rc3](https://github.com/cilium/cilium/releases/tag/v1.12.0-rc3), 4 days ago) - eBPF-based Networking, Security, and Observability
-- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.2.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.2.0), 6 days ago) -  The Helm Chart for Puppet Server
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.16.6](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.16.6), 3 days ago) - ArgoProj Helm Charts
+- [cilium/hubble](https://github.com/cilium/hubble) ([v0.10.0](https://github.com/cilium/hubble/releases/tag/v0.10.0), 5 days ago) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.0-rc3](https://github.com/cilium/cilium/releases/tag/v1.12.0-rc3), 5 days ago) - eBPF-based Networking, Security, and Observability
+- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.2.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.2.0), 1 week ago) -  The Helm Chart for Puppet Server
 - [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) ([v1.0](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830/releases/tag/v1.0), 1 week ago) - Open-Source Historically accurate RPG based in 1830s Lausanne.
 </details>
 
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Typo Montolieu](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830/pull/205) on [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) (2 days ago)
-- [Trüschel spelling](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830/pull/204) on [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) (2 days ago)
-- [Typos Elisabeth de Cerjeat](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830/pull/203) on [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) (2 days ago)
-- [docs(policy): add notes on DNS/L7 policies &amp; Cilium agent availability](https://github.com/cilium/cilium/pull/20289) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
+- [Typo Montolieu](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830/pull/205) on [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) (3 days ago)
+- [Trüschel spelling](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830/pull/204) on [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) (3 days ago)
+- [Typos Elisabeth de Cerjeat](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830/pull/203) on [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) (3 days ago)
+- [docs(policy): add notes on DNS/L7 policies &amp; Cilium agent availability](https://github.com/cilium/cilium/pull/20289) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
 </details>
 
 <details>
