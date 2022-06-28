@@ -46,7 +46,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Typo Montolieu](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830/pull/205) on [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) (4 days ago)
 </details>
 
 <details>
