@@ -36,7 +36,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.9.10](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.9.10), 1 day ago) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.9.11](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.9.11), today) - ArgoProj Helm Charts
 - [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) ([v1.1](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830/releases/tag/v1.1), 1 day ago) - Open-Source Historically accurate RPG based in 1830s Lausanne.
 - [cilium/hubble](https://github.com/cilium/hubble) ([v0.10.0](https://github.com/cilium/hubble/releases/tag/v0.10.0), 1 week ago) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.0-rc3](https://github.com/cilium/cilium/releases/tag/v1.12.0-rc3), 1 week ago) - eBPF-based Networking, Security, and Observability
