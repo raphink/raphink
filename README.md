@@ -16,10 +16,10 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) - Open-Source Historically accurate RPG based in 1830s Lausanne. (5 days ago)
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (6 days ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 week ago)
-- [cilium/proxy](https://github.com/cilium/proxy) - Envoy with Cilium filters (2 weeks ago)
+- [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) - Open-Source Historically accurate RPG based in 1830s Lausanne. (6 days ago)
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 week ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 weeks ago)
+- [cilium/proxy](https://github.com/cilium/proxy) - Envoy with Cilium filters (3 weeks ago)
 - [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of tech conferences&#39;s date and CFP in order to help conferences organizers, speakers &amp; attendees (1 month ago)
 </details>
 
@@ -36,9 +36,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.3.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.3.0), today) -  The Helm Chart for Puppet Server
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.9.11](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.9.11), today) - ArgoProj Helm Charts
-- [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) ([v1.1](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830/releases/tag/v1.1), 1 day ago) - Open-Source Historically accurate RPG based in 1830s Lausanne.
+- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.3.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.3.0), 1 day ago) -  The Helm Chart for Puppet Server
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.9.11](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.9.11), 1 day ago) - ArgoProj Helm Charts
+- [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) ([v1.1](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830/releases/tag/v1.1), 2 days ago) - Open-Source Historically accurate RPG based in 1830s Lausanne.
 - [cilium/hubble](https://github.com/cilium/hubble) ([v0.10.0](https://github.com/cilium/hubble/releases/tag/v0.10.0), 1 week ago) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.0-rc3](https://github.com/cilium/cilium/releases/tag/v1.12.0-rc3), 1 week ago) - eBPF-based Networking, Security, and Observability
 </details>
