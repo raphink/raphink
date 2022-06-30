@@ -36,7 +36,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.3.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.3.0), 1 day ago) -  The Helm Chart for Puppet Server
+- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.4.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.4.0), today) -  The Helm Chart for Puppet Server
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.9.11](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.9.11), 1 day ago) - ArgoProj Helm Charts
 - [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) ([v1.1](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830/releases/tag/v1.1), 2 days ago) - Open-Source Historically accurate RPG based in 1830s Lausanne.
 - [cilium/hubble](https://github.com/cilium/hubble) ([v0.10.0](https://github.com/cilium/hubble/releases/tag/v0.10.0), 1 week ago) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF
