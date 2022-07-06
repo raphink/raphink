@@ -46,6 +46,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
+- [Add JSON status (fix #956)](https://github.com/cilium/cilium-cli/pull/958) on [cilium/cilium-cli](https://github.com/cilium/cilium-cli) (today)
 </details>
 
 <details>
