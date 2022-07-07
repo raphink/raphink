@@ -36,8 +36,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.9.12](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.9.12), today) - ArgoProj Helm Charts
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.58.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.58.0), 1 day ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.0.3](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.0.3), 1 day ago) - ArgoProj Helm Charts
 - [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v3.1.0](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v3.1.0), 6 days ago) - Terraform provider for ArgoCD 
 - [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.4.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.4.0), 1 week ago) -  The Helm Chart for Puppet Server
 - [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) ([v1.1](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830/releases/tag/v1.1), 1 week ago) - Open-Source Historically accurate RPG based in 1830s Lausanne.
