@@ -16,9 +16,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (today)
 - [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) - Open-Source Historically accurate RPG based in 1830s Lausanne. (2 weeks ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 weeks ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (3 weeks ago)
 - [cilium/proxy](https://github.com/cilium/proxy) - Envoy with Cilium filters (1 month ago)
 - [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of tech conferences&#39;s date and CFP in order to help conferences organizers, speakers &amp; attendees (1 month ago)
 </details>
@@ -62,11 +62,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👥 My recent followers</summary>
 
+- [<img src="https://avatars.githubusercontent.com/u/11661114?u=2e1a4c46f696cec09eae47cb1b17e21d28c09547&amp;v=4" height="20"/> jackkolokasis](https://github.com/jackkolokasis)
 - [<img src="https://avatars.githubusercontent.com/u/719302?u=847f86ed026bd5ee809db151b17f5d3d70e711b4&amp;v=4" height="20"/> tpapagian](https://github.com/tpapagian)
 - [<img src="https://avatars.githubusercontent.com/u/40758407?u=738b532d528be323cbd578c386c766f9f13f4dac&amp;v=4" height="20"/> JGodin-C2C](https://github.com/JGodin-C2C)
 - [<img src="https://avatars.githubusercontent.com/u/97345885?u=26fbe5b027bfc7c2093cc6a52726a9c9511eeedf&amp;v=4" height="20"/> Gangster0312](https://github.com/Gangster0312)
 - [<img src="https://avatars.githubusercontent.com/u/3199463?u=f893db5fca3d75cb18aa2f0f178b76907ab2bf1b&amp;v=4" height="20"/> lambdanis](https://github.com/lambdanis)
-- [<img src="https://avatars.githubusercontent.com/u/17404140?v=4" height="20"/> davidphay](https://github.com/davidphay)
 </details>
 
 
