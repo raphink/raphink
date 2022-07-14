@@ -16,9 +16,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (today)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 day ago)
 - [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) - Open-Source Historically accurate RPG based in 1830s Lausanne. (2 weeks ago)
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 weeks ago)
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (3 weeks ago)
 - [cilium/proxy](https://github.com/cilium/proxy) - Envoy with Cilium filters (1 month ago)
 - [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of tech conferences&#39;s date and CFP in order to help conferences organizers, speakers &amp; attendees (1 month ago)
 </details>
@@ -36,11 +36,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.9.13](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.9.13), today) - ArgoProj Helm Charts
-- [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) ([v1.2](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830/releases/tag/v1.2), today) - Open-Source Historically accurate RPG based in 1830s Lausanne.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.9.13](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.9.13), 1 day ago) - ArgoProj Helm Charts
+- [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) ([v1.2](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830/releases/tag/v1.2), 1 day ago) - Open-Source Historically accurate RPG based in 1830s Lausanne.
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.58.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.58.0), 1 week ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v3.1.0](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v3.1.0), 1 week ago) - Terraform provider for ArgoCD 
-- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.4.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.4.0), 1 week ago) -  The Helm Chart for Puppet Server
+- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.4.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.4.0), 2 weeks ago) -  The Helm Chart for Puppet Server
 </details>
 
 <details>
