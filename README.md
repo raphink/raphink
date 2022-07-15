@@ -16,9 +16,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (today)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 day ago)
 - [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) - Open-Source Historically accurate RPG based in 1830s Lausanne. (3 weeks ago)
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (3 weeks ago)
 - [cilium/proxy](https://github.com/cilium/proxy) - Envoy with Cilium filters (1 month ago)
 - [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of tech conferences&#39;s date and CFP in order to help conferences organizers, speakers &amp; attendees (1 month ago)
 </details>
