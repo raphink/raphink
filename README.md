@@ -65,7 +65,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 - [<img src="https://avatars.githubusercontent.com/u/11661114?u=2e1a4c46f696cec09eae47cb1b17e21d28c09547&amp;v=4" height="20"/> jackkolokasis](https://github.com/jackkolokasis)
 - [<img src="https://avatars.githubusercontent.com/u/719302?u=847f86ed026bd5ee809db151b17f5d3d70e711b4&amp;v=4" height="20"/> tpapagian](https://github.com/tpapagian)
 - [<img src="https://avatars.githubusercontent.com/u/40758407?u=738b532d528be323cbd578c386c766f9f13f4dac&amp;v=4" height="20"/> JGodin-C2C](https://github.com/JGodin-C2C)
-- [<img src="https://avatars.githubusercontent.com/u/97345885?u=26fbe5b027bfc7c2093cc6a52726a9c9511eeedf&amp;v=4" height="20"/> Gangster0312](https://github.com/Gangster0312)
+- [<img src="https://avatars.githubusercontent.com/u/97345885?u=4336e0e7cd60b1839e3dc589f917e4e45c3a22e1&amp;v=4" height="20"/> kogutstt2](https://github.com/kogutstt2)
 - [<img src="https://avatars.githubusercontent.com/u/3199463?u=f893db5fca3d75cb18aa2f0f178b76907ab2bf1b&amp;v=4" height="20"/> lambdanis](https://github.com/lambdanis)
 </details>
 
