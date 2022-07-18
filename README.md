@@ -16,8 +16,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 days ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (3 days ago)
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (3 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (4 days ago)
 - [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) - Open-Source Historically accurate RPG based in 1830s Lausanne. (3 weeks ago)
 - [cilium/proxy](https://github.com/cilium/proxy) - Envoy with Cilium filters (1 month ago)
 - [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of tech conferences&#39;s date and CFP in order to help conferences organizers, speakers &amp; attendees (1 month ago)
@@ -36,8 +36,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.18.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.18.0), 2 days ago) - ArgoProj Helm Charts
-- [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) ([v1.2](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830/releases/tag/v1.2), 4 days ago) - Open-Source Historically accurate RPG based in 1830s Lausanne.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.18.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.18.0), 3 days ago) - ArgoProj Helm Charts
+- [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) ([v1.2](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830/releases/tag/v1.2), 5 days ago) - Open-Source Historically accurate RPG based in 1830s Lausanne.
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.58.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.58.0), 1 week ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v3.1.0](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v3.1.0), 2 weeks ago) - Terraform provider for ArgoCD 
 - [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.4.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.4.0), 2 weeks ago) -  The Helm Chart for Puppet Server
@@ -46,7 +46,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [docs(masquerading): add missing &#34;address&#34;](https://github.com/cilium/cilium/pull/20538) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
+- [docs(masquerading): add missing &#34;address&#34;](https://github.com/cilium/cilium/pull/20538) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
 </details>
 
 <details>
@@ -65,7 +65,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 - [<img src="https://avatars.githubusercontent.com/u/11661114?u=2e1a4c46f696cec09eae47cb1b17e21d28c09547&amp;v=4" height="20"/> jackkolokasis](https://github.com/jackkolokasis)
 - [<img src="https://avatars.githubusercontent.com/u/719302?u=847f86ed026bd5ee809db151b17f5d3d70e711b4&amp;v=4" height="20"/> tpapagian](https://github.com/tpapagian)
 - [<img src="https://avatars.githubusercontent.com/u/40758407?u=738b532d528be323cbd578c386c766f9f13f4dac&amp;v=4" height="20"/> JGodin-C2C](https://github.com/JGodin-C2C)
-- [<img src="https://avatars.githubusercontent.com/u/97345885?u=4336e0e7cd60b1839e3dc589f917e4e45c3a22e1&amp;v=4" height="20"/> kogutstt2](https://github.com/kogutstt2)
+- [<img src="https://avatars.githubusercontent.com/u/97345885?u=75ccfcc95e8f9c601f00242e8b3e5bfe4ca10033&amp;v=4" height="20"/> kogutstt2](https://github.com/kogutstt2)
 - [<img src="https://avatars.githubusercontent.com/u/3199463?u=f893db5fca3d75cb18aa2f0f178b76907ab2bf1b&amp;v=4" height="20"/> lambdanis](https://github.com/lambdanis)
 </details>
 
