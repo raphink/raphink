@@ -36,9 +36,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.10.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.10.0), today) - ArgoProj Helm Charts
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.0](https://github.com/cilium/cilium/releases/tag/v1.12.0), 1 day ago) - eBPF-based Networking, Security, and Observability
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.59.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.59.0), 2 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.9.16](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.9.16), 2 days ago) - ArgoProj Helm Charts
 - [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) ([v1.2](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830/releases/tag/v1.2), 1 week ago) - Open-Source Historically accurate RPG based in 1830s Lausanne.
 - [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v3.1.0](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v3.1.0), 2 weeks ago) - Terraform provider for ArgoCD 
 </details>
