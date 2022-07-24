@@ -18,7 +18,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 week ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 week ago)
-- [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) - Open-Source Historically accurate RPG based in 1830s Lausanne. (4 weeks ago)
+- [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) - Open-Source Historically accurate RPG based in 1830s Lausanne. (1 month ago)
 - [cilium/proxy](https://github.com/cilium/proxy) - Envoy with Cilium filters (1 month ago)
 - [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of tech conferences&#39;s date and CFP in order to help conferences organizers, speakers &amp; attendees (2 months ago)
 </details>
@@ -36,9 +36,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.10.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.10.0), 2 days ago) - ArgoProj Helm Charts
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.0](https://github.com/cilium/cilium/releases/tag/v1.12.0), 3 days ago) - eBPF-based Networking, Security, and Observability
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.59.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.59.0), 4 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.10.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.10.0), 3 days ago) - ArgoProj Helm Charts
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.0](https://github.com/cilium/cilium/releases/tag/v1.12.0), 4 days ago) - eBPF-based Networking, Security, and Observability
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.59.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.59.0), 5 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) ([v1.2](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830/releases/tag/v1.2), 1 week ago) - Open-Source Historically accurate RPG based in 1830s Lausanne.
 - [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v3.1.0](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v3.1.0), 3 weeks ago) - Terraform provider for ArgoCD 
 </details>
