@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 week ago)
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 weeks ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 weeks ago)
 - [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) - Open-Source Historically accurate RPG based in 1830s Lausanne. (1 month ago)
 - [cilium/proxy](https://github.com/cilium/proxy) - Envoy with Cilium filters (1 month ago)
@@ -36,17 +36,17 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.16.8](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.16.8), 1 day ago) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.16.8](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.16.8), 2 days ago) - ArgoProj Helm Charts
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.0](https://github.com/cilium/cilium/releases/tag/v1.12.0), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.59.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.59.0), 1 week ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) ([v1.2](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830/releases/tag/v1.2), 2 weeks ago) - Open-Source Historically accurate RPG based in 1830s Lausanne.
-- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v3.1.0](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v3.1.0), 3 weeks ago) - Terraform provider for ArgoCD 
+- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v3.1.0](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v3.1.0), 4 weeks ago) - Terraform provider for ArgoCD 
 </details>
 
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [docs(masquerading): add missing &#34;address&#34;](https://github.com/cilium/cilium/pull/20538) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
+- [docs(masquerading): add missing &#34;address&#34;](https://github.com/cilium/cilium/pull/20538) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 </details>
 
 <details>
