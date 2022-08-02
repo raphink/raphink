@@ -36,7 +36,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.10.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.10.4), 1 day ago) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.10.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.10.5), today) - ArgoProj Helm Charts
 - [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.5.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.5.0), 2 days ago) -  The Helm Chart for Puppet Server
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.0](https://github.com/cilium/cilium/releases/tag/v1.12.0), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.59.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.59.0), 2 weeks ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
