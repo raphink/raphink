@@ -46,7 +46,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [docs(masquerading): add missing &#34;address&#34;](https://github.com/cilium/cilium/pull/20538) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 </details>
 
 <details>
