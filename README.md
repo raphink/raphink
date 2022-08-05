@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 weeks ago)
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (3 weeks ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (3 weeks ago)
 - [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) - Open-Source Historically accurate RPG based in 1830s Lausanne. (1 month ago)
 - [cilium/proxy](https://github.com/cilium/proxy) - Envoy with Cilium filters (1 month ago)
@@ -36,8 +36,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.10.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.10.5), 2 days ago) - ArgoProj Helm Charts
-- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.5.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.5.0), 4 days ago) -  The Helm Chart for Puppet Server
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.10.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.10.5), 3 days ago) - ArgoProj Helm Charts
+- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.5.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.5.0), 5 days ago) -  The Helm Chart for Puppet Server
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.0](https://github.com/cilium/cilium/releases/tag/v1.12.0), 2 weeks ago) - eBPF-based Networking, Security, and Observability
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.59.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.59.0), 2 weeks ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) ([v1.2](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830/releases/tag/v1.2), 3 weeks ago) - Open-Source Historically accurate RPG based in 1830s Lausanne.
@@ -52,7 +52,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <summary>📜 My recent blog posts</summary>
 
 - [Towards a Modular DevOps Stack](https://dev.to/camptocamp-ops/towards-a-modular-devops-stack-257c) (5 months ago)
-- [A 15-year Puppet Journey](https://dev.to/raphink/a-15-year-puppet-journey-4o39) (5 months ago)
+- [A 15-year Puppet Journey](https://dev.to/raphink/a-15-year-puppet-journey-4o39) (6 months ago)
 - [How to allow dynamic Terraform Provider Configuration](https://dev.to/camptocamp-ops/how-to-allow-dynamic-terraform-provider-configuration-20ik) (1 year ago)
 - [March Cloud Native Romandie Meetup](https://dev.to/camptocamp-ops/march-cloud-native-romandie-meetup-o2f) (1 year ago)
 - [Immutability &amp; loose coupling: a match made in heaven](https://dev.to/camptocamp-ops/immutability-loose-coupling-a-match-made-in-heaven-37kl) (1 year ago)
