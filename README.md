@@ -46,7 +46,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [fix(install): exit before helm secret generation in --helm-auto-gen-values mode](https://github.com/cilium/cilium-cli/pull/1021) on [cilium/cilium-cli](https://github.com/cilium/cilium-cli) (1 day ago)
 </details>
 
 <details>
