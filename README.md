@@ -61,11 +61,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👥 My recent followers</summary>
 
-- [<img src="https://avatars.githubusercontent.com/u/53883933?u=0d339170be61bb67787f777f08ed74e4bf27c9fd&amp;v=4" height="20"/> cliid](https://github.com/cliid)
 - [<img src="https://avatars.githubusercontent.com/u/108674482?v=4" height="20"/> hfcui1](https://github.com/hfcui1)
 - [<img src="https://avatars.githubusercontent.com/u/11661114?u=2e1a4c46f696cec09eae47cb1b17e21d28c09547&amp;v=4" height="20"/> jackkolokasis](https://github.com/jackkolokasis)
 - [<img src="https://avatars.githubusercontent.com/u/719302?u=847f86ed026bd5ee809db151b17f5d3d70e711b4&amp;v=4" height="20"/> tpapagian](https://github.com/tpapagian)
 - [<img src="https://avatars.githubusercontent.com/u/40758407?u=738b532d528be323cbd578c386c766f9f13f4dac&amp;v=4" height="20"/> JGodin-C2C](https://github.com/JGodin-C2C)
+- [<img src="https://avatars.githubusercontent.com/u/97345885?u=804543d900803c06f922d2df1517fd3c64ca100b&amp;v=4" height="20"/> kogutstt2](https://github.com/kogutstt2)
 </details>
 
 
