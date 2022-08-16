@@ -46,6 +46,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
+- [docs(bandwidth-manager): add note on per-pod limits](https://github.com/cilium/cilium/pull/20916) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 </details>
 
 <details>
