@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 day ago)
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 days ago)
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (1 week ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 month ago)
 - [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) - Open-Source Historically accurate RPG based in 1830s Lausanne. (1 month ago)
@@ -36,17 +36,17 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.5.1](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.5.1), today) -  The Helm Chart for Puppet Server
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.1](https://github.com/cilium/cilium/releases/tag/v1.12.1), today) - eBPF-based Networking, Security, and Observability
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.17.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.17.0), today) - ArgoProj Helm Charts
+- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.5.1](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.5.1), 1 day ago) -  The Helm Chart for Puppet Server
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.1](https://github.com/cilium/cilium/releases/tag/v1.12.1), 1 day ago) - eBPF-based Networking, Security, and Observability
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.17.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.17.0), 1 day ago) - ArgoProj Helm Charts
 - [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v3.2.0](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v3.2.0), 1 week ago) - Terraform provider for ArgoCD 
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.1](https://github.com/cilium/cilium-cli/releases/tag/v0.12.1), 1 week ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.1](https://github.com/cilium/cilium-cli/releases/tag/v0.12.1), 2 weeks ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 </details>
 
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [docs(bandwidth-manager): add note on per-pod limits](https://github.com/cilium/cilium/pull/20916) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
+- [docs(bandwidth-manager): add note on per-pod limits](https://github.com/cilium/cilium/pull/20916) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 </details>
 
 <details>
