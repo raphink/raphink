@@ -36,8 +36,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.10.8](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.10.8), today) - ArgoProj Helm Charts
 - [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.5.3](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.5.3), today) -  The Helm Chart for Puppet Server
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.10.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.10.7), 1 day ago) - ArgoProj Helm Charts
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.1](https://github.com/cilium/cilium/releases/tag/v1.12.1), 2 days ago) - eBPF-based Networking, Security, and Observability
 - [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v3.2.0](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v3.2.0), 2 weeks ago) - Terraform provider for ArgoCD 
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.1](https://github.com/cilium/cilium-cli/releases/tag/v0.12.1), 2 weeks ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
