@@ -36,9 +36,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.3.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.3.3), today) - ArgoProj Helm Charts
-- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v3.2.1](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v3.2.1), 3 days ago) - Terraform provider for ArgoCD 
-- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.5.3](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.5.3), 6 days ago) -  The Helm Chart for Puppet Server
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.3.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.3.3), 1 day ago) - ArgoProj Helm Charts
+- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v3.2.1](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v3.2.1), 4 days ago) - Terraform provider for ArgoCD 
+- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.5.3](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.5.3), 1 week ago) -  The Helm Chart for Puppet Server
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.1](https://github.com/cilium/cilium/releases/tag/v1.12.1), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.1](https://github.com/cilium/cilium-cli/releases/tag/v0.12.1), 3 weeks ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 </details>
