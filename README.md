@@ -17,10 +17,10 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <summary>👷 What I'm currently working on</summary>
 
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (3 weeks ago)
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (4 weeks ago)
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (1 month ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 month ago)
 - [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) - Open-Source Historically accurate RPG based in 1830s Lausanne. (2 months ago)
-- [cilium/proxy](https://github.com/cilium/proxy) - Envoy with Cilium filters (2 months ago)
+- [cilium/proxy](https://github.com/cilium/proxy) - Envoy with Cilium filters (3 months ago)
 </details>
 
 <details>
@@ -36,9 +36,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.59.1](https://github.com/camptocamp/devops-stack/releases/tag/v0.59.1), today) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.3](https://github.com/cilium/cilium-cli/releases/tag/v0.12.3), 5 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.13.0-rc0](https://github.com/cilium/cilium/releases/tag/v1.13.0-rc0), 5 days ago) - eBPF-based Networking, Security, and Observability
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.59.1](https://github.com/camptocamp/devops-stack/releases/tag/v0.59.1), 1 day ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.3](https://github.com/cilium/cilium-cli/releases/tag/v0.12.3), 6 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.13.0-rc0](https://github.com/cilium/cilium/releases/tag/v1.13.0-rc0), 6 days ago) - eBPF-based Networking, Security, and Observability
 - [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v3.2.1](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v3.2.1), 2 weeks ago) - Terraform provider for ArgoCD 
 - [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.5.3](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.5.3), 2 weeks ago) -  The Helm Chart for Puppet Server
 </details>
