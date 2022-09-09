@@ -36,11 +36,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.59.1](https://github.com/camptocamp/devops-stack/releases/tag/v0.59.1), 2 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.59.1](https://github.com/camptocamp/devops-stack/releases/tag/v0.59.1), 3 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.3](https://github.com/cilium/cilium-cli/releases/tag/v0.12.3), 1 week ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.13.0-rc0](https://github.com/cilium/cilium/releases/tag/v1.13.0-rc0), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v3.2.1](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v3.2.1), 2 weeks ago) - Terraform provider for ArgoCD 
-- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.5.3](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.5.3), 2 weeks ago) -  The Helm Chart for Puppet Server
+- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.5.3](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.5.3), 3 weeks ago) -  The Helm Chart for Puppet Server
 </details>
 
 <details>
@@ -56,7 +56,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 - [A 15-year Puppet Journey](https://dev.to/raphink/a-15-year-puppet-journey-4o39) (7 months ago)
 - [How to allow dynamic Terraform Provider Configuration](https://dev.to/camptocamp-ops/how-to-allow-dynamic-terraform-provider-configuration-20ik) (1 year ago)
 - [March Cloud Native Romandie Meetup](https://dev.to/camptocamp-ops/march-cloud-native-romandie-meetup-o2f) (1 year ago)
-- [Immutability &amp; loose coupling: a match made in heaven](https://dev.to/camptocamp-ops/immutability-loose-coupling-a-match-made-in-heaven-37kl) (1 year ago)
+- [Immutability &amp; loose coupling: a match made in heaven](https://dev.to/camptocamp-ops/immutability-loose-coupling-a-match-made-in-heaven-37kl) (2 years ago)
 </details>
 
 <details>
