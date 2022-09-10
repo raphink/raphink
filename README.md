@@ -36,7 +36,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.59.1](https://github.com/camptocamp/devops-stack/releases/tag/v0.59.1), 3 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.59.1](https://github.com/camptocamp/devops-stack/releases/tag/v0.59.1), 4 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.3](https://github.com/cilium/cilium-cli/releases/tag/v0.12.3), 1 week ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.13.0-rc0](https://github.com/cilium/cilium/releases/tag/v1.13.0-rc0), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v3.2.1](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v3.2.1), 2 weeks ago) - Terraform provider for ArgoCD 
