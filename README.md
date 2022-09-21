@@ -36,11 +36,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/tetragon](https://github.com/cilium/tetragon) ([v0.8.2](https://github.com/cilium/tetragon/releases/tag/v0.8.2), today) - eBPF-based Security Observability and Runtime Enforcement
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.2](https://github.com/cilium/cilium/releases/tag/v1.12.2), 6 days ago) - eBPF-based Networking, Security, and Observability
+- [cilium/tetragon](https://github.com/cilium/tetragon) ([v0.8.2](https://github.com/cilium/tetragon/releases/tag/v0.8.2), 1 day ago) - eBPF-based Security Observability and Runtime Enforcement
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.2](https://github.com/cilium/cilium/releases/tag/v1.12.2), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.59.1](https://github.com/camptocamp/devops-stack/releases/tag/v0.59.1), 2 weeks ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.3](https://github.com/cilium/cilium-cli/releases/tag/v0.12.3), 2 weeks ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
-- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v3.2.1](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v3.2.1), 4 weeks ago) - Terraform provider for ArgoCD 
+- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v3.2.1](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v3.2.1), 1 month ago) - Terraform provider for ArgoCD 
 </details>
 
 <details>
@@ -51,7 +51,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>📜 My recent blog posts</summary>
 
-- [Towards a Modular DevOps Stack](https://dev.to/camptocamp-ops/towards-a-modular-devops-stack-257c) (6 months ago)
+- [Towards a Modular DevOps Stack](https://dev.to/camptocamp-ops/towards-a-modular-devops-stack-257c) (7 months ago)
 - [A 15-year Puppet Journey](https://dev.to/raphink/a-15-year-puppet-journey-4o39) (7 months ago)
 - [How to allow dynamic Terraform Provider Configuration](https://dev.to/camptocamp-ops/how-to-allow-dynamic-terraform-provider-configuration-20ik) (1 year ago)
 - [March Cloud Native Romandie Meetup](https://dev.to/camptocamp-ops/march-cloud-native-romandie-meetup-o2f) (1 year ago)
