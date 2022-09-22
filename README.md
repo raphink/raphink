@@ -19,7 +19,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 month ago)
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (1 month ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 months ago)
-- [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) - Open-Source Historically accurate RPG based in 1830s Lausanne. (2 months ago)
+- [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) - Open-Source Historically accurate RPG based in 1830s Lausanne. (3 months ago)
 - [cilium/proxy](https://github.com/cilium/proxy) - Envoy with Cilium filters (3 months ago)
 </details>
 
@@ -36,8 +36,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.4](https://github.com/cilium/cilium-cli/releases/tag/v0.12.4), today) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
-- [cilium/tetragon](https://github.com/cilium/tetragon) ([v0.8.2](https://github.com/cilium/tetragon/releases/tag/v0.8.2), 1 day ago) - eBPF-based Security Observability and Runtime Enforcement
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.4](https://github.com/cilium/cilium-cli/releases/tag/v0.12.4), 1 day ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
+- [cilium/tetragon](https://github.com/cilium/tetragon) ([v0.8.2](https://github.com/cilium/tetragon/releases/tag/v0.8.2), 2 days ago) - eBPF-based Security Observability and Runtime Enforcement
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.2](https://github.com/cilium/cilium/releases/tag/v1.12.2), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.59.1](https://github.com/camptocamp/devops-stack/releases/tag/v0.59.1), 2 weeks ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v3.2.1](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v3.2.1), 1 month ago) - Terraform provider for ArgoCD 
