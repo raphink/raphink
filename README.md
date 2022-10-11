@@ -36,10 +36,10 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.6.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.6.0), 6 days ago) -  The Helm Chart for Puppet Server
+- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.6.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.6.0), 1 week ago) -  The Helm Chart for Puppet Server
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.13.0-rc1](https://github.com/cilium/cilium/releases/tag/v1.13.0-rc1), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.4](https://github.com/cilium/cilium-cli/releases/tag/v0.12.4), 2 weeks ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
-- [cilium/tetragon](https://github.com/cilium/tetragon) ([v0.8.2](https://github.com/cilium/tetragon/releases/tag/v0.8.2), 2 weeks ago) - eBPF-based Security Observability and Runtime Enforcement
+- [cilium/tetragon](https://github.com/cilium/tetragon) ([v0.8.2](https://github.com/cilium/tetragon/releases/tag/v0.8.2), 3 weeks ago) - eBPF-based Security Observability and Runtime Enforcement
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.59.1](https://github.com/camptocamp/devops-stack/releases/tag/v0.59.1), 1 month ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 </details>
 
