@@ -36,7 +36,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v4.0.0](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v4.0.0), 3 days ago) - Terraform provider for ArgoCD 
+- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v4.1.0](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v4.1.0), today) - Terraform provider for ArgoCD 
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.59.3](https://github.com/camptocamp/devops-stack/releases/tag/v0.59.3), 4 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.6.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.6.0), 1 week ago) -  The Helm Chart for Puppet Server
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.13.0-rc1](https://github.com/cilium/cilium/releases/tag/v1.13.0-rc1), 2 weeks ago) - eBPF-based Networking, Security, and Observability
