@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/rebel-base](https://github.com/raphink/rebel-base) - rebel-base (3 days ago)
+- [raphink/rebel-base](https://github.com/raphink/rebel-base) - rebel-base (4 days ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 week ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 months ago)
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (2 months ago)
@@ -36,9 +36,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.7.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.7.0), 4 days ago) -  The Helm Chart for Puppet Server
-- [cilium/tetragon](https://github.com/cilium/tetragon) ([v0.8.3](https://github.com/cilium/tetragon/releases/tag/v0.8.3), 4 days ago) - eBPF-based Security Observability and Runtime Enforcement
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.5](https://github.com/cilium/cilium-cli/releases/tag/v0.12.5), 6 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
+- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.7.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.7.0), 5 days ago) -  The Helm Chart for Puppet Server
+- [cilium/tetragon](https://github.com/cilium/tetragon) ([v0.8.3](https://github.com/cilium/tetragon/releases/tag/v0.8.3), 5 days ago) - eBPF-based Security Observability and Runtime Enforcement
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.5](https://github.com/cilium/cilium-cli/releases/tag/v0.12.5), 1 week ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.3](https://github.com/cilium/cilium/releases/tag/v1.12.3), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v4.1.0](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v4.1.0), 1 week ago) - Terraform provider for ArgoCD 
 </details>
