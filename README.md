@@ -17,7 +17,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <summary>👷 What I'm currently working on</summary>
 
 - [raphink/rebel-base](https://github.com/raphink/rebel-base) - rebel-base (1 week ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 weeks ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (3 weeks ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 months ago)
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (2 months ago)
 - [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) - Open-Source Historically accurate RPG based in 1830s Lausanne. (4 months ago)
@@ -36,7 +36,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.13.0-rc2](https://github.com/cilium/cilium/releases/tag/v1.13.0-rc2), today) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.13.0-rc2](https://github.com/cilium/cilium/releases/tag/v1.13.0-rc2), 1 day ago) - eBPF-based Networking, Security, and Observability
 - [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.7.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.7.0), 1 week ago) -  The Helm Chart for Puppet Server
 - [cilium/tetragon](https://github.com/cilium/tetragon) ([v0.8.3](https://github.com/cilium/tetragon/releases/tag/v0.8.3), 1 week ago) - eBPF-based Security Observability and Runtime Enforcement
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.5](https://github.com/cilium/cilium-cli/releases/tag/v0.12.5), 2 weeks ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
@@ -53,7 +53,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 - [Towards a Modular DevOps Stack](https://dev.to/camptocamp-ops/towards-a-modular-devops-stack-257c) (8 months ago)
 - [A 15-year Puppet Journey](https://dev.to/raphink/a-15-year-puppet-journey-4o39) (8 months ago)
-- [How to allow dynamic Terraform Provider Configuration](https://dev.to/camptocamp-ops/how-to-allow-dynamic-terraform-provider-configuration-20ik) (1 year ago)
+- [How to allow dynamic Terraform Provider Configuration](https://dev.to/camptocamp-ops/how-to-allow-dynamic-terraform-provider-configuration-20ik) (2 years ago)
 - [March Cloud Native Romandie Meetup](https://dev.to/camptocamp-ops/march-cloud-native-romandie-meetup-o2f) (2 years ago)
 - [Immutability &amp; loose coupling: a match made in heaven](https://dev.to/camptocamp-ops/immutability-loose-coupling-a-match-made-in-heaven-37kl) (2 years ago)
 </details>
