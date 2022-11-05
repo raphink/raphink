@@ -36,8 +36,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.6](https://github.com/cilium/cilium-cli/releases/tag/v0.12.6), 1 day ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.13.0-rc2](https://github.com/cilium/cilium/releases/tag/v1.13.0-rc2), 3 days ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.6](https://github.com/cilium/cilium-cli/releases/tag/v0.12.6), 2 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.13.0-rc2](https://github.com/cilium/cilium/releases/tag/v1.13.0-rc2), 4 days ago) - eBPF-based Networking, Security, and Observability
 - [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.7.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.7.0), 2 weeks ago) -  The Helm Chart for Puppet Server
 - [cilium/tetragon](https://github.com/cilium/tetragon) ([v0.8.3](https://github.com/cilium/tetragon/releases/tag/v0.8.3), 2 weeks ago) - eBPF-based Security Observability and Runtime Enforcement
 - [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v4.1.0](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v4.1.0), 2 weeks ago) - Terraform provider for ArgoCD 
