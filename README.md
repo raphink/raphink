@@ -16,8 +16,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/rebel-base](https://github.com/raphink/rebel-base) - rebel-base (2 weeks ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (4 weeks ago)
+- [raphink/rebel-base](https://github.com/raphink/rebel-base) - rebel-base (3 weeks ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 month ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 months ago)
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (3 months ago)
 - [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) - Open-Source Historically accurate RPG based in 1830s Lausanne. (4 months ago)
@@ -36,7 +36,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.8.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.8.0), today) -  The Helm Chart for Puppet Server
+- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.8.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.8.0), 1 day ago) -  The Helm Chart for Puppet Server
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.6](https://github.com/cilium/cilium-cli/releases/tag/v0.12.6), 1 week ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.13.0-rc2](https://github.com/cilium/cilium/releases/tag/v1.13.0-rc2), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [cilium/tetragon](https://github.com/cilium/tetragon) ([v0.8.3](https://github.com/cilium/tetragon/releases/tag/v0.8.3), 3 weeks ago) - eBPF-based Security Observability and Runtime Enforcement
