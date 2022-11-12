@@ -20,7 +20,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 month ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 months ago)
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (3 months ago)
-- [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) - Open-Source Historically accurate RPG based in 1830s Lausanne. (4 months ago)
+- [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) - Winner of the Swiss Game Award 2022 for Best Serious Game. Open-Source Historically accurate RPG based in 1830s Lausanne. (4 months ago)
 </details>
 
 <details>
