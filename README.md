@@ -18,7 +18,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 - [raphink/rebel-base](https://github.com/raphink/rebel-base) - rebel-base (3 weeks ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 month ago)
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 months ago)
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (3 months ago)
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (3 months ago)
 - [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) - Winner of the Swiss Game Award 2022 for Best Serious Game. Open-Source Historically accurate RPG based in 1830s Lausanne. (4 months ago)
 </details>
@@ -36,11 +36,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.8.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.8.0), 3 days ago) -  The Helm Chart for Puppet Server
+- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.8.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.8.0), 4 days ago) -  The Helm Chart for Puppet Server
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.6](https://github.com/cilium/cilium-cli/releases/tag/v0.12.6), 1 week ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.13.0-rc2](https://github.com/cilium/cilium/releases/tag/v1.13.0-rc2), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [cilium/tetragon](https://github.com/cilium/tetragon) ([v0.8.3](https://github.com/cilium/tetragon/releases/tag/v0.8.3), 3 weeks ago) - eBPF-based Security Observability and Runtime Enforcement
-- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v4.1.0](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v4.1.0), 3 weeks ago) - Terraform provider for ArgoCD 
+- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v4.1.0](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v4.1.0), 4 weeks ago) - Terraform provider for ArgoCD 
 </details>
 
 <details>
