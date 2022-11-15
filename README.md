@@ -16,11 +16,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
+- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (today)
 - [raphink/rebel-base](https://github.com/raphink/rebel-base) - rebel-base (3 weeks ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 month ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (3 months ago)
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (3 months ago)
-- [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) - Winner of the Swiss Game Award 2022 for Best Serious Game. Open-Source Historically accurate RPG based in 1830s Lausanne. (4 months ago)
 </details>
 
 <details>
