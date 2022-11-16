@@ -36,7 +36,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.60.1](https://github.com/camptocamp/devops-stack/releases/tag/v0.60.1), 2 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using Argo CD 🐙 and Terraform as base components
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.60.2](https://github.com/camptocamp/devops-stack/releases/tag/v0.60.2), today) - 🌊 An all-in-one Kubernetes ☸ stack using Argo CD 🐙 and Terraform as base components
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.7](https://github.com/cilium/cilium-cli/releases/tag/v0.12.7), 2 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.8.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.8.0), 6 days ago) -  The Helm Chart for Puppet Server
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.13.0-rc2](https://github.com/cilium/cilium/releases/tag/v1.13.0-rc2), 2 weeks ago) - eBPF-based Networking, Security, and Observability
