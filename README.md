@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (2 days ago)
+- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (today)
 - [raphink/rebel-base](https://github.com/raphink/rebel-base) - rebel-base (4 weeks ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 month ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (3 months ago)
@@ -36,11 +36,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
+- [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) ([v1.0.0-alpha.1](https://github.com/camptocamp/devops-stack-module-cert-manager/releases/tag/v1.0.0-alpha.1), today) - 
+- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v1.0.0-alpha.1](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v1.0.0-alpha.1), today) - A DevOps Stack module to deploy and configure Traefik
+- [camptocamp/devops-stack-module-keycloak](https://github.com/camptocamp/devops-stack-module-keycloak) ([v1.0.0-alpha.1](https://github.com/camptocamp/devops-stack-module-keycloak/releases/tag/v1.0.0-alpha.1), today) - A DevOps Stack module to deploy and configure Keycloak as an OIDC provider
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.10.17](https://github.com/cilium/cilium/releases/tag/v1.10.17), today) - eBPF-based Networking, Security, and Observability
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.60.2](https://github.com/camptocamp/devops-stack/releases/tag/v0.60.2), 2 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using Argo CD 🐙 and Terraform as base components
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.7](https://github.com/cilium/cilium-cli/releases/tag/v0.12.7), 4 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
-- [puppetlabs/puppetserver-helm-chart](https://github.com/puppetlabs/puppetserver-helm-chart) ([v6.8.0](https://github.com/puppetlabs/puppetserver-helm-chart/releases/tag/v6.8.0), 1 week ago) -  The Helm Chart for Puppet Server
-- [cilium/tetragon](https://github.com/cilium/tetragon) ([v0.8.3](https://github.com/cilium/tetragon/releases/tag/v0.8.3), 4 weeks ago) - eBPF-based Security Observability and Runtime Enforcement
 </details>
 
 <details>
