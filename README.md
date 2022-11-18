@@ -36,11 +36,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
+- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v1.0.0-alpha.1](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v1.0.0-alpha.1), today) - A DevOps Stack module to finalize ArgoCD
+- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v1.0.0-alpha.1](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v1.0.0-alpha.1), today) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
 - [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) ([v1.0.0-alpha.1](https://github.com/camptocamp/devops-stack-module-cert-manager/releases/tag/v1.0.0-alpha.1), today) - 
 - [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v1.0.0-alpha.1](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v1.0.0-alpha.1), today) - A DevOps Stack module to deploy and configure Traefik
 - [camptocamp/devops-stack-module-keycloak](https://github.com/camptocamp/devops-stack-module-keycloak) ([v1.0.0-alpha.1](https://github.com/camptocamp/devops-stack-module-keycloak/releases/tag/v1.0.0-alpha.1), today) - A DevOps Stack module to deploy and configure Keycloak as an OIDC provider
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.10.17](https://github.com/cilium/cilium/releases/tag/v1.10.17), today) - eBPF-based Networking, Security, and Observability
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.60.2](https://github.com/camptocamp/devops-stack/releases/tag/v0.60.2), 2 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using Argo CD 🐙 and Terraform as base components
 </details>
 
 <details>
