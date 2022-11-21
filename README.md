@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (2 days ago)
+- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (3 days ago)
 - [raphink/rebel-base](https://github.com/raphink/rebel-base) - rebel-base (1 month ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 month ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (3 months ago)
@@ -36,11 +36,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [camptocamp/devops-stack-module-minio](https://github.com/camptocamp/devops-stack-module-minio) ([v1.0.0-alpha.1](https://github.com/camptocamp/devops-stack-module-minio/releases/tag/v1.0.0-alpha.1), 2 days ago) - A DevOps Stack module to deploy and configure MinIO
-- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v1.0.0-alpha.1](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v1.0.0-alpha.1), 2 days ago) - A DevOps Stack module to deploy and configure Loki
-- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v1.0.0-alpha.1](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v1.0.0-alpha.1), 2 days ago) - A DevOps Stack module to finalize ArgoCD
-- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v1.0.0-alpha.1](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v1.0.0-alpha.1), 2 days ago) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
-- [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) ([v1.0.0-alpha.1](https://github.com/camptocamp/devops-stack-module-cert-manager/releases/tag/v1.0.0-alpha.1), 2 days ago) - 
+- [camptocamp/devops-stack-module-minio](https://github.com/camptocamp/devops-stack-module-minio) ([v1.0.0-alpha.1](https://github.com/camptocamp/devops-stack-module-minio/releases/tag/v1.0.0-alpha.1), 3 days ago) - A DevOps Stack module to deploy and configure MinIO
+- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v1.0.0-alpha.1](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v1.0.0-alpha.1), 3 days ago) - A DevOps Stack module to deploy and configure Loki
+- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v1.0.0-alpha.1](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v1.0.0-alpha.1), 3 days ago) - A DevOps Stack module to finalize ArgoCD
+- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v1.0.0-alpha.1](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v1.0.0-alpha.1), 3 days ago) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
+- [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) ([v1.0.0-alpha.1](https://github.com/camptocamp/devops-stack-module-cert-manager/releases/tag/v1.0.0-alpha.1), 3 days ago) - 
 </details>
 
 <details>
