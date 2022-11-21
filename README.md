@@ -36,11 +36,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.8](https://github.com/cilium/cilium-cli/releases/tag/v0.12.8), today) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [camptocamp/devops-stack-module-minio](https://github.com/camptocamp/devops-stack-module-minio) ([v1.0.0-alpha.1](https://github.com/camptocamp/devops-stack-module-minio/releases/tag/v1.0.0-alpha.1), 3 days ago) - A DevOps Stack module to deploy and configure MinIO
 - [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v1.0.0-alpha.1](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v1.0.0-alpha.1), 3 days ago) - A DevOps Stack module to deploy and configure Loki
 - [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v1.0.0-alpha.1](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v1.0.0-alpha.1), 3 days ago) - A DevOps Stack module to finalize ArgoCD
 - [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v1.0.0-alpha.1](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v1.0.0-alpha.1), 3 days ago) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
-- [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) ([v1.0.0-alpha.1](https://github.com/camptocamp/devops-stack-module-cert-manager/releases/tag/v1.0.0-alpha.1), 3 days ago) - 
 </details>
 
 <details>
