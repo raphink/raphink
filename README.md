@@ -16,8 +16,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (4 days ago)
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (4 days ago)
+- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (5 days ago)
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (5 days ago)
 - [raphink/rebel-base](https://github.com/raphink/rebel-base) - rebel-base (1 month ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 month ago)
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (3 months ago)
@@ -36,11 +36,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.8](https://github.com/cilium/cilium-cli/releases/tag/v0.12.8), 1 day ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
-- [camptocamp/devops-stack-module-minio](https://github.com/camptocamp/devops-stack-module-minio) ([v1.0.0-alpha.1](https://github.com/camptocamp/devops-stack-module-minio/releases/tag/v1.0.0-alpha.1), 4 days ago) - A DevOps Stack module to deploy and configure MinIO
-- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v1.0.0-alpha.1](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v1.0.0-alpha.1), 4 days ago) - A DevOps Stack module to deploy and configure Loki
-- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v1.0.0-alpha.1](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v1.0.0-alpha.1), 4 days ago) - A DevOps Stack module to finalize ArgoCD
-- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v1.0.0-alpha.1](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v1.0.0-alpha.1), 4 days ago) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.8](https://github.com/cilium/cilium-cli/releases/tag/v0.12.8), 2 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
+- [camptocamp/devops-stack-module-minio](https://github.com/camptocamp/devops-stack-module-minio) ([v1.0.0-alpha.1](https://github.com/camptocamp/devops-stack-module-minio/releases/tag/v1.0.0-alpha.1), 5 days ago) - A DevOps Stack module to deploy and configure MinIO
+- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v1.0.0-alpha.1](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v1.0.0-alpha.1), 5 days ago) - A DevOps Stack module to deploy and configure Loki
+- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v1.0.0-alpha.1](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v1.0.0-alpha.1), 5 days ago) - A DevOps Stack module to finalize ArgoCD
+- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v1.0.0-alpha.1](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v1.0.0-alpha.1), 5 days ago) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
 </details>
 
 <details>
