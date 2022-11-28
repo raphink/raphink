@@ -16,10 +16,10 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 week ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (today)
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (1 week ago)
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 week ago)
 - [raphink/rebel-base](https://github.com/raphink/rebel-base) - rebel-base (1 month ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 month ago)
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (3 months ago)
 </details>
 
