@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (today)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 day ago)
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (1 week ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 week ago)
 - [raphink/rebel-base](https://github.com/raphink/rebel-base) - rebel-base (1 month ago)
@@ -36,7 +36,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.9](https://github.com/cilium/cilium-cli/releases/tag/v0.12.9), 5 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.9](https://github.com/cilium/cilium-cli/releases/tag/v0.12.9), 6 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [camptocamp/devops-stack-module-minio](https://github.com/camptocamp/devops-stack-module-minio) ([v1.0.0-alpha.1](https://github.com/camptocamp/devops-stack-module-minio/releases/tag/v1.0.0-alpha.1), 1 week ago) - A DevOps Stack module to deploy and configure MinIO
 - [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v1.0.0-alpha.1](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v1.0.0-alpha.1), 1 week ago) - A DevOps Stack module to deploy and configure Loki
 - [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v1.0.0-alpha.1](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v1.0.0-alpha.1), 1 week ago) - A DevOps Stack module to finalize ArgoCD
