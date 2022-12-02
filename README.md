@@ -36,11 +36,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
+- [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) ([v1.0.0-alpha.2](https://github.com/camptocamp/devops-stack-module-cert-manager/releases/tag/v1.0.0-alpha.2), today) - 
+- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v1.0.0-alpha.2](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v1.0.0-alpha.2), today) - A DevOps Stack module to deploy and configure Traefik
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.11](https://github.com/cilium/cilium-cli/releases/tag/v0.12.11), 1 day ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.13.0-rc3](https://github.com/cilium/cilium/releases/tag/v1.13.0-rc3), 1 day ago) - eBPF-based Networking, Security, and Observability
 - [camptocamp/devops-stack-module-minio](https://github.com/camptocamp/devops-stack-module-minio) ([v1.0.0-alpha.1](https://github.com/camptocamp/devops-stack-module-minio/releases/tag/v1.0.0-alpha.1), 2 weeks ago) - A DevOps Stack module to deploy and configure MinIO
-- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v1.0.0-alpha.1](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v1.0.0-alpha.1), 2 weeks ago) - A DevOps Stack module to deploy and configure Loki
-- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v1.0.0-alpha.1](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v1.0.0-alpha.1), 2 weeks ago) - A DevOps Stack module to finalize ArgoCD
 </details>
 
 <details>
