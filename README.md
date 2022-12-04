@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (5 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (6 days ago)
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (2 weeks ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 weeks ago)
 - [raphink/rebel-base](https://github.com/raphink/rebel-base) - rebel-base (1 month ago)
@@ -36,11 +36,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) ([v1.3](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830/releases/tag/v1.3), 1 day ago) - Winner of the Swiss Game Award 2022 for Best Serious Game. Open-Source Historically accurate RPG based in 1830s Lausanne.
-- [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) ([v1.0.0-alpha.2](https://github.com/camptocamp/devops-stack-module-cert-manager/releases/tag/v1.0.0-alpha.2), 1 day ago) - 
-- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v1.0.0-alpha.2](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v1.0.0-alpha.2), 1 day ago) - A DevOps Stack module to deploy and configure Traefik
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.11](https://github.com/cilium/cilium-cli/releases/tag/v0.12.11), 2 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.13.0-rc3](https://github.com/cilium/cilium/releases/tag/v1.13.0-rc3), 2 days ago) - eBPF-based Networking, Security, and Observability
+- [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) ([v1.3](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830/releases/tag/v1.3), 2 days ago) - Winner of the Swiss Game Award 2022 for Best Serious Game. Open-Source Historically accurate RPG based in 1830s Lausanne.
+- [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) ([v1.0.0-alpha.2](https://github.com/camptocamp/devops-stack-module-cert-manager/releases/tag/v1.0.0-alpha.2), 2 days ago) - 
+- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v1.0.0-alpha.2](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v1.0.0-alpha.2), 2 days ago) - A DevOps Stack module to deploy and configure Traefik
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.11](https://github.com/cilium/cilium-cli/releases/tag/v0.12.11), 3 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.13.0-rc3](https://github.com/cilium/cilium/releases/tag/v1.13.0-rc3), 3 days ago) - eBPF-based Networking, Security, and Observability
 </details>
 
 <details>
