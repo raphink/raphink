@@ -36,11 +36,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
+- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v4.2.0](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v4.2.0), today) - Terraform provider for ArgoCD 
 - [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v1.0.0-alpha.2](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v1.0.0-alpha.2), 3 days ago) - A DevOps Stack module to deploy and configure Loki
 - [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v1.0.0-alpha.5](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v1.0.0-alpha.5), 3 days ago) - A DevOps Stack module to deploy and configure Traefik
 - [hercules-team/augeas](https://github.com/hercules-team/augeas) ([release-1.14.0](https://github.com/hercules-team/augeas/releases/tag/release-1.14.0), 5 days ago) - A configuration editing tool and API
 - [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) ([v1.3.1](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830/releases/tag/v1.3.1), 5 days ago) - Winner of the Swiss Game Award 2022 for Best Serious Game. Open-Source Historically accurate RPG based in 1830s Lausanne.
-- [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) ([v1.0.0-alpha.2](https://github.com/camptocamp/devops-stack-module-cert-manager/releases/tag/v1.0.0-alpha.2), 1 week ago) - 
 </details>
 
 <details>
