@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 week ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 weeks ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (3 weeks ago)
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (3 weeks ago)
 - [raphink/rebel-base](https://github.com/raphink/rebel-base) - rebel-base (1 month ago)
@@ -36,17 +36,17 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v1.0.0-alpha.2](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v1.0.0-alpha.2), 2 days ago) - A DevOps Stack module to deploy and configure Loki
-- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v1.0.0-alpha.5](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v1.0.0-alpha.5), 2 days ago) - A DevOps Stack module to deploy and configure Traefik
-- [hercules-team/augeas](https://github.com/hercules-team/augeas) ([release-1.14.0](https://github.com/hercules-team/augeas/releases/tag/release-1.14.0), 4 days ago) - A configuration editing tool and API
-- [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) ([v1.3.1](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830/releases/tag/v1.3.1), 4 days ago) - Winner of the Swiss Game Award 2022 for Best Serious Game. Open-Source Historically accurate RPG based in 1830s Lausanne.
+- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v1.0.0-alpha.2](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v1.0.0-alpha.2), 3 days ago) - A DevOps Stack module to deploy and configure Loki
+- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v1.0.0-alpha.5](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v1.0.0-alpha.5), 3 days ago) - A DevOps Stack module to deploy and configure Traefik
+- [hercules-team/augeas](https://github.com/hercules-team/augeas) ([release-1.14.0](https://github.com/hercules-team/augeas/releases/tag/release-1.14.0), 5 days ago) - A configuration editing tool and API
+- [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) ([v1.3.1](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830/releases/tag/v1.3.1), 5 days ago) - Winner of the Swiss Game Award 2022 for Best Serious Game. Open-Source Historically accurate RPG based in 1830s Lausanne.
 - [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) ([v1.0.0-alpha.2](https://github.com/camptocamp/devops-stack-module-cert-manager/releases/tag/v1.0.0-alpha.2), 1 week ago) - 
 </details>
 
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [feat(hubble): add L7 verdicts to hubble_policy_verdicts_total metric](https://github.com/cilium/cilium/pull/22622) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
+- [feat(hubble): add L7 verdicts to hubble_policy_verdicts_total metric](https://github.com/cilium/cilium/pull/22622) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
 </details>
 
 <details>
