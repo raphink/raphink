@@ -17,8 +17,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <summary>👷 What I'm currently working on</summary>
 
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 weeks ago)
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (3 weeks ago)
-- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (3 weeks ago)
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (4 weeks ago)
+- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (4 weeks ago)
 - [raphink/rebel-base](https://github.com/raphink/rebel-base) - rebel-base (1 month ago)
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (4 months ago)
 </details>
@@ -36,10 +36,10 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v1.0.0-alpha.6](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v1.0.0-alpha.6), today) - A DevOps Stack module to deploy and configure Traefik
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.61.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.61.0), 1 day ago) - 🌊 An all-in-one Kubernetes ☸ stack using Argo CD 🐙 and Terraform as base components
-- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v4.2.0](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v4.2.0), 3 days ago) - Terraform provider for ArgoCD 
-- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v1.0.0-alpha.2](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v1.0.0-alpha.2), 6 days ago) - A DevOps Stack module to deploy and configure Loki
+- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v1.0.0-alpha.6](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v1.0.0-alpha.6), 1 day ago) - A DevOps Stack module to deploy and configure Traefik
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.61.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.61.0), 2 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using Argo CD 🐙 and Terraform as base components
+- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v4.2.0](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v4.2.0), 4 days ago) - Terraform provider for ArgoCD 
+- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v1.0.0-alpha.2](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v1.0.0-alpha.2), 1 week ago) - A DevOps Stack module to deploy and configure Loki
 - [hercules-team/augeas](https://github.com/hercules-team/augeas) ([release-1.14.0](https://github.com/hercules-team/augeas/releases/tag/release-1.14.0), 1 week ago) - A configuration editing tool and API
 </details>
 
