@@ -36,11 +36,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
+- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v1.0.0-alpha.2](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v1.0.0-alpha.2), today) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.5](https://github.com/cilium/cilium/releases/tag/v1.12.5), 1 day ago) - eBPF-based Networking, Security, and Observability
 - [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v1.0.0-alpha.3](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v1.0.0-alpha.3), 1 day ago) - A DevOps Stack module to finalize Argo CD
 - [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v1.0.0-alpha.3](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v1.0.0-alpha.3), 5 days ago) - A DevOps Stack module to deploy and configure Loki
 - [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) ([v1.0.0-alpha.3](https://github.com/camptocamp/devops-stack-module-cert-manager/releases/tag/v1.0.0-alpha.3), 5 days ago) - 
-- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v1.0.0-alpha.6](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v1.0.0-alpha.6), 6 days ago) - A DevOps Stack module to deploy and configure Traefik
 </details>
 
 <details>
