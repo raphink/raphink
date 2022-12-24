@@ -46,7 +46,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [feat(hubble): add L7 verdicts to hubble_policy_verdicts_total metric](https://github.com/cilium/cilium/pull/22622) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 </details>
 
 <details>
