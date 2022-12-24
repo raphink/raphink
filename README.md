@@ -16,21 +16,21 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
+- [raphink/book-template](https://github.com/raphink/book-template) - book-template (today)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (3 weeks ago)
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (1 month ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 month ago)
 - [raphink/rebel-base](https://github.com/raphink/rebel-base) - rebel-base (2 months ago)
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (4 months ago)
 </details>
 
 <details>
 <summary>🌱 My latest personal projects</summary>
 
+- [raphink/book-template](https://github.com/raphink/book-template) - book-template
 - [raphink/rebel-base](https://github.com/raphink/rebel-base) - rebel-base
 - [raphink/localhost-run-proxy](https://github.com/raphink/localhost-run-proxy) - 
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) - 
 - [raphink/applicationsets-demo](https://github.com/raphink/applicationsets-demo) - 
-- [raphink/lettres_1870](https://github.com/raphink/lettres_1870) - ✉ Un site publiant une collection de lettres envoyées de Paris en 1870-1871
 </details>
 
 <details>
