@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/book-template](https://github.com/raphink/book-template) - book-template (today)
+- [raphink/book-template](https://github.com/raphink/book-template) - book-template (1 day ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (3 weeks ago)
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (1 month ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 month ago)
@@ -36,9 +36,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.13.0-rc4](https://github.com/cilium/cilium/releases/tag/v1.13.0-rc4), 1 day ago) - eBPF-based Networking, Security, and Observability
-- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v1.0.0-alpha.4](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v1.0.0-alpha.4), 3 days ago) - A DevOps Stack module to finalize Argo CD
-- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v1.0.0-alpha.2](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v1.0.0-alpha.2), 3 days ago) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.13.0-rc4](https://github.com/cilium/cilium/releases/tag/v1.13.0-rc4), 2 days ago) - eBPF-based Networking, Security, and Observability
+- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v1.0.0-alpha.4](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v1.0.0-alpha.4), 4 days ago) - A DevOps Stack module to finalize Argo CD
+- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v1.0.0-alpha.2](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v1.0.0-alpha.2), 4 days ago) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
 - [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v1.0.0-alpha.3](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v1.0.0-alpha.3), 1 week ago) - A DevOps Stack module to deploy and configure Loki
 - [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) ([v1.0.0-alpha.3](https://github.com/camptocamp/devops-stack-module-cert-manager/releases/tag/v1.0.0-alpha.3), 1 week ago) - 
 </details>
