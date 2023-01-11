@@ -36,11 +36,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
+- [cilium/hubble](https://github.com/cilium/hubble) ([v0.11.0](https://github.com/cilium/hubble/releases/tag/v0.11.0), today) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.12](https://github.com/cilium/cilium-cli/releases/tag/v0.12.12), today) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v1.0.0-alpha.3](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v1.0.0-alpha.3), 2 weeks ago) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.13.0-rc4](https://github.com/cilium/cilium/releases/tag/v1.13.0-rc4), 2 weeks ago) - eBPF-based Networking, Security, and Observability
 - [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v1.0.0-alpha.4](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v1.0.0-alpha.4), 3 weeks ago) - A DevOps Stack module to finalize Argo CD
-- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v1.0.0-alpha.3](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v1.0.0-alpha.3), 3 weeks ago) - A DevOps Stack module to deploy and configure Loki
 </details>
 
 <details>
