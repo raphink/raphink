@@ -16,8 +16,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (today)
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 day ago)
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (3 days ago)
 - [raphink/book-template](https://github.com/raphink/book-template) - book-template (2 weeks ago)
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (1 month ago)
 - [raphink/rebel-base](https://github.com/raphink/rebel-base) - rebel-base (2 months ago)
@@ -36,8 +36,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/hubble](https://github.com/cilium/hubble) ([v0.11.0](https://github.com/cilium/hubble/releases/tag/v0.11.0), today) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.12](https://github.com/cilium/cilium-cli/releases/tag/v0.12.12), today) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
+- [cilium/hubble](https://github.com/cilium/hubble) ([v0.11.0](https://github.com/cilium/hubble/releases/tag/v0.11.0), 1 day ago) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.12](https://github.com/cilium/cilium-cli/releases/tag/v0.12.12), 1 day ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v1.0.0-alpha.3](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v1.0.0-alpha.3), 2 weeks ago) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.13.0-rc4](https://github.com/cilium/cilium/releases/tag/v1.13.0-rc4), 2 weeks ago) - eBPF-based Networking, Security, and Observability
 - [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v1.0.0-alpha.4](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v1.0.0-alpha.4), 3 weeks ago) - A DevOps Stack module to finalize Argo CD
