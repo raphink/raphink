@@ -16,11 +16,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (today)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 day ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (3 days ago)
 - [raphink/book-template](https://github.com/raphink/book-template) - book-template (2 weeks ago)
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (1 month ago)
-- [raphink/rebel-base](https://github.com/raphink/rebel-base) - rebel-base (2 months ago)
 </details>
 
 <details>
@@ -46,6 +46,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
+- [Update cilium vendoring](https://github.com/cilium/cilium-cli/pull/1334) on [cilium/cilium-cli](https://github.com/cilium/cilium-cli) (today)
 </details>
 
 <details>
