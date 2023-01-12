@@ -46,6 +46,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
+- [Add Cilium Policy Verdicts Grafana dashboard](https://github.com/cilium/cilium/pull/23078) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [Update cilium vendoring](https://github.com/cilium/cilium-cli/pull/1334) on [cilium/cilium-cli](https://github.com/cilium/cilium-cli) (today)
 </details>
 
