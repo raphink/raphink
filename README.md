@@ -64,11 +64,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👥 My recent followers</summary>
 
+- [<img src="https://avatars.githubusercontent.com/u/46394426?u=df373aacf2f76afc776f474b4c9ce6aef1a13078&amp;v=4" height="20"/> wangxiang4](https://github.com/wangxiang4)
 - [<img src="https://avatars.githubusercontent.com/u/84658436?u=98396a061ffd27b3a0fc0885f4e4e9dca9487585&amp;v=4" height="20"/> ethanflower1903](https://github.com/ethanflower1903)
 - [<img src="https://avatars.githubusercontent.com/u/108342453?u=a402cbe672a9c600ffb8e044327e69e3ab4151ba&amp;v=4" height="20"/> catalyst002](https://github.com/catalyst002)
 - [<img src="https://avatars.githubusercontent.com/u/4243431?u=f527ec7f9dcd7e1bf20f2adaa667d43e8074c1d8&amp;v=4" height="20"/> Jyny](https://github.com/Jyny)
 - [<img src="https://avatars.githubusercontent.com/u/86061594?u=ff14619adc96eab3766c93d3c81687cc9fa86112&amp;v=4" height="20"/> obaranov1](https://github.com/obaranov1)
-- [<img src="https://avatars.githubusercontent.com/u/14153276?u=d51cc316b87c7e5ef4d2d4c7af6de9a55cc56840&amp;v=4" height="20"/> david-kariuki](https://github.com/david-kariuki)
 </details>
 
 
