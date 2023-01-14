@@ -16,9 +16,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (today)
 - [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) - Grafana dashboards for Cilium (1 day ago)
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (2 days ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (3 days ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (5 days ago)
 - [raphink/book-template](https://github.com/raphink/book-template) - book-template (3 weeks ago)
 </details>
