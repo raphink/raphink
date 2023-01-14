@@ -16,10 +16,10 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (1 day ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 days ago)
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (4 days ago)
-- [raphink/book-template](https://github.com/raphink/book-template) - book-template (2 weeks ago)
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (2 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (3 days ago)
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (5 days ago)
+- [raphink/book-template](https://github.com/raphink/book-template) - book-template (3 weeks ago)
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (1 month ago)
 </details>
 
@@ -36,8 +36,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/hubble](https://github.com/cilium/hubble) ([v0.11.0](https://github.com/cilium/hubble/releases/tag/v0.11.0), 2 days ago) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.12](https://github.com/cilium/cilium-cli/releases/tag/v0.12.12), 2 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
+- [cilium/hubble](https://github.com/cilium/hubble) ([v0.11.0](https://github.com/cilium/hubble/releases/tag/v0.11.0), 3 days ago) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.12](https://github.com/cilium/cilium-cli/releases/tag/v0.12.12), 3 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v1.0.0-alpha.3](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v1.0.0-alpha.3), 2 weeks ago) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.13.0-rc4](https://github.com/cilium/cilium/releases/tag/v1.13.0-rc4), 3 weeks ago) - eBPF-based Networking, Security, and Observability
 - [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v1.0.0-alpha.4](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v1.0.0-alpha.4), 3 weeks ago) - A DevOps Stack module to finalize Argo CD
@@ -46,8 +46,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Add Cilium Policy Verdicts Grafana dashboard](https://github.com/cilium/cilium/pull/23078) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
-- [Update cilium vendoring](https://github.com/cilium/cilium-cli/pull/1334) on [cilium/cilium-cli](https://github.com/cilium/cilium-cli) (1 day ago)
+- [Add Cilium Policy Verdicts Grafana dashboard](https://github.com/cilium/cilium/pull/23078) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
+- [Update cilium vendoring](https://github.com/cilium/cilium-cli/pull/1334) on [cilium/cilium-cli](https://github.com/cilium/cilium-cli) (2 days ago)
 </details>
 
 <details>
