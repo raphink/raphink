@@ -46,6 +46,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
+- [Use `app|workload-name|pod` instead of `pod-short`](https://github.com/isovalent/grafana-dashboards/pull/2) on [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) (today)
 - [Add policy verdicts dashboard](https://github.com/isovalent/grafana-dashboards/pull/1) on [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) (3 days ago)
 - [Add Cilium Policy Verdicts Grafana dashboard](https://github.com/cilium/cilium/pull/23078) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
 - [Update cilium vendoring](https://github.com/cilium/cilium-cli/pull/1334) on [cilium/cilium-cli](https://github.com/cilium/cilium-cli) (4 days ago)
