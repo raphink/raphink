@@ -16,8 +16,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (5 days ago)
-- [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) - Grafana dashboards for Cilium (6 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (6 days ago)
+- [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) - Grafana dashboards for Cilium (1 week ago)
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (1 week ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 week ago)
 - [raphink/book-template](https://github.com/raphink/book-template) - book-template (3 weeks ago)
@@ -39,15 +39,15 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 - [cilium/hubble](https://github.com/cilium/hubble) ([v0.11.0](https://github.com/cilium/hubble/releases/tag/v0.11.0), 1 week ago) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.12](https://github.com/cilium/cilium-cli/releases/tag/v0.12.12), 1 week ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v1.0.0-alpha.3](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v1.0.0-alpha.3), 3 weeks ago) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.13.0-rc4](https://github.com/cilium/cilium/releases/tag/v1.13.0-rc4), 3 weeks ago) - eBPF-based Networking, Security, and Observability
-- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v1.0.0-alpha.4](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v1.0.0-alpha.4), 4 weeks ago) - A DevOps Stack module to finalize Argo CD
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.13.0-rc4](https://github.com/cilium/cilium/releases/tag/v1.13.0-rc4), 4 weeks ago) - eBPF-based Networking, Security, and Observability
+- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v1.0.0-alpha.4](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v1.0.0-alpha.4), 1 month ago) - A DevOps Stack module to finalize Argo CD
 </details>
 
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Improve workload naming and add extra variables for filtering](https://github.com/isovalent/grafana-dashboards/pull/2) on [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) (3 days ago)
-- [Add policy verdicts dashboard](https://github.com/isovalent/grafana-dashboards/pull/1) on [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) (6 days ago)
+- [Improve workload naming and add extra variables for filtering](https://github.com/isovalent/grafana-dashboards/pull/2) on [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) (4 days ago)
+- [Add policy verdicts dashboard](https://github.com/isovalent/grafana-dashboards/pull/1) on [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) (1 week ago)
 - [Add Cilium Policy Verdicts Grafana dashboard](https://github.com/cilium/cilium/pull/23078) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [Update cilium vendoring](https://github.com/cilium/cilium-cli/pull/1334) on [cilium/cilium-cli](https://github.com/cilium/cilium-cli) (1 week ago)
 </details>
