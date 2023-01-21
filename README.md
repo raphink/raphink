@@ -16,11 +16,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (6 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 week ago)
 - [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) - Grafana dashboards for Cilium (1 week ago)
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (1 week ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 week ago)
-- [raphink/book-template](https://github.com/raphink/book-template) - book-template (3 weeks ago)
+- [raphink/book-template](https://github.com/raphink/book-template) - book-template (4 weeks ago)
 </details>
 
 <details>
@@ -36,7 +36,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v4.3.0](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v4.3.0), today) - Terraform provider for ArgoCD 
+- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v4.3.0](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v4.3.0), 1 day ago) - Terraform provider for ArgoCD 
 - [cilium/hubble](https://github.com/cilium/hubble) ([v0.11.0](https://github.com/cilium/hubble/releases/tag/v0.11.0), 1 week ago) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.12](https://github.com/cilium/cilium-cli/releases/tag/v0.12.12), 1 week ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v1.0.0-alpha.3](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v1.0.0-alpha.3), 3 weeks ago) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
@@ -46,7 +46,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Improve workload naming and add extra variables for filtering](https://github.com/isovalent/grafana-dashboards/pull/2) on [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) (4 days ago)
+- [Improve workload naming and add extra variables for filtering](https://github.com/isovalent/grafana-dashboards/pull/2) on [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) (5 days ago)
 - [Add policy verdicts dashboard](https://github.com/isovalent/grafana-dashboards/pull/1) on [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) (1 week ago)
 - [Add Cilium Policy Verdicts Grafana dashboard](https://github.com/cilium/cilium/pull/23078) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [Update cilium vendoring](https://github.com/cilium/cilium-cli/pull/1334) on [cilium/cilium-cli](https://github.com/cilium/cilium-cli) (1 week ago)
