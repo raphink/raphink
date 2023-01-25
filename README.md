@@ -48,7 +48,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 - [Improve workload naming and add extra variables for filtering](https://github.com/isovalent/grafana-dashboards/pull/2) on [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) (1 week ago)
 - [Add policy verdicts dashboard](https://github.com/isovalent/grafana-dashboards/pull/1) on [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) (1 week ago)
-- [Add Cilium Policy Verdicts Grafana dashboard](https://github.com/cilium/cilium/pull/23078) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 </details>
 
 <details>
