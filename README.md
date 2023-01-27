@@ -38,9 +38,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 - [cilium/hubble](https://github.com/cilium/hubble) ([v0.11.1](https://github.com/cilium/hubble/releases/tag/v0.11.1), 3 days ago) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.13.0-rc5](https://github.com/cilium/cilium/releases/tag/v1.13.0-rc5), 3 days ago) - eBPF-based Networking, Security, and Observability
-- [oboukili/terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) ([v4.3.0](https://github.com/oboukili/terraform-provider-argocd/releases/tag/v4.3.0), 1 week ago) - Terraform provider for ArgoCD 
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.12](https://github.com/cilium/cilium-cli/releases/tag/v0.12.12), 2 weeks ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v1.0.0-alpha.3](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v1.0.0-alpha.3), 1 month ago) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
+- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v1.0.0-alpha.4](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v1.0.0-alpha.4), 1 month ago) - A DevOps Stack module to finalize Argo CD
 </details>
 
 <details>
