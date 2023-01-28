@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 week ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 weeks ago)
 - [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) - Grafana dashboards for Cilium (2 weeks ago)
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (2 weeks ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 weeks ago)
@@ -36,8 +36,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.6](https://github.com/cilium/cilium/releases/tag/v1.12.6), today) - eBPF-based Networking, Security, and Observability
-- [cilium/hubble](https://github.com/cilium/hubble) ([v0.11.1](https://github.com/cilium/hubble/releases/tag/v0.11.1), 3 days ago) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.6](https://github.com/cilium/cilium/releases/tag/v1.12.6), 1 day ago) - eBPF-based Networking, Security, and Observability
+- [cilium/hubble](https://github.com/cilium/hubble) ([v0.11.1](https://github.com/cilium/hubble/releases/tag/v0.11.1), 4 days ago) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.12](https://github.com/cilium/cilium-cli/releases/tag/v0.12.12), 2 weeks ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v1.0.0-alpha.3](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v1.0.0-alpha.3), 1 month ago) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
 - [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v1.0.0-alpha.4](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v1.0.0-alpha.4), 1 month ago) - A DevOps Stack module to finalize Argo CD
