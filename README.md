@@ -47,7 +47,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
 - [Improve workload naming and add extra variables for filtering](https://github.com/isovalent/grafana-dashboards/pull/2) on [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) (2 weeks ago)
-- [Add policy verdicts dashboard](https://github.com/isovalent/grafana-dashboards/pull/1) on [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) (2 weeks ago)
 </details>
 
 <details>
