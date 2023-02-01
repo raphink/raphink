@@ -46,6 +46,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
+- [Add l3-only color](https://github.com/isovalent/grafana-dashboards/pull/4) on [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) (today)
 - [cilium-policy-verdicts-dashboard: refresh and sort variables](https://github.com/isovalent/grafana-dashboards/pull/3) on [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) (today)
 </details>
 
