@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) - Grafana dashboards for Cilium (2 days ago)
+- [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) - Grafana dashboards for Cilium (today)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 weeks ago)
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (2 weeks ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (3 weeks ago)
@@ -46,7 +46,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Improve workload naming and add extra variables for filtering](https://github.com/isovalent/grafana-dashboards/pull/2) on [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) (2 weeks ago)
+- [cilium-policy-verdicts-dashboard: refresh and sort variables](https://github.com/isovalent/grafana-dashboards/pull/3) on [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) (today)
 </details>
 
 <details>
