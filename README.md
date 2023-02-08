@@ -16,10 +16,10 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) - Grafana dashboards for Cilium (6 days ago)
+- [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) - Grafana dashboards for Cilium (1 week ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (3 weeks ago)
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (3 weeks ago)
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (4 weeks ago)
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 month ago)
 - [raphink/book-template](https://github.com/raphink/book-template) - book-template (1 month ago)
 </details>
 
@@ -36,9 +36,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v1.0.0-alpha.6](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v1.0.0-alpha.6), today) - A DevOps Stack module to finalize Argo CD
-- [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) ([v1.0.0-alpha.6](https://github.com/camptocamp/devops-stack-module-cert-manager/releases/tag/v1.0.0-alpha.6), 6 days ago) - 
-- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v1.0.0-alpha.7](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v1.0.0-alpha.7), 6 days ago) - A DevOps Stack module to deploy and configure Loki
+- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v1.0.0-alpha.6](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v1.0.0-alpha.6), 1 day ago) - A DevOps Stack module to finalize Argo CD
+- [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) ([v1.0.0-alpha.6](https://github.com/camptocamp/devops-stack-module-cert-manager/releases/tag/v1.0.0-alpha.6), 1 week ago) - 
+- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v1.0.0-alpha.7](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v1.0.0-alpha.7), 1 week ago) - A DevOps Stack module to deploy and configure Loki
 - [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v1.0.0-alpha.8](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v1.0.0-alpha.8), 1 week ago) - A DevOps Stack module to deploy and configure Traefik
 - [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) ([v1.4](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830/releases/tag/v1.4), 1 week ago) - Winner of the Swiss Game Award 2022 for Best Serious Game. Open-Source Historically accurate RPG based in 1830s Lausanne.
 </details>
@@ -46,8 +46,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Add l3-only color](https://github.com/isovalent/grafana-dashboards/pull/4) on [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) (6 days ago)
-- [cilium-policy-verdicts-dashboard: refresh and sort variables](https://github.com/isovalent/grafana-dashboards/pull/3) on [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) (6 days ago)
+- [Add l3-only color](https://github.com/isovalent/grafana-dashboards/pull/4) on [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) (1 week ago)
+- [cilium-policy-verdicts-dashboard: refresh and sort variables](https://github.com/isovalent/grafana-dashboards/pull/3) on [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) (1 week ago)
 </details>
 
 <details>
