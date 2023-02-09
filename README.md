@@ -36,11 +36,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v1.0.0-alpha.6](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v1.0.0-alpha.6), 2 days ago) - A DevOps Stack module to finalize Argo CD
 - [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) ([v1.0.0-alpha.6](https://github.com/camptocamp/devops-stack-module-cert-manager/releases/tag/v1.0.0-alpha.6), 1 week ago) - 
 - [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v1.0.0-alpha.8](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v1.0.0-alpha.8), 1 week ago) - A DevOps Stack module to deploy and configure Traefik
 - [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) ([v1.4](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830/releases/tag/v1.4), 1 week ago) - Winner of the Swiss Game Award 2022 for Best Serious Game. Open-Source Historically accurate RPG based in 1830s Lausanne.
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.6](https://github.com/cilium/cilium/releases/tag/v1.12.6), 1 week ago) - eBPF-based Networking, Security, and Observability
+- [cilium/hubble](https://github.com/cilium/hubble) ([v0.11.1](https://github.com/cilium/hubble/releases/tag/v0.11.1), 2 weeks ago) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF
 </details>
 
 <details>
