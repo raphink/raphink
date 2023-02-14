@@ -46,6 +46,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
+- [Remove / in RKE doc link as it causes redirect bug](https://github.com/cilium/cilium/pull/23728) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [Fix RKE doc link](https://github.com/cilium/cilium/pull/23706) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [Add l3-only color](https://github.com/isovalent/grafana-dashboards/pull/4) on [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) (1 week ago)
 - [cilium-policy-verdicts-dashboard: refresh and sort variables](https://github.com/isovalent/grafana-dashboards/pull/3) on [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) (1 week ago)
