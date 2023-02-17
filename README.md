@@ -16,8 +16,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 days ago)
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (6 days ago)
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (3 days ago)
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (1 week ago)
 - [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) - Grafana dashboards for Cilium (2 weeks ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 month ago)
 - [raphink/book-template](https://github.com/raphink/book-template) - book-template (1 month ago)
@@ -36,9 +36,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.13](https://github.com/cilium/cilium-cli/releases/tag/v0.12.13), 1 day ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.13.0](https://github.com/cilium/cilium/releases/tag/v1.13.0), 1 day ago) - eBPF-based Networking, Security, and Observability
-- [cilium/hubble](https://github.com/cilium/hubble) ([v0.11.2](https://github.com/cilium/hubble/releases/tag/v0.11.2), 1 day ago) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.12.13](https://github.com/cilium/cilium-cli/releases/tag/v0.12.13), 2 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.13.0](https://github.com/cilium/cilium/releases/tag/v1.13.0), 2 days ago) - eBPF-based Networking, Security, and Observability
+- [cilium/hubble](https://github.com/cilium/hubble) ([v0.11.2](https://github.com/cilium/hubble/releases/tag/v0.11.2), 2 days ago) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF
 - [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) ([v1.0.0-alpha.6](https://github.com/camptocamp/devops-stack-module-cert-manager/releases/tag/v1.0.0-alpha.6), 2 weeks ago) - 
 - [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) ([v1.4](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830/releases/tag/v1.4), 2 weeks ago) - Winner of the Swiss Game Award 2022 for Best Serious Game. Open-Source Historically accurate RPG based in 1830s Lausanne.
 </details>
@@ -46,8 +46,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Remove / in RKE doc link as it causes redirect bug](https://github.com/cilium/cilium/pull/23728) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
-- [Fix RKE doc link](https://github.com/cilium/cilium/pull/23706) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
+- [Remove / in RKE doc link as it causes redirect bug](https://github.com/cilium/cilium/pull/23728) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
+- [Fix RKE doc link](https://github.com/cilium/cilium/pull/23706) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
 </details>
 
 <details>
