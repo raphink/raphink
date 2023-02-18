@@ -63,11 +63,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👥 My recent followers</summary>
 
+- [<img src="https://avatars.githubusercontent.com/u/113218208?u=4c304cfb06f0ad89dee80bd5e857067702b10bbd&amp;v=4" height="20"/> Weldhappy](https://github.com/Weldhappy)
 - [<img src="https://avatars.githubusercontent.com/u/15344596?v=4" height="20"/> ycornamusaz](https://github.com/ycornamusaz)
 - [<img src="https://avatars.githubusercontent.com/u/13288092?u=7bb6203c91394b7b302eae7f44009cb19d540eae&amp;v=4" height="20"/> roytmanpiccoli](https://github.com/roytmanpiccoli)
 - [<img src="https://avatars.githubusercontent.com/u/80056481?u=ac9d5222e2d203ff514ddf5b8507d78b81b5d548&amp;v=4" height="20"/> quynhlab](https://github.com/quynhlab)
 - [<img src="https://avatars.githubusercontent.com/u/46394426?u=df373aacf2f76afc776f474b4c9ce6aef1a13078&amp;v=4" height="20"/> wangxiang4](https://github.com/wangxiang4)
-- [<img src="https://avatars.githubusercontent.com/u/84658436?u=98396a061ffd27b3a0fc0885f4e4e9dca9487585&amp;v=4" height="20"/> ethanflower1903](https://github.com/ethanflower1903)
 </details>
 
 
