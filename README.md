@@ -40,7 +40,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.14.0-snapshot.0](https://github.com/cilium/cilium/releases/tag/v1.14.0-snapshot.0), 1 day ago) - eBPF-based Networking, Security, and Observability
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.13.0](https://github.com/cilium/cilium-cli/releases/tag/v0.13.0), 6 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [cilium/hubble](https://github.com/cilium/hubble) ([v0.11.2](https://github.com/cilium/hubble/releases/tag/v0.11.2), 2 weeks ago) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF
-- [hercules-team/augeas](https://github.com/hercules-team/augeas) ([release-1.14.0](https://github.com/hercules-team/augeas/releases/tag/release-1.14.0), 2 months ago) - A configuration editing tool and API
+- [cilium/tetragon](https://github.com/cilium/tetragon) ([v0.8.3](https://github.com/cilium/tetragon/releases/tag/v0.8.3), 4 months ago) - eBPF-based Security Observability and Runtime Enforcement
 </details>
 
 <details>
