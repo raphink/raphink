@@ -16,10 +16,10 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/geneve_1564](https://github.com/raphink/geneve_1564) - LaTeX facsimile of a Bible de Genève, 1564 (1 week ago)
+- [raphink/geneve_1564](https://github.com/raphink/geneve_1564) - LaTeX facsimile of a Bible de Genève, 1564 (2 weeks ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 weeks ago)
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (2 weeks ago)
-- [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) - Grafana dashboards for Cilium (4 weeks ago)
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (3 weeks ago)
+- [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) - Grafana dashboards for Cilium (1 month ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 month ago)
 </details>
 
@@ -36,9 +36,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) ([v1.5](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830/releases/tag/v1.5), 1 day ago) - Winner of the Swiss Game Award 2022 for Best Serious Game. Open-Source Historically accurate RPG based in 1830s Lausanne.
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.14.0-snapshot.0](https://github.com/cilium/cilium/releases/tag/v1.14.0-snapshot.0), 1 day ago) - eBPF-based Networking, Security, and Observability
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.13.0](https://github.com/cilium/cilium-cli/releases/tag/v0.13.0), 6 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
+- [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) ([v1.5](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830/releases/tag/v1.5), 2 days ago) - Winner of the Swiss Game Award 2022 for Best Serious Game. Open-Source Historically accurate RPG based in 1830s Lausanne.
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.14.0-snapshot.0](https://github.com/cilium/cilium/releases/tag/v1.14.0-snapshot.0), 2 days ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.13.0](https://github.com/cilium/cilium-cli/releases/tag/v0.13.0), 1 week ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [cilium/hubble](https://github.com/cilium/hubble) ([v0.11.2](https://github.com/cilium/hubble/releases/tag/v0.11.2), 2 weeks ago) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF
 - [cilium/tetragon](https://github.com/cilium/tetragon) ([v0.8.3](https://github.com/cilium/tetragon/releases/tag/v0.8.3), 4 months ago) - eBPF-based Security Observability and Runtime Enforcement
 </details>
