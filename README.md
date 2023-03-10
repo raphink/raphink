@@ -46,6 +46,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
+- [Add IPAM modes comparison table](https://github.com/cilium/cilium/pull/24285) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 </details>
 
 <details>
