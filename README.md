@@ -62,11 +62,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👥 My recent followers</summary>
 
+- [<img src="https://avatars.githubusercontent.com/u/569574?u=b6f8f44b60657870b2afd38f4bb5756f4506b289&amp;v=4" height="20"/> daenney](https://github.com/daenney)
 - [<img src="https://avatars.githubusercontent.com/u/8177397?u=afd5f4bc785326b4ca04bd3140d931f34799ef91&amp;v=4" height="20"/> arn-ob](https://github.com/arn-ob)
 - [<img src="https://avatars.githubusercontent.com/u/66138784?u=a50df1d2b3e3c15712c5c98a074cc4b8573a42ac&amp;v=4" height="20"/> smorenburg](https://github.com/smorenburg)
 - [<img src="https://avatars.githubusercontent.com/u/26209571?u=63f3a16fbb0ae6d2a2ff59658bdb6ec65fd0342f&amp;v=4" height="20"/> PapiHack](https://github.com/PapiHack)
 - [<img src="https://avatars.githubusercontent.com/u/9934402?u=5d9370f25b297158a82f4767a2cedba20e36477e&amp;v=4" height="20"/> darox](https://github.com/darox)
-- [<img src="https://avatars.githubusercontent.com/u/794625?u=0a7e47af6f061a789f65b89cf8972978782bfaf8&amp;v=4" height="20"/> zeysh](https://github.com/zeysh)
 </details>
 
 
