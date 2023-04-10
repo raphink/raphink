@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) - Grafana dashboards for Cilium (3 days ago)
+- [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) - Grafana dashboards for Cilium (4 days ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 month ago)
 - [raphink/geneve_1564](https://github.com/raphink/geneve_1564) - LaTeX facsimile of a Bible de Genève, 1564 (1 month ago)
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (1 month ago)
@@ -36,8 +36,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/tetragon](https://github.com/cilium/tetragon) ([v0.9.0](https://github.com/cilium/tetragon/releases/tag/v0.9.0), 6 days ago) - eBPF-based Security Observability and Runtime Enforcement
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.14.0-snapshot.1](https://github.com/cilium/cilium/releases/tag/v1.14.0-snapshot.1), 6 days ago) - eBPF-based Networking, Security, and Observability
+- [cilium/tetragon](https://github.com/cilium/tetragon) ([v0.9.0](https://github.com/cilium/tetragon/releases/tag/v0.9.0), 1 week ago) - eBPF-based Security Observability and Runtime Enforcement
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.14.0-snapshot.1](https://github.com/cilium/cilium/releases/tag/v1.14.0-snapshot.1), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.13.2](https://github.com/cilium/cilium-cli/releases/tag/v0.13.2), 2 weeks ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [cilium/hubble](https://github.com/cilium/hubble) ([v0.11.3](https://github.com/cilium/hubble/releases/tag/v0.11.3), 3 weeks ago) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF
 - [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) ([v1.5](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830/releases/tag/v1.5), 1 month ago) - Winner of the Swiss Game Award 2022 for Best Serious Game. Open-Source Historically accurate RPG based in 1830s Lausanne.
@@ -46,7 +46,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Fix typo in docs](https://github.com/isovalent/grafana-dashboards/pull/5) on [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) (3 days ago)
+- [Fix typo in docs](https://github.com/isovalent/grafana-dashboards/pull/5) on [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) (4 days ago)
 </details>
 
 <details>
