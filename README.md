@@ -36,9 +36,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) ([v1.0.2](https://github.com/scraly/developers-conferences-agenda/releases/tag/v1.0.2), today) - This repository list a maximum of tech conferences&#39;s date and CFP in order to help conferences organizers, speakers &amp; attendees
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.14.0](https://github.com/cilium/cilium-cli/releases/tag/v0.14.0), today) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.11.16](https://github.com/cilium/cilium/releases/tag/v1.11.16), 6 days ago) - eBPF-based Networking, Security, and Observability
+- [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) ([v1.0.2](https://github.com/scraly/developers-conferences-agenda/releases/tag/v1.0.2), 1 day ago) - This repository list a maximum of tech conferences&#39;s date and CFP in order to help conferences organizers, speakers &amp; attendees
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.14.0](https://github.com/cilium/cilium-cli/releases/tag/v0.14.0), 1 day ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.11.16](https://github.com/cilium/cilium/releases/tag/v1.11.16), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [cilium/tetragon](https://github.com/cilium/tetragon) ([v0.9.0](https://github.com/cilium/tetragon/releases/tag/v0.9.0), 3 weeks ago) - eBPF-based Security Observability and Runtime Enforcement
 - [cilium/hubble](https://github.com/cilium/hubble) ([v0.11.3](https://github.com/cilium/hubble/releases/tag/v0.11.3), 1 month ago) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF
 </details>
