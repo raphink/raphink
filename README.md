@@ -16,11 +16,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (today)
 - [raphink/genesis-maxwell](https://github.com/raphink/genesis-maxwell) - And God said: y:hiy &#39;wor which means &lt;maxwell&#39;s equations&gt; … and there was light! (2 weeks ago)
 - [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) - Grafana dashboards for Cilium (3 weeks ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 month ago)
 - [raphink/geneve_1564](https://github.com/raphink/geneve_1564) - LaTeX facsimile of a Bible de Genève, 1564 (2 months ago)
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (2 months ago)
 </details>
 
 <details>
@@ -46,7 +46,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Fix typo in docs](https://github.com/isovalent/grafana-dashboards/pull/5) on [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) (3 weeks ago)
 </details>
 
 <details>
