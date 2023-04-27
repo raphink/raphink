@@ -17,7 +17,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <summary>👷 What I'm currently working on</summary>
 
 - [raphink/genesis-maxwell](https://github.com/raphink/genesis-maxwell) - And God said: y:hiy &#39;wor which means &lt;maxwell&#39;s equations&gt; … and there was light! (2 weeks ago)
-- [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) - Grafana dashboards for Cilium (2 weeks ago)
+- [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) - Grafana dashboards for Cilium (3 weeks ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 month ago)
 - [raphink/geneve_1564](https://github.com/raphink/geneve_1564) - LaTeX facsimile of a Bible de Genève, 1564 (2 months ago)
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (2 months ago)
@@ -36,9 +36,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/hubble](https://github.com/cilium/hubble) ([v0.11.4](https://github.com/cilium/hubble/releases/tag/v0.11.4), 1 day ago) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF
-- [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) ([v1.0.2](https://github.com/scraly/developers-conferences-agenda/releases/tag/v1.0.2), 2 days ago) - This repository list a maximum of tech conferences&#39;s date and CFP in order to help conferences organizers, speakers &amp; attendees
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.14.0](https://github.com/cilium/cilium-cli/releases/tag/v0.14.0), 2 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
+- [cilium/hubble](https://github.com/cilium/hubble) ([v0.11.4](https://github.com/cilium/hubble/releases/tag/v0.11.4), 2 days ago) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF
+- [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) ([v1.0.2](https://github.com/scraly/developers-conferences-agenda/releases/tag/v1.0.2), 3 days ago) - This repository list a maximum of tech conferences&#39;s date and CFP in order to help conferences organizers, speakers &amp; attendees
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.14.0](https://github.com/cilium/cilium-cli/releases/tag/v0.14.0), 3 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.11.16](https://github.com/cilium/cilium/releases/tag/v1.11.16), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [cilium/tetragon](https://github.com/cilium/tetragon) ([v0.9.0](https://github.com/cilium/tetragon/releases/tag/v0.9.0), 3 weeks ago) - eBPF-based Security Observability and Runtime Enforcement
 </details>
@@ -46,7 +46,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Fix typo in docs](https://github.com/isovalent/grafana-dashboards/pull/5) on [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) (2 weeks ago)
+- [Fix typo in docs](https://github.com/isovalent/grafana-dashboards/pull/5) on [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) (3 weeks ago)
 </details>
 
 <details>
