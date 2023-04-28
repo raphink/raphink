@@ -36,10 +36,10 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.14.0-snapshot.2](https://github.com/cilium/cilium/releases/tag/v1.14.0-snapshot.2), today) - eBPF-based Networking, Security, and Observability
 - [cilium/hubble](https://github.com/cilium/hubble) ([v0.11.4](https://github.com/cilium/hubble/releases/tag/v0.11.4), 3 days ago) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF
 - [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) ([v1.0.2](https://github.com/scraly/developers-conferences-agenda/releases/tag/v1.0.2), 4 days ago) - This repository list a maximum of tech conferences&#39;s date and CFP in order to help conferences organizers, speakers &amp; attendees
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.14.0](https://github.com/cilium/cilium-cli/releases/tag/v0.14.0), 4 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.11.16](https://github.com/cilium/cilium/releases/tag/v1.11.16), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [cilium/tetragon](https://github.com/cilium/tetragon) ([v0.9.0](https://github.com/cilium/tetragon/releases/tag/v0.9.0), 3 weeks ago) - eBPF-based Security Observability and Runtime Enforcement
 </details>
 
