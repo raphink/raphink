@@ -61,11 +61,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👥 My recent followers</summary>
 
+- [<img src="https://avatars.githubusercontent.com/u/80087186?u=0cec01a1f84df15839f6e2f545b2e7013bfcfe93&amp;v=4" height="20"/> pymhq](https://github.com/pymhq)
 - [<img src="https://avatars.githubusercontent.com/u/56606926?u=d403d9d17d2577ca2b7325e44a918bcaefdfba01&amp;v=4" height="20"/> JoostScheffer](https://github.com/JoostScheffer)
 - [<img src="https://avatars.githubusercontent.com/u/3688186?u=512cc185593bde6b4a4f3ee02f09ccd66447c095&amp;v=4" height="20"/> bench](https://github.com/bench)
 - [<img src="https://avatars.githubusercontent.com/u/569574?u=b6f8f44b60657870b2afd38f4bb5756f4506b289&amp;v=4" height="20"/> daenney](https://github.com/daenney)
 - [<img src="https://avatars.githubusercontent.com/u/8177397?u=afd5f4bc785326b4ca04bd3140d931f34799ef91&amp;v=4" height="20"/> arn-ob](https://github.com/arn-ob)
-- [<img src="https://avatars.githubusercontent.com/u/26209571?u=63f3a16fbb0ae6d2a2ff59658bdb6ec65fd0342f&amp;v=4" height="20"/> PapiHack](https://github.com/PapiHack)
 </details>
 
 
