@@ -36,8 +36,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.14.2](https://github.com/cilium/cilium-cli/releases/tag/v0.14.2), 4 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
-- [cilium/hubble](https://github.com/cilium/hubble) ([v0.11.5](https://github.com/cilium/hubble/releases/tag/v0.11.5), 4 days ago) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.14.2](https://github.com/cilium/cilium-cli/releases/tag/v0.14.2), 5 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
+- [cilium/hubble](https://github.com/cilium/hubble) ([v0.11.5](https://github.com/cilium/hubble/releases/tag/v0.11.5), 5 days ago) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.14.0-snapshot.2](https://github.com/cilium/cilium/releases/tag/v1.14.0-snapshot.2), 2 weeks ago) - eBPF-based Networking, Security, and Observability
 - [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) ([v1.0.2](https://github.com/scraly/developers-conferences-agenda/releases/tag/v1.0.2), 2 weeks ago) - This repository list a maximum of tech conferences&#39;s date and CFP in order to help conferences organizers, speakers &amp; attendees
 - [cilium/tetragon](https://github.com/cilium/tetragon) ([v0.9.0](https://github.com/cilium/tetragon/releases/tag/v0.9.0), 1 month ago) - eBPF-based Security Observability and Runtime Enforcement
