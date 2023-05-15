@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 week ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 weeks ago)
 - [raphink/genesis-maxwell](https://github.com/raphink/genesis-maxwell) - And God said: y:hiy &#39;wor which means &lt;maxwell&#39;s equations&gt; … and there was light! (1 month ago)
 - [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) - Grafana dashboards for Cilium (1 month ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 months ago)
@@ -36,10 +36,10 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.14.2](https://github.com/cilium/cilium-cli/releases/tag/v0.14.2), 6 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
-- [cilium/hubble](https://github.com/cilium/hubble) ([v0.11.5](https://github.com/cilium/hubble/releases/tag/v0.11.5), 6 days ago) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.14.2](https://github.com/cilium/cilium-cli/releases/tag/v0.14.2), 1 week ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
+- [cilium/hubble](https://github.com/cilium/hubble) ([v0.11.5](https://github.com/cilium/hubble/releases/tag/v0.11.5), 1 week ago) - Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.14.0-snapshot.2](https://github.com/cilium/cilium/releases/tag/v1.14.0-snapshot.2), 2 weeks ago) - eBPF-based Networking, Security, and Observability
-- [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) ([v1.0.2](https://github.com/scraly/developers-conferences-agenda/releases/tag/v1.0.2), 2 weeks ago) - This repository list a maximum of tech conferences&#39;s date and CFP in order to help conferences organizers, speakers &amp; attendees
+- [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) ([v1.0.2](https://github.com/scraly/developers-conferences-agenda/releases/tag/v1.0.2), 3 weeks ago) - This repository list a maximum of tech conferences&#39;s date and CFP in order to help conferences organizers, speakers &amp; attendees
 - [cilium/tetragon](https://github.com/cilium/tetragon) ([v0.9.0](https://github.com/cilium/tetragon/releases/tag/v0.9.0), 1 month ago) - eBPF-based Security Observability and Runtime Enforcement
 </details>
 
@@ -61,11 +61,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👥 My recent followers</summary>
 
+- [<img src="https://avatars.githubusercontent.com/u/63834639?u=f8a9ce918b353ebc36ab76a4bf961fc1395dd95b&amp;v=4" height="20"/> zhiwei-w-luo](https://github.com/zhiwei-w-luo)
 - [<img src="https://avatars.githubusercontent.com/u/80087186?u=0cec01a1f84df15839f6e2f545b2e7013bfcfe93&amp;v=4" height="20"/> pymhq](https://github.com/pymhq)
 - [<img src="https://avatars.githubusercontent.com/u/56606926?u=d403d9d17d2577ca2b7325e44a918bcaefdfba01&amp;v=4" height="20"/> JoostScheffer](https://github.com/JoostScheffer)
 - [<img src="https://avatars.githubusercontent.com/u/3688186?u=512cc185593bde6b4a4f3ee02f09ccd66447c095&amp;v=4" height="20"/> bench](https://github.com/bench)
 - [<img src="https://avatars.githubusercontent.com/u/569574?u=b6f8f44b60657870b2afd38f4bb5756f4506b289&amp;v=4" height="20"/> daenney](https://github.com/daenney)
-- [<img src="https://avatars.githubusercontent.com/u/8177397?u=afd5f4bc785326b4ca04bd3140d931f34799ef91&amp;v=4" height="20"/> arn-ob](https://github.com/arn-ob)
 </details>
 
 
