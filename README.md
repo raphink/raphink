@@ -60,11 +60,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👥 My recent followers</summary>
 
+- [<img src="https://avatars.githubusercontent.com/u/132164671?u=27d3c29f58a5bda478263d77235f18ade12751bb&amp;v=4" height="20"/> rainymind](https://github.com/rainymind)
 - [<img src="https://avatars.githubusercontent.com/u/126900706?u=443b89510cea70b190187064e877f0e20b51032b&amp;v=4" height="20"/> joselong-dev](https://github.com/joselong-dev)
 - [<img src="https://avatars.githubusercontent.com/u/63834639?u=f8a9ce918b353ebc36ab76a4bf961fc1395dd95b&amp;v=4" height="20"/> zhiwei-w-luo](https://github.com/zhiwei-w-luo)
 - [<img src="https://avatars.githubusercontent.com/u/80087186?u=0cec01a1f84df15839f6e2f545b2e7013bfcfe93&amp;v=4" height="20"/> pymhq](https://github.com/pymhq)
 - [<img src="https://avatars.githubusercontent.com/u/56606926?u=d403d9d17d2577ca2b7325e44a918bcaefdfba01&amp;v=4" height="20"/> JoostScheffer](https://github.com/JoostScheffer)
-- [<img src="https://avatars.githubusercontent.com/u/3688186?u=512cc185593bde6b4a4f3ee02f09ccd66447c095&amp;v=4" height="20"/> bench](https://github.com/bench)
 </details>
 
 
