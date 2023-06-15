@@ -36,8 +36,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.11.18](https://github.com/cilium/cilium/releases/tag/v1.11.18), today) - eBPF-based Networking, Security, and Observability
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.14.7](https://github.com/cilium/cilium-cli/releases/tag/v0.14.7), 1 day ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.14.0-snapshot.3](https://github.com/cilium/cilium/releases/tag/v1.14.0-snapshot.3), 2 weeks ago) - eBPF-based Networking, Security, and Observability
 - [GameLab-UNIL-EPFL/Lausanne-1830](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830) ([v1.5](https://github.com/GameLab-UNIL-EPFL/Lausanne-1830/releases/tag/v1.5), 3 months ago) - Winner of the Swiss Game Award 2022 for Best Serious Game. Open-Source Historically accurate RPG based in 1830s Lausanne.
 - [raphink/geneve_1564](https://github.com/raphink/geneve_1564) ([2016-06-08_02](https://github.com/raphink/geneve_1564/releases/tag/2016-06-08_02), 7 years ago) - LaTeX facsimile of a Bible de Genève, 1564
 </details>
