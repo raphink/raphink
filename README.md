@@ -44,7 +44,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Add Grafana icons](https://github.com/cilium/hubble-ui/pull/559) on [cilium/hubble-ui](https://github.com/cilium/hubble-ui) (2 weeks ago)
 </details>
 
 <details>
