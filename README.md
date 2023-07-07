@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (today)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 day ago)
 - [raphink/js-test](https://github.com/raphink/js-test) -  (1 week ago)
 - [raphink/genesis-maxwell](https://github.com/raphink/genesis-maxwell) - And God said: y:hiy &#39;wor which means &lt;maxwell&#39;s equations&gt; … and there was light! (2 months ago)
 - [isovalent/grafana-dashboards](https://github.com/isovalent/grafana-dashboards) - Grafana dashboards for Cilium (3 months ago)
@@ -59,11 +59,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👥 My recent followers</summary>
 
+- [<img src="https://avatars.githubusercontent.com/u/22461547?u=958cd0caad5c0e339331a8fa194e8eccab71e669&amp;v=4" height="20"/> CharlesDerek](https://github.com/CharlesDerek)
 - [<img src="https://avatars.githubusercontent.com/u/5094338?u=e5964702fe2d8a4bf41682387897987ecc40e5b8&amp;v=4" height="20"/> lmcdonough](https://github.com/lmcdonough)
 - [<img src="https://avatars.githubusercontent.com/u/26167974?u=f24d06b18eff9bb2c23e54c240dfb03fe32c4673&amp;v=4" height="20"/> shivanshu1333](https://github.com/shivanshu1333)
 - [<img src="https://avatars.githubusercontent.com/u/63834639?u=f8a9ce918b353ebc36ab76a4bf961fc1395dd95b&amp;v=4" height="20"/> zhiwei-w-luo](https://github.com/zhiwei-w-luo)
 - [<img src="https://avatars.githubusercontent.com/u/80087186?u=0cec01a1f84df15839f6e2f545b2e7013bfcfe93&amp;v=4" height="20"/> pymhq](https://github.com/pymhq)
-- [<img src="https://avatars.githubusercontent.com/u/56606926?u=d403d9d17d2577ca2b7325e44a918bcaefdfba01&amp;v=4" height="20"/> JoostScheffer](https://github.com/JoostScheffer)
 </details>
 
 
