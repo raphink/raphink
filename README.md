@@ -60,10 +60,10 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <summary>👥 My recent followers</summary>
 
 - [<img src="https://avatars.githubusercontent.com/u/138230394?u=6dc80e5c54a68e2929894199259ee2da79c74c2b&amp;v=4" height="20"/> WyllAnalytics](https://github.com/WyllAnalytics)
-- [<img src="https://avatars.githubusercontent.com/u/139709340?v=4" height="20"/> willemini](https://github.com/willemini)
 - [<img src="https://avatars.githubusercontent.com/u/16065551?u=1eee84a952e493cbce9313d86b1fc4391b720b3d&amp;v=4" height="20"/> Dhivin](https://github.com/Dhivin)
 - [<img src="https://avatars.githubusercontent.com/u/22461547?u=958cd0caad5c0e339331a8fa194e8eccab71e669&amp;v=4" height="20"/> CharlesDerek](https://github.com/CharlesDerek)
 - [<img src="https://avatars.githubusercontent.com/u/5094338?u=e5964702fe2d8a4bf41682387897987ecc40e5b8&amp;v=4" height="20"/> lmcdonough](https://github.com/lmcdonough)
+- [<img src="https://avatars.githubusercontent.com/u/26167974?u=f24d06b18eff9bb2c23e54c240dfb03fe32c4673&amp;v=4" height="20"/> shivanshu1333](https://github.com/shivanshu1333)
 </details>
 
 
