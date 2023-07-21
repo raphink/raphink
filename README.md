@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (3 days ago)
+- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (4 days ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 weeks ago)
 - [raphink/js-test](https://github.com/raphink/js-test) -  (3 weeks ago)
 - [raphink/genesis-maxwell](https://github.com/raphink/genesis-maxwell) - And God said: y:hiy &#39;wor which means &lt;maxwell&#39;s equations&gt; … and there was light! (3 months ago)
@@ -36,8 +36,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.15.3](https://github.com/cilium/cilium-cli/releases/tag/v0.15.3), 3 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.14.0-rc.1](https://github.com/cilium/cilium/releases/tag/v1.14.0-rc.1), 3 days ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.15.3](https://github.com/cilium/cilium-cli/releases/tag/v0.15.3), 4 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.14.0-rc.1](https://github.com/cilium/cilium/releases/tag/v1.14.0-rc.1), 4 days ago) - eBPF-based Networking, Security, and Observability
 - [raphink/geneve_1564](https://github.com/raphink/geneve_1564) ([2016-06-08_02](https://github.com/raphink/geneve_1564/releases/tag/2016-06-08_02), 7 years ago) - LaTeX facsimile of a Bible de Genève, 1564
 </details>
 
