@@ -36,9 +36,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
+- [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.12.0](https://github.com/cilium/hubble-ui/releases/tag/v0.12.0), today) - Observability &amp; Troubleshooting for Kubernetes Services
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.15.4](https://github.com/cilium/cilium-cli/releases/tag/v0.15.4), 3 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.14.0-rc.1](https://github.com/cilium/cilium/releases/tag/v1.14.0-rc.1), 1 week ago) - eBPF-based Networking, Security, and Observability
-- [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.11.0](https://github.com/cilium/hubble-ui/releases/tag/v0.11.0), 4 months ago) - Observability &amp; Troubleshooting for Kubernetes Services
 - [raphink/geneve_1564](https://github.com/raphink/geneve_1564) ([2016-06-08_02](https://github.com/raphink/geneve_1564/releases/tag/2016-06-08_02), 7 years ago) - LaTeX facsimile of a Bible de Genève, 1564
 </details>
 
