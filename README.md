@@ -36,8 +36,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.14.0](https://github.com/cilium/cilium/releases/tag/v1.14.0), 2 days ago) - eBPF-based Networking, Security, and Observability
-- [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.12.0](https://github.com/cilium/hubble-ui/releases/tag/v0.12.0), 5 days ago) - Observability &amp; Troubleshooting for Kubernetes Services
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.14.0](https://github.com/cilium/cilium/releases/tag/v1.14.0), 3 days ago) - eBPF-based Networking, Security, and Observability
+- [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.12.0](https://github.com/cilium/hubble-ui/releases/tag/v0.12.0), 6 days ago) - Observability &amp; Troubleshooting for Kubernetes Services
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.15.4](https://github.com/cilium/cilium-cli/releases/tag/v0.15.4), 1 week ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [raphink/geneve_1564](https://github.com/raphink/geneve_1564) ([2016-06-08_02](https://github.com/raphink/geneve_1564/releases/tag/2016-06-08_02), 7 years ago) - LaTeX facsimile of a Bible de Genève, 1564
 </details>
@@ -60,7 +60,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👥 My recent followers</summary>
 
-- [<img src="https://avatars.githubusercontent.com/u/138230394?u=6dc80e5c54a68e2929894199259ee2da79c74c2b&amp;v=4" height="20"/> WyllAnalytics](https://github.com/WyllAnalytics)
+- [<img src="https://avatars.githubusercontent.com/u/138230394?u=6dc80e5c54a68e2929894199259ee2da79c74c2b&amp;v=4" height="20"/> WyllTech](https://github.com/WyllTech)
 - [<img src="https://avatars.githubusercontent.com/u/16065551?u=1eee84a952e493cbce9313d86b1fc4391b720b3d&amp;v=4" height="20"/> Dhivin](https://github.com/Dhivin)
 - [<img src="https://avatars.githubusercontent.com/u/5094338?u=e5964702fe2d8a4bf41682387897987ecc40e5b8&amp;v=4" height="20"/> lmcdonough](https://github.com/lmcdonough)
 - [<img src="https://avatars.githubusercontent.com/u/26167974?u=f24d06b18eff9bb2c23e54c240dfb03fe32c4673&amp;v=4" height="20"/> shivanshu1333](https://github.com/shivanshu1333)
