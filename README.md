@@ -17,7 +17,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <summary>👷 What I'm currently working on</summary>
 
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 weeks ago)
-- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (2 weeks ago)
+- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (3 weeks ago)
 - [raphink/js-test](https://github.com/raphink/js-test) -  (1 month ago)
 - [cilium/hubble-ui](https://github.com/cilium/hubble-ui) - Observability &amp; Troubleshooting for Kubernetes Services (1 month ago)
 - [raphink/genesis-maxwell](https://github.com/raphink/genesis-maxwell) - And God said: y:hiy &#39;wor which means &lt;maxwell&#39;s equations&gt; … and there was light! (3 months ago)
@@ -36,9 +36,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.15.5](https://github.com/cilium/cilium-cli/releases/tag/v0.15.5), 4 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.15.5](https://github.com/cilium/cilium-cli/releases/tag/v0.15.5), 5 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.14.0](https://github.com/cilium/cilium/releases/tag/v1.14.0), 1 week ago) - eBPF-based Networking, Security, and Observability
-- [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.12.0](https://github.com/cilium/hubble-ui/releases/tag/v0.12.0), 1 week ago) - Observability &amp; Troubleshooting for Kubernetes Services
+- [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.12.0](https://github.com/cilium/hubble-ui/releases/tag/v0.12.0), 2 weeks ago) - Observability &amp; Troubleshooting for Kubernetes Services
 - [raphink/geneve_1564](https://github.com/raphink/geneve_1564) ([2016-06-08_02](https://github.com/raphink/geneve_1564/releases/tag/2016-06-08_02), 7 years ago) - LaTeX facsimile of a Bible de Genève, 1564
 </details>
 
