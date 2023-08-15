@@ -16,8 +16,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (4 days ago)
-- [isovalent/ebeedex](https://github.com/isovalent/ebeedex) - Find your favorite eBee (4 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (5 days ago)
+- [isovalent/ebeedex](https://github.com/isovalent/ebeedex) - Find your favorite eBee (5 days ago)
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (4 weeks ago)
 - [raphink/js-test](https://github.com/raphink/js-test) -  (1 month ago)
 - [cilium/hubble-ui](https://github.com/cilium/hubble-ui) - Observability &amp; Troubleshooting for Kubernetes Services (2 months ago)
