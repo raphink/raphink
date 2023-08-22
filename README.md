@@ -63,7 +63,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 - [<img src="https://avatars.githubusercontent.com/u/115634315?u=ac70df94262abb5db4425b600d597040a4656d04&amp;v=4" height="20"/> isyuricunha](https://github.com/isyuricunha)
 - [<img src="https://avatars.githubusercontent.com/u/115921235?v=4" height="20"/> Mohamed988o](https://github.com/Mohamed988o)
 - [<img src="https://avatars.githubusercontent.com/u/141803378?u=dfb31a876a777ba16d89f03cadc18633bf0b3dfd&amp;v=4" height="20"/> thor-alloy](https://github.com/thor-alloy)
-- [<img src="https://avatars.githubusercontent.com/u/138230394?u=6dc80e5c54a68e2929894199259ee2da79c74c2b&amp;v=4" height="20"/> WyllTech](https://github.com/WyllTech)
+- [<img src="https://avatars.githubusercontent.com/u/138230394?u=992368859fc7dcec49f0f2475aa33639fdc2cb52&amp;v=4" height="20"/> WyllTech](https://github.com/WyllTech)
 - [<img src="https://avatars.githubusercontent.com/u/16065551?u=1eee84a952e493cbce9313d86b1fc4391b720b3d&amp;v=4" height="20"/> Dhivin](https://github.com/Dhivin)
 </details>
 
