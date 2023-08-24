@@ -60,11 +60,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👥 My recent followers</summary>
 
-- [<img src="https://avatars.githubusercontent.com/u/115634315?u=ac70df94262abb5db4425b600d597040a4656d04&amp;v=4" height="20"/> isyuricunha](https://github.com/isyuricunha)
 - [<img src="https://avatars.githubusercontent.com/u/115921235?v=4" height="20"/> Mohamed988o](https://github.com/Mohamed988o)
 - [<img src="https://avatars.githubusercontent.com/u/141803378?u=dfb31a876a777ba16d89f03cadc18633bf0b3dfd&amp;v=4" height="20"/> thor-alloy](https://github.com/thor-alloy)
 - [<img src="https://avatars.githubusercontent.com/u/138230394?u=992368859fc7dcec49f0f2475aa33639fdc2cb52&amp;v=4" height="20"/> WyllTech](https://github.com/WyllTech)
 - [<img src="https://avatars.githubusercontent.com/u/16065551?u=1eee84a952e493cbce9313d86b1fc4391b720b3d&amp;v=4" height="20"/> Dhivin](https://github.com/Dhivin)
+- [<img src="https://avatars.githubusercontent.com/u/5094338?u=e5964702fe2d8a4bf41682387897987ecc40e5b8&amp;v=4" height="20"/> lmcdonough](https://github.com/lmcdonough)
 </details>
 
 
