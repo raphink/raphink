@@ -16,11 +16,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 weeks ago)
-- [isovalent/ebeedex](https://github.com/isovalent/ebeedex) - Find your favorite eBee (2 weeks ago)
-- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (1 month ago)
-- [raphink/js-test](https://github.com/raphink/js-test) -  (2 months ago)
-- [cilium/hubble-ui](https://github.com/cilium/hubble-ui) - Observability &amp; Troubleshooting for Kubernetes Services (2 months ago)
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 week ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 week ago)
+- [isovalent/ebeedex](https://github.com/isovalent/ebeedex) - Find your favorite eBee (2 months ago)
+- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (2 months ago)
+- [raphink/js-test](https://github.com/raphink/js-test) -  (3 months ago)
 </details>
 
 <details>
@@ -36,15 +36,16 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.15.6](https://github.com/cilium/cilium-cli/releases/tag/v0.15.6), 1 week ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.14.1](https://github.com/cilium/cilium/releases/tag/v1.14.1), 2 weeks ago) - eBPF-based Networking, Security, and Observability
-- [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.12.0](https://github.com/cilium/hubble-ui/releases/tag/v0.12.0), 1 month ago) - Observability &amp; Troubleshooting for Kubernetes Services
+- [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.12.1](https://github.com/cilium/hubble-ui/releases/tag/v0.12.1), 1 day ago) - Observability &amp; Troubleshooting for Kubernetes Services
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.15.10](https://github.com/cilium/cilium-cli/releases/tag/v0.15.10), 5 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.0-pre.1](https://github.com/cilium/cilium/releases/tag/v1.15.0-pre.1), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [raphink/geneve_1564](https://github.com/raphink/geneve_1564) ([2016-06-08_02](https://github.com/raphink/geneve_1564/releases/tag/2016-06-08_02), 7 years ago) - LaTeX facsimile of a Bible de Genève, 1564
 </details>
 
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
+- [Update docs theme](https://github.com/cilium/cilium/pull/28403) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 </details>
 
 <details>
@@ -60,11 +61,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👥 My recent followers</summary>
 
+- [<img src="https://avatars.githubusercontent.com/u/118750525?u=588ffcf7212e3e560dad019bff8a65b991b9d723&amp;v=4" height="20"/> kehoecj](https://github.com/kehoecj)
+- [<img src="https://avatars.githubusercontent.com/u/12858321?u=3761796c0b2b391abb97b4439098e8b898d13dfc&amp;v=4" height="20"/> pvavrina](https://github.com/pvavrina)
+- [<img src="https://avatars.githubusercontent.com/u/13717208?v=4" height="20"/> maxbyz](https://github.com/maxbyz)
+- [<img src="https://avatars.githubusercontent.com/u/66149718?u=78d9a7fed9332250827f800c320cb728c957bb61&amp;v=4" height="20"/> utibeabasi6](https://github.com/utibeabasi6)
 - [<img src="https://avatars.githubusercontent.com/u/115921235?v=4" height="20"/> Mohamed988o](https://github.com/Mohamed988o)
-- [<img src="https://avatars.githubusercontent.com/u/141803378?u=dfb31a876a777ba16d89f03cadc18633bf0b3dfd&amp;v=4" height="20"/> thor-alloy](https://github.com/thor-alloy)
-- [<img src="https://avatars.githubusercontent.com/u/138230394?u=992368859fc7dcec49f0f2475aa33639fdc2cb52&amp;v=4" height="20"/> WyllTech](https://github.com/WyllTech)
-- [<img src="https://avatars.githubusercontent.com/u/16065551?u=1eee84a952e493cbce9313d86b1fc4391b720b3d&amp;v=4" height="20"/> Dhivin](https://github.com/Dhivin)
-- [<img src="https://avatars.githubusercontent.com/u/5094338?u=e5964702fe2d8a4bf41682387897987ecc40e5b8&amp;v=4" height="20"/> lmcdonough](https://github.com/lmcdonough)
 </details>
 
 
