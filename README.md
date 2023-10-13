@@ -45,7 +45,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Update docs theme](https://github.com/cilium/cilium/pull/28403) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 </details>
 
 <details>
