@@ -45,6 +45,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
+- [Update Cilium labs](https://github.com/cloudcommunity/Free-Certifications/pull/144) on [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) (today)
 </details>
 
 <details>
