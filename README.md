@@ -16,10 +16,10 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [cilium/starwars-docker](https://github.com/cilium/starwars-docker) - Deathstar as a Service (today)
-- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses &amp; certifications. (3 days ago)
+- [cilium/starwars-docker](https://github.com/cilium/starwars-docker) - Deathstar as a Service (1 day ago)
+- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses &amp; certifications. (4 days ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (3 weeks ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (3 weeks ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (4 weeks ago)
 - [isovalent/ebeedex](https://github.com/isovalent/ebeedex) - Find your favorite eBee (2 months ago)
 </details>
 
@@ -46,7 +46,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Add hostname to /v1/](https://github.com/cilium/starwars-docker/pull/4) on [cilium/starwars-docker](https://github.com/cilium/starwars-docker) (today)
+- [Add hostname to /v1/](https://github.com/cilium/starwars-docker/pull/4) on [cilium/starwars-docker](https://github.com/cilium/starwars-docker) (1 day ago)
 </details>
 
 <details>
