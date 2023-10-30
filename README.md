@@ -46,7 +46,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Add hostname to /v1/](https://github.com/cilium/starwars-docker/pull/4) on [cilium/starwars-docker](https://github.com/cilium/starwars-docker) (4 days ago)
 </details>
 
 <details>
