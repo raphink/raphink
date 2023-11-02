@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [cilium/starwars-docker](https://github.com/cilium/starwars-docker) - Deathstar as a Service (6 days ago)
+- [cilium/starwars-docker](https://github.com/cilium/starwars-docker) - Deathstar as a Service (1 week ago)
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses &amp; certifications. (1 week ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (4 weeks ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 month ago)
@@ -36,17 +36,17 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.0-pre.2](https://github.com/cilium/cilium/releases/tag/v1.15.0-pre.2), 1 day ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.0-pre.2](https://github.com/cilium/cilium/releases/tag/v1.15.0-pre.2), 2 days ago) - eBPF-based Networking, Security, and Observability
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.15.11](https://github.com/cilium/cilium-cli/releases/tag/v0.15.11), 2 weeks ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.12.1](https://github.com/cilium/hubble-ui/releases/tag/v0.12.1), 3 weeks ago) - Observability &amp; Troubleshooting for Kubernetes Services
-- [cilium/starwars-docker](https://github.com/cilium/starwars-docker) ([v2.0](https://github.com/cilium/starwars-docker/releases/tag/v2.0), 4 weeks ago) - Deathstar as a Service
+- [cilium/starwars-docker](https://github.com/cilium/starwars-docker) ([v2.0](https://github.com/cilium/starwars-docker/releases/tag/v2.0), 1 month ago) - Deathstar as a Service
 - [raphink/geneve_1564](https://github.com/raphink/geneve_1564) ([2016-06-08_02](https://github.com/raphink/geneve_1564/releases/tag/2016-06-08_02), 7 years ago) - LaTeX facsimile of a Bible de Genève, 1564
 </details>
 
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Add Cilium Multi-Networking lab](https://github.com/cloudcommunity/Free-Certifications/pull/151) on [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) (1 day ago)
+- [Add Cilium Multi-Networking lab](https://github.com/cloudcommunity/Free-Certifications/pull/151) on [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) (2 days ago)
 </details>
 
 <details>
