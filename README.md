@@ -46,7 +46,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Add Cilium Multi-Networking lab](https://github.com/cloudcommunity/Free-Certifications/pull/151) on [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) (3 days ago)
 </details>
 
 <details>
