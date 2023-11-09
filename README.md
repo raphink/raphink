@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [cilium/starwars-docker](https://github.com/cilium/starwars-docker) - Deathstar as a Service (1 week ago)
+- [cilium/starwars-docker](https://github.com/cilium/starwars-docker) - Deathstar as a Service (2 weeks ago)
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses &amp; certifications. (2 weeks ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 month ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 month ago)
@@ -36,7 +36,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.15.13](https://github.com/cilium/cilium-cli/releases/tag/v0.15.13), 2 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.15.13](https://github.com/cilium/cilium-cli/releases/tag/v0.15.13), 3 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.0-pre.2](https://github.com/cilium/cilium/releases/tag/v1.15.0-pre.2), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.12.1](https://github.com/cilium/hubble-ui/releases/tag/v0.12.1), 4 weeks ago) - Observability &amp; Troubleshooting for Kubernetes Services
 - [cilium/starwars-docker](https://github.com/cilium/starwars-docker) ([v2.0](https://github.com/cilium/starwars-docker/releases/tag/v2.0), 1 month ago) - Deathstar as a Service
