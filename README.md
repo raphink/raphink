@@ -26,11 +26,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🌱 My latest personal projects</summary>
 
+- [raphink/picomo](https://github.com/raphink/picomo) - 
 - [raphink/js-test](https://github.com/raphink/js-test) - 
 - [raphink/book-template](https://github.com/raphink/book-template) - book-template
 - [raphink/rebel-base](https://github.com/raphink/rebel-base) - rebel-base
 - [raphink/localhost-run-proxy](https://github.com/raphink/localhost-run-proxy) - 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) - 
 </details>
 
 <details>
