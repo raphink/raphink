@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (4 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (5 days ago)
 - [cilium/starwars-docker](https://github.com/cilium/starwars-docker) - Deathstar as a Service (1 month ago)
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses &amp; certifications. (1 month ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 months ago)
@@ -36,8 +36,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.15.17](https://github.com/cilium/cilium-cli/releases/tag/v0.15.17), today) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.0-pre.3](https://github.com/cilium/cilium/releases/tag/v1.15.0-pre.3), 1 day ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.15.17](https://github.com/cilium/cilium-cli/releases/tag/v0.15.17), 1 day ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.0-pre.3](https://github.com/cilium/cilium/releases/tag/v1.15.0-pre.3), 2 days ago) - eBPF-based Networking, Security, and Observability
 - [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.12.2](https://github.com/cilium/hubble-ui/releases/tag/v0.12.2), 2 weeks ago) - Observability &amp; Troubleshooting for Kubernetes Services
 - [cilium/starwars-docker](https://github.com/cilium/starwars-docker) ([v2.0](https://github.com/cilium/starwars-docker/releases/tag/v2.0), 2 months ago) - Deathstar as a Service
 - [raphink/geneve_1564](https://github.com/raphink/geneve_1564) ([2016-06-08_02](https://github.com/raphink/geneve_1564/releases/tag/2016-06-08_02), 7 years ago) - LaTeX facsimile of a Bible de Genève, 1564
