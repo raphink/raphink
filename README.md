@@ -36,8 +36,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.12.3](https://github.com/cilium/hubble-ui/releases/tag/v0.12.3), 3 days ago) - Observability &amp; Troubleshooting for Kubernetes Services
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.14.6](https://github.com/cilium/cilium/releases/tag/v1.14.6), 4 days ago) - eBPF-based Networking, Security, and Observability
+- [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.12.3](https://github.com/cilium/hubble-ui/releases/tag/v0.12.3), 4 days ago) - Observability &amp; Troubleshooting for Kubernetes Services
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.14.6](https://github.com/cilium/cilium/releases/tag/v1.14.6), 5 days ago) - eBPF-based Networking, Security, and Observability
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.15.20](https://github.com/cilium/cilium-cli/releases/tag/v0.15.20), 2 weeks ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [cilium/starwars-docker](https://github.com/cilium/starwars-docker) ([v2.0](https://github.com/cilium/starwars-docker/releases/tag/v2.0), 3 months ago) - Deathstar as a Service
 - [raphink/geneve_1564](https://github.com/raphink/geneve_1564) ([2016-06-08_02](https://github.com/raphink/geneve_1564/releases/tag/2016-06-08_02), 7 years ago) - LaTeX facsimile of a Bible de Genève, 1564
@@ -46,7 +46,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Display formatted status during status wait](https://github.com/cilium/cilium-cli/pull/2261) on [cilium/cilium-cli](https://github.com/cilium/cilium-cli) (3 days ago)
+- [Display formatted status during status wait](https://github.com/cilium/cilium-cli/pull/2261) on [cilium/cilium-cli](https://github.com/cilium/cilium-cli) (4 days ago)
 </details>
 
 <details>
