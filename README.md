@@ -46,7 +46,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Display formatted status during status wait](https://github.com/cilium/cilium-cli/pull/2261) on [cilium/cilium-cli](https://github.com/cilium/cilium-cli) (6 days ago)
 </details>
 
 <details>
