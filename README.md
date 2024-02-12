@@ -36,8 +36,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
+- [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.13.0](https://github.com/cilium/hubble-ui/releases/tag/v0.13.0), today) - Observability &amp; Troubleshooting for Kubernetes Services
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.0](https://github.com/cilium/cilium/releases/tag/v1.15.0), 1 week ago) - eBPF-based Networking, Security, and Observability
-- [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.12.3](https://github.com/cilium/hubble-ui/releases/tag/v0.12.3), 2 weeks ago) - Observability &amp; Troubleshooting for Kubernetes Services
 - [cilium/starwars-docker](https://github.com/cilium/starwars-docker) ([v2.0](https://github.com/cilium/starwars-docker/releases/tag/v2.0), 4 months ago) - Deathstar as a Service
 - [raphink/geneve_1564](https://github.com/raphink/geneve_1564) ([2016-06-08_02](https://github.com/raphink/geneve_1564/releases/tag/2016-06-08_02), 7 years ago) - LaTeX facsimile of a Bible de Genève, 1564
 </details>
