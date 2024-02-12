@@ -45,6 +45,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
+- [Update .zshrc for MacOS](https://github.com/raphink/dotfiles/pull/1) on [raphink/dotfiles](https://github.com/raphink/dotfiles) (today)
 </details>
 
 <details>
