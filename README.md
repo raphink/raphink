@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (today)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 day ago)
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (1 month ago)
 - [cilium/starwars-docker](https://github.com/cilium/starwars-docker) - Deathstar as a Service (3 months ago)
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses &amp; certifications. (3 months ago)
@@ -36,8 +36,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.13.0](https://github.com/cilium/hubble-ui/releases/tag/v0.13.0), 1 day ago) - Observability &amp; Troubleshooting for Kubernetes Services
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.0](https://github.com/cilium/cilium/releases/tag/v1.15.0), 1 week ago) - eBPF-based Networking, Security, and Observability
+- [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.13.0](https://github.com/cilium/hubble-ui/releases/tag/v0.13.0), 2 days ago) - Observability &amp; Troubleshooting for Kubernetes Services
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.0](https://github.com/cilium/cilium/releases/tag/v1.15.0), 2 weeks ago) - eBPF-based Networking, Security, and Observability
 - [cilium/starwars-docker](https://github.com/cilium/starwars-docker) ([v2.0](https://github.com/cilium/starwars-docker/releases/tag/v2.0), 4 months ago) - Deathstar as a Service
 - [raphink/geneve_1564](https://github.com/raphink/geneve_1564) ([2016-06-08_02](https://github.com/raphink/geneve_1564/releases/tag/2016-06-08_02), 7 years ago) - LaTeX facsimile of a Bible de Genève, 1564
 </details>
@@ -45,7 +45,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Update .zshrc for MacOS](https://github.com/raphink/dotfiles/pull/1) on [raphink/dotfiles](https://github.com/raphink/dotfiles) (1 day ago)
+- [Update .zshrc for MacOS](https://github.com/raphink/dotfiles/pull/1) on [raphink/dotfiles](https://github.com/raphink/dotfiles) (2 days ago)
 </details>
 
 <details>
