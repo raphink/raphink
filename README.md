@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (3 days ago)
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (1 week ago)
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (1 month ago)
 - [cilium/starwars-docker](https://github.com/cilium/starwars-docker) - Deathstar as a Service (4 months ago)
@@ -54,7 +54,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 - [A 15-year Puppet Journey](https://dev.to/raphink/a-15-year-puppet-journey-4o39) (2 years ago)
 - [How to allow dynamic Terraform Provider Configuration](https://dev.to/camptocamp-ops/how-to-allow-dynamic-terraform-provider-configuration-20ik) (2 years ago)
 - [March Cloud Native Romandie Meetup](https://dev.to/camptocamp-ops/march-cloud-native-romandie-meetup-o2f) (2 years ago)
-- [Immutability &amp; loose coupling: a match made in heaven](https://dev.to/camptocamp-ops/immutability-loose-coupling-a-match-made-in-heaven-37kl) (2 years ago)
+- [Immutability &amp; loose coupling: a match made in heaven](https://dev.to/camptocamp-ops/immutability-loose-coupling-a-match-made-in-heaven-37kl) (3 years ago)
 </details>
 
 <details>
