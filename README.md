@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (3 weeks ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (4 weeks ago)
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (1 month ago)
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (3 months ago)
 - [cilium/starwars-docker](https://github.com/cilium/starwars-docker) - Deathstar as a Service (5 months ago)
@@ -36,7 +36,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.0-pre.1](https://github.com/cilium/cilium/releases/tag/v1.16.0-pre.1), 5 days ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.0-pre.1](https://github.com/cilium/cilium/releases/tag/v1.16.0-pre.1), 6 days ago) - eBPF-based Networking, Security, and Observability
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.16.4](https://github.com/cilium/cilium-cli/releases/tag/v0.16.4), 1 week ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.13.0](https://github.com/cilium/hubble-ui/releases/tag/v0.13.0), 1 month ago) - Observability &amp; Troubleshooting for Kubernetes Services
 - [cilium/starwars-docker](https://github.com/cilium/starwars-docker) ([v2.0](https://github.com/cilium/starwars-docker/releases/tag/v2.0), 6 months ago) - Deathstar as a Service
