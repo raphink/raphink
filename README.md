@@ -60,7 +60,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👥 My recent followers</summary>
 
-- [<img src="https://avatars.githubusercontent.com/u/60264650?u=7cb8543794d81cb18015f16025c52abb8b842c5b&amp;v=4" height="20"/> jacobsomer](https://github.com/jacobsomer)
+- [<img src="https://avatars.githubusercontent.com/u/60264650?u=4e53e27f20282dc9d4cc347e2f1cbbbf852d9b4c&amp;v=4" height="20"/> jacobsomer](https://github.com/jacobsomer)
 - [<img src="https://avatars.githubusercontent.com/u/19623368?u=1308ed28d8d31baab49e5b886c9e47a4c6253ccd&amp;v=4" height="20"/> nhat416](https://github.com/nhat416)
 - [<img src="https://avatars.githubusercontent.com/u/16292405?u=64aa38cfa9baa5cff051c3c4a68eb14dcb0a315b&amp;v=4" height="20"/> cmonsig](https://github.com/cmonsig)
 - [<img src="https://avatars.githubusercontent.com/u/83620058?v=4" height="20"/> cassimahmedattia](https://github.com/cassimahmedattia)
