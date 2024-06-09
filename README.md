@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (5 days ago)
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (6 days ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 months ago)
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (5 months ago)
 - [cilium/starwars-docker](https://github.com/cilium/starwars-docker) - Deathstar as a Service (7 months ago)
@@ -36,16 +36,16 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.16.10](https://github.com/cilium/cilium-cli/releases/tag/v0.16.10), 1 day ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.0-pre.3](https://github.com/cilium/cilium/releases/tag/v1.16.0-pre.3), 5 days ago) - eBPF-based Networking, Security, and Observability
-- [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.13.1](https://github.com/cilium/hubble-ui/releases/tag/v0.13.1), 5 days ago) - Observability &amp; Troubleshooting for Kubernetes Services
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.16.10](https://github.com/cilium/cilium-cli/releases/tag/v0.16.10), 2 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.0-pre.3](https://github.com/cilium/cilium/releases/tag/v1.16.0-pre.3), 6 days ago) - eBPF-based Networking, Security, and Observability
+- [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.13.1](https://github.com/cilium/hubble-ui/releases/tag/v0.13.1), 6 days ago) - Observability &amp; Troubleshooting for Kubernetes Services
 - [cilium/starwars-docker](https://github.com/cilium/starwars-docker) ([v2.0](https://github.com/cilium/starwars-docker/releases/tag/v2.0), 8 months ago) - Deathstar as a Service
 </details>
 
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [fix: properly count wrapped lines in status output in --wait mode](https://github.com/cilium/cilium-cli/pull/2575) on [cilium/cilium-cli](https://github.com/cilium/cilium-cli) (5 days ago)
+- [fix: properly count wrapped lines in status output in --wait mode](https://github.com/cilium/cilium-cli/pull/2575) on [cilium/cilium-cli](https://github.com/cilium/cilium-cli) (6 days ago)
 </details>
 
 <details>
