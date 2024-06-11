@@ -45,7 +45,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [fix: properly count wrapped lines in status output in --wait mode](https://github.com/cilium/cilium-cli/pull/2575) on [cilium/cilium-cli](https://github.com/cilium/cilium-cli) (1 week ago)
 </details>
 
 <details>
