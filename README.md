@@ -59,11 +59,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👥 My recent followers</summary>
 
+- [<img src="https://avatars.githubusercontent.com/u/38990435?u=cb4b52a8dffda1b85fa5e00957a496f0c968501c&amp;v=4" height="20"/> hu8813](https://github.com/hu8813)
 - [<img src="https://avatars.githubusercontent.com/u/11716724?u=296244c1945fbfa8e3d5108a4cfb9d2b80a32edc&amp;v=4" height="20"/> tobupar](https://github.com/tobupar)
 - [<img src="https://avatars.githubusercontent.com/u/98163141?v=4" height="20"/> missAnneThorpe](https://github.com/missAnneThorpe)
 - [<img src="https://avatars.githubusercontent.com/u/81556052?u=a71a498faf75ea75524debe6ecefa1245197be5b&amp;v=4" height="20"/> i-umairkhan](https://github.com/i-umairkhan)
 - [<img src="https://avatars.githubusercontent.com/u/60322524?v=4" height="20"/> dalakatt](https://github.com/dalakatt)
-- [<img src="https://avatars.githubusercontent.com/u/60264650?u=6201e227fdb919ec52c30ed271b25fd5f363e19e&amp;v=4" height="20"/> jacobsomer](https://github.com/jacobsomer)
 </details>
 
 
