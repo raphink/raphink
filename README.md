@@ -36,8 +36,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.0-rc.2](https://github.com/cilium/cilium/releases/tag/v1.16.0-rc.2), 2 days ago) - eBPF-based Networking, Security, and Observability
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.16.13](https://github.com/cilium/cilium-cli/releases/tag/v0.16.13), 6 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.0-rc.2](https://github.com/cilium/cilium/releases/tag/v1.16.0-rc.2), 3 days ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.16.13](https://github.com/cilium/cilium-cli/releases/tag/v0.16.13), 1 week ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [cilium/starwars-docker](https://github.com/cilium/starwars-docker) ([v2.0](https://github.com/cilium/starwars-docker/releases/tag/v2.0), 9 months ago) - Deathstar as a Service
 </details>
 
