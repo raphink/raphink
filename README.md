@@ -16,21 +16,21 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
+- [raphink/juanita](https://github.com/raphink/juanita) -  (today)
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (2 months ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (4 months ago)
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (7 months ago)
 - [cilium/starwars-docker](https://github.com/cilium/starwars-docker) - Deathstar as a Service (9 months ago)
-- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses &amp; certifications. (9 months ago)
 </details>
 
 <details>
 <summary>🌱 My latest personal projects</summary>
 
+- [raphink/juanita](https://github.com/raphink/juanita) - 
 - [raphink/picomo](https://github.com/raphink/picomo) - 
 - [raphink/js-test](https://github.com/raphink/js-test) - 
 - [raphink/book-template](https://github.com/raphink/book-template) - book-template
 - [raphink/rebel-base](https://github.com/raphink/rebel-base) - rebel-base
-- [raphink/localhost-run-proxy](https://github.com/raphink/localhost-run-proxy) - 
 </details>
 
 <details>
