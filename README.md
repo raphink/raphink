@@ -17,10 +17,10 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <summary>👷 What I'm currently working on</summary>
 
 - [raphink/juanita](https://github.com/raphink/juanita) -  (1 week ago)
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 months ago)
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (2 months ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (5 months ago)
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (7 months ago)
-- [cilium/starwars-docker](https://github.com/cilium/starwars-docker) - Deathstar as a Service (9 months ago)
 </details>
 
 <details>
