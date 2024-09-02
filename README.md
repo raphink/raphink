@@ -44,6 +44,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
+- [Allow to pass clusterID as query param](https://github.com/camptocamp/aws-iam-authenticator-proxy/pull/7) on [camptocamp/aws-iam-authenticator-proxy](https://github.com/camptocamp/aws-iam-authenticator-proxy) (today)
 </details>
 
 <details>
