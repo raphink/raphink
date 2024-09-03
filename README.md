@@ -36,7 +36,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.16.16](https://github.com/cilium/cilium-cli/releases/tag/v0.16.16), 1 week ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.16.16](https://github.com/cilium/cilium-cli/releases/tag/v0.16.16), 2 weeks ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.1](https://github.com/cilium/cilium/releases/tag/v1.16.1), 2 weeks ago) - eBPF-based Networking, Security, and Observability
 - [cilium/starwars-docker](https://github.com/cilium/starwars-docker) ([v2.0](https://github.com/cilium/starwars-docker/releases/tag/v2.0), 11 months ago) - Deathstar as a Service
 </details>
@@ -44,7 +44,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Allow to pass clusterID as query param](https://github.com/camptocamp/aws-iam-authenticator-proxy/pull/7) on [camptocamp/aws-iam-authenticator-proxy](https://github.com/camptocamp/aws-iam-authenticator-proxy) (today)
+- [Allow to pass clusterID as query param](https://github.com/camptocamp/aws-iam-authenticator-proxy/pull/7) on [camptocamp/aws-iam-authenticator-proxy](https://github.com/camptocamp/aws-iam-authenticator-proxy) (1 day ago)
 </details>
 
 <details>
