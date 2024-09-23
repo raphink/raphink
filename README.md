@@ -16,21 +16,21 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
+- [raphink/divisor-knight](https://github.com/raphink/divisor-knight) - A game to practice finding divisors (today)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (6 days ago)
 - [raphink/juanita](https://github.com/raphink/juanita) -  (1 month ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (3 months ago)
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (3 months ago)
-- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (8 months ago)
 </details>
 
 <details>
 <summary>🌱 My latest personal projects</summary>
 
+- [raphink/divisor-knight](https://github.com/raphink/divisor-knight) - A game to practice finding divisors
 - [raphink/juanita](https://github.com/raphink/juanita) - 
 - [raphink/picomo](https://github.com/raphink/picomo) - 
 - [raphink/js-test](https://github.com/raphink/js-test) - 
 - [raphink/book-template](https://github.com/raphink/book-template) - book-template
-- [raphink/rebel-base](https://github.com/raphink/rebel-base) - rebel-base
 </details>
 
 <details>
