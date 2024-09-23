@@ -59,11 +59,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👥 My recent followers</summary>
 
-- [<img src="https://avatars.githubusercontent.com/u/22461547?u=95aeb3399e4a6f3dbf73c5762e4c98f92031db1f&amp;v=4" height="20"/> CharlesDerek](https://github.com/CharlesDerek)
 - [<img src="https://avatars.githubusercontent.com/u/22192242?v=4" height="20"/> saintdle](https://github.com/saintdle)
 - [<img src="https://avatars.githubusercontent.com/u/107572090?u=2ab285e31d2c0f709a3cb77c9055789805817e9b&amp;v=4" height="20"/> AudMonte01](https://github.com/AudMonte01)
 - [<img src="https://avatars.githubusercontent.com/u/88345999?u=7551b77ece4e1e25b96f45c32b4b653d47ae8b81&amp;v=4" height="20"/> lumbrjx](https://github.com/lumbrjx)
 - [<img src="https://avatars.githubusercontent.com/u/111011613?u=cb0e69146ac4d0dfbd847f1d81beb3a05d370672&amp;v=4" height="20"/> LMbakop](https://github.com/LMbakop)
+- [<img src="https://avatars.githubusercontent.com/u/38990435?u=7769b0abb84131dc1dbb5aee838c3b3f8b0dfe8d&amp;v=4" height="20"/> hu8813](https://github.com/hu8813)
 </details>
 
 
