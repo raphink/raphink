@@ -44,6 +44,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
+- [Add EncryptPII()](https://github.com/isovalent/instruqt-go/pull/2) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (today)
 - [Add coverage workflow](https://github.com/isovalent/instruqt-go/pull/1) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (today)
 </details>
 
