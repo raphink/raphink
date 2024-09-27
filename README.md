@@ -16,8 +16,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (today)
-- [raphink/divisor-knight](https://github.com/raphink/divisor-knight) - A game to practice finding divisors (1 day ago)
+- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (1 day ago)
+- [raphink/divisor-knight](https://github.com/raphink/divisor-knight) - A game to practice finding divisors (2 days ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 week ago)
 - [raphink/juanita](https://github.com/raphink/juanita) -  (1 month ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (3 months ago)
@@ -36,16 +36,16 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.2](https://github.com/cilium/cilium/releases/tag/v1.16.2), today) - eBPF-based Networking, Security, and Observability
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.16.18](https://github.com/cilium/cilium-cli/releases/tag/v0.16.18), 6 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
-- [cilium/starwars-docker](https://github.com/cilium/starwars-docker) ([v2.0](https://github.com/cilium/starwars-docker/releases/tag/v2.0), 11 months ago) - Deathstar as a Service
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.2](https://github.com/cilium/cilium/releases/tag/v1.16.2), 1 day ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.16.18](https://github.com/cilium/cilium-cli/releases/tag/v0.16.18), 1 week ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
+- [cilium/starwars-docker](https://github.com/cilium/starwars-docker) ([v2.0](https://github.com/cilium/starwars-docker/releases/tag/v2.0), 1 year ago) - Deathstar as a Service
 </details>
 
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Add EncryptPII()](https://github.com/isovalent/instruqt-go/pull/2) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (today)
-- [Add coverage workflow](https://github.com/isovalent/instruqt-go/pull/1) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (today)
+- [Add EncryptPII()](https://github.com/isovalent/instruqt-go/pull/2) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (1 day ago)
+- [Add coverage workflow](https://github.com/isovalent/instruqt-go/pull/1) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (1 day ago)
 </details>
 
 <details>
