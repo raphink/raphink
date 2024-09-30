@@ -17,10 +17,10 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <summary>👷 What I'm currently working on</summary>
 
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (3 days ago)
+- [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (4 days ago)
 - [raphink/divisor-knight](https://github.com/raphink/divisor-knight) - A game to practice finding divisors (5 days ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 week ago)
 - [raphink/juanita](https://github.com/raphink/juanita) -  (1 month ago)
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (3 months ago)
 </details>
 
 <details>
