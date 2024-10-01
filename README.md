@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (1 day ago)
+- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (today)
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (1 day ago)
 - [raphink/divisor-knight](https://github.com/raphink/divisor-knight) - A game to practice finding divisors (6 days ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 weeks ago)
@@ -64,11 +64,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👥 My recent followers</summary>
 
+- [<img src="https://avatars.githubusercontent.com/u/39115651?u=698b472b817b1e117b5a86aec9f97be8902db342&amp;v=4" height="20"/> eust-w](https://github.com/eust-w)
 - [<img src="https://avatars.githubusercontent.com/u/22192242?v=4" height="20"/> saintdle](https://github.com/saintdle)
 - [<img src="https://avatars.githubusercontent.com/u/107572090?u=2ab285e31d2c0f709a3cb77c9055789805817e9b&amp;v=4" height="20"/> AudMonte01](https://github.com/AudMonte01)
 - [<img src="https://avatars.githubusercontent.com/u/88345999?u=7551b77ece4e1e25b96f45c32b4b653d47ae8b81&amp;v=4" height="20"/> lumbrjx](https://github.com/lumbrjx)
 - [<img src="https://avatars.githubusercontent.com/u/111011613?u=cb0e69146ac4d0dfbd847f1d81beb3a05d370672&amp;v=4" height="20"/> LMbakop](https://github.com/LMbakop)
-- [<img src="https://avatars.githubusercontent.com/u/38990435?u=7769b0abb84131dc1dbb5aee838c3b3f8b0dfe8d&amp;v=4" height="20"/> hu8813](https://github.com/hu8813)
 </details>
 
 
