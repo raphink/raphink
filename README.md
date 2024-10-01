@@ -16,10 +16,10 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (today)
-- [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (today)
-- [raphink/divisor-knight](https://github.com/raphink/divisor-knight) - A game to practice finding divisors (5 days ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 week ago)
+- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (1 day ago)
+- [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (1 day ago)
+- [raphink/divisor-knight](https://github.com/raphink/divisor-knight) - A game to practice finding divisors (6 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 weeks ago)
 - [raphink/juanita](https://github.com/raphink/juanita) -  (1 month ago)
 </details>
 
@@ -36,9 +36,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), today) - A Go library for the Credly API
-- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.0.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.0.0), 3 days ago) - A Go library for the Instruqt API
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.2](https://github.com/cilium/cilium/releases/tag/v1.16.2), 4 days ago) - eBPF-based Networking, Security, and Observability
+- [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 1 day ago) - A Go library for the Credly API
+- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.0.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.0.0), 4 days ago) - A Go library for the Instruqt API
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.2](https://github.com/cilium/cilium/releases/tag/v1.16.2), 5 days ago) - eBPF-based Networking, Security, and Observability
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.16.18](https://github.com/cilium/cilium-cli/releases/tag/v0.16.18), 1 week ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [cilium/starwars-docker](https://github.com/cilium/starwars-docker) ([v2.0](https://github.com/cilium/starwars-docker/releases/tag/v2.0), 1 year ago) - Deathstar as a Service
 </details>
@@ -46,9 +46,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [GetPlays() add filters](https://github.com/isovalent/instruqt-go/pull/3) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (today)
-- [Add EncryptPII()](https://github.com/isovalent/instruqt-go/pull/2) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (4 days ago)
-- [Add coverage workflow](https://github.com/isovalent/instruqt-go/pull/1) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (4 days ago)
+- [GetPlays() add filters](https://github.com/isovalent/instruqt-go/pull/3) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (1 day ago)
+- [Add EncryptPII()](https://github.com/isovalent/instruqt-go/pull/2) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (5 days ago)
+- [Add coverage workflow](https://github.com/isovalent/instruqt-go/pull/1) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (5 days ago)
 </details>
 
 <details>
