@@ -46,7 +46,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [GetPlays() add filters](https://github.com/isovalent/instruqt-go/pull/3) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (1 day ago)
+- [GetPlays(): add support for ordering](https://github.com/isovalent/instruqt-go/pull/5) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (today)
+- [Use a SandboxTrack in Plays](https://github.com/isovalent/instruqt-go/pull/4) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (today)
 </details>
 
 <details>
