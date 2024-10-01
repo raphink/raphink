@@ -48,7 +48,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 - [GetPlays() add filters](https://github.com/isovalent/instruqt-go/pull/3) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (1 day ago)
 - [Add EncryptPII()](https://github.com/isovalent/instruqt-go/pull/2) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (5 days ago)
-- [Add coverage workflow](https://github.com/isovalent/instruqt-go/pull/1) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (5 days ago)
 </details>
 
 <details>
