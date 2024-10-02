@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (1 day ago)
+- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (today)
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (2 days ago)
 - [raphink/divisor-knight](https://github.com/raphink/divisor-knight) - A game to practice finding divisors (1 week ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 weeks ago)
@@ -46,6 +46,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
+- [Review: add Id and basic Play](https://github.com/isovalent/instruqt-go/pull/7) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (today)
+- [Add GetReview() function](https://github.com/isovalent/instruqt-go/pull/6) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (today)
 </details>
 
 <details>
