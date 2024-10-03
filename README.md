@@ -17,7 +17,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <summary>👷 What I'm currently working on</summary>
 
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (today)
-- [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (3 days ago)
+- [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (today)
 - [raphink/divisor-knight](https://github.com/raphink/divisor-knight) - A game to practice finding divisors (1 week ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 weeks ago)
 - [raphink/juanita](https://github.com/raphink/juanita) -  (1 month ago)
