@@ -47,7 +47,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
 - [Standardize query options between methods](https://github.com/isovalent/instruqt-go/pull/9) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (5 days ago)
-- [review: make play query optional](https://github.com/isovalent/instruqt-go/pull/8) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (5 days ago)
 </details>
 
 <details>
