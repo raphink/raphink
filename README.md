@@ -36,7 +36,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.1.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.1.0), 5 days ago) - A Go library for the Instruqt API
+- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.2.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.2.0), today) - A Go library for the Instruqt API
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.16.19](https://github.com/cilium/cilium-cli/releases/tag/v0.16.19), 6 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.0-pre.1](https://github.com/cilium/cilium/releases/tag/v1.17.0-pre.1), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 1 week ago) - A Go library for the Credly API
