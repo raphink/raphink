@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (5 days ago)
+- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (today)
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (5 days ago)
 - [raphink/divisor-knight](https://github.com/raphink/divisor-knight) - A game to practice finding divisors (1 week ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (3 weeks ago)
@@ -46,6 +46,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
+- [Avoid nil pointer when looking up user](https://github.com/isovalent/instruqt-go/pull/12) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (today)
+- [Set a default logger](https://github.com/isovalent/instruqt-go/pull/11) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (today)
 - [Add webhook structs and methods](https://github.com/isovalent/instruqt-go/pull/10) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (today)
 </details>
 
