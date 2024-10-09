@@ -48,7 +48,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 - [Avoid nil pointer when looking up user](https://github.com/isovalent/instruqt-go/pull/12) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (1 day ago)
 - [Set a default logger](https://github.com/isovalent/instruqt-go/pull/11) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (1 day ago)
-- [Add webhook structs and methods](https://github.com/isovalent/instruqt-go/pull/10) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (1 day ago)
 </details>
 
 <details>
