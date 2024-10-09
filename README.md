@@ -16,9 +16,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (today)
-- [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (5 days ago)
-- [raphink/divisor-knight](https://github.com/raphink/divisor-knight) - A game to practice finding divisors (1 week ago)
+- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (1 day ago)
+- [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (6 days ago)
+- [raphink/divisor-knight](https://github.com/raphink/divisor-knight) - A game to practice finding divisors (2 weeks ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (3 weeks ago)
 - [raphink/juanita](https://github.com/raphink/juanita) -  (2 months ago)
 </details>
@@ -36,8 +36,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.2.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.2.0), today) - A Go library for the Instruqt API
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.16.19](https://github.com/cilium/cilium-cli/releases/tag/v0.16.19), 6 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
+- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.2.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.2.0), 1 day ago) - A Go library for the Instruqt API
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.16.19](https://github.com/cilium/cilium-cli/releases/tag/v0.16.19), 1 week ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.0-pre.1](https://github.com/cilium/cilium/releases/tag/v1.17.0-pre.1), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 1 week ago) - A Go library for the Credly API
 - [cilium/starwars-docker](https://github.com/cilium/starwars-docker) ([v2.0](https://github.com/cilium/starwars-docker/releases/tag/v2.0), 1 year ago) - Deathstar as a Service
@@ -46,15 +46,15 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Avoid nil pointer when looking up user](https://github.com/isovalent/instruqt-go/pull/12) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (today)
-- [Set a default logger](https://github.com/isovalent/instruqt-go/pull/11) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (today)
-- [Add webhook structs and methods](https://github.com/isovalent/instruqt-go/pull/10) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (today)
+- [Avoid nil pointer when looking up user](https://github.com/isovalent/instruqt-go/pull/12) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (1 day ago)
+- [Set a default logger](https://github.com/isovalent/instruqt-go/pull/11) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (1 day ago)
+- [Add webhook structs and methods](https://github.com/isovalent/instruqt-go/pull/10) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (1 day ago)
 </details>
 
 <details>
 <summary>📜 My recent blog posts</summary>
 
-- [Streamlining Access to Embedded Instruqt Labs](https://dev.to/raphink/streamlining-access-to-embedded-instruqt-labs-4ph9) (5 days ago)
+- [Streamlining Access to Embedded Instruqt Labs](https://dev.to/raphink/streamlining-access-to-embedded-instruqt-labs-4ph9) (6 days ago)
 - [Towards a Modular DevOps Stack](https://dev.to/camptocamp-ops/towards-a-modular-devops-stack-257c) (2 years ago)
 - [A 15-year Puppet Journey](https://dev.to/raphink/a-15-year-puppet-journey-4o39) (2 years ago)
 - [How to allow dynamic Terraform Provider Configuration](https://dev.to/camptocamp-ops/how-to-allow-dynamic-terraform-provider-configuration-20ik) (3 years ago)
