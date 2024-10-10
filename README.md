@@ -46,8 +46,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Avoid nil pointer when looking up user](https://github.com/isovalent/instruqt-go/pull/12) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (2 days ago)
-- [Set a default logger](https://github.com/isovalent/instruqt-go/pull/11) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (2 days ago)
 </details>
 
 <details>
