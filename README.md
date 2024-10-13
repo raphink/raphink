@@ -16,21 +16,21 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
+- [raphink/inktober](https://github.com/raphink/inktober) -  (today)
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (5 days ago)
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (1 week ago)
 - [raphink/divisor-knight](https://github.com/raphink/divisor-knight) - A game to practice finding divisors (2 weeks ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (3 weeks ago)
-- [raphink/juanita](https://github.com/raphink/juanita) -  (2 months ago)
 </details>
 
 <details>
 <summary>🌱 My latest personal projects</summary>
 
+- [raphink/inktober](https://github.com/raphink/inktober) - 
 - [raphink/divisor-knight](https://github.com/raphink/divisor-knight) - A game to practice finding divisors
 - [raphink/juanita](https://github.com/raphink/juanita) - 
 - [raphink/picomo](https://github.com/raphink/picomo) - 
 - [raphink/js-test](https://github.com/raphink/js-test) - 
-- [raphink/book-template](https://github.com/raphink/book-template) - book-template
 </details>
 
 <details>
