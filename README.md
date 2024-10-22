@@ -17,7 +17,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <summary>👷 What I'm currently working on</summary>
 
 - [raphink/inktober](https://github.com/raphink/inktober) -  (1 week ago)
-- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (1 week ago)
+- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (2 weeks ago)
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (2 weeks ago)
 - [raphink/divisor-knight](https://github.com/raphink/divisor-knight) - A game to practice finding divisors (3 weeks ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 month ago)
@@ -36,8 +36,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.3](https://github.com/cilium/cilium/releases/tag/v1.16.3), 5 days ago) - eBPF-based Networking, Security, and Observability
-- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.2.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.2.0), 1 week ago) - A Go library for the Instruqt API
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.3](https://github.com/cilium/cilium/releases/tag/v1.16.3), 6 days ago) - eBPF-based Networking, Security, and Observability
+- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.2.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.2.0), 2 weeks ago) - A Go library for the Instruqt API
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.16.19](https://github.com/cilium/cilium-cli/releases/tag/v0.16.19), 2 weeks ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 3 weeks ago) - A Go library for the Credly API
 - [cilium/starwars-docker](https://github.com/cilium/starwars-docker) ([v2.0](https://github.com/cilium/starwars-docker/releases/tag/v2.0), 1 year ago) - Deathstar as a Service
@@ -51,7 +51,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>📜 My recent blog posts</summary>
 
-- [How to Automatically Issue Badges for Instruqt Labs](https://dev.to/raphink/how-to-automatically-issue-badges-for-instruqt-labs-18k5) (4 days ago)
+- [How to Automatically Issue Badges for Instruqt Labs](https://dev.to/raphink/how-to-automatically-issue-badges-for-instruqt-labs-18k5) (5 days ago)
 - [Streamlining Access to Embedded Instruqt Labs](https://dev.to/raphink/streamlining-access-to-embedded-instruqt-labs-4ph9) (2 weeks ago)
 - [Towards a Modular DevOps Stack](https://dev.to/camptocamp-ops/towards-a-modular-devops-stack-257c) (2 years ago)
 - [A 15-year Puppet Journey](https://dev.to/raphink/a-15-year-puppet-journey-4o39) (2 years ago)
