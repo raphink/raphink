@@ -40,7 +40,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.2.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.2.0), 2 weeks ago) - A Go library for the Instruqt API
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.16.19](https://github.com/cilium/cilium-cli/releases/tag/v0.16.19), 3 weeks ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 3 weeks ago) - A Go library for the Credly API
-- [cilium/starwars-docker](https://github.com/cilium/starwars-docker) ([v2.0](https://github.com/cilium/starwars-docker/releases/tag/v2.0), 1 year ago) - Deathstar as a Service
 </details>
 
 <details>
