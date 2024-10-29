@@ -17,7 +17,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <summary>👷 What I'm currently working on</summary>
 
 - [raphink/inktober](https://github.com/raphink/inktober) -  (2 weeks ago)
-- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (2 weeks ago)
+- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (3 weeks ago)
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (3 weeks ago)
 - [raphink/divisor-knight](https://github.com/raphink/divisor-knight) - A game to practice finding divisors (1 month ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 month ago)
@@ -37,7 +37,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.3](https://github.com/cilium/cilium/releases/tag/v1.16.3), 1 week ago) - eBPF-based Networking, Security, and Observability
-- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.2.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.2.0), 2 weeks ago) - A Go library for the Instruqt API
+- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.2.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.2.0), 3 weeks ago) - A Go library for the Instruqt API
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.16.19](https://github.com/cilium/cilium-cli/releases/tag/v0.16.19), 3 weeks ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 4 weeks ago) - A Go library for the Credly API
 </details>
