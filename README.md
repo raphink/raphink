@@ -16,10 +16,10 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) - Organization and Association governance (today)
+- [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) - Organization and Association governance (1 day ago)
 - [raphink/inktober](https://github.com/raphink/inktober) -  (2 weeks ago)
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (3 weeks ago)
-- [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (3 weeks ago)
+- [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (4 weeks ago)
 - [raphink/divisor-knight](https://github.com/raphink/divisor-knight) - A game to practice finding divisors (1 month ago)
 </details>
 
@@ -46,15 +46,15 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [charter: Use canton instead of city names](https://github.com/cloud-native-suisse-romande/governance/pull/20) on [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) (today)
-- [Fix typos](https://github.com/cloud-native-suisse-romande/governance/pull/19) on [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) (today)
+- [charter: Use canton instead of city names](https://github.com/cloud-native-suisse-romande/governance/pull/20) on [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) (1 day ago)
+- [Fix typos](https://github.com/cloud-native-suisse-romande/governance/pull/19) on [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) (1 day ago)
 </details>
 
 <details>
 <summary>📜 My recent blog posts</summary>
 
-- [How to Automatically Issue Badges for Instruqt Labs](https://dev.to/raphink/how-to-automatically-issue-badges-for-instruqt-labs-18k5) (1 week ago)
-- [Streamlining Access to Embedded Instruqt Labs](https://dev.to/raphink/streamlining-access-to-embedded-instruqt-labs-4ph9) (3 weeks ago)
+- [How to Automatically Issue Badges for Instruqt Labs](https://dev.to/raphink/how-to-automatically-issue-badges-for-instruqt-labs-18k5) (2 weeks ago)
+- [Streamlining Access to Embedded Instruqt Labs](https://dev.to/raphink/streamlining-access-to-embedded-instruqt-labs-4ph9) (4 weeks ago)
 - [Towards a Modular DevOps Stack](https://dev.to/camptocamp-ops/towards-a-modular-devops-stack-257c) (2 years ago)
 - [A 15-year Puppet Journey](https://dev.to/raphink/a-15-year-puppet-journey-4o39) (2 years ago)
 - [How to allow dynamic Terraform Provider Configuration](https://dev.to/camptocamp-ops/how-to-allow-dynamic-terraform-provider-configuration-20ik) (3 years ago)
