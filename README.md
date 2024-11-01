@@ -46,6 +46,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
+- [Debug session ](https://github.com/isovalent/instruqt-go/pull/13) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (today)
 - [charter: Use canton instead of city names](https://github.com/cloud-native-suisse-romande/governance/pull/20) on [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) (2 days ago)
 - [Fix typos](https://github.com/cloud-native-suisse-romande/governance/pull/19) on [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) (2 days ago)
 </details>
