@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) - Organization and Association governance (1 day ago)
+- [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) - Organization and Association governance (2 days ago)
 - [raphink/inktober](https://github.com/raphink/inktober) -  (2 weeks ago)
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (3 weeks ago)
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (4 weeks ago)
@@ -39,15 +39,15 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.3](https://github.com/cilium/cilium/releases/tag/v1.16.3), 2 weeks ago) - eBPF-based Networking, Security, and Observability
 - [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) ([v1.0.0](https://github.com/cloud-native-suisse-romande/governance/releases/tag/v1.0.0), 2 weeks ago) - Organization and Association governance
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.2.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.2.0), 3 weeks ago) - A Go library for the Instruqt API
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.16.19](https://github.com/cilium/cilium-cli/releases/tag/v0.16.19), 4 weeks ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.16.19](https://github.com/cilium/cilium-cli/releases/tag/v0.16.19), 1 month ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 1 month ago) - A Go library for the Credly API
 </details>
 
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [charter: Use canton instead of city names](https://github.com/cloud-native-suisse-romande/governance/pull/20) on [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) (1 day ago)
-- [Fix typos](https://github.com/cloud-native-suisse-romande/governance/pull/19) on [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) (1 day ago)
+- [charter: Use canton instead of city names](https://github.com/cloud-native-suisse-romande/governance/pull/20) on [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) (2 days ago)
+- [Fix typos](https://github.com/cloud-native-suisse-romande/governance/pull/19) on [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) (2 days ago)
 </details>
 
 <details>
