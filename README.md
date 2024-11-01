@@ -48,7 +48,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 - [Add graphQL debug logs](https://github.com/isovalent/instruqt-go/pull/14) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (today)
 - [Debug session ](https://github.com/isovalent/instruqt-go/pull/13) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (today)
-- [charter: Use canton instead of city names](https://github.com/cloud-native-suisse-romande/governance/pull/20) on [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) (2 days ago)
 </details>
 
 <details>
