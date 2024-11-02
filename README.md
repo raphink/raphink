@@ -16,11 +16,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
+- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (today)
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (1 day ago)
 - [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) - Organization and Association governance (3 days ago)
 - [raphink/inktober](https://github.com/raphink/inktober) -  (2 weeks ago)
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (1 month ago)
-- [raphink/divisor-knight](https://github.com/raphink/divisor-knight) - A game to practice finding divisors (1 month ago)
 </details>
 
 <details>
