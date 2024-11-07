@@ -47,7 +47,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
 - [Add CustomParameters to WebhookEvent](https://github.com/isovalent/instruqt-go/pull/15) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (2 days ago)
-- [Add graphQL debug logs](https://github.com/isovalent/instruqt-go/pull/14) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (6 days ago)
 </details>
 
 <details>
