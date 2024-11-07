@@ -16,8 +16,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (1 day ago)
-- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (4 days ago)
+- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (2 days ago)
+- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (5 days ago)
 - [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) - Organization and Association governance (1 week ago)
 - [raphink/inktober](https://github.com/raphink/inktober) -  (3 weeks ago)
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (1 month ago)
@@ -36,9 +36,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.16.20](https://github.com/cilium/cilium-cli/releases/tag/v0.16.20), today) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
-- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.4.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.4.0), 1 day ago) - A Go library for the Instruqt API
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.0-pre.2](https://github.com/cilium/cilium/releases/tag/v1.17.0-pre.2), 5 days ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.16.20](https://github.com/cilium/cilium-cli/releases/tag/v0.16.20), 1 day ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
+- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.4.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.4.0), 2 days ago) - A Go library for the Instruqt API
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.0-pre.2](https://github.com/cilium/cilium/releases/tag/v1.17.0-pre.2), 6 days ago) - eBPF-based Networking, Security, and Observability
 - [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) ([v1.0.0](https://github.com/cloud-native-suisse-romande/governance/releases/tag/v1.0.0), 3 weeks ago) - Organization and Association governance
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 1 month ago) - A Go library for the Credly API
 </details>
@@ -46,14 +46,14 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Add CustomParameters to WebhookEvent](https://github.com/isovalent/instruqt-go/pull/15) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (1 day ago)
-- [Add graphQL debug logs](https://github.com/isovalent/instruqt-go/pull/14) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (5 days ago)
+- [Add CustomParameters to WebhookEvent](https://github.com/isovalent/instruqt-go/pull/15) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (2 days ago)
+- [Add graphQL debug logs](https://github.com/isovalent/instruqt-go/pull/14) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (6 days ago)
 </details>
 
 <details>
 <summary>📜 My recent blog posts</summary>
 
-- [How to Automatically Issue Badges for Instruqt Labs](https://dev.to/raphink/how-to-automatically-issue-badges-for-instruqt-labs-18k5) (2 weeks ago)
+- [How to Automatically Issue Badges for Instruqt Labs](https://dev.to/raphink/how-to-automatically-issue-badges-for-instruqt-labs-18k5) (3 weeks ago)
 - [Streamlining Access to Embedded Instruqt Labs](https://dev.to/raphink/streamlining-access-to-embedded-instruqt-labs-4ph9) (1 month ago)
 - [Towards a Modular DevOps Stack](https://dev.to/camptocamp-ops/towards-a-modular-devops-stack-257c) (2 years ago)
 - [A 15-year Puppet Journey](https://dev.to/raphink/a-15-year-puppet-journey-4o39) (2 years ago)
