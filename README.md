@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (6 days ago)
+- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (1 week ago)
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (1 week ago)
 - [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) - Organization and Association governance (1 week ago)
 - [raphink/inktober](https://github.com/raphink/inktober) -  (4 weeks ago)
@@ -36,8 +36,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.16.20](https://github.com/cilium/cilium-cli/releases/tag/v0.16.20), 5 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
-- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.4.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.4.0), 6 days ago) - A Go library for the Instruqt API
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.16.20](https://github.com/cilium/cilium-cli/releases/tag/v0.16.20), 6 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
+- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.4.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.4.0), 1 week ago) - A Go library for the Instruqt API
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.0-pre.2](https://github.com/cilium/cilium/releases/tag/v1.17.0-pre.2), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) ([v1.0.0](https://github.com/cloud-native-suisse-romande/governance/releases/tag/v1.0.0), 4 weeks ago) - Organization and Association governance
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 1 month ago) - A Go library for the Credly API
@@ -46,7 +46,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Add CustomParameters to WebhookEvent](https://github.com/isovalent/instruqt-go/pull/15) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (6 days ago)
+- [Add CustomParameters to WebhookEvent](https://github.com/isovalent/instruqt-go/pull/15) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (1 week ago)
 </details>
 
 <details>
