@@ -61,11 +61,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👥 My recent followers</summary>
 
+- [<img src="https://avatars.githubusercontent.com/u/112835140?u=96e8fed126996fa284fdf6143bb2c5e73c7514f7&amp;v=4" height="20"/> Yasselo](https://github.com/Yasselo)
 - [<img src="https://avatars.githubusercontent.com/u/181088958?u=47110aa43e374b73c32a949f8f2e16ef8ed9af09&amp;v=4" height="20"/> mi6paulino](https://github.com/mi6paulino)
 - [<img src="https://avatars.githubusercontent.com/u/1650997?u=7b5fb147664a0029b81a107ac499ab0c43f6b26b&amp;v=4" height="20"/> trinhminhtriet](https://github.com/trinhminhtriet)
 - [<img src="https://avatars.githubusercontent.com/u/39115651?u=698b472b817b1e117b5a86aec9f97be8902db342&amp;v=4" height="20"/> eust-w](https://github.com/eust-w)
 - [<img src="https://avatars.githubusercontent.com/u/22192242?v=4" height="20"/> saintdle](https://github.com/saintdle)
-- [<img src="https://avatars.githubusercontent.com/u/107572090?u=2ab285e31d2c0f709a3cb77c9055789805817e9b&amp;v=4" height="20"/> AudMonte01](https://github.com/AudMonte01)
 </details>
 
 
