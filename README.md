@@ -46,6 +46,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
+- [Add Cilium Tetragon](https://github.com/konstructio/gitops-catalog/pull/187) on [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) (today)
 </details>
 
 <details>
