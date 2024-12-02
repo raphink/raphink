@@ -17,10 +17,10 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <summary>👷 What I'm currently working on</summary>
 
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (3 weeks ago)
-- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (4 weeks ago)
+- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (1 month ago)
 - [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) - Organization and Association governance (1 month ago)
 - [raphink/inktober](https://github.com/raphink/inktober) -  (1 month ago)
-- [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (1 month ago)
+- [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (2 months ago)
 </details>
 
 <details>
@@ -52,7 +52,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <summary>📜 My recent blog posts</summary>
 
 - [How to Automatically Issue Badges for Instruqt Labs](https://dev.to/raphink/how-to-automatically-issue-badges-for-instruqt-labs-18k5) (1 month ago)
-- [Streamlining Access to Embedded Instruqt Labs](https://dev.to/raphink/streamlining-access-to-embedded-instruqt-labs-4ph9) (1 month ago)
+- [Streamlining Access to Embedded Instruqt Labs](https://dev.to/raphink/streamlining-access-to-embedded-instruqt-labs-4ph9) (2 months ago)
 - [Towards a Modular DevOps Stack](https://dev.to/camptocamp-ops/towards-a-modular-devops-stack-257c) (2 years ago)
 - [A 15-year Puppet Journey](https://dev.to/raphink/a-15-year-puppet-journey-4o39) (2 years ago)
 - [How to allow dynamic Terraform Provider Configuration](https://dev.to/camptocamp-ops/how-to-allow-dynamic-terraform-provider-configuration-20ik) (3 years ago)
