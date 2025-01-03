@@ -65,7 +65,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 - [<img src="https://avatars.githubusercontent.com/u/72575602?u=ad7c98f855d11ef18db34bcb0ddbb5b7fc768f40&amp;v=4" height="20"/> OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [<img src="https://avatars.githubusercontent.com/u/1650997?u=7b5fb147664a0029b81a107ac499ab0c43f6b26b&amp;v=4" height="20"/> trinhminhtriet](https://github.com/trinhminhtriet)
 - [<img src="https://avatars.githubusercontent.com/u/62658102?u=6c7f3c146146539cfdd56a060856d7b3c541e436&amp;v=4" height="20"/> oneofvalts](https://github.com/oneofvalts)
-- [<img src="https://avatars.githubusercontent.com/u/5387930?u=1cd0cfa4ab9c6e30da495e621b850e4f61a203aa&amp;v=4" height="20"/> XiaomingX](https://github.com/XiaomingX)
+- [<img src="https://avatars.githubusercontent.com/u/112835140?u=96e8fed126996fa284fdf6143bb2c5e73c7514f7&amp;v=4" height="20"/> Yasselo](https://github.com/Yasselo)
 </details>
 
 
