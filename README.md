@@ -16,21 +16,21 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
+- [raphink/scriptoguessr](https://github.com/raphink/scriptoguessr) - A Bible verse localisation game (today)
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (3 weeks ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 month ago)
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (2 months ago)
 - [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) - Organization and Association governance (2 months ago)
-- [raphink/inktober](https://github.com/raphink/inktober) -  (2 months ago)
 </details>
 
 <details>
 <summary>🌱 My latest personal projects</summary>
 
+- [raphink/scriptoguessr](https://github.com/raphink/scriptoguessr) - A Bible verse localisation game
 - [raphink/inktober](https://github.com/raphink/inktober) - 
 - [raphink/divisor-knight](https://github.com/raphink/divisor-knight) - A game to practice finding divisors
 - [raphink/juanita](https://github.com/raphink/juanita) - 
 - [raphink/picomo](https://github.com/raphink/picomo) - 
-- [raphink/js-test](https://github.com/raphink/js-test) - 
 </details>
 
 <details>
