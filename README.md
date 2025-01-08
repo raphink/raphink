@@ -46,6 +46,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
+- [Refactor hover and click into setPositionSelector](https://github.com/raphink/scriptoguessr/pull/3) on [raphink/scriptoguessr](https://github.com/raphink/scriptoguessr) (today)
+- [New logo](https://github.com/raphink/scriptoguessr/pull/2) on [raphink/scriptoguessr](https://github.com/raphink/scriptoguessr) (today)
 </details>
 
 <details>
