@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/scriptoguessr](https://github.com/raphink/scriptoguessr) - A Bible verse localisation game (today)
+- [raphink/scriptoguessr](https://github.com/raphink/scriptoguessr) - A Bible verse localisation game (1 day ago)
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (3 weeks ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 month ago)
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (2 months ago)
@@ -36,9 +36,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.16.23](https://github.com/cilium/cilium-cli/releases/tag/v0.16.23), today) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.16.23](https://github.com/cilium/cilium-cli/releases/tag/v0.16.23), 1 day ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.0-rc.0](https://github.com/cilium/cilium/releases/tag/v1.17.0-rc.0), 3 weeks ago) - eBPF-based Networking, Security, and Observability
-- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.7.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.7.0), 3 weeks ago) - A Go library for the Instruqt API
+- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.7.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.7.0), 4 weeks ago) - A Go library for the Instruqt API
 - [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) ([v1.0.0](https://github.com/cloud-native-suisse-romande/governance/releases/tag/v1.0.0), 2 months ago) - Organization and Association governance
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 3 months ago) - A Go library for the Credly API
 </details>
@@ -46,9 +46,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Add verse navigation for fine selection](https://github.com/raphink/scriptoguessr/pull/4) on [raphink/scriptoguessr](https://github.com/raphink/scriptoguessr) (today)
-- [Refactor hover and click into setPositionSelector](https://github.com/raphink/scriptoguessr/pull/3) on [raphink/scriptoguessr](https://github.com/raphink/scriptoguessr) (today)
-- [New logo](https://github.com/raphink/scriptoguessr/pull/2) on [raphink/scriptoguessr](https://github.com/raphink/scriptoguessr) (today)
+- [Add verse navigation for fine selection](https://github.com/raphink/scriptoguessr/pull/4) on [raphink/scriptoguessr](https://github.com/raphink/scriptoguessr) (1 day ago)
+- [Refactor hover and click into setPositionSelector](https://github.com/raphink/scriptoguessr/pull/3) on [raphink/scriptoguessr](https://github.com/raphink/scriptoguessr) (1 day ago)
+- [New logo](https://github.com/raphink/scriptoguessr/pull/2) on [raphink/scriptoguessr](https://github.com/raphink/scriptoguessr) (1 day ago)
 </details>
 
 <details>
