@@ -66,9 +66,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 - [<img src="https://avatars.githubusercontent.com/u/39637206?u=4a6aa8d9a704fc74018c2ee760d2b034aee479db&amp;v=4" height="20"/> Connor9994](https://github.com/Connor9994)
 - [<img src="https://avatars.githubusercontent.com/u/72575602?u=ad7c98f855d11ef18db34bcb0ddbb5b7fc768f40&amp;v=4" height="20"/> OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
-- [<img src="https://avatars.githubusercontent.com/u/1650997?u=7b5fb147664a0029b81a107ac499ab0c43f6b26b&amp;v=4" height="20"/> trinhminhtriet](https://github.com/trinhminhtriet)
 - [<img src="https://avatars.githubusercontent.com/u/62658102?u=6c7f3c146146539cfdd56a060856d7b3c541e436&amp;v=4" height="20"/> oneofvalts](https://github.com/oneofvalts)
 - [<img src="https://avatars.githubusercontent.com/u/112835140?u=96e8fed126996fa284fdf6143bb2c5e73c7514f7&amp;v=4" height="20"/> Yasselo](https://github.com/Yasselo)
+- [<img src="https://avatars.githubusercontent.com/u/181088958?u=47110aa43e374b73c32a949f8f2e16ef8ed9af09&amp;v=4" height="20"/> mi6paulino](https://github.com/mi6paulino)
 </details>
 
 
