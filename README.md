@@ -16,9 +16,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 day ago)
-- [raphink/scriptoguessr](https://github.com/raphink/scriptoguessr) - A Bible verse localisation game (3 days ago)
-- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (4 weeks ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 days ago)
+- [raphink/scriptoguessr](https://github.com/raphink/scriptoguessr) - A Bible verse localisation game (4 days ago)
+- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (1 month ago)
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (2 months ago)
 - [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) - Organization and Association governance (2 months ago)
 </details>
@@ -36,19 +36,19 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.0-rc.1](https://github.com/cilium/cilium/releases/tag/v1.17.0-rc.1), 1 day ago) - eBPF-based Networking, Security, and Observability
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.16.23](https://github.com/cilium/cilium-cli/releases/tag/v0.16.23), 3 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.0-rc.1](https://github.com/cilium/cilium/releases/tag/v1.17.0-rc.1), 2 days ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.16.23](https://github.com/cilium/cilium-cli/releases/tag/v0.16.23), 4 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.7.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.7.0), 1 month ago) - A Go library for the Instruqt API
-- [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) ([v1.0.0](https://github.com/cloud-native-suisse-romande/governance/releases/tag/v1.0.0), 2 months ago) - Organization and Association governance
+- [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) ([v1.0.0](https://github.com/cloud-native-suisse-romande/governance/releases/tag/v1.0.0), 3 months ago) - Organization and Association governance
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 3 months ago) - A Go library for the Credly API
 </details>
 
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Add verse navigation for fine selection](https://github.com/raphink/scriptoguessr/pull/4) on [raphink/scriptoguessr](https://github.com/raphink/scriptoguessr) (3 days ago)
-- [Refactor hover and click into setPositionSelector](https://github.com/raphink/scriptoguessr/pull/3) on [raphink/scriptoguessr](https://github.com/raphink/scriptoguessr) (3 days ago)
-- [New logo](https://github.com/raphink/scriptoguessr/pull/2) on [raphink/scriptoguessr](https://github.com/raphink/scriptoguessr) (3 days ago)
+- [Add verse navigation for fine selection](https://github.com/raphink/scriptoguessr/pull/4) on [raphink/scriptoguessr](https://github.com/raphink/scriptoguessr) (4 days ago)
+- [Refactor hover and click into setPositionSelector](https://github.com/raphink/scriptoguessr/pull/3) on [raphink/scriptoguessr](https://github.com/raphink/scriptoguessr) (4 days ago)
+- [New logo](https://github.com/raphink/scriptoguessr/pull/2) on [raphink/scriptoguessr](https://github.com/raphink/scriptoguessr) (4 days ago)
 </details>
 
 <details>
