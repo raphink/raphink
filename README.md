@@ -46,8 +46,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Add verse navigation for fine selection](https://github.com/raphink/scriptoguessr/pull/4) on [raphink/scriptoguessr](https://github.com/raphink/scriptoguessr) (5 days ago)
-- [Refactor hover and click into setPositionSelector](https://github.com/raphink/scriptoguessr/pull/3) on [raphink/scriptoguessr](https://github.com/raphink/scriptoguessr) (5 days ago)
 </details>
 
 <details>
