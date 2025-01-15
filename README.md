@@ -62,11 +62,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👥 My recent followers</summary>
 
+- [<img src="https://avatars.githubusercontent.com/u/193270912?u=d8a1415fd9659fa32dd8fce194d3a1aadd2feda2&amp;v=4" height="20"/> LinuxJS](https://github.com/LinuxJS)
 - [<img src="https://avatars.githubusercontent.com/u/96807742?u=8e0ed2264c3622687d530e50e422c6959b2010d4&amp;v=4" height="20"/> Hacker-Sam-is-here](https://github.com/Hacker-Sam-is-here)
 - [<img src="https://avatars.githubusercontent.com/u/184830396?u=d60185ebd9dae0c7751748f0f970e030e9050b42&amp;v=4" height="20"/> mowhn](https://github.com/mowhn)
 - [<img src="https://avatars.githubusercontent.com/u/39637206?u=d1d5937f93a6381ff3065b825094030907eddd5a&amp;v=4" height="20"/> Connor9994](https://github.com/Connor9994)
 - [<img src="https://avatars.githubusercontent.com/u/72575602?u=ad7c98f855d11ef18db34bcb0ddbb5b7fc768f40&amp;v=4" height="20"/> OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
-- [<img src="https://avatars.githubusercontent.com/u/62658102?u=6c7f3c146146539cfdd56a060856d7b3c541e436&amp;v=4" height="20"/> oneofvalts](https://github.com/oneofvalts)
 </details>
 
 
