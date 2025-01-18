@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [cilium/cilium.io](https://github.com/cilium/cilium.io) - Cilium project website (4 days ago)
+- [cilium/cilium.io](https://github.com/cilium/cilium.io) - Cilium project website (5 days ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 week ago)
 - [raphink/scriptoguessr](https://github.com/raphink/scriptoguessr) - A Bible verse localisation game (1 week ago)
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (1 month ago)
@@ -46,7 +46,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Rename Isovalent labs](https://github.com/cilium/cilium.io/pull/581) on [cilium/cilium.io](https://github.com/cilium/cilium.io) (4 days ago)
+- [Rename Isovalent labs](https://github.com/cilium/cilium.io/pull/581) on [cilium/cilium.io](https://github.com/cilium/cilium.io) (5 days ago)
 </details>
 
 <details>
