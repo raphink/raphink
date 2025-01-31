@@ -46,7 +46,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Rename Isovalent labs](https://github.com/cilium/cilium.io/pull/581) on [cilium/cilium.io](https://github.com/cilium/cilium.io) (2 weeks ago)
 </details>
 
 <details>
