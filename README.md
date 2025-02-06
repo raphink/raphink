@@ -46,6 +46,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
+- [Use TARGETPLATFORM instead of BUILDPLATFORM](https://github.com/nvibert/cisco-microservices-demo/pull/1) on [nvibert/cisco-microservices-demo](https://github.com/nvibert/cisco-microservices-demo) (today)
 </details>
 
 <details>
