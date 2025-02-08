@@ -36,7 +36,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.0](https://github.com/cilium/cilium/releases/tag/v1.17.0), 3 days ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.0](https://github.com/cilium/cilium/releases/tag/v1.17.0), 4 days ago) - eBPF-based Networking, Security, and Observability
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.16.24](https://github.com/cilium/cilium-cli/releases/tag/v0.16.24), 1 week ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.7.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.7.0), 1 month ago) - A Go library for the Instruqt API
 - [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) ([v1.0.0](https://github.com/cloud-native-suisse-romande/governance/releases/tag/v1.0.0), 3 months ago) - Organization and Association governance
@@ -46,7 +46,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Use TARGETPLATFORM instead of BUILDPLATFORM](https://github.com/nvibert/cisco-microservices-demo/pull/1) on [nvibert/cisco-microservices-demo](https://github.com/nvibert/cisco-microservices-demo) (1 day ago)
+- [Use TARGETPLATFORM instead of BUILDPLATFORM](https://github.com/nvibert/cisco-microservices-demo/pull/1) on [nvibert/cisco-microservices-demo](https://github.com/nvibert/cisco-microservices-demo) (2 days ago)
 </details>
 
 <details>
