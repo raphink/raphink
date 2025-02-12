@@ -17,7 +17,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <summary>👷 What I'm currently working on</summary>
 
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (2 weeks ago)
-- [cilium/cilium.io](https://github.com/cilium/cilium.io) - Cilium project website (4 weeks ago)
+- [cilium/cilium.io](https://github.com/cilium/cilium.io) - Cilium project website (1 month ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 month ago)
 - [raphink/scriptoguessr](https://github.com/raphink/scriptoguessr) - A Bible verse localisation game (1 month ago)
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (2 months ago)
@@ -37,7 +37,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.0](https://github.com/cilium/cilium/releases/tag/v1.17.0), 1 week ago) - eBPF-based Networking, Security, and Observability
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.16.24](https://github.com/cilium/cilium-cli/releases/tag/v0.16.24), 1 week ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.16.24](https://github.com/cilium/cilium-cli/releases/tag/v0.16.24), 2 weeks ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.7.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.7.0), 2 months ago) - A Go library for the Instruqt API
 - [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) ([v1.0.0](https://github.com/cloud-native-suisse-romande/governance/releases/tag/v1.0.0), 4 months ago) - Organization and Association governance
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 4 months ago) - A Go library for the Credly API
@@ -46,7 +46,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Use TARGETPLATFORM instead of BUILDPLATFORM](https://github.com/nvibert/cisco-microservices-demo/pull/1) on [nvibert/cisco-microservices-demo](https://github.com/nvibert/cisco-microservices-demo) (5 days ago)
+- [Use TARGETPLATFORM instead of BUILDPLATFORM](https://github.com/nvibert/cisco-microservices-demo/pull/1) on [nvibert/cisco-microservices-demo](https://github.com/nvibert/cisco-microservices-demo) (6 days ago)
 </details>
 
 <details>
