@@ -46,7 +46,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Add instruction details](https://github.com/littlejo/killerkoda-labs/pull/1) on [littlejo/killerkoda-labs](https://github.com/littlejo/killerkoda-labs) (1 week ago)
 </details>
 
 <details>
