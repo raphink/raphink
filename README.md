@@ -36,17 +36,17 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.18.2](https://github.com/cilium/cilium-cli/releases/tag/v0.18.2), 5 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.18.2](https://github.com/cilium/cilium-cli/releases/tag/v0.18.2), 6 days ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.0-pre.0](https://github.com/cilium/cilium/releases/tag/v1.18.0-pre.0), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.7.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.7.0), 3 months ago) - A Go library for the Instruqt API
-- [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) ([v1.0.0](https://github.com/cloud-native-suisse-romande/governance/releases/tag/v1.0.0), 4 months ago) - Organization and Association governance
+- [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) ([v1.0.0](https://github.com/cloud-native-suisse-romande/governance/releases/tag/v1.0.0), 5 months ago) - Organization and Association governance
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 5 months ago) - A Go library for the Credly API
 </details>
 
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [fix: envoy circuit-breaking service should not include port number](https://github.com/cilium/cilium/pull/38158) on [cilium/cilium](https://github.com/cilium/cilium) (today)
+- [fix: envoy circuit-breaking service should not include port number](https://github.com/cilium/cilium/pull/38158) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 </details>
 
 <details>
