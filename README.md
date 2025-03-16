@@ -62,11 +62,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👥 My recent followers</summary>
 
+- [<img src="https://avatars.githubusercontent.com/u/28824016?u=9c3bb329553c5baea74ad3af798c2a85ca464ec7&amp;v=4" height="20"/> Barrentd](https://github.com/Barrentd)
 - [<img src="https://avatars.githubusercontent.com/u/5387930?u=1cd0cfa4ab9c6e30da495e621b850e4f61a203aa&amp;v=4" height="20"/> XiaomingX](https://github.com/XiaomingX)
 - [<img src="https://avatars.githubusercontent.com/u/93091809?u=ba8b68d26f8bbc0538605ab245ccf455441151fe&amp;v=4" height="20"/> isuruK2003](https://github.com/isuruK2003)
 - [<img src="https://avatars.githubusercontent.com/u/152271676?u=c4ec616310b826d0caeb3dccb8aa4347c6128537&amp;v=4" height="20"/> SanOrtellado](https://github.com/SanOrtellado)
 - [<img src="https://avatars.githubusercontent.com/u/193270912?u=d8a1415fd9659fa32dd8fce194d3a1aadd2feda2&amp;v=4" height="20"/> LinuxJS](https://github.com/LinuxJS)
-- [<img src="https://avatars.githubusercontent.com/u/96807742?u=8e0ed2264c3622687d530e50e422c6959b2010d4&amp;v=4" height="20"/> Hacker-Sam-is-here](https://github.com/Hacker-Sam-is-here)
 </details>
 
 
