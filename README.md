@@ -46,7 +46,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [docs: Correct the envoy circuit-breaking example manifest](https://github.com/cilium/cilium/pull/38158) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 </details>
 
 <details>
