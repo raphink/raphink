@@ -18,7 +18,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 week ago)
 - [littlejo/killerkoda-labs](https://github.com/littlejo/killerkoda-labs) -  (1 month ago)
-- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (1 month ago)
+- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (2 months ago)
 - [cilium/cilium.io](https://github.com/cilium/cilium.io) - Cilium project website (2 months ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 months ago)
 </details>
