@@ -46,7 +46,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Add Basketball eBee (#41)](https://github.com/isovalent/ebeedex/pull/104) on [isovalent/ebeedex](https://github.com/isovalent/ebeedex) (today)
+- [Add aviator bee (#41)](https://github.com/isovalent/ebeedex/pull/105) on [isovalent/ebeedex](https://github.com/isovalent/ebeedex) (today)
+- [Add Basketball eBee (#40)](https://github.com/isovalent/ebeedex/pull/104) on [isovalent/ebeedex](https://github.com/isovalent/ebeedex) (today)
 - [Add Seven of eBee (#39)](https://github.com/isovalent/ebeedex/pull/103) on [isovalent/ebeedex](https://github.com/isovalent/ebeedex) (today)
 - [Add baseball ebee (#38)](https://github.com/isovalent/ebeedex/pull/102) on [isovalent/ebeedex](https://github.com/isovalent/ebeedex) (today)
 </details>
