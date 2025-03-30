@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [isovalent/ebeedex](https://github.com/isovalent/ebeedex) - Find your favorite eBee (1 day ago)
+- [isovalent/ebeedex](https://github.com/isovalent/ebeedex) - Find your favorite eBee (2 days ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 weeks ago)
 - [littlejo/killerkoda-labs](https://github.com/littlejo/killerkoda-labs) -  (1 month ago)
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (2 months ago)
@@ -46,10 +46,10 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Add 39 through 42](https://github.com/isovalent/ebeedex/pull/107) on [isovalent/ebeedex](https://github.com/isovalent/ebeedex) (1 day ago)
-- [Add aviator bee (#41)](https://github.com/isovalent/ebeedex/pull/105) on [isovalent/ebeedex](https://github.com/isovalent/ebeedex) (2 days ago)
-- [Add Basketball eBee (#40)](https://github.com/isovalent/ebeedex/pull/104) on [isovalent/ebeedex](https://github.com/isovalent/ebeedex) (2 days ago)
-- [Add Seven of eBee (#39)](https://github.com/isovalent/ebeedex/pull/103) on [isovalent/ebeedex](https://github.com/isovalent/ebeedex) (2 days ago)
+- [Add 39 through 42](https://github.com/isovalent/ebeedex/pull/107) on [isovalent/ebeedex](https://github.com/isovalent/ebeedex) (2 days ago)
+- [Add aviator bee (#41)](https://github.com/isovalent/ebeedex/pull/105) on [isovalent/ebeedex](https://github.com/isovalent/ebeedex) (3 days ago)
+- [Add Basketball eBee (#40)](https://github.com/isovalent/ebeedex/pull/104) on [isovalent/ebeedex](https://github.com/isovalent/ebeedex) (3 days ago)
+- [Add Seven of eBee (#39)](https://github.com/isovalent/ebeedex/pull/103) on [isovalent/ebeedex](https://github.com/isovalent/ebeedex) (3 days ago)
 </details>
 
 <details>
