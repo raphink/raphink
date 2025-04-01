@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [isovalent/ebeedex](https://github.com/isovalent/ebeedex) - Find your favorite eBee (today)
+- [isovalent/ebeedex](https://github.com/isovalent/ebeedex) - Find your favorite eBee (1 day ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 weeks ago)
 - [littlejo/killerkoda-labs](https://github.com/littlejo/killerkoda-labs) -  (1 month ago)
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (2 months ago)
@@ -36,7 +36,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.0-pre.1](https://github.com/cilium/cilium/releases/tag/v1.18.0-pre.1), today) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.0-pre.1](https://github.com/cilium/cilium/releases/tag/v1.18.0-pre.1), 1 day ago) - eBPF-based Networking, Security, and Observability
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.18.2](https://github.com/cilium/cilium-cli/releases/tag/v0.18.2), 3 weeks ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.7.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.7.0), 3 months ago) - A Go library for the Instruqt API
 - [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) ([v1.0.0](https://github.com/cloud-native-suisse-romande/governance/releases/tag/v1.0.0), 5 months ago) - Organization and Association governance
@@ -46,17 +46,17 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Add 39 through 42](https://github.com/isovalent/ebeedex/pull/107) on [isovalent/ebeedex](https://github.com/isovalent/ebeedex) (3 days ago)
-- [Add aviator bee (#41)](https://github.com/isovalent/ebeedex/pull/105) on [isovalent/ebeedex](https://github.com/isovalent/ebeedex) (4 days ago)
-- [Add Basketball eBee (#40)](https://github.com/isovalent/ebeedex/pull/104) on [isovalent/ebeedex](https://github.com/isovalent/ebeedex) (4 days ago)
-- [Add Seven of eBee (#39)](https://github.com/isovalent/ebeedex/pull/103) on [isovalent/ebeedex](https://github.com/isovalent/ebeedex) (4 days ago)
+- [Add 39 through 42](https://github.com/isovalent/ebeedex/pull/107) on [isovalent/ebeedex](https://github.com/isovalent/ebeedex) (4 days ago)
+- [Add aviator bee (#41)](https://github.com/isovalent/ebeedex/pull/105) on [isovalent/ebeedex](https://github.com/isovalent/ebeedex) (5 days ago)
+- [Add Basketball eBee (#40)](https://github.com/isovalent/ebeedex/pull/104) on [isovalent/ebeedex](https://github.com/isovalent/ebeedex) (5 days ago)
+- [Add Seven of eBee (#39)](https://github.com/isovalent/ebeedex/pull/103) on [isovalent/ebeedex](https://github.com/isovalent/ebeedex) (5 days ago)
 </details>
 
 <details>
 <summary>📜 My recent blog posts</summary>
 
 - [How to Automatically Issue Badges for Instruqt Labs](https://dev.to/raphink/how-to-automatically-issue-badges-for-instruqt-labs-18k5) (5 months ago)
-- [Streamlining Access to Embedded Instruqt Labs](https://dev.to/raphink/streamlining-access-to-embedded-instruqt-labs-4ph9) (5 months ago)
+- [Streamlining Access to Embedded Instruqt Labs](https://dev.to/raphink/streamlining-access-to-embedded-instruqt-labs-4ph9) (6 months ago)
 - [Towards a Modular DevOps Stack](https://dev.to/camptocamp-ops/towards-a-modular-devops-stack-257c) (3 years ago)
 - [A 15-year Puppet Journey](https://dev.to/raphink/a-15-year-puppet-journey-4o39) (3 years ago)
 - [How to allow dynamic Terraform Provider Configuration](https://dev.to/camptocamp-ops/how-to-allow-dynamic-terraform-provider-configuration-20ik) (3 years ago)
