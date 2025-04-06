@@ -16,21 +16,21 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
+- [raphink/realitycheck](https://github.com/raphink/realitycheck) - a lightweight web app designed to help tweens and teens develop critical thinking skills in the age of social media (today)
 - [isovalent/ebeedex](https://github.com/isovalent/ebeedex) - Find your favorite eBee (6 days ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (3 weeks ago)
 - [littlejo/killerkoda-labs](https://github.com/littlejo/killerkoda-labs) -  (1 month ago)
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (2 months ago)
-- [cilium/cilium.io](https://github.com/cilium/cilium.io) - Cilium project website (2 months ago)
 </details>
 
 <details>
 <summary>🌱 My latest personal projects</summary>
 
+- [raphink/realitycheck](https://github.com/raphink/realitycheck) - a lightweight web app designed to help tweens and teens develop critical thinking skills in the age of social media
 - [raphink/scriptoguessr](https://github.com/raphink/scriptoguessr) - A Bible verse localisation game
 - [raphink/inktober](https://github.com/raphink/inktober) - 
 - [raphink/divisor-knight](https://github.com/raphink/divisor-knight) - A game to practice finding divisors
 - [raphink/juanita](https://github.com/raphink/juanita) - 
-- [raphink/picomo](https://github.com/raphink/picomo) - 
 </details>
 
 <details>
