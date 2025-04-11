@@ -48,7 +48,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 - [Add samurai eBee](https://github.com/isovalent/ebeedex/pull/108) on [isovalent/ebeedex](https://github.com/isovalent/ebeedex) (4 days ago)
 - [Add 39 through 42](https://github.com/isovalent/ebeedex/pull/107) on [isovalent/ebeedex](https://github.com/isovalent/ebeedex) (2 weeks ago)
-- [Add aviator bee (#41)](https://github.com/isovalent/ebeedex/pull/105) on [isovalent/ebeedex](https://github.com/isovalent/ebeedex) (2 weeks ago)
 </details>
 
 <details>
