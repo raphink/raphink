@@ -63,11 +63,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👥 My recent followers</summary>
 
+- [<img src="https://avatars.githubusercontent.com/u/24417768?u=750a73ca6f79b61b2c555eb084c98d4820c16de7&amp;v=4" height="20"/> psubacz](https://github.com/psubacz)
 - [<img src="https://avatars.githubusercontent.com/u/58627821?u=9e5d457eab85279272d144f60f28b90299d60141&amp;v=4" height="20"/> nholuongut](https://github.com/nholuongut)
 - [<img src="https://avatars.githubusercontent.com/u/14955397?u=ff89ee424d40a589e509f334960cd17506cff932&amp;v=4" height="20"/> s3mPr1linux](https://github.com/s3mPr1linux)
 - [<img src="https://avatars.githubusercontent.com/u/3490905?u=9e7be150525642004d715a38fe8427800213b6c6&amp;v=4" height="20"/> a-lababsa](https://github.com/a-lababsa)
 - [<img src="https://avatars.githubusercontent.com/u/28824016?u=9c3bb329553c5baea74ad3af798c2a85ca464ec7&amp;v=4" height="20"/> Barrentd](https://github.com/Barrentd)
-- [<img src="https://avatars.githubusercontent.com/u/93091809?v=4" height="20"/> isuruK2003](https://github.com/isuruK2003)
 </details>
 
 
