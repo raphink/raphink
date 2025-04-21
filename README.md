@@ -17,10 +17,10 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <summary>👷 What I'm currently working on</summary>
 
 - [cc-translators/sagesse](https://github.com/cc-translators/sagesse) - « Sagesse pour Aujourd&#39;hui », Chuck Smith (today)
+- [raphink/scrjrnl](https://github.com/raphink/scrjrnl) - A class to typeset diaries or journals (today)
 - [raphink/realitycheck](https://github.com/raphink/realitycheck) - a lightweight web app designed to help tweens and teens develop critical thinking skills in the age of social media (2 weeks ago)
 - [isovalent/ebeedex](https://github.com/isovalent/ebeedex) - Find your favorite eBee (2 weeks ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 month ago)
-- [littlejo/killerkoda-labs](https://github.com/littlejo/killerkoda-labs) -  (2 months ago)
 </details>
 
 <details>
@@ -63,11 +63,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👥 My recent followers</summary>
 
+- [<img src="https://avatars.githubusercontent.com/u/197335226?v=4" height="20"/> sins921](https://github.com/sins921)
 - [<img src="https://avatars.githubusercontent.com/u/24417768?u=750a73ca6f79b61b2c555eb084c98d4820c16de7&amp;v=4" height="20"/> psubacz](https://github.com/psubacz)
 - [<img src="https://avatars.githubusercontent.com/u/58627821?u=9e5d457eab85279272d144f60f28b90299d60141&amp;v=4" height="20"/> nholuongut](https://github.com/nholuongut)
 - [<img src="https://avatars.githubusercontent.com/u/14955397?u=ff89ee424d40a589e509f334960cd17506cff932&amp;v=4" height="20"/> s3mPr1linux](https://github.com/s3mPr1linux)
 - [<img src="https://avatars.githubusercontent.com/u/3490905?u=9e7be150525642004d715a38fe8427800213b6c6&amp;v=4" height="20"/> a-lababsa](https://github.com/a-lababsa)
-- [<img src="https://avatars.githubusercontent.com/u/28824016?u=9c3bb329553c5baea74ad3af798c2a85ca464ec7&amp;v=4" height="20"/> Barrentd](https://github.com/Barrentd)
 </details>
 
 
