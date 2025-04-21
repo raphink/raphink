@@ -16,8 +16,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/realitycheck](https://github.com/raphink/realitycheck) - a lightweight web app designed to help tweens and teens develop critical thinking skills in the age of social media (1 week ago)
-- [isovalent/ebeedex](https://github.com/isovalent/ebeedex) - Find your favorite eBee (1 week ago)
+- [raphink/realitycheck](https://github.com/raphink/realitycheck) - a lightweight web app designed to help tweens and teens develop critical thinking skills in the age of social media (2 weeks ago)
+- [isovalent/ebeedex](https://github.com/isovalent/ebeedex) - Find your favorite eBee (2 weeks ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 month ago)
 - [littlejo/killerkoda-labs](https://github.com/littlejo/killerkoda-labs) -  (2 months ago)
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (2 months ago)
@@ -36,7 +36,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.16](https://github.com/cilium/cilium/releases/tag/v1.15.16), 5 days ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.16](https://github.com/cilium/cilium/releases/tag/v1.15.16), 6 days ago) - eBPF-based Networking, Security, and Observability
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.18.3](https://github.com/cilium/cilium-cli/releases/tag/v0.18.3), 2 weeks ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.7.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.7.0), 4 months ago) - A Go library for the Instruqt API
 - [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) ([v1.0.0](https://github.com/cloud-native-suisse-romande/governance/releases/tag/v1.0.0), 6 months ago) - Organization and Association governance
@@ -46,7 +46,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Add samurai eBee](https://github.com/isovalent/ebeedex/pull/108) on [isovalent/ebeedex](https://github.com/isovalent/ebeedex) (1 week ago)
+- [Add samurai eBee](https://github.com/isovalent/ebeedex/pull/108) on [isovalent/ebeedex](https://github.com/isovalent/ebeedex) (2 weeks ago)
 - [Add 39 through 42](https://github.com/isovalent/ebeedex/pull/107) on [isovalent/ebeedex](https://github.com/isovalent/ebeedex) (3 weeks ago)
 </details>
 
