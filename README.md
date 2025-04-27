@@ -16,9 +16,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (3 days ago)
-- [cc-translators/sagesse](https://github.com/cc-translators/sagesse) - « Sagesse pour Aujourd&#39;hui », Chuck Smith (5 days ago)
-- [raphink/scrjrnl](https://github.com/raphink/scrjrnl) - A class to typeset diaries or journals (5 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (4 days ago)
+- [cc-translators/sagesse](https://github.com/cc-translators/sagesse) - « Sagesse pour Aujourd&#39;hui », Chuck Smith (6 days ago)
+- [raphink/scrjrnl](https://github.com/raphink/scrjrnl) - A class to typeset diaries or journals (6 days ago)
 - [raphink/realitycheck](https://github.com/raphink/realitycheck) - a lightweight web app designed to help tweens and teens develop critical thinking skills in the age of social media (2 weeks ago)
 - [isovalent/ebeedex](https://github.com/isovalent/ebeedex) - Find your favorite eBee (2 weeks ago)
 </details>
@@ -47,7 +47,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
 - [Add samurai eBee](https://github.com/isovalent/ebeedex/pull/108) on [isovalent/ebeedex](https://github.com/isovalent/ebeedex) (2 weeks ago)
-- [Add 39 through 42](https://github.com/isovalent/ebeedex/pull/107) on [isovalent/ebeedex](https://github.com/isovalent/ebeedex) (4 weeks ago)
+- [Add 39 through 42](https://github.com/isovalent/ebeedex/pull/107) on [isovalent/ebeedex](https://github.com/isovalent/ebeedex) (1 month ago)
 </details>
 
 <details>
