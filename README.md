@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (5 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (today)
 - [cc-translators/sagesse](https://github.com/cc-translators/sagesse) - « Sagesse pour Aujourd&#39;hui », Chuck Smith (1 week ago)
 - [raphink/scrjrnl](https://github.com/raphink/scrjrnl) - A class to typeset diaries or journals (1 week ago)
 - [raphink/realitycheck](https://github.com/raphink/realitycheck) - a lightweight web app designed to help tweens and teens develop critical thinking skills in the age of social media (3 weeks ago)
