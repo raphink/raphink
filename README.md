@@ -16,11 +16,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (4 days ago)
-- [cc-translators/sagesse](https://github.com/cc-translators/sagesse) - « Sagesse pour Aujourd&#39;hui », Chuck Smith (6 days ago)
-- [raphink/scrjrnl](https://github.com/raphink/scrjrnl) - A class to typeset diaries or journals (6 days ago)
-- [raphink/realitycheck](https://github.com/raphink/realitycheck) - a lightweight web app designed to help tweens and teens develop critical thinking skills in the age of social media (2 weeks ago)
-- [isovalent/ebeedex](https://github.com/isovalent/ebeedex) - Find your favorite eBee (2 weeks ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (5 days ago)
+- [cc-translators/sagesse](https://github.com/cc-translators/sagesse) - « Sagesse pour Aujourd&#39;hui », Chuck Smith (1 week ago)
+- [raphink/scrjrnl](https://github.com/raphink/scrjrnl) - A class to typeset diaries or journals (1 week ago)
+- [raphink/realitycheck](https://github.com/raphink/realitycheck) - a lightweight web app designed to help tweens and teens develop critical thinking skills in the age of social media (3 weeks ago)
+- [isovalent/ebeedex](https://github.com/isovalent/ebeedex) - Find your favorite eBee (3 weeks ago)
 </details>
 
 <details>
@@ -40,13 +40,13 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.18.3](https://github.com/cilium/cilium-cli/releases/tag/v0.18.3), 3 weeks ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.7.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.7.0), 4 months ago) - A Go library for the Instruqt API
 - [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) ([v1.0.0](https://github.com/cloud-native-suisse-romande/governance/releases/tag/v1.0.0), 6 months ago) - Organization and Association governance
-- [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 6 months ago) - A Go library for the Credly API
+- [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 7 months ago) - A Go library for the Credly API
 </details>
 
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Add samurai eBee](https://github.com/isovalent/ebeedex/pull/108) on [isovalent/ebeedex](https://github.com/isovalent/ebeedex) (2 weeks ago)
+- [Add samurai eBee](https://github.com/isovalent/ebeedex/pull/108) on [isovalent/ebeedex](https://github.com/isovalent/ebeedex) (3 weeks ago)
 - [Add 39 through 42](https://github.com/isovalent/ebeedex/pull/107) on [isovalent/ebeedex](https://github.com/isovalent/ebeedex) (1 month ago)
 </details>
 
