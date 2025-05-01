@@ -47,7 +47,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
 - [Add samurai eBee](https://github.com/isovalent/ebeedex/pull/108) on [isovalent/ebeedex](https://github.com/isovalent/ebeedex) (3 weeks ago)
-- [Add 39 through 42](https://github.com/isovalent/ebeedex/pull/107) on [isovalent/ebeedex](https://github.com/isovalent/ebeedex) (1 month ago)
 </details>
 
 <details>
