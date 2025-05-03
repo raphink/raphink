@@ -16,8 +16,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/conjugame](https://github.com/raphink/conjugame) -  (today)
 - [raphink/juanita](https://github.com/raphink/juanita) -  (today)
+- [raphink/conjugame](https://github.com/raphink/conjugame) -  (today)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 days ago)
 - [cc-translators/sagesse](https://github.com/cc-translators/sagesse) - « Sagesse pour Aujourd&#39;hui », Chuck Smith (1 week ago)
 - [raphink/scrjrnl](https://github.com/raphink/scrjrnl) - A class to typeset diaries or journals (1 week ago)
@@ -62,11 +62,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👥 My recent followers</summary>
 
+- [<img src="https://avatars.githubusercontent.com/u/34954109?v=4" height="20"/> snkd](https://github.com/snkd)
 - [<img src="https://avatars.githubusercontent.com/u/78157563?u=fc17705222fa92912b9b8ad556101a0608308911&amp;v=4" height="20"/> Charles-Chrismann](https://github.com/Charles-Chrismann)
 - [<img src="https://avatars.githubusercontent.com/u/197335226?v=4" height="20"/> sins921](https://github.com/sins921)
 - [<img src="https://avatars.githubusercontent.com/u/24417768?u=750a73ca6f79b61b2c555eb084c98d4820c16de7&amp;v=4" height="20"/> psubacz](https://github.com/psubacz)
 - [<img src="https://avatars.githubusercontent.com/u/58627821?u=9e5d457eab85279272d144f60f28b90299d60141&amp;v=4" height="20"/> nholuongut](https://github.com/nholuongut)
-- [<img src="https://avatars.githubusercontent.com/u/14955397?u=ff89ee424d40a589e509f334960cd17506cff932&amp;v=4" height="20"/> s3mPr1linux](https://github.com/s3mPr1linux)
 </details>
 
 
