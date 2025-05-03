@@ -17,20 +17,20 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <summary>👷 What I'm currently working on</summary>
 
 - [raphink/juanita](https://github.com/raphink/juanita) -  (today)
+- [raphink/conjugame](https://github.com/raphink/conjugame) -  (today)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 days ago)
-- [cc-translators/sagesse](https://github.com/cc-translators/sagesse) - « Sagesse pour Aujourd&#39;hui », Chuck Smith (1 week ago)
 - [raphink/scrjrnl](https://github.com/raphink/scrjrnl) - A class to typeset diaries or journals (1 week ago)
-- [isovalent/ebeedex](https://github.com/isovalent/ebeedex) - Find your favorite eBee (3 weeks ago)
+- [cc-translators/sagesse](https://github.com/cc-translators/sagesse) - « Sagesse pour Aujourd&#39;hui », Chuck Smith (1 week ago)
 </details>
 
 <details>
 <summary>🌱 My latest personal projects</summary>
 
+- [raphink/conjugame](https://github.com/raphink/conjugame) - 
 - [raphink/realitycheck](https://github.com/raphink/realitycheck) - a lightweight web app designed to help tweens and teens develop critical thinking skills in the age of social media
 - [raphink/scriptoguessr](https://github.com/raphink/scriptoguessr) - A Bible verse localisation game
 - [raphink/inktober](https://github.com/raphink/inktober) - 
 - [raphink/divisor-knight](https://github.com/raphink/divisor-knight) - A game to practice finding divisors
-- [raphink/juanita](https://github.com/raphink/juanita) - 
 </details>
 
 <details>
