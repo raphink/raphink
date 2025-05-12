@@ -16,11 +16,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (3 days ago)
-- [raphink/conjugame](https://github.com/raphink/conjugame) -  (5 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (4 days ago)
+- [raphink/conjugame](https://github.com/raphink/conjugame) -  (6 days ago)
 - [raphink/juanita](https://github.com/raphink/juanita) -  (1 week ago)
-- [cc-translators/sagesse](https://github.com/cc-translators/sagesse) - « Sagesse pour Aujourd&#39;hui », Chuck Smith (2 weeks ago)
-- [raphink/scrjrnl](https://github.com/raphink/scrjrnl) - A class to typeset diaries or journals (2 weeks ago)
+- [cc-translators/sagesse](https://github.com/cc-translators/sagesse) - « Sagesse pour Aujourd&#39;hui », Chuck Smith (3 weeks ago)
+- [raphink/scrjrnl](https://github.com/raphink/scrjrnl) - A class to typeset diaries or journals (3 weeks ago)
 </details>
 
 <details>
@@ -39,7 +39,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.0-pre.2](https://github.com/cilium/cilium/releases/tag/v1.18.0-pre.2), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.18.3](https://github.com/cilium/cilium-cli/releases/tag/v0.18.3), 1 month ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.7.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.7.0), 5 months ago) - A Go library for the Instruqt API
-- [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) ([v1.0.0](https://github.com/cloud-native-suisse-romande/governance/releases/tag/v1.0.0), 6 months ago) - Organization and Association governance
+- [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) ([v1.0.0](https://github.com/cloud-native-suisse-romande/governance/releases/tag/v1.0.0), 7 months ago) - Organization and Association governance
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 7 months ago) - A Go library for the Credly API
 </details>
 
