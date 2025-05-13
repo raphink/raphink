@@ -16,8 +16,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (4 days ago)
-- [raphink/conjugame](https://github.com/raphink/conjugame) -  (6 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (5 days ago)
+- [raphink/conjugame](https://github.com/raphink/conjugame) -  (1 week ago)
 - [raphink/juanita](https://github.com/raphink/juanita) -  (1 week ago)
 - [cc-translators/sagesse](https://github.com/cc-translators/sagesse) - « Sagesse pour Aujourd&#39;hui », Chuck Smith (3 weeks ago)
 - [raphink/scrjrnl](https://github.com/raphink/scrjrnl) - A class to typeset diaries or journals (3 weeks ago)
