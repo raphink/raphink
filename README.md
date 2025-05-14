@@ -16,8 +16,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (today)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (5 days ago)
+- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (1 day ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (6 days ago)
 - [raphink/conjugame](https://github.com/raphink/conjugame) -  (1 week ago)
 - [raphink/juanita](https://github.com/raphink/juanita) -  (1 week ago)
 - [raphink/scrjrnl](https://github.com/raphink/scrjrnl) - A class to typeset diaries or journals (3 weeks ago)
@@ -46,8 +46,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Add consent to UserInfo](https://github.com/isovalent/instruqt-go/pull/24) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (today)
-- [Add more fields to UserDetails](https://github.com/isovalent/instruqt-go/pull/23) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (today)
+- [Add consent to UserInfo](https://github.com/isovalent/instruqt-go/pull/24) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (1 day ago)
+- [Add more fields to UserDetails](https://github.com/isovalent/instruqt-go/pull/23) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (1 day ago)
 </details>
 
 <details>
