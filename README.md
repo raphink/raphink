@@ -16,8 +16,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (1 day ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (6 days ago)
+- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (2 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 week ago)
 - [raphink/conjugame](https://github.com/raphink/conjugame) -  (1 week ago)
 - [raphink/juanita](https://github.com/raphink/juanita) -  (1 week ago)
 - [raphink/scrjrnl](https://github.com/raphink/scrjrnl) - A class to typeset diaries or journals (3 weeks ago)
@@ -36,7 +36,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.0-pre.2](https://github.com/cilium/cilium/releases/tag/v1.18.0-pre.2), 1 week ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.0-pre.2](https://github.com/cilium/cilium/releases/tag/v1.18.0-pre.2), 2 weeks ago) - eBPF-based Networking, Security, and Observability
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.18.3](https://github.com/cilium/cilium-cli/releases/tag/v0.18.3), 1 month ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.7.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.7.0), 5 months ago) - A Go library for the Instruqt API
 - [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) ([v1.0.0](https://github.com/cloud-native-suisse-romande/governance/releases/tag/v1.0.0), 7 months ago) - Organization and Association governance
@@ -46,14 +46,14 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Add consent to UserInfo](https://github.com/isovalent/instruqt-go/pull/24) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (1 day ago)
-- [Add more fields to UserDetails](https://github.com/isovalent/instruqt-go/pull/23) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (1 day ago)
+- [Add consent to UserInfo](https://github.com/isovalent/instruqt-go/pull/24) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (2 days ago)
+- [Add more fields to UserDetails](https://github.com/isovalent/instruqt-go/pull/23) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (2 days ago)
 </details>
 
 <details>
 <summary>📜 My recent blog posts</summary>
 
-- [How to Automatically Issue Badges for Instruqt Labs](https://dev.to/raphink/how-to-automatically-issue-badges-for-instruqt-labs-18k5) (6 months ago)
+- [How to Automatically Issue Badges for Instruqt Labs](https://dev.to/raphink/how-to-automatically-issue-badges-for-instruqt-labs-18k5) (7 months ago)
 - [Streamlining Access to Embedded Instruqt Labs](https://dev.to/raphink/streamlining-access-to-embedded-instruqt-labs-4ph9) (7 months ago)
 - [Towards a Modular DevOps Stack](https://dev.to/camptocamp-ops/towards-a-modular-devops-stack-257c) (3 years ago)
 - [A 15-year Puppet Journey](https://dev.to/raphink/a-15-year-puppet-journey-4o39) (3 years ago)
