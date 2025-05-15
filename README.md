@@ -20,7 +20,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (2 days ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 week ago)
 - [raphink/juanita](https://github.com/raphink/juanita) -  (1 week ago)
-- [raphink/scrjrnl](https://github.com/raphink/scrjrnl) - A class to typeset diaries or journals (3 weeks ago)
+- [cc-translators/sagesse](https://github.com/cc-translators/sagesse) - « Sagesse pour Aujourd&#39;hui », Chuck Smith (3 weeks ago)
 </details>
 
 <details>
