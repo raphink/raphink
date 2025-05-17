@@ -26,11 +26,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🌱 My latest personal projects</summary>
 
+- [raphink/blankword](https://github.com/raphink/blankword) - 
 - [raphink/conjugame](https://github.com/raphink/conjugame) - 
 - [raphink/realitycheck](https://github.com/raphink/realitycheck) - a lightweight web app designed to help tweens and teens develop critical thinking skills in the age of social media
 - [raphink/scriptoguessr](https://github.com/raphink/scriptoguessr) - A Bible verse localisation game
 - [raphink/inktober](https://github.com/raphink/inktober) - 
-- [raphink/divisor-knight](https://github.com/raphink/divisor-knight) - A game to practice finding divisors
 </details>
 
 <details>
