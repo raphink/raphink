@@ -16,8 +16,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/blankword](https://github.com/raphink/blankword) -  (5 days ago)
-- [raphink/conjugame](https://github.com/raphink/conjugame) -  (5 days ago)
+- [raphink/blankword](https://github.com/raphink/blankword) -  (6 days ago)
+- [raphink/conjugame](https://github.com/raphink/conjugame) -  (6 days ago)
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (1 week ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 weeks ago)
 - [raphink/juanita](https://github.com/raphink/juanita) -  (2 weeks ago)
