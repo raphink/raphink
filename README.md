@@ -40,7 +40,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.18.3](https://github.com/cilium/cilium-cli/releases/tag/v0.18.3), 1 month ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.7.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.7.0), 5 months ago) - A Go library for the Instruqt API
 - [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) ([v1.0.0](https://github.com/cloud-native-suisse-romande/governance/releases/tag/v1.0.0), 7 months ago) - Organization and Association governance
-- [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 7 months ago) - A Go library for the Credly API
+- [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 8 months ago) - A Go library for the Credly API
 </details>
 
 <details>
