@@ -19,7 +19,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 - [raphink/blankword](https://github.com/raphink/blankword) -  (1 week ago)
 - [raphink/conjugame](https://github.com/raphink/conjugame) -  (1 week ago)
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (2 weeks ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 weeks ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (3 weeks ago)
 - [raphink/juanita](https://github.com/raphink/juanita) -  (3 weeks ago)
 </details>
 
@@ -36,7 +36,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.4](https://github.com/cilium/cilium/releases/tag/v1.17.4), 1 week ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.4](https://github.com/cilium/cilium/releases/tag/v1.17.4), 2 weeks ago) - eBPF-based Networking, Security, and Observability
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) ([v0.18.3](https://github.com/cilium/cilium-cli/releases/tag/v0.18.3), 1 month ago) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.7.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.7.0), 5 months ago) - A Go library for the Instruqt API
 - [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) ([v1.0.0](https://github.com/cloud-native-suisse-romande/governance/releases/tag/v1.0.0), 7 months ago) - Organization and Association governance
