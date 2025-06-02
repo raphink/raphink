@@ -46,7 +46,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Add consent to UserInfo](https://github.com/isovalent/instruqt-go/pull/24) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (2 weeks ago)
 </details>
 
 <details>
