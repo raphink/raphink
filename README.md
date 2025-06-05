@@ -16,8 +16,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (today)
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (today)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (today)
 - [raphink/blankword](https://github.com/raphink/blankword) -  (2 weeks ago)
 - [raphink/conjugame](https://github.com/raphink/conjugame) -  (2 weeks ago)
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (3 weeks ago)
