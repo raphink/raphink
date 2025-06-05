@@ -17,10 +17,10 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <summary>👷 What I'm currently working on</summary>
 
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (today)
+- [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (today)
 - [raphink/blankword](https://github.com/raphink/blankword) -  (2 weeks ago)
 - [raphink/conjugame](https://github.com/raphink/conjugame) -  (2 weeks ago)
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (3 weeks ago)
-- [raphink/juanita](https://github.com/raphink/juanita) -  (1 month ago)
 </details>
 
 <details>
@@ -46,7 +46,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Add CreateBadgeTemplate](https://github.com/isovalent/credly-go/pull/1) on [isovalent/credly-go](https://github.com/isovalent/credly-go) (today)
+- [Add UpdateBadgeTemplate](https://github.com/isovalent/credly-go/pull/2) on [isovalent/credly-go](https://github.com/isovalent/credly-go) (today)
+- [Add functions to create, archive/unarchive, and delete badge templates](https://github.com/isovalent/credly-go/pull/1) on [isovalent/credly-go](https://github.com/isovalent/credly-go) (today)
 </details>
 
 <details>
