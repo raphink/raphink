@@ -46,6 +46,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
+- [Add CreateBadgeTemplate](https://github.com/isovalent/credly-go/pull/1) on [isovalent/credly-go](https://github.com/isovalent/credly-go) (today)
 </details>
 
 <details>
