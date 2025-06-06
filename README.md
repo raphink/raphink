@@ -48,7 +48,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 - [BadgeTemplate: add missing fields](https://github.com/isovalent/credly-go/pull/3) on [isovalent/credly-go](https://github.com/isovalent/credly-go) (1 day ago)
 - [Add UpdateBadgeTemplate](https://github.com/isovalent/credly-go/pull/2) on [isovalent/credly-go](https://github.com/isovalent/credly-go) (1 day ago)
-- [Add functions to create, archive/unarchive, and delete badge templates](https://github.com/isovalent/credly-go/pull/1) on [isovalent/credly-go](https://github.com/isovalent/credly-go) (1 day ago)
 </details>
 
 <details>
