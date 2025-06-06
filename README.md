@@ -17,7 +17,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <summary>👷 What I'm currently working on</summary>
 
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (today)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (today)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 day ago)
 - [raphink/blankword](https://github.com/raphink/blankword) -  (2 weeks ago)
 - [raphink/conjugame](https://github.com/raphink/conjugame) -  (2 weeks ago)
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (3 weeks ago)
@@ -36,7 +36,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.0-pre.3](https://github.com/cilium/cilium/releases/tag/v1.18.0-pre.3), 2 days ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.0-pre.3](https://github.com/cilium/cilium/releases/tag/v1.18.0-pre.3), 3 days ago) - eBPF-based Networking, Security, and Observability
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.7.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.7.0), 5 months ago) - A Go library for the Instruqt API
 - [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) ([v1.0.0](https://github.com/cloud-native-suisse-romande/governance/releases/tag/v1.0.0), 7 months ago) - Organization and Association governance
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 8 months ago) - A Go library for the Credly API
@@ -46,9 +46,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [BadgeTemplate: add missing fields](https://github.com/isovalent/credly-go/pull/3) on [isovalent/credly-go](https://github.com/isovalent/credly-go) (today)
-- [Add UpdateBadgeTemplate](https://github.com/isovalent/credly-go/pull/2) on [isovalent/credly-go](https://github.com/isovalent/credly-go) (today)
-- [Add functions to create, archive/unarchive, and delete badge templates](https://github.com/isovalent/credly-go/pull/1) on [isovalent/credly-go](https://github.com/isovalent/credly-go) (today)
+- [BadgeTemplate: add missing fields](https://github.com/isovalent/credly-go/pull/3) on [isovalent/credly-go](https://github.com/isovalent/credly-go) (1 day ago)
+- [Add UpdateBadgeTemplate](https://github.com/isovalent/credly-go/pull/2) on [isovalent/credly-go](https://github.com/isovalent/credly-go) (1 day ago)
+- [Add functions to create, archive/unarchive, and delete badge templates](https://github.com/isovalent/credly-go/pull/1) on [isovalent/credly-go](https://github.com/isovalent/credly-go) (1 day ago)
 </details>
 
 <details>
