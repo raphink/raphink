@@ -46,8 +46,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [BadgeTemplate: add missing fields](https://github.com/isovalent/credly-go/pull/3) on [isovalent/credly-go](https://github.com/isovalent/credly-go) (2 days ago)
-- [Add UpdateBadgeTemplate](https://github.com/isovalent/credly-go/pull/2) on [isovalent/credly-go](https://github.com/isovalent/credly-go) (2 days ago)
 </details>
 
 <details>
