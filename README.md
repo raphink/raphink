@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 day ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (today)
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (3 days ago)
 - [raphink/blankword](https://github.com/raphink/blankword) -  (3 weeks ago)
 - [raphink/conjugame](https://github.com/raphink/conjugame) -  (3 weeks ago)
@@ -61,11 +61,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👥 My recent followers</summary>
 
+- [<img src="https://avatars.githubusercontent.com/u/86570205?u=4838d77ac45ab71462d74970661849d31f4f720b&amp;v=4" height="20"/> seckinyasar](https://github.com/seckinyasar)
 - [<img src="https://avatars.githubusercontent.com/u/17881770?u=a7b86f99f2127cac8c0f293744b5c1f48ec6bb0b&amp;v=4" height="20"/> hashmap-kz](https://github.com/hashmap-kz)
 - [<img src="https://avatars.githubusercontent.com/u/146518121?u=3fcc81c6097d6f4772eae8abd1a8662b7d1c9095&amp;v=4" height="20"/> yashpawar6849](https://github.com/yashpawar6849)
 - [<img src="https://avatars.githubusercontent.com/u/7047165?u=9a1a6b75bc04355a42f517d4b720be472feda106&amp;v=4" height="20"/> netops2devops](https://github.com/netops2devops)
 - [<img src="https://avatars.githubusercontent.com/u/34954109?v=4" height="20"/> snkd](https://github.com/snkd)
-- [<img src="https://avatars.githubusercontent.com/u/78157563?u=b02e3426a7d0cca0c38a58a3085e7bbca87a52e7&amp;v=4" height="20"/> Charles-Chrismann](https://github.com/Charles-Chrismann)
 </details>
 
 
