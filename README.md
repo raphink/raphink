@@ -61,11 +61,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👥 My recent followers</summary>
 
+- [<img src="https://avatars.githubusercontent.com/u/78656003?u=9c23d9553d718cf878b1543db64409aef98219d1&amp;v=4" height="20"/> helallao](https://github.com/helallao)
 - [<img src="https://avatars.githubusercontent.com/u/43516554?u=0742b59e476f52f7c2e298c5954afcc50b5b7738&amp;v=4" height="20"/> standardgalactic](https://github.com/standardgalactic)
 - [<img src="https://avatars.githubusercontent.com/u/86570205?u=4838d77ac45ab71462d74970661849d31f4f720b&amp;v=4" height="20"/> seckinyasar](https://github.com/seckinyasar)
 - [<img src="https://avatars.githubusercontent.com/u/17881770?u=a7b86f99f2127cac8c0f293744b5c1f48ec6bb0b&amp;v=4" height="20"/> hashmap-kz](https://github.com/hashmap-kz)
 - [<img src="https://avatars.githubusercontent.com/u/146518121?u=3fcc81c6097d6f4772eae8abd1a8662b7d1c9095&amp;v=4" height="20"/> yashpawar6849](https://github.com/yashpawar6849)
-- [<img src="https://avatars.githubusercontent.com/u/7047165?u=9a1a6b75bc04355a42f517d4b720be472feda106&amp;v=4" height="20"/> netops2devops](https://github.com/netops2devops)
 </details>
 
 
