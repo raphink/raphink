@@ -17,7 +17,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <summary>👷 What I'm currently working on</summary>
 
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 weeks ago)
-- [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (2 weeks ago)
+- [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (3 weeks ago)
 - [raphink/blankword](https://github.com/raphink/blankword) -  (1 month ago)
 - [raphink/conjugame](https://github.com/raphink/conjugame) -  (1 month ago)
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (1 month ago)
@@ -39,7 +39,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.5](https://github.com/cilium/cilium/releases/tag/v1.17.5), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.7.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.7.0), 6 months ago) - A Go library for the Instruqt API
 - [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) ([v1.0.0](https://github.com/cloud-native-suisse-romande/governance/releases/tag/v1.0.0), 8 months ago) - Organization and Association governance
-- [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 8 months ago) - A Go library for the Credly API
+- [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 9 months ago) - A Go library for the Credly API
 - [cc-translators/sagesse](https://github.com/cc-translators/sagesse) ([2017-03-25_1](https://github.com/cc-translators/sagesse/releases/tag/2017-03-25_1), 8 years ago) - « Sagesse pour Aujourd&#39;hui », Chuck Smith
 </details>
 
