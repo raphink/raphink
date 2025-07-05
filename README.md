@@ -51,11 +51,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>📜 My recent blog posts</summary>
 
-- [How to Automatically Issue Badges for Instruqt Labs](https://forem.com/raphink/how-to-automatically-issue-badges-for-instruqt-labs-18k5) (8 months ago)
-- [Streamlining Access to Embedded Instruqt Labs](https://forem.com/raphink/streamlining-access-to-embedded-instruqt-labs-4ph9) (9 months ago)
-- [Towards a Modular DevOps Stack](https://forem.com/camptocamp-ops/towards-a-modular-devops-stack-257c) (3 years ago)
-- [A 15-year Puppet Journey](https://forem.com/raphink/a-15-year-puppet-journey-4o39) (3 years ago)
-- [How to allow dynamic Terraform Provider Configuration](https://forem.com/camptocamp-ops/how-to-allow-dynamic-terraform-provider-configuration-20ik) (4 years ago)
+- [How to Automatically Issue Badges for Instruqt Labs](https://dev.to/raphink/how-to-automatically-issue-badges-for-instruqt-labs-18k5) (8 months ago)
+- [Streamlining Access to Embedded Instruqt Labs](https://dev.to/raphink/streamlining-access-to-embedded-instruqt-labs-4ph9) (9 months ago)
+- [Towards a Modular DevOps Stack](https://dev.to/camptocamp-ops/towards-a-modular-devops-stack-257c) (3 years ago)
+- [A 15-year Puppet Journey](https://dev.to/raphink/a-15-year-puppet-journey-4o39) (3 years ago)
+- [How to allow dynamic Terraform Provider Configuration](https://dev.to/camptocamp-ops/how-to-allow-dynamic-terraform-provider-configuration-20ik) (4 years ago)
 </details>
 
 <details>
