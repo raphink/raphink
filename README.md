@@ -20,7 +20,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (1 month ago)
 - [raphink/blankword](https://github.com/raphink/blankword) -  (1 month ago)
 - [raphink/conjugame](https://github.com/raphink/conjugame) -  (1 month ago)
-- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (1 month ago)
+- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (2 months ago)
 </details>
 
 <details>
