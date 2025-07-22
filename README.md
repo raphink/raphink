@@ -62,10 +62,10 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <summary>👥 My recent followers</summary>
 
 - [<img src="https://avatars.githubusercontent.com/u/148982622?v=4" height="20"/> Maxxum69](https://github.com/Maxxum69)
-- [<img src="https://avatars.githubusercontent.com/u/58452540?u=794bb082b215349d453d2e5508c13eee7803ef4d&amp;v=4" height="20"/> oluiscabral](https://github.com/oluiscabral)
 - [<img src="https://avatars.githubusercontent.com/u/78656003?u=9c23d9553d718cf878b1543db64409aef98219d1&amp;v=4" height="20"/> helallao](https://github.com/helallao)
 - [<img src="https://avatars.githubusercontent.com/u/43516554?u=0742b59e476f52f7c2e298c5954afcc50b5b7738&amp;v=4" height="20"/> standardgalactic](https://github.com/standardgalactic)
 - [<img src="https://avatars.githubusercontent.com/u/86570205?u=4838d77ac45ab71462d74970661849d31f4f720b&amp;v=4" height="20"/> seckinyasar](https://github.com/seckinyasar)
+- [<img src="https://avatars.githubusercontent.com/u/17881770?u=a7b86f99f2127cac8c0f293744b5c1f48ec6bb0b&amp;v=4" height="20"/> hashmap-kz](https://github.com/hashmap-kz)
 </details>
 
 
