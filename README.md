@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/raads-r](https://github.com/raphink/raads-r) -  (today)
+- [raphink/raads-r](https://github.com/raphink/raads-r) -  (1 day ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 month ago)
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (1 month ago)
 - [raphink/blankword](https://github.com/raphink/blankword) -  (2 months ago)
@@ -62,10 +62,10 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <summary>👥 My recent followers</summary>
 
 - [<img src="https://avatars.githubusercontent.com/u/148982622?v=4" height="20"/> Maxxum69](https://github.com/Maxxum69)
-- [<img src="https://avatars.githubusercontent.com/u/78656003?u=9c23d9553d718cf878b1543db64409aef98219d1&amp;v=4" height="20"/> helallao](https://github.com/helallao)
 - [<img src="https://avatars.githubusercontent.com/u/43516554?u=0742b59e476f52f7c2e298c5954afcc50b5b7738&amp;v=4" height="20"/> standardgalactic](https://github.com/standardgalactic)
 - [<img src="https://avatars.githubusercontent.com/u/86570205?u=4838d77ac45ab71462d74970661849d31f4f720b&amp;v=4" height="20"/> seckinyasar](https://github.com/seckinyasar)
 - [<img src="https://avatars.githubusercontent.com/u/17881770?u=a7b86f99f2127cac8c0f293744b5c1f48ec6bb0b&amp;v=4" height="20"/> hashmap-kz](https://github.com/hashmap-kz)
+- [<img src="https://avatars.githubusercontent.com/u/146518121?u=3fcc81c6097d6f4772eae8abd1a8662b7d1c9095&amp;v=4" height="20"/> yashpawar6849](https://github.com/yashpawar6849)
 </details>
 
 
