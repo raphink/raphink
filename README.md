@@ -46,6 +46,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
+- [Add go code for backend](https://github.com/raphink/raads-r/pull/1) on [raphink/raads-r](https://github.com/raphink/raads-r) (today)
 </details>
 
 <details>
