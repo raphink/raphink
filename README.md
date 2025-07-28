@@ -19,8 +19,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 - [raphink/raads-r](https://github.com/raphink/raads-r) -  (today)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 month ago)
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (1 month ago)
-- [raphink/conjugame](https://github.com/raphink/conjugame) -  (2 months ago)
 - [raphink/blankword](https://github.com/raphink/blankword) -  (2 months ago)
+- [raphink/conjugame](https://github.com/raphink/conjugame) -  (2 months ago)
 </details>
 
 <details>
@@ -46,11 +46,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
+- [Stream report analysis](https://github.com/raphink/raads-r/pull/8) on [raphink/raads-r](https://github.com/raphink/raads-r) (today)
 - [Improve report generation](https://github.com/raphink/raads-r/pull/7) on [raphink/raads-r](https://github.com/raphink/raads-r) (today)
 - [Move template logic to frontend](https://github.com/raphink/raads-r/pull/6) on [raphink/raads-r](https://github.com/raphink/raads-r) (today)
 - [Add spanish, italian, and german](https://github.com/raphink/raads-r/pull/5) on [raphink/raads-r](https://github.com/raphink/raads-r) (today)
 - [simplify translations](https://github.com/raphink/raads-r/pull/4) on [raphink/raads-r](https://github.com/raphink/raads-r) (1 day ago)
-- [translate report](https://github.com/raphink/raads-r/pull/3) on [raphink/raads-r](https://github.com/raphink/raads-r) (1 day ago)
 </details>
 
 <details>
