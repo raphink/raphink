@@ -46,7 +46,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [WIP: move template logic to frontend](https://github.com/raphink/raads-r/pull/6) on [raphink/raads-r](https://github.com/raphink/raads-r) (today)
+- [Move template logic to frontend](https://github.com/raphink/raads-r/pull/6) on [raphink/raads-r](https://github.com/raphink/raads-r) (today)
 - [Add spanish, italian, and german](https://github.com/raphink/raads-r/pull/5) on [raphink/raads-r](https://github.com/raphink/raads-r) (today)
 - [simplify translations](https://github.com/raphink/raads-r/pull/4) on [raphink/raads-r](https://github.com/raphink/raads-r) (1 day ago)
 - [translate report](https://github.com/raphink/raads-r/pull/3) on [raphink/raads-r](https://github.com/raphink/raads-r) (1 day ago)
