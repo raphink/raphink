@@ -46,11 +46,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Stream report analysis](https://github.com/raphink/raads-r/pull/8) on [raphink/raads-r](https://github.com/raphink/raads-r) (today)
-- [Improve report generation](https://github.com/raphink/raads-r/pull/7) on [raphink/raads-r](https://github.com/raphink/raads-r) (today)
-- [Move template logic to frontend](https://github.com/raphink/raads-r/pull/6) on [raphink/raads-r](https://github.com/raphink/raads-r) (today)
-- [Add spanish, italian, and german](https://github.com/raphink/raads-r/pull/5) on [raphink/raads-r](https://github.com/raphink/raads-r) (today)
-- [simplify translations](https://github.com/raphink/raads-r/pull/4) on [raphink/raads-r](https://github.com/raphink/raads-r) (1 day ago)
+- [Stream report analysis](https://github.com/raphink/raads-r/pull/8) on [raphink/raads-r](https://github.com/raphink/raads-r) (1 day ago)
+- [Improve report generation](https://github.com/raphink/raads-r/pull/7) on [raphink/raads-r](https://github.com/raphink/raads-r) (1 day ago)
+- [Move template logic to frontend](https://github.com/raphink/raads-r/pull/6) on [raphink/raads-r](https://github.com/raphink/raads-r) (1 day ago)
+- [Add spanish, italian, and german](https://github.com/raphink/raads-r/pull/5) on [raphink/raads-r](https://github.com/raphink/raads-r) (1 day ago)
+- [simplify translations](https://github.com/raphink/raads-r/pull/4) on [raphink/raads-r](https://github.com/raphink/raads-r) (2 days ago)
 </details>
 
 <details>
