@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/raads-r](https://github.com/raphink/raads-r) -  (3 days ago)
+- [raphink/raads-r](https://github.com/raphink/raads-r) -  (today)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (3 days ago)
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (1 month ago)
 - [raphink/blankword](https://github.com/raphink/blankword) -  (2 months ago)
