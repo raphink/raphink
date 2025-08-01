@@ -49,7 +49,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 - [Stream report analysis](https://github.com/raphink/raads-r/pull/8) on [raphink/raads-r](https://github.com/raphink/raads-r) (4 days ago)
 - [Improve report generation](https://github.com/raphink/raads-r/pull/7) on [raphink/raads-r](https://github.com/raphink/raads-r) (4 days ago)
 - [Move template logic to frontend](https://github.com/raphink/raads-r/pull/6) on [raphink/raads-r](https://github.com/raphink/raads-r) (4 days ago)
-- [Add spanish, italian, and german](https://github.com/raphink/raads-r/pull/5) on [raphink/raads-r](https://github.com/raphink/raads-r) (4 days ago)
 </details>
 
 <details>
