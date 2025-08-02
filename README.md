@@ -46,9 +46,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
+- [adapt for screen reader](https://github.com/raphink/raads-r/pull/9) on [raphink/raads-r](https://github.com/raphink/raads-r) (today)
 - [Stream report analysis](https://github.com/raphink/raads-r/pull/8) on [raphink/raads-r](https://github.com/raphink/raads-r) (5 days ago)
 - [Improve report generation](https://github.com/raphink/raads-r/pull/7) on [raphink/raads-r](https://github.com/raphink/raads-r) (5 days ago)
-- [Move template logic to frontend](https://github.com/raphink/raads-r/pull/6) on [raphink/raads-r](https://github.com/raphink/raads-r) (5 days ago)
 </details>
 
 <details>
