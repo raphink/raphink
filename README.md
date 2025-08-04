@@ -48,7 +48,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 - [adapt for screen reader](https://github.com/raphink/raads-r/pull/9) on [raphink/raads-r](https://github.com/raphink/raads-r) (2 days ago)
 - [Stream report analysis](https://github.com/raphink/raads-r/pull/8) on [raphink/raads-r](https://github.com/raphink/raads-r) (1 week ago)
-- [Improve report generation](https://github.com/raphink/raads-r/pull/7) on [raphink/raads-r](https://github.com/raphink/raads-r) (1 week ago)
 </details>
 
 <details>
