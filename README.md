@@ -16,9 +16,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/raads-r](https://github.com/raphink/raads-r) -  (today)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (6 days ago)
-- [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (1 month ago)
+- [raphink/raads-r](https://github.com/raphink/raads-r) -  (1 day ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 week ago)
+- [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (2 months ago)
 - [raphink/blankword](https://github.com/raphink/blankword) -  (2 months ago)
 - [raphink/conjugame](https://github.com/raphink/conjugame) -  (2 months ago)
 </details>
@@ -36,7 +36,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.0](https://github.com/cilium/cilium/releases/tag/v1.18.0), 6 days ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.0](https://github.com/cilium/cilium/releases/tag/v1.18.0), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.7.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.7.0), 7 months ago) - A Go library for the Instruqt API
 - [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) ([v1.0.0](https://github.com/cloud-native-suisse-romande/governance/releases/tag/v1.0.0), 9 months ago) - Organization and Association governance
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 10 months ago) - A Go library for the Credly API
@@ -46,7 +46,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [adapt for screen reader](https://github.com/raphink/raads-r/pull/9) on [raphink/raads-r](https://github.com/raphink/raads-r) (2 days ago)
+- [adapt for screen reader](https://github.com/raphink/raads-r/pull/9) on [raphink/raads-r](https://github.com/raphink/raads-r) (3 days ago)
 - [Stream report analysis](https://github.com/raphink/raads-r/pull/8) on [raphink/raads-r](https://github.com/raphink/raads-r) (1 week ago)
 </details>
 
