@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/raads-r](https://github.com/raphink/raads-r) -  (1 day ago)
+- [raphink/raads-r](https://github.com/raphink/raads-r) -  (2 days ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 week ago)
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (2 months ago)
 - [raphink/blankword](https://github.com/raphink/blankword) -  (2 months ago)
@@ -46,7 +46,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [adapt for screen reader](https://github.com/raphink/raads-r/pull/9) on [raphink/raads-r](https://github.com/raphink/raads-r) (3 days ago)
+- [adapt for screen reader](https://github.com/raphink/raads-r/pull/9) on [raphink/raads-r](https://github.com/raphink/raads-r) (4 days ago)
 - [Stream report analysis](https://github.com/raphink/raads-r/pull/8) on [raphink/raads-r](https://github.com/raphink/raads-r) (1 week ago)
 </details>
 
