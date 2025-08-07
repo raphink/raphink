@@ -46,7 +46,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [adapt for screen reader](https://github.com/raphink/raads-r/pull/9) on [raphink/raads-r](https://github.com/raphink/raads-r) (5 days ago)
 </details>
 
 <details>
