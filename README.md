@@ -61,11 +61,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👥 My recent followers</summary>
 
+- [<img src="https://avatars.githubusercontent.com/u/147196872?v=4" height="20"/> LosDragonflyos](https://github.com/LosDragonflyos)
 - [<img src="https://avatars.githubusercontent.com/u/1595489?u=e314a01af4f5c0485a849c0f9899c6e35659c6f2&amp;v=4" height="20"/> vadim-ux](https://github.com/vadim-ux)
 - [<img src="https://avatars.githubusercontent.com/u/224472859?v=4" height="20"/> walterchaser-tech](https://github.com/walterchaser-tech)
 - [<img src="https://avatars.githubusercontent.com/u/126360859?u=aed43d2a344813feea71b7ec9e42a6eadde39b2e&amp;v=4" height="20"/> dkapt](https://github.com/dkapt)
 - [<img src="https://avatars.githubusercontent.com/u/148982622?v=4" height="20"/> Maxxum69](https://github.com/Maxxum69)
-- [<img src="https://avatars.githubusercontent.com/u/43516554?u=0742b59e476f52f7c2e298c5954afcc50b5b7738&amp;v=4" height="20"/> standardgalactic](https://github.com/standardgalactic)
 </details>
 
 
