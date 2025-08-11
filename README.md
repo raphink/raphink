@@ -16,11 +16,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
+- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (today)
 - [raphink/raads-r](https://github.com/raphink/raads-r) -  (1 week ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 week ago)
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (2 months ago)
 - [raphink/blankword](https://github.com/raphink/blankword) -  (2 months ago)
-- [raphink/conjugame](https://github.com/raphink/conjugame) -  (2 months ago)
 </details>
 
 <details>
@@ -46,6 +46,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
+- [challenge: add attempts](https://github.com/isovalent/instruqt-go/pull/25) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (today)
 </details>
 
 <details>
