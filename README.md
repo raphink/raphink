@@ -16,9 +16,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (2 days ago)
-- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (2 days ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (3 days ago)
+- [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (3 days ago)
+- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (3 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (4 days ago)
 - [raphink/raads-r](https://github.com/raphink/raads-r) -  (2 weeks ago)
 - [raphink/blankword](https://github.com/raphink/blankword) -  (3 months ago)
 </details>
@@ -46,7 +46,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Improve performance of Sandbox and Challenge queries](https://github.com/isovalent/instruqt-go/pull/27) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (2 days ago)
+- [Improve performance of Sandbox and Challenge queries](https://github.com/isovalent/instruqt-go/pull/27) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (3 days ago)
 </details>
 
 <details>
