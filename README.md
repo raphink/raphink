@@ -16,9 +16,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (4 days ago)
-- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (4 days ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (5 days ago)
+- [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (5 days ago)
+- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (5 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (6 days ago)
 - [raphink/raads-r](https://github.com/raphink/raads-r) -  (3 weeks ago)
 - [raphink/blankword](https://github.com/raphink/blankword) -  (3 months ago)
 </details>
@@ -39,14 +39,14 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.1](https://github.com/cilium/cilium/releases/tag/v1.18.1), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.7.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.7.0), 8 months ago) - A Go library for the Instruqt API
 - [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) ([v1.0.0](https://github.com/cloud-native-suisse-romande/governance/releases/tag/v1.0.0), 10 months ago) - Organization and Association governance
-- [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 10 months ago) - A Go library for the Credly API
+- [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 11 months ago) - A Go library for the Credly API
 - [cc-translators/sagesse](https://github.com/cc-translators/sagesse) ([2017-03-25_1](https://github.com/cc-translators/sagesse/releases/tag/2017-03-25_1), 8 years ago) - « Sagesse pour Aujourd&#39;hui », Chuck Smith
 </details>
 
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Improve performance of Sandbox and Challenge queries](https://github.com/isovalent/instruqt-go/pull/27) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (4 days ago)
+- [Improve performance of Sandbox and Challenge queries](https://github.com/isovalent/instruqt-go/pull/27) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (5 days ago)
 </details>
 
 <details>
