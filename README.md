@@ -16,11 +16,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (5 days ago)
-- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (5 days ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (6 days ago)
-- [raphink/raads-r](https://github.com/raphink/raads-r) -  (3 weeks ago)
-- [raphink/blankword](https://github.com/raphink/blankword) -  (3 months ago)
+- [raphink/raads-r](https://github.com/raphink/raads-r) -  (1 day ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (5 days ago)
+- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (2 weeks ago)
+- [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (1 month ago)
+- [raphink/conjugame](https://github.com/raphink/conjugame) -  (5 months ago)
 </details>
 
 <details>
@@ -36,24 +36,25 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.1](https://github.com/cilium/cilium/releases/tag/v1.18.1), 1 week ago) - eBPF-based Networking, Security, and Observability
-- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.7.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.7.0), 8 months ago) - A Go library for the Instruqt API
-- [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) ([v1.0.0](https://github.com/cloud-native-suisse-romande/governance/releases/tag/v1.0.0), 10 months ago) - Organization and Association governance
-- [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 11 months ago) - A Go library for the Credly API
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.0-pre.1](https://github.com/cilium/cilium/releases/tag/v1.19.0-pre.1), 1 week ago) - eBPF-based Networking, Security, and Observability
+- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.7.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.7.0), 10 months ago) - A Go library for the Instruqt API
+- [cloud-native-suisse-romande/governance](https://github.com/cloud-native-suisse-romande/governance) ([v1.0.0](https://github.com/cloud-native-suisse-romande/governance/releases/tag/v1.0.0), 1 year ago) - Organization and Association governance
+- [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 1 year ago) - A Go library for the Credly API
 - [cc-translators/sagesse](https://github.com/cc-translators/sagesse) ([2017-03-25_1](https://github.com/cc-translators/sagesse/releases/tag/2017-03-25_1), 8 years ago) - « Sagesse pour Aujourd&#39;hui », Chuck Smith
 </details>
 
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Improve performance of Sandbox and Challenge queries](https://github.com/isovalent/instruqt-go/pull/27) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (5 days ago)
+- [Webapp: image and service](https://github.com/nvibert/ML-Tutorial/pull/2) on [nvibert/ML-Tutorial](https://github.com/nvibert/ML-Tutorial) (5 days ago)
+- [webapp: image and service](https://github.com/Irene-Ting/DS-K8S-Tutorial/pull/1) on [Irene-Ting/DS-K8S-Tutorial](https://github.com/Irene-Ting/DS-K8S-Tutorial) (5 days ago)
 </details>
 
 <details>
 <summary>📜 My recent blog posts</summary>
 
-- [How to Automatically Issue Badges for Instruqt Labs](https://dev.to/raphink/how-to-automatically-issue-badges-for-instruqt-labs-18k5) (10 months ago)
-- [Streamlining Access to Embedded Instruqt Labs](https://dev.to/raphink/streamlining-access-to-embedded-instruqt-labs-4ph9) (10 months ago)
+- [How to Automatically Issue Badges for Instruqt Labs](https://dev.to/raphink/how-to-automatically-issue-badges-for-instruqt-labs-18k5) (1 year ago)
+- [Streamlining Access to Embedded Instruqt Labs](https://dev.to/raphink/streamlining-access-to-embedded-instruqt-labs-4ph9) (1 year ago)
 - [Towards a Modular DevOps Stack](https://dev.to/camptocamp-ops/towards-a-modular-devops-stack-257c) (3 years ago)
 - [A 15-year Puppet Journey](https://dev.to/raphink/a-15-year-puppet-journey-4o39) (3 years ago)
 - [How to allow dynamic Terraform Provider Configuration](https://dev.to/camptocamp-ops/how-to-allow-dynamic-terraform-provider-configuration-20ik) (4 years ago)
@@ -62,11 +63,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👥 My recent followers</summary>
 
+- [<img src="https://avatars.githubusercontent.com/u/5387930?u=1cd0cfa4ab9c6e30da495e621b850e4f61a203aa&amp;v=4" height="20"/> XiaomingX](https://github.com/XiaomingX)
+- [<img src="https://avatars.githubusercontent.com/u/152213653?u=991da221455c46c804d6707fc94ee6400d2cd578&amp;v=4" height="20"/> ankit78v](https://github.com/ankit78v)
+- [<img src="https://avatars.githubusercontent.com/u/230525653?u=7c0f3b281e3cf2e8dfc3a7fa82d318c579d9d2fb&amp;v=4" height="20"/> jediVUE](https://github.com/jediVUE)
 - [<img src="https://avatars.githubusercontent.com/u/147196872?v=4" height="20"/> LosDragonflyos](https://github.com/LosDragonflyos)
 - [<img src="https://avatars.githubusercontent.com/u/1595489?u=e314a01af4f5c0485a849c0f9899c6e35659c6f2&amp;v=4" height="20"/> vadim-ux](https://github.com/vadim-ux)
-- [<img src="https://avatars.githubusercontent.com/u/224472859?v=4" height="20"/> walterchaser-tech](https://github.com/walterchaser-tech)
-- [<img src="https://avatars.githubusercontent.com/u/126360859?u=aed43d2a344813feea71b7ec9e42a6eadde39b2e&amp;v=4" height="20"/> dkapt](https://github.com/dkapt)
-- [<img src="https://avatars.githubusercontent.com/u/43516554?u=0742b59e476f52f7c2e298c5954afcc50b5b7738&amp;v=4" height="20"/> standardgalactic](https://github.com/standardgalactic)
 </details>
 
 
