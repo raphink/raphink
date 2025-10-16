@@ -16,8 +16,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/raads-r](https://github.com/raphink/raads-r) -  (2 days ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (6 days ago)
+- [raphink/raads-r](https://github.com/raphink/raads-r) -  (3 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 week ago)
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (2 weeks ago)
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (1 month ago)
 - [raphink/conjugame](https://github.com/raphink/conjugame) -  (5 months ago)
@@ -46,8 +46,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Webapp: image and service](https://github.com/nvibert/ML-Tutorial/pull/2) on [nvibert/ML-Tutorial](https://github.com/nvibert/ML-Tutorial) (6 days ago)
-- [webapp: image and service](https://github.com/Irene-Ting/DS-K8S-Tutorial/pull/1) on [Irene-Ting/DS-K8S-Tutorial](https://github.com/Irene-Ting/DS-K8S-Tutorial) (6 days ago)
+- [Webapp: image and service](https://github.com/nvibert/ML-Tutorial/pull/2) on [nvibert/ML-Tutorial](https://github.com/nvibert/ML-Tutorial) (1 week ago)
+- [webapp: image and service](https://github.com/Irene-Ting/DS-K8S-Tutorial/pull/1) on [Irene-Ting/DS-K8S-Tutorial](https://github.com/Irene-Ting/DS-K8S-Tutorial) (1 week ago)
 </details>
 
 <details>
