@@ -47,7 +47,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
 - [Webapp: image and service](https://github.com/nvibert/ML-Tutorial/pull/2) on [nvibert/ML-Tutorial](https://github.com/nvibert/ML-Tutorial) (1 week ago)
-- [webapp: image and service](https://github.com/Irene-Ting/DS-K8S-Tutorial/pull/1) on [Irene-Ting/DS-K8S-Tutorial](https://github.com/Irene-Ting/DS-K8S-Tutorial) (1 week ago)
 </details>
 
 <details>
