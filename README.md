@@ -46,7 +46,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Webapp: image and service](https://github.com/nvibert/ML-Tutorial/pull/2) on [nvibert/ML-Tutorial](https://github.com/nvibert/ML-Tutorial) (2 weeks ago)
 </details>
 
 <details>
