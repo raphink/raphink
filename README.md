@@ -45,6 +45,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
+- [Poisoning/Webapp/LLM improvements](https://github.com/nvibert/ML-Tutorial/pull/3) on [nvibert/ML-Tutorial](https://github.com/nvibert/ML-Tutorial) (today)
 </details>
 
 <details>
