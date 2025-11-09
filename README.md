@@ -61,11 +61,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👥 My recent followers</summary>
 
+- [<img src="https://avatars.githubusercontent.com/u/1650997?u=9abc2c570e589518e913b4d34e3292d3800de60c&amp;v=4" height="20"/> trinhminhtriet](https://github.com/trinhminhtriet)
 - [<img src="https://avatars.githubusercontent.com/u/40929477?u=90edffda38f20f6c1b2fd9021e112e2d1072a900&amp;v=4" height="20"/> idmcarvalho](https://github.com/idmcarvalho)
 - [<img src="https://avatars.githubusercontent.com/u/152213653?u=991da221455c46c804d6707fc94ee6400d2cd578&amp;v=4" height="20"/> ankit78v](https://github.com/ankit78v)
 - [<img src="https://avatars.githubusercontent.com/u/230525653?u=7c0f3b281e3cf2e8dfc3a7fa82d318c579d9d2fb&amp;v=4" height="20"/> jediVUE](https://github.com/jediVUE)
 - [<img src="https://avatars.githubusercontent.com/u/147196872?v=4" height="20"/> LosDragonflyos](https://github.com/LosDragonflyos)
-- [<img src="https://avatars.githubusercontent.com/u/1595489?u=e314a01af4f5c0485a849c0f9899c6e35659c6f2&amp;v=4" height="20"/> vadim-ux](https://github.com/vadim-ux)
 </details>
 
 
