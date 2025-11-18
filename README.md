@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (5 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (6 days ago)
 - [raphink/raads-r](https://github.com/raphink/raads-r) -  (1 month ago)
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (1 month ago)
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (2 months ago)
@@ -36,7 +36,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.4](https://github.com/cilium/cilium/releases/tag/v1.18.4), 5 days ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.4](https://github.com/cilium/cilium/releases/tag/v1.18.4), 6 days ago) - eBPF-based Networking, Security, and Observability
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.7.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.7.0), 11 months ago) - A Go library for the Instruqt API
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 1 year ago) - A Go library for the Credly API
 - [cc-translators/sagesse](https://github.com/cc-translators/sagesse) ([2017-03-25_1](https://github.com/cc-translators/sagesse/releases/tag/2017-03-25_1), 8 years ago) - « Sagesse pour Aujourd&#39;hui », Chuck Smith
@@ -45,7 +45,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Add Dockerfiles and docker-compose](https://github.com/wrkode/ConfBadger/pull/23) on [wrkode/ConfBadger](https://github.com/wrkode/ConfBadger) (today)
+- [Add Dockerfiles and docker-compose](https://github.com/wrkode/ConfBadger/pull/23) on [wrkode/ConfBadger](https://github.com/wrkode/ConfBadger) (1 day ago)
 - [Poisoning/Webapp/LLM improvements](https://github.com/nvibert/ML-Tutorial/pull/3) on [nvibert/ML-Tutorial](https://github.com/nvibert/ML-Tutorial) (1 week ago)
 </details>
 
