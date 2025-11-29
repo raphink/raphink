@@ -45,7 +45,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Add labels generation ](https://github.com/wrkode/ConfBadger/pull/24) on [wrkode/ConfBadger](https://github.com/wrkode/ConfBadger) (1 day ago)
+- [Add labels generation ](https://github.com/wrkode/ConfBadger/pull/24) on [wrkode/ConfBadger](https://github.com/wrkode/ConfBadger) (2 days ago)
 - [Add Dockerfiles and docker-compose](https://github.com/wrkode/ConfBadger/pull/23) on [wrkode/ConfBadger](https://github.com/wrkode/ConfBadger) (1 week ago)
 - [Poisoning/Webapp/LLM improvements](https://github.com/nvibert/ML-Tutorial/pull/3) on [nvibert/ML-Tutorial](https://github.com/nvibert/ML-Tutorial) (3 weeks ago)
 </details>
