@@ -16,21 +16,21 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
+- [raphink/debate](https://github.com/raphink/debate) - AI-driven debates (today)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (today)
 - [raphink/raads-r](https://github.com/raphink/raads-r) -  (1 month ago)
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (2 months ago)
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (3 months ago)
-- [raphink/conjugame](https://github.com/raphink/conjugame) -  (6 months ago)
 </details>
 
 <details>
 <summary>🌱 My latest personal projects</summary>
 
+- [raphink/debate](https://github.com/raphink/debate) - AI-driven debates
 - [raphink/raads-r](https://github.com/raphink/raads-r) - 
 - [raphink/blankword](https://github.com/raphink/blankword) - 
 - [raphink/conjugame](https://github.com/raphink/conjugame) - 
 - [raphink/realitycheck](https://github.com/raphink/realitycheck) - a lightweight web app designed to help tweens and teens develop critical thinking skills in the age of social media
-- [raphink/scriptoguessr](https://github.com/raphink/scriptoguessr) - A Bible verse localisation game
 </details>
 
 <details>
