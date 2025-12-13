@@ -45,6 +45,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
+- [US6: autocomplete topics](https://github.com/raphink/debate/pull/2) on [raphink/debate](https://github.com/raphink/debate) (today)
 - [list view](https://github.com/raphink/debate/pull/1) on [raphink/debate](https://github.com/raphink/debate) (today)
 - [Add labels generation ](https://github.com/wrkode/ConfBadger/pull/24) on [wrkode/ConfBadger](https://github.com/wrkode/ConfBadger) (2 weeks ago)
 - [Add Dockerfiles and docker-compose](https://github.com/wrkode/ConfBadger/pull/23) on [wrkode/ConfBadger](https://github.com/wrkode/ConfBadger) (3 weeks ago)
