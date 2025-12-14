@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/debate](https://github.com/raphink/debate) - AI-driven debates (1 day ago)
+- [raphink/debate](https://github.com/raphink/debate) - AI-driven debates (today)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (3 days ago)
 - [raphink/raads-r](https://github.com/raphink/raads-r) -  (2 months ago)
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (2 months ago)
@@ -45,10 +45,10 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
+- [Smart topic matching](https://github.com/raphink/debate/pull/3) on [raphink/debate](https://github.com/raphink/debate) (today)
 - [US6: autocomplete topics](https://github.com/raphink/debate/pull/2) on [raphink/debate](https://github.com/raphink/debate) (1 day ago)
 - [list view](https://github.com/raphink/debate/pull/1) on [raphink/debate](https://github.com/raphink/debate) (1 day ago)
 - [Add labels generation ](https://github.com/wrkode/ConfBadger/pull/24) on [wrkode/ConfBadger](https://github.com/wrkode/ConfBadger) (2 weeks ago)
-- [Add Dockerfiles and docker-compose](https://github.com/wrkode/ConfBadger/pull/23) on [wrkode/ConfBadger](https://github.com/wrkode/ConfBadger) (3 weeks ago)
 </details>
 
 <details>
