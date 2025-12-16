@@ -16,8 +16,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/debate](https://github.com/raphink/debate) - AI-driven debates (today)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (4 days ago)
+- [raphink/debate](https://github.com/raphink/debate) - AI-driven debates (1 day ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (5 days ago)
 - [raphink/raads-r](https://github.com/raphink/raads-r) -  (2 months ago)
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (2 months ago)
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (3 months ago)
@@ -45,9 +45,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Add missing world-ipv4 identity](https://github.com/cilium/hubble-ui/pull/1034) on [cilium/hubble-ui](https://github.com/cilium/hubble-ui) (today)
-- [Smart topic matching](https://github.com/raphink/debate/pull/3) on [raphink/debate](https://github.com/raphink/debate) (1 day ago)
-- [US6: autocomplete topics](https://github.com/raphink/debate/pull/2) on [raphink/debate](https://github.com/raphink/debate) (2 days ago)
+- [Add missing world-ipv4 identity](https://github.com/cilium/hubble-ui/pull/1034) on [cilium/hubble-ui](https://github.com/cilium/hubble-ui) (1 day ago)
+- [Smart topic matching](https://github.com/raphink/debate/pull/3) on [raphink/debate](https://github.com/raphink/debate) (2 days ago)
+- [US6: autocomplete topics](https://github.com/raphink/debate/pull/2) on [raphink/debate](https://github.com/raphink/debate) (3 days ago)
 </details>
 
 <details>
