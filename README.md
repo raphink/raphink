@@ -47,7 +47,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 - [Add missing world-ipv4 identity](https://github.com/cilium/hubble-ui/pull/1034) on [cilium/hubble-ui](https://github.com/cilium/hubble-ui) (1 day ago)
 - [Smart topic matching](https://github.com/raphink/debate/pull/3) on [raphink/debate](https://github.com/raphink/debate) (2 days ago)
-- [US6: autocomplete topics](https://github.com/raphink/debate/pull/2) on [raphink/debate](https://github.com/raphink/debate) (3 days ago)
 </details>
 
 <details>
