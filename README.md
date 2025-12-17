@@ -46,7 +46,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
 - [Add missing world-ipv4 identity](https://github.com/cilium/hubble-ui/pull/1034) on [cilium/hubble-ui](https://github.com/cilium/hubble-ui) (2 days ago)
-- [Smart topic matching](https://github.com/raphink/debate/pull/3) on [raphink/debate](https://github.com/raphink/debate) (3 days ago)
 </details>
 
 <details>
