@@ -16,11 +16,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/debate](https://github.com/raphink/debate) - AI-driven debates (3 days ago)
+- [raphink/debate](https://github.com/raphink/debate) - AI-driven debates (4 days ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 week ago)
 - [raphink/raads-r](https://github.com/raphink/raads-r) -  (2 months ago)
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (2 months ago)
-- [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (3 months ago)
+- [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (4 months ago)
 </details>
 
 <details>
@@ -36,7 +36,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.18](https://github.com/cilium/cilium/releases/tag/v1.16.18), today) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.18](https://github.com/cilium/cilium/releases/tag/v1.16.18), 1 day ago) - eBPF-based Networking, Security, and Observability
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.7.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.7.0), 1 year ago) - A Go library for the Instruqt API
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 1 year ago) - A Go library for the Credly API
 - [cc-translators/sagesse](https://github.com/cc-translators/sagesse) ([2017-03-25_1](https://github.com/cc-translators/sagesse/releases/tag/2017-03-25_1), 8 years ago) - « Sagesse pour Aujourd&#39;hui », Chuck Smith
@@ -45,7 +45,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Add missing world-ipv4 identity](https://github.com/cilium/hubble-ui/pull/1034) on [cilium/hubble-ui](https://github.com/cilium/hubble-ui) (3 days ago)
+- [Add missing world-ipv4 identity](https://github.com/cilium/hubble-ui/pull/1034) on [cilium/hubble-ui](https://github.com/cilium/hubble-ui) (4 days ago)
 </details>
 
 <details>
