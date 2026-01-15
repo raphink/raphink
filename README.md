@@ -18,9 +18,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (6 days ago)
 - [raphink/debate](https://github.com/raphink/debate) - AI-driven debates (1 month ago)
+- [wrkode/ConfBadger](https://github.com/wrkode/ConfBadger) - A simple program to create Conference Badges (1 month ago)
 - [raphink/raads-r](https://github.com/raphink/raads-r) -  (3 months ago)
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (3 months ago)
-- [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (4 months ago)
 </details>
 
 <details>
