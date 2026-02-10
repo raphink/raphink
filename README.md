@@ -60,11 +60,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👥 My recent followers</summary>
 
+- [<img src="https://avatars.githubusercontent.com/u/5387930?u=1cd0cfa4ab9c6e30da495e621b850e4f61a203aa&amp;v=4" height="20"/> XiaomingX](https://github.com/XiaomingX)
 - [<img src="https://avatars.githubusercontent.com/u/58666088?u=51b21d8aa9d2933d9738a7693faf123a529b439d&amp;v=4" height="20"/> emilycodestar](https://github.com/emilycodestar)
 - [<img src="https://avatars.githubusercontent.com/u/95491374?v=4" height="20"/> blackcatad](https://github.com/blackcatad)
 - [<img src="https://avatars.githubusercontent.com/u/66364462?u=2bd6ad14082775c2bd26bc789d88af55a0bd04ff&amp;v=4" height="20"/> vigneshs-dev](https://github.com/vigneshs-dev)
 - [<img src="https://avatars.githubusercontent.com/u/126200245?u=a7719e733ec5e0366f1f9343f0d2c25d434a6c0c&amp;v=4" height="20"/> S4IL21](https://github.com/S4IL21)
-- [<img src="https://avatars.githubusercontent.com/u/1650997?u=9abc2c570e589518e913b4d34e3292d3800de60c&amp;v=4" height="20"/> trinhminhtriet](https://github.com/trinhminhtriet)
 </details>
 
 
