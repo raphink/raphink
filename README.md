@@ -20,7 +20,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 - [raphink/debate](https://github.com/raphink/debate) - AI-driven debates (2 months ago)
 - [wrkode/ConfBadger](https://github.com/wrkode/ConfBadger) - A simple program to create Conference Badges (2 months ago)
 - [raphink/raads-r](https://github.com/raphink/raads-r) -  (4 months ago)
-- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (4 months ago)
+- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (5 months ago)
 </details>
 
 <details>
@@ -36,7 +36,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.1](https://github.com/cilium/cilium/releases/tag/v1.19.1), 6 days ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.1](https://github.com/cilium/cilium/releases/tag/v1.19.1), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.7.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.7.0), 1 year ago) - A Go library for the Instruqt API
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 1 year ago) - A Go library for the Credly API
 - [cc-translators/sagesse](https://github.com/cc-translators/sagesse) ([2017-03-25_1](https://github.com/cc-translators/sagesse/releases/tag/2017-03-25_1), 9 years ago) - « Sagesse pour Aujourd&#39;hui », Chuck Smith
@@ -45,7 +45,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Fix IP in CiliumBGPClusterConfig](https://github.com/isovalent/cilium-up-and-running/pull/1) on [isovalent/cilium-up-and-running](https://github.com/isovalent/cilium-up-and-running) (5 days ago)
+- [Fix IP in CiliumBGPClusterConfig](https://github.com/isovalent/cilium-up-and-running/pull/1) on [isovalent/cilium-up-and-running](https://github.com/isovalent/cilium-up-and-running) (6 days ago)
 </details>
 
 <details>
