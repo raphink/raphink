@@ -45,7 +45,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Fix IP in CiliumBGPClusterConfig](https://github.com/isovalent/cilium-up-and-running/pull/1) on [isovalent/cilium-up-and-running](https://github.com/isovalent/cilium-up-and-running) (6 days ago)
+- [Fix IP in CiliumBGPClusterConfig](https://github.com/isovalent/cilium-up-and-running/pull/1) on [isovalent/cilium-up-and-running](https://github.com/isovalent/cilium-up-and-running) (1 week ago)
 </details>
 
 <details>
