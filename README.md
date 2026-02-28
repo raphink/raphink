@@ -63,9 +63,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 - [<img src="https://avatars.githubusercontent.com/u/209529504?u=8e751da98fb9d453656749f01fb5ed50a21fc2ab&amp;v=4" height="20"/> dewhush](https://github.com/dewhush)
 - [<img src="https://avatars.githubusercontent.com/u/25887032?u=c674f28587bb20e2da2c827a78507f6610841692&amp;v=4" height="20"/> fluunke](https://github.com/fluunke)
-- [<img src="https://avatars.githubusercontent.com/u/5387930?u=1cd0cfa4ab9c6e30da495e621b850e4f61a203aa&amp;v=4" height="20"/> XiaomingX](https://github.com/XiaomingX)
 - [<img src="https://avatars.githubusercontent.com/u/58666088?u=51b21d8aa9d2933d9738a7693faf123a529b439d&amp;v=4" height="20"/> emilycodestar](https://github.com/emilycodestar)
 - [<img src="https://avatars.githubusercontent.com/u/95491374?v=4" height="20"/> blackcatad](https://github.com/blackcatad)
+- [<img src="https://avatars.githubusercontent.com/u/66364462?u=2bd6ad14082775c2bd26bc789d88af55a0bd04ff&amp;v=4" height="20"/> vigneshs-dev](https://github.com/vigneshs-dev)
 </details>
 
 
