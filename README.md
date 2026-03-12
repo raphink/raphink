@@ -16,11 +16,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
+- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (today)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 months ago)
 - [raphink/debate](https://github.com/raphink/debate) - AI-driven debates (2 months ago)
 - [wrkode/ConfBadger](https://github.com/wrkode/ConfBadger) - A simple program to create Conference Badges (3 months ago)
 - [raphink/raads-r](https://github.com/raphink/raads-r) -  (5 months ago)
-- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (5 months ago)
 </details>
 
 <details>
@@ -45,6 +45,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
+- [Add challenges type](https://github.com/isovalent/instruqt-go/pull/28) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (today)
 </details>
 
 <details>
