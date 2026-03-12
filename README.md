@@ -45,6 +45,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
+- [Add a UI](https://github.com/cilium/starwars-docker/pull/12) on [cilium/starwars-docker](https://github.com/cilium/starwars-docker) (today)
 - [Add challenges type](https://github.com/isovalent/instruqt-go/pull/28) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (today)
 </details>
 
