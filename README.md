@@ -44,6 +44,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
+- [traffic distribution: support PreferSameZone and PreferSameNode](https://github.com/cilium/cilium/pull/44771) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [Add a UI](https://github.com/cilium/starwars-docker/pull/12) on [cilium/starwars-docker](https://github.com/cilium/starwars-docker) (1 day ago)
 - [Add challenges type](https://github.com/isovalent/instruqt-go/pull/28) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (1 day ago)
 </details>
