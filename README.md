@@ -17,7 +17,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <summary>👷 What I'm currently working on</summary>
 
 - [raphink/edison-archive-mcp](https://github.com/raphink/edison-archive-mcp) - MCP server for the Edison Archive (today)
-- [raphink/geni-mcp](https://github.com/raphink/geni-mcp) - An MCP Server for Geni (1 day ago)
+- [raphink/geni-mcp](https://github.com/raphink/geni-mcp) - An MCP Server for Geni (today)
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (3 days ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 months ago)
 - [raphink/debate](https://github.com/raphink/debate) - AI-driven debates (3 months ago)
@@ -44,6 +44,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
+- [Fix TypeScript parameter properties for Node strip-only mode](https://github.com/raphink/geni-mcp/pull/1) on [raphink/geni-mcp](https://github.com/raphink/geni-mcp) (today)
 - [traffic distribution: support PreferSameZone and PreferSameNode](https://github.com/cilium/cilium/pull/44771) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [Add a UI](https://github.com/cilium/starwars-docker/pull/12) on [cilium/starwars-docker](https://github.com/cilium/starwars-docker) (3 days ago)
 - [Add challenges type](https://github.com/isovalent/instruqt-go/pull/28) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (3 days ago)
