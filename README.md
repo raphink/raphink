@@ -16,21 +16,21 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
+- [raphink/edison-archive-mcp](https://github.com/raphink/edison-archive-mcp) - MCP server for the Edison Archive (today)
 - [raphink/geni-mcp](https://github.com/raphink/geni-mcp) - An MCP Server for Geni (1 day ago)
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (3 days ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 months ago)
 - [raphink/debate](https://github.com/raphink/debate) - AI-driven debates (3 months ago)
-- [wrkode/ConfBadger](https://github.com/wrkode/ConfBadger) - A simple program to create Conference Badges (3 months ago)
 </details>
 
 <details>
 <summary>🌱 My latest personal projects</summary>
 
+- [raphink/edison-archive-mcp](https://github.com/raphink/edison-archive-mcp) - MCP server for the Edison Archive
 - [raphink/geni-mcp](https://github.com/raphink/geni-mcp) - An MCP Server for Geni
 - [raphink/debate](https://github.com/raphink/debate) - AI-driven debates
 - [raphink/raads-r](https://github.com/raphink/raads-r) - 
 - [raphink/blankword](https://github.com/raphink/blankword) - 
-- [raphink/conjugame](https://github.com/raphink/conjugame) - 
 </details>
 
 <details>
