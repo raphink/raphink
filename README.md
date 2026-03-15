@@ -16,10 +16,10 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/geni-mcp](https://github.com/raphink/geni-mcp) - An MCP Server for Geni (today)
-- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (2 days ago)
+- [raphink/geni-mcp](https://github.com/raphink/geni-mcp) - An MCP Server for Geni (1 day ago)
+- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (3 days ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 months ago)
-- [raphink/debate](https://github.com/raphink/debate) - AI-driven debates (2 months ago)
+- [raphink/debate](https://github.com/raphink/debate) - AI-driven debates (3 months ago)
 - [wrkode/ConfBadger](https://github.com/wrkode/ConfBadger) - A simple program to create Conference Badges (3 months ago)
 </details>
 
@@ -44,9 +44,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [traffic distribution: support PreferSameZone and PreferSameNode](https://github.com/cilium/cilium/pull/44771) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
-- [Add a UI](https://github.com/cilium/starwars-docker/pull/12) on [cilium/starwars-docker](https://github.com/cilium/starwars-docker) (2 days ago)
-- [Add challenges type](https://github.com/isovalent/instruqt-go/pull/28) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (2 days ago)
+- [traffic distribution: support PreferSameZone and PreferSameNode](https://github.com/cilium/cilium/pull/44771) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
+- [Add a UI](https://github.com/cilium/starwars-docker/pull/12) on [cilium/starwars-docker](https://github.com/cilium/starwars-docker) (3 days ago)
+- [Add challenges type](https://github.com/isovalent/instruqt-go/pull/28) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (3 days ago)
 </details>
 
 <details>
