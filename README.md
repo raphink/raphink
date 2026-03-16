@@ -44,10 +44,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Fix TypeScript parameter properties for Node strip-only mode](https://github.com/raphink/geni-mcp/pull/1) on [raphink/geni-mcp](https://github.com/raphink/geni-mcp) (1 day ago)
-- [traffic distribution: support PreferSameZone and PreferSameNode](https://github.com/cilium/cilium/pull/44771) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
-- [Add a UI](https://github.com/cilium/starwars-docker/pull/12) on [cilium/starwars-docker](https://github.com/cilium/starwars-docker) (4 days ago)
-- [Add challenges type](https://github.com/isovalent/instruqt-go/pull/28) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (4 days ago)
 </details>
 
 <details>
