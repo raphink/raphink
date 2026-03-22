@@ -60,11 +60,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👥 My recent followers</summary>
 
+- [<img src="https://avatars.githubusercontent.com/u/25791876?u=511812647cd0714a97be74ba2c3e901882089e01&amp;v=4" height="20"/> mesutozsoycom](https://github.com/mesutozsoycom)
 - [<img src="https://avatars.githubusercontent.com/u/5387930?u=1cd0cfa4ab9c6e30da495e621b850e4f61a203aa&amp;v=4" height="20"/> XiaomingX](https://github.com/XiaomingX)
 - [<img src="https://avatars.githubusercontent.com/u/16229960?u=75728269d3cc5ed2e6ff6a0c5ea7796e8312cb89&amp;v=4" height="20"/> acedya](https://github.com/acedya)
 - [<img src="https://avatars.githubusercontent.com/u/209529504?u=8e751da98fb9d453656749f01fb5ed50a21fc2ab&amp;v=4" height="20"/> dewhush](https://github.com/dewhush)
 - [<img src="https://avatars.githubusercontent.com/u/25887032?u=c674f28587bb20e2da2c827a78507f6610841692&amp;v=4" height="20"/> fluunke](https://github.com/fluunke)
-- [<img src="https://avatars.githubusercontent.com/u/58666088?u=51b21d8aa9d2933d9738a7693faf123a529b439d&amp;v=4" height="20"/> emilycodestar](https://github.com/emilycodestar)
 </details>
 
 
