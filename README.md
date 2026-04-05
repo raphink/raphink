@@ -17,8 +17,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <summary>👷 What I'm currently working on</summary>
 
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (1 week ago)
-- [raphink/edison-archive-mcp](https://github.com/raphink/edison-archive-mcp) - MCP server for the Edison Archive (2 weeks ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 weeks ago)
+- [raphink/edison-archive-mcp](https://github.com/raphink/edison-archive-mcp) - MCP server for the Edison Archive (2 weeks ago)
 - [raphink/geni-mcp](https://github.com/raphink/geni-mcp) - An MCP Server for Geni (3 weeks ago)
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (3 weeks ago)
 </details>
