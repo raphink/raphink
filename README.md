@@ -51,11 +51,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>📜 My recent blog posts</summary>
 
+- [The constant background hum](https://dev.to/raphink/the-constant-background-hum-hh7) (today)
+- [What &#34;autistic spectrum&#34; actually means](https://dev.to/raphink/what-autistic-spectrum-actually-means-4djb) (today)
+- [Quirk or wiring?](https://dev.to/raphink/quirk-or-wiring-5a4b) (today)
+- [Improvisation on the Spectrum](https://dev.to/raphink/improvisation-on-the-spectrum-1k8i) (today)
 - [How to Automatically Issue Badges for Instruqt Labs](https://dev.to/raphink/how-to-automatically-issue-badges-for-instruqt-labs-18k5) (1 year ago)
-- [Streamlining Access to Embedded Instruqt Labs](https://dev.to/raphink/streamlining-access-to-embedded-instruqt-labs-4ph9) (2 years ago)
-- [Towards a Modular DevOps Stack](https://dev.to/camptocamp-ops/towards-a-modular-devops-stack-257c) (4 years ago)
-- [A 15-year Puppet Journey](https://dev.to/raphink/a-15-year-puppet-journey-4o39) (4 years ago)
-- [How to allow dynamic Terraform Provider Configuration](https://dev.to/camptocamp-ops/how-to-allow-dynamic-terraform-provider-configuration-20ik) (4 years ago)
 </details>
 
 <details>
