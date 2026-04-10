@@ -51,11 +51,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>📜 My recent blog posts</summary>
 
+- [More autism in IT?](https://dev.to/raphink/more-autism-in-it-22l9) (today)
 - [The constant background hum](https://dev.to/raphink/the-constant-background-hum-hh7) (1 day ago)
 - [What &#34;autistic spectrum&#34; actually means](https://dev.to/raphink/what-autistic-spectrum-actually-means-4djb) (1 day ago)
 - [Quirk or wiring?](https://dev.to/raphink/quirk-or-wiring-5a4b) (1 day ago)
 - [Improvisation on the Spectrum](https://dev.to/raphink/improvisation-on-the-spectrum-1k8i) (1 day ago)
-- [How to Automatically Issue Badges for Instruqt Labs](https://dev.to/raphink/how-to-automatically-issue-badges-for-instruqt-labs-18k5) (2 years ago)
 </details>
 
 <details>
