@@ -16,9 +16,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/raads-r](https://github.com/raphink/raads-r) -  (today)
-- [raphink/geni-mcp](https://github.com/raphink/geni-mcp) - An MCP Server for Geni (2 days ago)
-- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (1 week ago)
+- [raphink/raads-r](https://github.com/raphink/raads-r) -  (1 day ago)
+- [raphink/geni-mcp](https://github.com/raphink/geni-mcp) - An MCP Server for Geni (3 days ago)
+- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (2 weeks ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (3 weeks ago)
 - [raphink/edison-archive-mcp](https://github.com/raphink/edison-archive-mcp) - MCP server for the Edison Archive (3 weeks ago)
 </details>
@@ -51,11 +51,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>📜 My recent blog posts</summary>
 
-- [More autism in IT?](https://dev.to/raphink/more-autism-in-it-22l9) (today)
-- [The constant background hum](https://dev.to/raphink/the-constant-background-hum-hh7) (1 day ago)
-- [What &#34;autistic spectrum&#34; actually means](https://dev.to/raphink/what-autistic-spectrum-actually-means-4djb) (1 day ago)
-- [Quirk or wiring?](https://dev.to/raphink/quirk-or-wiring-5a4b) (1 day ago)
-- [Improvisation on the Spectrum](https://dev.to/raphink/improvisation-on-the-spectrum-1k8i) (1 day ago)
+- [More autism in IT?](https://dev.to/raphink/more-autism-in-it-22l9) (1 day ago)
+- [The constant background hum](https://dev.to/raphink/the-constant-background-hum-hh7) (2 days ago)
+- [What &#34;autistic spectrum&#34; actually means](https://dev.to/raphink/what-autistic-spectrum-actually-means-4djb) (2 days ago)
+- [Quirk or wiring?](https://dev.to/raphink/quirk-or-wiring-5a4b) (2 days ago)
+- [Improvisation on the Spectrum](https://dev.to/raphink/improvisation-on-the-spectrum-1k8i) (2 days ago)
 </details>
 
 <details>
