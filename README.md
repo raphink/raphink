@@ -16,31 +16,30 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/raads-r](https://github.com/raphink/raads-r) -  (3 days ago)
-- [raphink/geni-mcp](https://github.com/raphink/geni-mcp) - An MCP Server for Geni (5 days ago)
-- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (2 weeks ago)
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (4 weeks ago)
-- [raphink/edison-archive-mcp](https://github.com/raphink/edison-archive-mcp) - MCP server for the Edison Archive (4 weeks ago)
+- [raphink/geni-mcp](https://github.com/raphink/geni-mcp) - An MCP Server for Geni (1 week ago)
+- [raphink/edison-archive-mcp](https://github.com/raphink/edison-archive-mcp) - MCP server for the Edison Archive (2 weeks ago)
+- [raphink/newspapers-mcp](https://github.com/raphink/newspapers-mcp) -  (2 weeks ago)
+- [raphink/raads-r](https://github.com/raphink/raads-r) -  (3 weeks ago)
+- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (1 month ago)
 </details>
 
 <details>
 <summary>🌱 My latest personal projects</summary>
 
+- [raphink/newspapers-mcp](https://github.com/raphink/newspapers-mcp) - 
 - [raphink/edison-archive-mcp](https://github.com/raphink/edison-archive-mcp) - MCP server for the Edison Archive
 - [raphink/geni-mcp](https://github.com/raphink/geni-mcp) - An MCP Server for Geni
 - [raphink/debate](https://github.com/raphink/debate) - AI-driven debates
 - [raphink/raads-r](https://github.com/raphink/raads-r) - 
-- [raphink/blankword](https://github.com/raphink/blankword) - 
 </details>
 
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.20.0-pre.1](https://github.com/cilium/cilium/releases/tag/v1.20.0-pre.1), 1 week ago) - eBPF-based Networking, Security, and Observability
-- [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.13.4](https://github.com/cilium/hubble-ui/releases/tag/v0.13.4), 2 months ago) - Observability &amp; Troubleshooting for Kubernetes Services
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.20.0-pre.2](https://github.com/cilium/cilium/releases/tag/v1.20.0-pre.2), 3 days ago) - eBPF-based Networking, Security, and Observability
+- [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.13.5](https://github.com/cilium/hubble-ui/releases/tag/v0.13.5), 3 weeks ago) - Observability &amp; Troubleshooting for Kubernetes Services
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.7.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.7.0), 1 year ago) - A Go library for the Instruqt API
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 2 years ago) - A Go library for the Credly API
-- [cc-translators/sagesse](https://github.com/cc-translators/sagesse) ([2017-03-25_1](https://github.com/cc-translators/sagesse/releases/tag/2017-03-25_1), 9 years ago) - « Sagesse pour Aujourd&#39;hui », Chuck Smith
 </details>
 
 <details>
@@ -51,17 +50,17 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>📜 My recent blog posts</summary>
 
-- [When the sensory threshold moves](https://dev.to/raphink/when-the-sensory-threshold-moves-111p) (today)
-- [More autism in IT?](https://dev.to/raphink/more-autism-in-it-22l9) (3 days ago)
-- [The constant background hum](https://dev.to/raphink/the-constant-background-hum-hh7) (4 days ago)
-- [What &#34;autistic spectrum&#34; actually means](https://dev.to/raphink/what-autistic-spectrum-actually-means-4djb) (4 days ago)
-- [Quirk or wiring?](https://dev.to/raphink/quirk-or-wiring-5a4b) (4 days ago)
+- [You can&#39;t know what you don&#39;t know](https://dev.to/raphink/you-cant-know-what-you-dont-know-37ap) (1 week ago)
+- [&#39;I don&#39;t know&#39; — The invisible crisis](https://dev.to/raphink/i-dont-know-the-invisible-crisis-3383) (1 week ago)
+- [Autism as a catalyst](https://dev.to/raphink/autism-as-a-catalyst-322e) (1 week ago)
+- [Testing GCP Cloud Functions Locally with Docker Compose and Summon](https://dev.to/raphink/testing-gcp-cloud-functions-locally-with-docker-compose-and-summon-4p2i) (1 week ago)
+- [Maintaining friendships on the spectrum](https://dev.to/raphink/maintaining-friendships-on-the-spectrum-42lc) (1 week ago)
 </details>
 
 <details>
 <summary>👥 My recent followers</summary>
 
-- [<img src="https://avatars.githubusercontent.com/u/118323821?u=3bc72672a96c63ad502e98d61e73e131d337daca&amp;v=4" height="20"/> motanelson](https://github.com/motanelson)
+- [<img src="https://avatars.githubusercontent.com/u/118323821?u=319fa53a4756e50ce05984ec1c13e4482ba74c48&amp;v=4" height="20"/> motanelson](https://github.com/motanelson)
 - [<img src="https://avatars.githubusercontent.com/u/25791876?u=511812647cd0714a97be74ba2c3e901882089e01&amp;v=4" height="20"/> mesutozsoycom](https://github.com/mesutozsoycom)
 - [<img src="https://avatars.githubusercontent.com/u/16229960?u=75728269d3cc5ed2e6ff6a0c5ea7796e8312cb89&amp;v=4" height="20"/> acedya](https://github.com/acedya)
 - [<img src="https://avatars.githubusercontent.com/u/209529504?u=8e751da98fb9d453656749f01fb5ed50a21fc2ab&amp;v=4" height="20"/> dewhush](https://github.com/dewhush)
@@ -71,7 +70,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 ### 💚 My awesome sponsors (thank you!)
 
-- [<img src="https://avatars.githubusercontent.com/u/1110127?v=4" height="20"/> kennedye](https://github.com/kennedye) (5 years ago)
+- [<img src="https://avatars.githubusercontent.com/u/1110127?v=4" height="20"/> kennedye](https://github.com/kennedye) (6 years ago)
 
 
 ### 💬 Feedback
