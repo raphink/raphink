@@ -50,7 +50,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>📜 My recent blog posts</summary>
 
-- [You can&#39;t know what you don&#39;t know](https://dev.to/raphink/you-cant-know-what-you-dont-know-37ap) (1 week ago)
+- [You can&#39;t know what you don&#39;t know](https://dev.to/raphink/you-cant-know-what-you-dont-know-37ap) (2 weeks ago)
 - [&#39;I don&#39;t know&#39; — The invisible crisis](https://dev.to/raphink/i-dont-know-the-invisible-crisis-3383) (2 weeks ago)
 - [Autism as a catalyst](https://dev.to/raphink/autism-as-a-catalyst-322e) (2 weeks ago)
 - [Testing GCP Cloud Functions Locally with Docker Compose and Summon](https://dev.to/raphink/testing-gcp-cloud-functions-locally-with-docker-compose-and-summon-4p2i) (2 weeks ago)
