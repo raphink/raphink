@@ -61,7 +61,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <summary>👥 My recent followers</summary>
 
 - [<img src="https://avatars.githubusercontent.com/u/116899779?u=3c5bb888c58eeb599fb7607160157bf1b5e97117&amp;v=4" height="20"/> amancia](https://github.com/amancia)
-- [<img src="https://avatars.githubusercontent.com/u/118323821?u=e697ae8e843c8bff78b685c168d832901cb23fc1&amp;v=4" height="20"/> motanelson](https://github.com/motanelson)
+- [<img src="https://avatars.githubusercontent.com/u/118323821?u=d6ef1c3f491a928cef45ada654980379d386607e&amp;v=4" height="20"/> motanelson](https://github.com/motanelson)
 - [<img src="https://avatars.githubusercontent.com/u/25791876?u=511812647cd0714a97be74ba2c3e901882089e01&amp;v=4" height="20"/> mesutozsoycom](https://github.com/mesutozsoycom)
 - [<img src="https://avatars.githubusercontent.com/u/16229960?u=75728269d3cc5ed2e6ff6a0c5ea7796e8312cb89&amp;v=4" height="20"/> acedya](https://github.com/acedya)
 - [<img src="https://avatars.githubusercontent.com/u/209529504?u=8e751da98fb9d453656749f01fb5ed50a21fc2ab&amp;v=4" height="20"/> dewhush](https://github.com/dewhush)
