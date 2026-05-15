@@ -36,7 +36,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.4](https://github.com/cilium/cilium/releases/tag/v1.19.4), 1 day ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.4](https://github.com/cilium/cilium/releases/tag/v1.19.4), 2 days ago) - eBPF-based Networking, Security, and Observability
 - [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.13.5](https://github.com/cilium/hubble-ui/releases/tag/v0.13.5), 1 month ago) - Observability &amp; Troubleshooting for Kubernetes Services
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.7.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.7.0), 1 year ago) - A Go library for the Instruqt API
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 2 years ago) - A Go library for the Credly API
@@ -53,8 +53,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 - [You can&#39;t know what you don&#39;t know](https://dev.to/raphink/you-cant-know-what-you-dont-know-37ap) (2 weeks ago)
 - [&#39;I don&#39;t know&#39; — The invisible crisis](https://dev.to/raphink/i-dont-know-the-invisible-crisis-3383) (2 weeks ago)
 - [Autism as a catalyst](https://dev.to/raphink/autism-as-a-catalyst-322e) (2 weeks ago)
-- [Testing GCP Cloud Functions Locally with Docker Compose and Summon](https://dev.to/raphink/testing-gcp-cloud-functions-locally-with-docker-compose-and-summon-4p2i) (2 weeks ago)
-- [Maintaining friendships on the spectrum](https://dev.to/raphink/maintaining-friendships-on-the-spectrum-42lc) (2 weeks ago)
+- [Testing GCP Cloud Functions Locally with Docker Compose and Summon](https://dev.to/raphink/testing-gcp-cloud-functions-locally-with-docker-compose-and-summon-4p2i) (3 weeks ago)
+- [Maintaining friendships on the spectrum](https://dev.to/raphink/maintaining-friendships-on-the-spectrum-42lc) (3 weeks ago)
 </details>
 
 <details>
