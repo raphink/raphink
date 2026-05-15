@@ -16,11 +16,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
+- [cc-translators/sagesse](https://github.com/cc-translators/sagesse) - « Sagesse pour Aujourd&#39;hui », Chuck Smith (today)
 - [raphink/geni-mcp](https://github.com/raphink/geni-mcp) - An MCP Server for Geni (2 weeks ago)
 - [raphink/edison-archive-mcp](https://github.com/raphink/edison-archive-mcp) - MCP server for the Edison Archive (3 weeks ago)
 - [raphink/newspapers-mcp](https://github.com/raphink/newspapers-mcp) -  (3 weeks ago)
 - [raphink/raads-r](https://github.com/raphink/raads-r) -  (1 month ago)
-- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (1 month ago)
 </details>
 
 <details>
@@ -40,6 +40,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 - [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.13.5](https://github.com/cilium/hubble-ui/releases/tag/v0.13.5), 1 month ago) - Observability &amp; Troubleshooting for Kubernetes Services
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.7.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.7.0), 1 year ago) - A Go library for the Instruqt API
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 2 years ago) - A Go library for the Credly API
+- [cc-translators/sagesse](https://github.com/cc-translators/sagesse) ([2017-03-25_1](https://github.com/cc-translators/sagesse/releases/tag/2017-03-25_1), 9 years ago) - « Sagesse pour Aujourd&#39;hui », Chuck Smith
 </details>
 
 <details>
