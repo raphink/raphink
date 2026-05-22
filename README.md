@@ -51,11 +51,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>📜 My recent blog posts</summary>
 
+- [Neurodiversity and the two layers of cognition](https://dev.to/raphink/neurodiversity-and-the-two-layers-of-cognition-42dp) (today)
 - [You can&#39;t know what you don&#39;t know](https://dev.to/raphink/you-cant-know-what-you-dont-know-37ap) (3 weeks ago)
 - [&#39;I don&#39;t know&#39; — The invisible crisis](https://dev.to/raphink/i-dont-know-the-invisible-crisis-3383) (3 weeks ago)
 - [Autism as a catalyst](https://dev.to/raphink/autism-as-a-catalyst-322e) (3 weeks ago)
 - [Testing GCP Cloud Functions Locally with Docker Compose and Summon](https://dev.to/raphink/testing-gcp-cloud-functions-locally-with-docker-compose-and-summon-4p2i) (4 weeks ago)
-- [Maintaining friendships on the spectrum](https://dev.to/raphink/maintaining-friendships-on-the-spectrum-42lc) (4 weeks ago)
 </details>
 
 <details>
