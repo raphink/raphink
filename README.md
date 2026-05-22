@@ -16,8 +16,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/maison-bures](https://github.com/raphink/maison-bures) -  (4 days ago)
-- [cc-translators/sagesse](https://github.com/cc-translators/sagesse) - « Sagesse pour Aujourd&#39;hui », Chuck Smith (6 days ago)
+- [raphink/maison-bures](https://github.com/raphink/maison-bures) -  (5 days ago)
+- [cc-translators/sagesse](https://github.com/cc-translators/sagesse) - « Sagesse pour Aujourd&#39;hui », Chuck Smith (1 week ago)
 - [raphink/geni-mcp](https://github.com/raphink/geni-mcp) - An MCP Server for Geni (3 weeks ago)
 - [raphink/newspapers-mcp](https://github.com/raphink/newspapers-mcp) -  (1 month ago)
 - [raphink/edison-archive-mcp](https://github.com/raphink/edison-archive-mcp) - MCP server for the Edison Archive (1 month ago)
@@ -54,8 +54,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 - [You can&#39;t know what you don&#39;t know](https://dev.to/raphink/you-cant-know-what-you-dont-know-37ap) (3 weeks ago)
 - [&#39;I don&#39;t know&#39; — The invisible crisis](https://dev.to/raphink/i-dont-know-the-invisible-crisis-3383) (3 weeks ago)
 - [Autism as a catalyst](https://dev.to/raphink/autism-as-a-catalyst-322e) (3 weeks ago)
-- [Testing GCP Cloud Functions Locally with Docker Compose and Summon](https://dev.to/raphink/testing-gcp-cloud-functions-locally-with-docker-compose-and-summon-4p2i) (3 weeks ago)
-- [Maintaining friendships on the spectrum](https://dev.to/raphink/maintaining-friendships-on-the-spectrum-42lc) (3 weeks ago)
+- [Testing GCP Cloud Functions Locally with Docker Compose and Summon](https://dev.to/raphink/testing-gcp-cloud-functions-locally-with-docker-compose-and-summon-4p2i) (4 weeks ago)
+- [Maintaining friendships on the spectrum](https://dev.to/raphink/maintaining-friendships-on-the-spectrum-42lc) (4 weeks ago)
 </details>
 
 <details>
