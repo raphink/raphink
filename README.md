@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/maison-bures](https://github.com/raphink/maison-bures) -  (1 day ago)
+- [raphink/maison-bures](https://github.com/raphink/maison-bures) -  (2 days ago)
 - [cc-translators/sagesse](https://github.com/cc-translators/sagesse) - « Sagesse pour Aujourd&#39;hui », Chuck Smith (1 week ago)
 - [raphink/geni-mcp](https://github.com/raphink/geni-mcp) - An MCP Server for Geni (3 weeks ago)
 - [raphink/newspapers-mcp](https://github.com/raphink/newspapers-mcp) -  (1 month ago)
@@ -51,11 +51,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>📜 My recent blog posts</summary>
 
-- [Neurodiversity and the two layers of cognition](https://dev.to/raphink/neurodiversity-and-the-two-layers-of-cognition-42dp) (1 day ago)
+- [Neurodiversity and the two layers of cognition](https://dev.to/raphink/neurodiversity-and-the-two-layers-of-cognition-42dp) (2 days ago)
 - [You can&#39;t know what you don&#39;t know](https://dev.to/raphink/you-cant-know-what-you-dont-know-37ap) (3 weeks ago)
 - [&#39;I don&#39;t know&#39; — The invisible crisis](https://dev.to/raphink/i-dont-know-the-invisible-crisis-3383) (3 weeks ago)
 - [Autism as a catalyst](https://dev.to/raphink/autism-as-a-catalyst-322e) (3 weeks ago)
-- [Testing GCP Cloud Functions Locally with Docker Compose and Summon](https://dev.to/raphink/testing-gcp-cloud-functions-locally-with-docker-compose-and-summon-4p2i) (4 weeks ago)
+- [Testing GCP Cloud Functions Locally with Docker Compose and Summon](https://dev.to/raphink/testing-gcp-cloud-functions-locally-with-docker-compose-and-summon-4p2i) (1 month ago)
 </details>
 
 <details>
