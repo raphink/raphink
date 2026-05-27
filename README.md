@@ -51,11 +51,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>📜 My recent blog posts</summary>
 
+- [Rest is not what you think](https://dev.to/raphink/rest-is-not-what-you-think-1mbc) (today)
 - [Sharing is caring](https://dev.to/raphink/sharing-is-caring-1bif) (2 days ago)
 - [Neurodiversity and the two layers of cognition](https://dev.to/raphink/neurodiversity-and-the-two-layers-of-cognition-42dp) (5 days ago)
 - [You can&#39;t know what you don&#39;t know](https://dev.to/raphink/you-cant-know-what-you-dont-know-37ap) (4 weeks ago)
 - [&#39;I don&#39;t know&#39; — The invisible crisis](https://dev.to/raphink/i-dont-know-the-invisible-crisis-3383) (4 weeks ago)
-- [Autism as a catalyst](https://dev.to/raphink/autism-as-a-catalyst-322e) (1 month ago)
 </details>
 
 <details>
