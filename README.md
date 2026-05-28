@@ -16,10 +16,10 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/impnattypo](https://github.com/raphink/impnattypo) - Règles typographiques de l&#39;Imprimerie Nationale (today)
-- [raphink/maison-bures](https://github.com/raphink/maison-bures) -  (2 days ago)
+- [raphink/impnattypo](https://github.com/raphink/impnattypo) - Règles typographiques de l&#39;Imprimerie Nationale (1 day ago)
+- [raphink/maison-bures](https://github.com/raphink/maison-bures) -  (3 days ago)
 - [cc-translators/sagesse](https://github.com/cc-translators/sagesse) - « Sagesse pour Aujourd&#39;hui », Chuck Smith (1 week ago)
-- [raphink/geni-mcp](https://github.com/raphink/geni-mcp) - An MCP Server for Geni (4 weeks ago)
+- [raphink/geni-mcp](https://github.com/raphink/geni-mcp) - An MCP Server for Geni (1 month ago)
 - [raphink/newspapers-mcp](https://github.com/raphink/newspapers-mcp) -  (1 month ago)
 </details>
 
@@ -51,11 +51,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>📜 My recent blog posts</summary>
 
-- [Rest is not what you think](https://dev.to/raphink/rest-is-not-what-you-think-1mbc) (today)
-- [Sharing is caring](https://dev.to/raphink/sharing-is-caring-1bif) (2 days ago)
-- [Neurodiversity and the two layers of cognition](https://dev.to/raphink/neurodiversity-and-the-two-layers-of-cognition-42dp) (5 days ago)
+- [Rest is not what you think](https://dev.to/raphink/rest-is-not-what-you-think-1mbc) (1 day ago)
+- [Sharing is caring](https://dev.to/raphink/sharing-is-caring-1bif) (3 days ago)
+- [Neurodiversity and the two layers of cognition](https://dev.to/raphink/neurodiversity-and-the-two-layers-of-cognition-42dp) (6 days ago)
 - [You can&#39;t know what you don&#39;t know](https://dev.to/raphink/you-cant-know-what-you-dont-know-37ap) (4 weeks ago)
-- [&#39;I don&#39;t know&#39; — The invisible crisis](https://dev.to/raphink/i-dont-know-the-invisible-crisis-3383) (4 weeks ago)
+- [&#39;I don&#39;t know&#39; — The invisible crisis](https://dev.to/raphink/i-dont-know-the-invisible-crisis-3383) (1 month ago)
 </details>
 
 <details>
