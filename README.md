@@ -16,8 +16,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/impnattypo](https://github.com/raphink/impnattypo) - Règles typographiques de l&#39;Imprimerie Nationale (3 days ago)
-- [raphink/maison-bures](https://github.com/raphink/maison-bures) -  (5 days ago)
+- [raphink/impnattypo](https://github.com/raphink/impnattypo) - Règles typographiques de l&#39;Imprimerie Nationale (4 days ago)
+- [raphink/maison-bures](https://github.com/raphink/maison-bures) -  (6 days ago)
 - [cc-translators/sagesse](https://github.com/cc-translators/sagesse) - « Sagesse pour Aujourd&#39;hui », Chuck Smith (2 weeks ago)
 - [raphink/geni-mcp](https://github.com/raphink/geni-mcp) - An MCP Server for Geni (1 month ago)
 - [raphink/newspapers-mcp](https://github.com/raphink/newspapers-mcp) -  (1 month ago)
@@ -51,10 +51,10 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>📜 My recent blog posts</summary>
 
-- [Why autism hasn&#39;t disappeared — a hypothesis](https://dev.to/raphink/why-autism-hasnt-disappeared-a-hypothesis-1b6g) (today)
-- [Two survival systems, two empathy modes](https://dev.to/raphink/two-survival-systems-two-empathy-modes-5nl) (1 day ago)
-- [Rest is not what you think](https://dev.to/raphink/rest-is-not-what-you-think-1mbc) (3 days ago)
-- [Sharing is caring](https://dev.to/raphink/sharing-is-caring-1bif) (5 days ago)
+- [Why autism hasn&#39;t disappeared — a hypothesis](https://dev.to/raphink/why-autism-hasnt-disappeared-a-hypothesis-1b6g) (1 day ago)
+- [Two survival systems, two empathy modes](https://dev.to/raphink/two-survival-systems-two-empathy-modes-5nl) (2 days ago)
+- [Rest is not what you think](https://dev.to/raphink/rest-is-not-what-you-think-1mbc) (4 days ago)
+- [Sharing is caring](https://dev.to/raphink/sharing-is-caring-1bif) (6 days ago)
 - [Neurodiversity and the two layers of cognition](https://dev.to/raphink/neurodiversity-and-the-two-layers-of-cognition-42dp) (1 week ago)
 </details>
 
