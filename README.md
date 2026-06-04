@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/maison-bures](https://github.com/raphink/maison-bures) -  (2 days ago)
+- [raphink/maison-bures](https://github.com/raphink/maison-bures) -  (3 days ago)
 - [raphink/impnattypo](https://github.com/raphink/impnattypo) - Règles typographiques de l&#39;Imprimerie Nationale (1 week ago)
 - [cc-translators/sagesse](https://github.com/cc-translators/sagesse) - « Sagesse pour Aujourd&#39;hui », Chuck Smith (2 weeks ago)
 - [raphink/geni-mcp](https://github.com/raphink/geni-mcp) - An MCP Server for Geni (1 month ago)
@@ -36,7 +36,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.20.0-pre.3](https://github.com/cilium/cilium/releases/tag/v1.20.0-pre.3), 1 day ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.20.0-pre.3](https://github.com/cilium/cilium/releases/tag/v1.20.0-pre.3), 2 days ago) - eBPF-based Networking, Security, and Observability
 - [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.13.5](https://github.com/cilium/hubble-ui/releases/tag/v0.13.5), 1 month ago) - Observability &amp; Troubleshooting for Kubernetes Services
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.7.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.7.0), 1 year ago) - A Go library for the Instruqt API
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 2 years ago) - A Go library for the Credly API
@@ -51,8 +51,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>📜 My recent blog posts</summary>
 
-- [Why autism hasn&#39;t disappeared — a hypothesis](https://dev.to/raphink/why-autism-hasnt-disappeared-a-hypothesis-1b6g) (4 days ago)
-- [Two survival systems, two empathy modes](https://dev.to/raphink/two-survival-systems-two-empathy-modes-5nl) (5 days ago)
+- [Why autism hasn&#39;t disappeared — a hypothesis](https://dev.to/raphink/why-autism-hasnt-disappeared-a-hypothesis-1b6g) (5 days ago)
+- [Two survival systems, two empathy modes](https://dev.to/raphink/two-survival-systems-two-empathy-modes-5nl) (6 days ago)
 - [Rest is not what you think](https://dev.to/raphink/rest-is-not-what-you-think-1mbc) (1 week ago)
 - [Sharing is caring](https://dev.to/raphink/sharing-is-caring-1bif) (1 week ago)
 - [Neurodiversity and the two layers of cognition](https://dev.to/raphink/neurodiversity-and-the-two-layers-of-cognition-42dp) (1 week ago)
