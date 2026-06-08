@@ -52,11 +52,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>📜 My recent blog posts</summary>
 
+- [Return to the Planet of the Autistics](https://dev.to/raphink/return-to-the-planet-of-the-autistics-447g) (today)
 - [Why autism hasn&#39;t disappeared — a hypothesis](https://dev.to/raphink/why-autism-hasnt-disappeared-a-hypothesis-1b6g) (1 week ago)
 - [Two survival systems, two empathy modes](https://dev.to/raphink/two-survival-systems-two-empathy-modes-5nl) (1 week ago)
 - [Rest is not what you think](https://dev.to/raphink/rest-is-not-what-you-think-1mbc) (1 week ago)
 - [Sharing is caring](https://dev.to/raphink/sharing-is-caring-1bif) (2 weeks ago)
-- [Neurodiversity and the two layers of cognition](https://dev.to/raphink/neurodiversity-and-the-two-layers-of-cognition-42dp) (2 weeks ago)
 </details>
 
 <details>
