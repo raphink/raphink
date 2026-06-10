@@ -16,11 +16,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (today)
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (6 days ago)
 - [raphink/maison-bures](https://github.com/raphink/maison-bures) -  (1 week ago)
 - [raphink/impnattypo](https://github.com/raphink/impnattypo) - Règles typographiques de l&#39;Imprimerie Nationale (2 weeks ago)
 - [cc-translators/sagesse](https://github.com/cc-translators/sagesse) - « Sagesse pour Aujourd&#39;hui », Chuck Smith (3 weeks ago)
-- [raphink/geni-mcp](https://github.com/raphink/geni-mcp) - An MCP Server for Geni (1 month ago)
 </details>
 
 <details>
