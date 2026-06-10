@@ -46,6 +46,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
+- [Map Isovalent labs domains to Cisco](https://github.com/disconnectme/disconnect-tracking-protection/pull/438) on [disconnectme/disconnect-tracking-protection](https://github.com/disconnectme/disconnect-tracking-protection) (today)
 - [Add sandbox lib](https://github.com/isovalent/instruqt-go/pull/29) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (6 days ago)
 </details>
 
