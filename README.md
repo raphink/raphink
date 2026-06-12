@@ -16,11 +16,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 day ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 days ago)
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (1 week ago)
 - [raphink/maison-bures](https://github.com/raphink/maison-bures) -  (1 week ago)
 - [raphink/impnattypo](https://github.com/raphink/impnattypo) - Règles typographiques de l&#39;Imprimerie Nationale (2 weeks ago)
-- [cc-translators/sagesse](https://github.com/cc-translators/sagesse) - « Sagesse pour Aujourd&#39;hui », Chuck Smith (3 weeks ago)
+- [cc-translators/sagesse](https://github.com/cc-translators/sagesse) - « Sagesse pour Aujourd&#39;hui », Chuck Smith (4 weeks ago)
 </details>
 
 <details>
@@ -46,16 +46,16 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Map Isovalent labs domains to Cisco](https://github.com/disconnectme/disconnect-tracking-protection/pull/438) on [disconnectme/disconnect-tracking-protection](https://github.com/disconnectme/disconnect-tracking-protection) (1 day ago)
+- [Map Isovalent labs domains to Cisco](https://github.com/disconnectme/disconnect-tracking-protection/pull/438) on [disconnectme/disconnect-tracking-protection](https://github.com/disconnectme/disconnect-tracking-protection) (2 days ago)
 </details>
 
 <details>
 <summary>📜 My recent blog posts</summary>
 
-- [Gen AI is an Amplification Machine](https://dev.to/raphink/gen-ai-is-an-amplification-machine-d54) (today)
-- [Return to the Planet of the Autistics](https://dev.to/raphink/return-to-the-planet-of-the-autistics-447g) (3 days ago)
+- [Gen AI is an Amplification Machine](https://dev.to/raphink/gen-ai-is-an-amplification-machine-d54) (1 day ago)
+- [Return to the Planet of the Autistics](https://dev.to/raphink/return-to-the-planet-of-the-autistics-447g) (4 days ago)
 - [Why autism hasn&#39;t disappeared — a hypothesis](https://dev.to/raphink/why-autism-hasnt-disappeared-a-hypothesis-1b6g) (1 week ago)
-- [Two survival systems, two empathy modes](https://dev.to/raphink/two-survival-systems-two-empathy-modes-5nl) (1 week ago)
+- [Two survival systems, two empathy modes](https://dev.to/raphink/two-survival-systems-two-empathy-modes-5nl) (2 weeks ago)
 - [Rest is not what you think](https://dev.to/raphink/rest-is-not-what-you-think-1mbc) (2 weeks ago)
 </details>
 
