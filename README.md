@@ -64,7 +64,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 - [<img src="https://avatars.githubusercontent.com/u/69414794?u=cd6b987bb23abfc342bad7c6412ac9c2e3ddbe61&amp;v=4" height="20"/> SevenAteNein](https://github.com/SevenAteNein)
 - [<img src="https://avatars.githubusercontent.com/u/116899779?u=3c5bb888c58eeb599fb7607160157bf1b5e97117&amp;v=4" height="20"/> amancia](https://github.com/amancia)
-- [<img src="https://avatars.githubusercontent.com/u/118323821?u=c4c07582e9e5c54e38266e24ff2169ec531f1b75&amp;v=4" height="20"/> motanelson](https://github.com/motanelson)
+- [<img src="https://avatars.githubusercontent.com/u/118323821?u=5a316b2947fed6a99d16b38109b64a9e2c31daf9&amp;v=4" height="20"/> motanelson](https://github.com/motanelson)
 - [<img src="https://avatars.githubusercontent.com/u/25791876?u=511812647cd0714a97be74ba2c3e901882089e01&amp;v=4" height="20"/> mesutozsoycom](https://github.com/mesutozsoycom)
 - [<img src="https://avatars.githubusercontent.com/u/16229960?u=75728269d3cc5ed2e6ff6a0c5ea7796e8312cb89&amp;v=4" height="20"/> acedya](https://github.com/acedya)
 </details>
