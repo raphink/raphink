@@ -52,11 +52,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>📜 My recent blog posts</summary>
 
+- [Defining Autism: The Shadow and the Object](https://dev.to/raphink/defining-autism-the-shadow-and-the-object-3ca7) (today)
 - [Vanity of vanities — on AI slop and the problem of content for content&#39;s sake](https://dev.to/raphink/vanity-of-vanities-on-ai-slop-and-the-problem-of-content-for-contents-sake-4e6l) (today)
 - [Gen AI is an Amplification Machine](https://dev.to/raphink/gen-ai-is-an-amplification-machine-d54) (1 day ago)
 - [Return to the Planet of the Autistics](https://dev.to/raphink/return-to-the-planet-of-the-autistics-447g) (4 days ago)
 - [Why autism hasn&#39;t disappeared — a hypothesis](https://dev.to/raphink/why-autism-hasnt-disappeared-a-hypothesis-1b6g) (1 week ago)
-- [Two survival systems, two empathy modes](https://dev.to/raphink/two-survival-systems-two-empathy-modes-5nl) (2 weeks ago)
 </details>
 
 <details>
