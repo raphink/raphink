@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (today)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 day ago)
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (1 week ago)
 - [raphink/maison-bures](https://github.com/raphink/maison-bures) -  (1 week ago)
 - [raphink/impnattypo](https://github.com/raphink/impnattypo) - Règles typographiques de l&#39;Imprimerie Nationale (2 weeks ago)
@@ -38,7 +38,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.8.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.8.0), 1 week ago) - A Go library for the Instruqt API
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.20.0-pre.3](https://github.com/cilium/cilium/releases/tag/v1.20.0-pre.3), 1 week ago) - eBPF-based Networking, Security, and Observability
-- [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.13.5](https://github.com/cilium/hubble-ui/releases/tag/v0.13.5), 1 month ago) - Observability &amp; Troubleshooting for Kubernetes Services
+- [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.13.5](https://github.com/cilium/hubble-ui/releases/tag/v0.13.5), 2 months ago) - Observability &amp; Troubleshooting for Kubernetes Services
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 2 years ago) - A Go library for the Credly API
 - [cc-translators/sagesse](https://github.com/cc-translators/sagesse) ([2017-03-25_1](https://github.com/cc-translators/sagesse/releases/tag/2017-03-25_1), 9 years ago) - « Sagesse pour Aujourd&#39;hui », Chuck Smith
 </details>
@@ -46,17 +46,17 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Map Isovalent labs domains to Cisco](https://github.com/disconnectme/disconnect-tracking-protection/pull/438) on [disconnectme/disconnect-tracking-protection](https://github.com/disconnectme/disconnect-tracking-protection) (2 days ago)
+- [Map Isovalent labs domains to Cisco](https://github.com/disconnectme/disconnect-tracking-protection/pull/438) on [disconnectme/disconnect-tracking-protection](https://github.com/disconnectme/disconnect-tracking-protection) (3 days ago)
 </details>
 
 <details>
 <summary>📜 My recent blog posts</summary>
 
-- [Defining Autism: The Shadow and the Object](https://dev.to/raphink/defining-autism-the-shadow-and-the-object-3ca7) (today)
-- [Vanity of vanities — on AI slop and the problem of content for content&#39;s sake](https://dev.to/raphink/vanity-of-vanities-on-ai-slop-and-the-problem-of-content-for-contents-sake-4e6l) (today)
-- [Gen AI is an Amplification Machine](https://dev.to/raphink/gen-ai-is-an-amplification-machine-d54) (1 day ago)
-- [Return to the Planet of the Autistics](https://dev.to/raphink/return-to-the-planet-of-the-autistics-447g) (4 days ago)
-- [Why autism hasn&#39;t disappeared — a hypothesis](https://dev.to/raphink/why-autism-hasnt-disappeared-a-hypothesis-1b6g) (1 week ago)
+- [Defining Autism: The Shadow and the Object](https://dev.to/raphink/defining-autism-the-shadow-and-the-object-3ca7) (1 day ago)
+- [Vanity of vanities — on AI slop and the problem of content for content&#39;s sake](https://dev.to/raphink/vanity-of-vanities-on-ai-slop-and-the-problem-of-content-for-contents-sake-4e6l) (1 day ago)
+- [Gen AI is an Amplification Machine](https://dev.to/raphink/gen-ai-is-an-amplification-machine-d54) (2 days ago)
+- [Return to the Planet of the Autistics](https://dev.to/raphink/return-to-the-planet-of-the-autistics-447g) (5 days ago)
+- [Why autism hasn&#39;t disappeared — a hypothesis](https://dev.to/raphink/why-autism-hasnt-disappeared-a-hypothesis-1b6g) (2 weeks ago)
 </details>
 
 <details>
