@@ -46,7 +46,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Map Isovalent labs domains to Cisco](https://github.com/disconnectme/disconnect-tracking-protection/pull/438) on [disconnectme/disconnect-tracking-protection](https://github.com/disconnectme/disconnect-tracking-protection) (4 days ago)
 </details>
 
 <details>
