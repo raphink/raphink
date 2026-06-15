@@ -46,6 +46,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
+- [fix sec issues](https://github.com/isovalent/credly-go/pull/4) on [isovalent/credly-go](https://github.com/isovalent/credly-go) (today)
 </details>
 
 <details>
