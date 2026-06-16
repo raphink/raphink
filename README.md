@@ -16,11 +16,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
+- [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (today)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (4 days ago)
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (1 week ago)
 - [raphink/maison-bures](https://github.com/raphink/maison-bures) -  (2 weeks ago)
 - [raphink/impnattypo](https://github.com/raphink/impnattypo) - Règles typographiques de l&#39;Imprimerie Nationale (2 weeks ago)
-- [cc-translators/sagesse](https://github.com/cc-translators/sagesse) - « Sagesse pour Aujourd&#39;hui », Chuck Smith (1 month ago)
 </details>
 
 <details>
