@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (3 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (4 days ago)
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (1 week ago)
 - [raphink/maison-bures](https://github.com/raphink/maison-bures) -  (2 weeks ago)
 - [raphink/impnattypo](https://github.com/raphink/impnattypo) - Règles typographiques de l&#39;Imprimerie Nationale (2 weeks ago)
@@ -37,7 +37,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.8.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.8.0), 1 week ago) - A Go library for the Instruqt API
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.20.0-pre.3](https://github.com/cilium/cilium/releases/tag/v1.20.0-pre.3), 1 week ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.20.0-pre.3](https://github.com/cilium/cilium/releases/tag/v1.20.0-pre.3), 2 weeks ago) - eBPF-based Networking, Security, and Observability
 - [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.13.5](https://github.com/cilium/hubble-ui/releases/tag/v0.13.5), 2 months ago) - Observability &amp; Troubleshooting for Kubernetes Services
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 2 years ago) - A Go library for the Credly API
 - [cc-translators/sagesse](https://github.com/cc-translators/sagesse) ([2017-03-25_1](https://github.com/cc-translators/sagesse/releases/tag/2017-03-25_1), 9 years ago) - « Sagesse pour Aujourd&#39;hui », Chuck Smith
@@ -46,16 +46,16 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [fix sec issues](https://github.com/isovalent/credly-go/pull/4) on [isovalent/credly-go](https://github.com/isovalent/credly-go) (today)
+- [fix sec issues](https://github.com/isovalent/credly-go/pull/4) on [isovalent/credly-go](https://github.com/isovalent/credly-go) (1 day ago)
 </details>
 
 <details>
 <summary>📜 My recent blog posts</summary>
 
-- [AI Doesn&#39;t Hallucinate. Your Architecture Does.](https://dev.to/raphink/ai-doesnt-hallucinate-your-architecture-does-32pe) (today)
-- [Defining Autism: The Shadow and the Object](https://dev.to/raphink/defining-autism-the-shadow-and-the-object-3ca7) (3 days ago)
-- [Vanity of vanities — on AI slop and the problem of content for content&#39;s sake](https://dev.to/raphink/vanity-of-vanities-on-ai-slop-and-the-problem-of-content-for-contents-sake-4e6l) (3 days ago)
-- [Gen AI is an Amplification Machine](https://dev.to/raphink/gen-ai-is-an-amplification-machine-d54) (4 days ago)
+- [AI Doesn&#39;t Hallucinate. Your Architecture Does.](https://dev.to/raphink/ai-doesnt-hallucinate-your-architecture-does-32pe) (1 day ago)
+- [Defining Autism: The Shadow and the Object](https://dev.to/raphink/defining-autism-the-shadow-and-the-object-3ca7) (4 days ago)
+- [Vanity of vanities — on AI slop and the problem of content for content&#39;s sake](https://dev.to/raphink/vanity-of-vanities-on-ai-slop-and-the-problem-of-content-for-contents-sake-4e6l) (4 days ago)
+- [Gen AI is an Amplification Machine](https://dev.to/raphink/gen-ai-is-an-amplification-machine-d54) (5 days ago)
 - [Return to the Planet of the Autistics](https://dev.to/raphink/return-to-the-planet-of-the-autistics-447g) (1 week ago)
 </details>
 
