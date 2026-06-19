@@ -26,11 +26,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🌱 My latest personal projects</summary>
 
+- [raphink/panelgen](https://github.com/raphink/panelgen) - Generate image panels from YAML &#43; genAI
 - [raphink/maison-bures](https://github.com/raphink/maison-bures) - 
 - [raphink/newspapers-mcp](https://github.com/raphink/newspapers-mcp) - 
 - [raphink/edison-archive-mcp](https://github.com/raphink/edison-archive-mcp) - MCP server for the Edison Archive
 - [raphink/geni-mcp](https://github.com/raphink/geni-mcp) - An MCP Server for Geni
-- [raphink/debate](https://github.com/raphink/debate) - AI-driven debates
 </details>
 
 <details>
