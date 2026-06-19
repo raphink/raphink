@@ -16,31 +16,31 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (today)
+- [raphink/panelgen](https://github.com/raphink/panelgen) - Generate image panels from YAML &#43; genAI (today)
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (3 days ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 week ago)
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (2 weeks ago)
 - [raphink/maison-bures](https://github.com/raphink/maison-bures) -  (2 weeks ago)
-- [raphink/impnattypo](https://github.com/raphink/impnattypo) - Règles typographiques de l&#39;Imprimerie Nationale (3 weeks ago)
 </details>
 
 <details>
 <summary>🌱 My latest personal projects</summary>
 
+- [raphink/homebrew-tap](https://github.com/raphink/homebrew-tap) - 
 - [raphink/panelgen](https://github.com/raphink/panelgen) - Generate image panels from YAML &#43; genAI
 - [raphink/maison-bures](https://github.com/raphink/maison-bures) - 
 - [raphink/newspapers-mcp](https://github.com/raphink/newspapers-mcp) - 
 - [raphink/edison-archive-mcp](https://github.com/raphink/edison-archive-mcp) - MCP server for the Edison Archive
-- [raphink/geni-mcp](https://github.com/raphink/geni-mcp) - An MCP Server for Geni
 </details>
 
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
+- [raphink/panelgen](https://github.com/raphink/panelgen) ([v0.2.2](https://github.com/raphink/panelgen/releases/tag/v0.2.2), today) - Generate image panels from YAML &#43; genAI
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.5](https://github.com/cilium/cilium/releases/tag/v1.19.5), 3 days ago) - eBPF-based Networking, Security, and Observability
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.8.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.8.0), 2 weeks ago) - A Go library for the Instruqt API
 - [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.13.5](https://github.com/cilium/hubble-ui/releases/tag/v0.13.5), 2 months ago) - Observability &amp; Troubleshooting for Kubernetes Services
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 2 years ago) - A Go library for the Credly API
-- [cc-translators/sagesse](https://github.com/cc-translators/sagesse) ([2017-03-25_1](https://github.com/cc-translators/sagesse/releases/tag/2017-03-25_1), 9 years ago) - « Sagesse pour Aujourd&#39;hui », Chuck Smith
 </details>
 
 <details>
