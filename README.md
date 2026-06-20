@@ -16,9 +16,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (today)
-- [raphink/panelgen](https://github.com/raphink/panelgen) - Generate image panels from YAML &#43; genAI (today)
-- [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (3 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (1 day ago)
+- [raphink/panelgen](https://github.com/raphink/panelgen) - Generate image panels from YAML &#43; genAI (1 day ago)
+- [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (4 days ago)
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (2 weeks ago)
 - [raphink/maison-bures](https://github.com/raphink/maison-bures) -  (2 weeks ago)
 </details>
@@ -36,8 +36,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [raphink/panelgen](https://github.com/raphink/panelgen) ([v0.3.0](https://github.com/raphink/panelgen/releases/tag/v0.3.0), today) - Generate image panels from YAML &#43; genAI
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.5](https://github.com/cilium/cilium/releases/tag/v1.19.5), 3 days ago) - eBPF-based Networking, Security, and Observability
+- [raphink/panelgen](https://github.com/raphink/panelgen) ([v0.3.0](https://github.com/raphink/panelgen/releases/tag/v0.3.0), 1 day ago) - Generate image panels from YAML &#43; genAI
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.5](https://github.com/cilium/cilium/releases/tag/v1.19.5), 4 days ago) - eBPF-based Networking, Security, and Observability
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.8.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.8.0), 2 weeks ago) - A Go library for the Instruqt API
 - [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.13.5](https://github.com/cilium/hubble-ui/releases/tag/v0.13.5), 2 months ago) - Observability &amp; Troubleshooting for Kubernetes Services
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 2 years ago) - A Go library for the Credly API
@@ -46,14 +46,14 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [fix sec issues](https://github.com/isovalent/credly-go/pull/4) on [isovalent/credly-go](https://github.com/isovalent/credly-go) (4 days ago)
+- [fix sec issues](https://github.com/isovalent/credly-go/pull/4) on [isovalent/credly-go](https://github.com/isovalent/credly-go) (5 days ago)
 </details>
 
 <details>
 <summary>📜 My recent blog posts</summary>
 
-- [We&#39;re at Risk of Losing Human Dignity to Machine Productivity](https://dev.to/raphink/were-at-risk-of-losing-human-dignity-to-machine-productivity-lip) (2 days ago)
-- [AI Doesn&#39;t Hallucinate. Your Architecture Does.](https://dev.to/raphink/ai-doesnt-hallucinate-your-architecture-does-32pe) (4 days ago)
+- [We&#39;re at Risk of Losing Human Dignity to Machine Productivity](https://dev.to/raphink/were-at-risk-of-losing-human-dignity-to-machine-productivity-lip) (3 days ago)
+- [AI Doesn&#39;t Hallucinate. Your Architecture Does.](https://dev.to/raphink/ai-doesnt-hallucinate-your-architecture-does-32pe) (5 days ago)
 - [Defining Autism: The Shadow and the Object](https://dev.to/raphink/defining-autism-the-shadow-and-the-object-3ca7) (1 week ago)
 - [Vanity of vanities — on AI slop and the problem of content for content&#39;s sake](https://dev.to/raphink/vanity-of-vanities-on-ai-slop-and-the-problem-of-content-for-contents-sake-4e6l) (1 week ago)
 - [Gen AI is an Amplification Machine](https://dev.to/raphink/gen-ai-is-an-amplification-machine-d54) (1 week ago)
