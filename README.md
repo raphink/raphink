@@ -16,27 +16,27 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (today)
 - [raphink/panelgen](https://github.com/raphink/panelgen) - Generate image panels from YAML &#43; genAI (today)
+- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (today)
+- [raphink/autism-carousels](https://github.com/raphink/autism-carousels) -  (today)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (2 days ago)
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (5 days ago)
-- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (2 weeks ago)
 </details>
 
 <details>
 <summary>🌱 My latest personal projects</summary>
 
+- [raphink/autism-carousels](https://github.com/raphink/autism-carousels) - 
 - [raphink/homebrew-tap](https://github.com/raphink/homebrew-tap) - 
 - [raphink/panelgen](https://github.com/raphink/panelgen) - Generate image panels from YAML &#43; genAI
 - [raphink/maison-bures](https://github.com/raphink/maison-bures) - 
 - [raphink/newspapers-mcp](https://github.com/raphink/newspapers-mcp) - 
-- [raphink/edison-archive-mcp](https://github.com/raphink/edison-archive-mcp) - MCP server for the Edison Archive
 </details>
 
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [raphink/panelgen](https://github.com/raphink/panelgen) ([v0.3.1](https://github.com/raphink/panelgen/releases/tag/v0.3.1), 1 day ago) - Generate image panels from YAML &#43; genAI
+- [raphink/panelgen](https://github.com/raphink/panelgen) ([v0.4.0](https://github.com/raphink/panelgen/releases/tag/v0.4.0), today) - Generate image panels from YAML &#43; genAI
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.5](https://github.com/cilium/cilium/releases/tag/v1.19.5), 5 days ago) - eBPF-based Networking, Security, and Observability
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.8.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.8.0), 2 weeks ago) - A Go library for the Instruqt API
 - [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.13.5](https://github.com/cilium/hubble-ui/releases/tag/v0.13.5), 2 months ago) - Observability &amp; Troubleshooting for Kubernetes Services
