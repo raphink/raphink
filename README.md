@@ -17,10 +17,10 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <summary>👷 What I'm currently working on</summary>
 
 - [raphink/panelgen](https://github.com/raphink/panelgen) - Generate image panels from YAML &#43; genAI (today)
+- [raphink/blog](https://github.com/raphink/blog) -  (today)
 - [raphink/autism-carousels](https://github.com/raphink/autism-carousels) -  (1 day ago)
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (3 days ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (5 days ago)
-- [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (1 week ago)
 </details>
 
 <details>
