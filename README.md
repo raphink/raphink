@@ -16,10 +16,10 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/panelgen](https://github.com/raphink/panelgen) - Generate image panels from YAML &#43; genAI (today)
-- [raphink/autism-carousels](https://github.com/raphink/autism-carousels) -  (today)
-- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (2 days ago)
-- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (4 days ago)
+- [raphink/panelgen](https://github.com/raphink/panelgen) - Generate image panels from YAML &#43; genAI (1 day ago)
+- [raphink/autism-carousels](https://github.com/raphink/autism-carousels) -  (1 day ago)
+- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (3 days ago)
+- [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (5 days ago)
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) - A Go library for the Credly API (1 week ago)
 </details>
 
@@ -36,7 +36,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [raphink/panelgen](https://github.com/raphink/panelgen) ([v0.7.0](https://github.com/raphink/panelgen/releases/tag/v0.7.0), today) - Generate image panels from YAML &#43; genAI
+- [raphink/panelgen](https://github.com/raphink/panelgen) ([v0.7.0](https://github.com/raphink/panelgen/releases/tag/v0.7.0), 1 day ago) - Generate image panels from YAML &#43; genAI
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.5](https://github.com/cilium/cilium/releases/tag/v1.19.5), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.8.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.8.0), 2 weeks ago) - A Go library for the Instruqt API
 - [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.13.5](https://github.com/cilium/hubble-ui/releases/tag/v0.13.5), 2 months ago) - Observability &amp; Troubleshooting for Kubernetes Services
@@ -52,8 +52,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>📜 My recent blog posts</summary>
 
-- [Four years chasing a consistent eBee — and what I built when I finally caught one](https://dev.to/raphink/four-years-chasing-a-consistent-ebee-and-what-i-built-when-i-finally-caught-one-35je) (today)
-- [We&#39;re at Risk of Losing Human Dignity to Machine Productivity](https://dev.to/raphink/were-at-risk-of-losing-human-dignity-to-machine-productivity-lip) (6 days ago)
+- [Four years chasing a consistent eBee — and what I built when I finally caught one](https://dev.to/raphink/four-years-chasing-a-consistent-ebee-and-what-i-built-when-i-finally-caught-one-35je) (1 day ago)
+- [We&#39;re at Risk of Losing Human Dignity to Machine Productivity](https://dev.to/raphink/were-at-risk-of-losing-human-dignity-to-machine-productivity-lip) (1 week ago)
 - [AI Doesn&#39;t Hallucinate. Your Architecture Does.](https://dev.to/raphink/ai-doesnt-hallucinate-your-architecture-does-32pe) (1 week ago)
 - [Defining Autism: The Shadow and the Object](https://dev.to/raphink/defining-autism-the-shadow-and-the-object-3ca7) (1 week ago)
 - [Vanity of vanities — on AI slop and the problem of content for content&#39;s sake](https://dev.to/raphink/vanity-of-vanities-on-ai-slop-and-the-problem-of-content-for-contents-sake-4e6l) (1 week ago)
