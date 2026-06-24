@@ -65,7 +65,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 - [<img src="https://avatars.githubusercontent.com/u/235065808?u=a1b0635522ae3443c108b80c2322701b6be8899b&amp;v=4" height="20"/> yumiaura](https://github.com/yumiaura)
 - [<img src="https://avatars.githubusercontent.com/u/69414794?u=cd6b987bb23abfc342bad7c6412ac9c2e3ddbe61&amp;v=4" height="20"/> SevenAteNein](https://github.com/SevenAteNein)
 - [<img src="https://avatars.githubusercontent.com/u/116899779?u=3c5bb888c58eeb599fb7607160157bf1b5e97117&amp;v=4" height="20"/> amancia](https://github.com/amancia)
-- [<img src="https://avatars.githubusercontent.com/u/118323821?u=a19eafbca688c382806b0fd98f3c26bb5897db22&amp;v=4" height="20"/> motanelson](https://github.com/motanelson)
+- [<img src="https://avatars.githubusercontent.com/u/118323821?u=cd170ab0fef4513e55595f437dfa158498c1d645&amp;v=4" height="20"/> motanelson](https://github.com/motanelson)
 - [<img src="https://avatars.githubusercontent.com/u/25791876?u=511812647cd0714a97be74ba2c3e901882089e01&amp;v=4" height="20"/> mesutozsoycom](https://github.com/mesutozsoycom)
 </details>
 
