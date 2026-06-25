@@ -16,8 +16,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
+- [raphink/blog](https://github.com/raphink/blog) -  (today)
 - [raphink/panelgen](https://github.com/raphink/panelgen) - Generate image panels from YAML &#43; genAI (1 day ago)
-- [raphink/blog](https://github.com/raphink/blog) -  (1 day ago)
 - [raphink/autism-carousels](https://github.com/raphink/autism-carousels) -  (2 days ago)
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (4 days ago)
 - [raphink/dotfiles](https://github.com/raphink/dotfiles) -  (6 days ago)
