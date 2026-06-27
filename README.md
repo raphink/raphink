@@ -16,10 +16,10 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (today)
+- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (today)
 - [raphink/impnattypo](https://github.com/raphink/impnattypo) - Règles typographiques de l&#39;Imprimerie Nationale (today)
 - [raphink/blog](https://github.com/raphink/blog) -  (today)
-- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (2 days ago)
+- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (today)
 - [raphink/panelgen](https://github.com/raphink/panelgen) - Generate image panels from YAML &#43; genAI (3 days ago)
 </details>
 
@@ -46,6 +46,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
+- [invite: add WithTracks() support](https://github.com/isovalent/instruqt-go/pull/30) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (today)
 - [fix sec issues](https://github.com/isovalent/credly-go/pull/4) on [isovalent/credly-go](https://github.com/isovalent/credly-go) (1 week ago)
 </details>
 
