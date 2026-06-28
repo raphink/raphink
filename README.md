@@ -53,11 +53,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>📜 My recent blog posts</summary>
 
+- [We Let Sci-Fi Authors Code AI For Us](https://dev.to/raphink/we-let-sci-fi-authors-code-ai-for-us-1j1e) (today)
 - [Four years chasing a consistent eBee — and what I built when I finally caught one](https://dev.to/raphink/four-years-chasing-a-consistent-ebee-and-what-i-built-when-i-finally-caught-one-35je) (5 days ago)
 - [We&#39;re at Risk of Losing Human Dignity to Machine Productivity](https://dev.to/raphink/were-at-risk-of-losing-human-dignity-to-machine-productivity-lip) (1 week ago)
 - [AI Doesn&#39;t Hallucinate. Your Architecture Does.](https://dev.to/raphink/ai-doesnt-hallucinate-your-architecture-does-32pe) (1 week ago)
 - [Defining Autism: The Shadow and the Object](https://dev.to/raphink/defining-autism-the-shadow-and-the-object-3ca7) (2 weeks ago)
-- [Vanity of vanities — on AI slop and the problem of content for content&#39;s sake](https://dev.to/raphink/vanity-of-vanities-on-ai-slop-and-the-problem-of-content-for-contents-sake-4e6l) (2 weeks ago)
 </details>
 
 <details>
