@@ -16,8 +16,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
+- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (today)
 - [raphink/blog](https://github.com/raphink/blog) -  (2 days ago)
-- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (3 days ago)
 - [raphink/impnattypo](https://github.com/raphink/impnattypo) - Règles typographiques de l&#39;Imprimerie Nationale (3 days ago)
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (3 days ago)
 - [raphink/panelgen](https://github.com/raphink/panelgen) - Generate image panels from YAML &#43; genAI (6 days ago)
@@ -46,6 +46,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
+- [Preserve user context for parsed challenge assignments](https://github.com/isovalent/instruqt-go/pull/31) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (today)
 - [invite: add WithTracks() support](https://github.com/isovalent/instruqt-go/pull/30) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (3 days ago)
 </details>
 
