@@ -47,7 +47,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
 - [Preserve user context for parsed challenge assignments](https://github.com/isovalent/instruqt-go/pull/31) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (1 day ago)
-- [invite: add WithTracks() support](https://github.com/isovalent/instruqt-go/pull/30) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (4 days ago)
 </details>
 
 <details>
