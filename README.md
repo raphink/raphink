@@ -16,11 +16,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (today)
-- [raphink/autism-carousels](https://github.com/raphink/autism-carousels) -  (today)
-- [raphink/blog](https://github.com/raphink/blog) -  (2 days ago)
-- [raphink/impnattypo](https://github.com/raphink/impnattypo) - Règles typographiques de l&#39;Imprimerie Nationale (3 days ago)
-- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (3 days ago)
+- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (1 day ago)
+- [raphink/autism-carousels](https://github.com/raphink/autism-carousels) -  (1 day ago)
+- [raphink/blog](https://github.com/raphink/blog) -  (3 days ago)
+- [raphink/impnattypo](https://github.com/raphink/impnattypo) - Règles typographiques de l&#39;Imprimerie Nationale (4 days ago)
+- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (4 days ago)
 </details>
 
 <details>
@@ -36,7 +36,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [raphink/panelgen](https://github.com/raphink/panelgen) ([v0.10.0](https://github.com/raphink/panelgen/releases/tag/v0.10.0), 6 days ago) - Generate image panels from YAML &#43; genAI
+- [raphink/panelgen](https://github.com/raphink/panelgen) ([v0.10.0](https://github.com/raphink/panelgen/releases/tag/v0.10.0), 1 week ago) - Generate image panels from YAML &#43; genAI
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.5](https://github.com/cilium/cilium/releases/tag/v1.19.5), 2 weeks ago) - eBPF-based Networking, Security, and Observability
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.8.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.8.0), 3 weeks ago) - A Go library for the Instruqt API
 - [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.13.5](https://github.com/cilium/hubble-ui/releases/tag/v0.13.5), 2 months ago) - Observability &amp; Troubleshooting for Kubernetes Services
@@ -46,16 +46,16 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Preserve user context for parsed challenge assignments](https://github.com/isovalent/instruqt-go/pull/31) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (today)
-- [invite: add WithTracks() support](https://github.com/isovalent/instruqt-go/pull/30) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (3 days ago)
+- [Preserve user context for parsed challenge assignments](https://github.com/isovalent/instruqt-go/pull/31) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (1 day ago)
+- [invite: add WithTracks() support](https://github.com/isovalent/instruqt-go/pull/30) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (4 days ago)
 </details>
 
 <details>
 <summary>📜 My recent blog posts</summary>
 
-- [We Let Sci-Fi Authors Code AI For Us](https://dev.to/raphink/we-let-sci-fi-authors-code-ai-for-us-1j1e) (2 days ago)
+- [We Let Sci-Fi Authors Code AI For Us](https://dev.to/raphink/we-let-sci-fi-authors-code-ai-for-us-1j1e) (3 days ago)
 - [Four years chasing a consistent eBee — and what I built when I finally caught one](https://dev.to/raphink/four-years-chasing-a-consistent-ebee-and-what-i-built-when-i-finally-caught-one-35je) (1 week ago)
-- [We&#39;re at Risk of Losing Human Dignity to Machine Productivity](https://dev.to/raphink/were-at-risk-of-losing-human-dignity-to-machine-productivity-lip) (1 week ago)
+- [We&#39;re at Risk of Losing Human Dignity to Machine Productivity](https://dev.to/raphink/were-at-risk-of-losing-human-dignity-to-machine-productivity-lip) (2 weeks ago)
 - [AI Doesn&#39;t Hallucinate. Your Architecture Does.](https://dev.to/raphink/ai-doesnt-hallucinate-your-architecture-does-32pe) (2 weeks ago)
 - [Defining Autism: The Shadow and the Object](https://dev.to/raphink/defining-autism-the-shadow-and-the-object-3ca7) (2 weeks ago)
 </details>
