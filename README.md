@@ -16,11 +16,11 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (2 days ago)
-- [raphink/autism-carousels](https://github.com/raphink/autism-carousels) -  (2 days ago)
-- [raphink/blog](https://github.com/raphink/blog) -  (4 days ago)
-- [raphink/impnattypo](https://github.com/raphink/impnattypo) - Règles typographiques de l&#39;Imprimerie Nationale (5 days ago)
-- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (5 days ago)
+- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (3 days ago)
+- [raphink/autism-carousels](https://github.com/raphink/autism-carousels) -  (3 days ago)
+- [raphink/blog](https://github.com/raphink/blog) -  (5 days ago)
+- [raphink/impnattypo](https://github.com/raphink/impnattypo) - Règles typographiques de l&#39;Imprimerie Nationale (6 days ago)
+- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (6 days ago)
 </details>
 
 <details>
@@ -46,17 +46,17 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Preserve user context for parsed challenge assignments](https://github.com/isovalent/instruqt-go/pull/31) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (2 days ago)
+- [Preserve user context for parsed challenge assignments](https://github.com/isovalent/instruqt-go/pull/31) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (3 days ago)
 </details>
 
 <details>
 <summary>📜 My recent blog posts</summary>
 
-- [We Let Sci-Fi Authors Code AI For Us](https://dev.to/raphink/we-let-sci-fi-authors-code-ai-for-us-1j1e) (4 days ago)
+- [We Let Sci-Fi Authors Code AI For Us](https://dev.to/raphink/we-let-sci-fi-authors-code-ai-for-us-1j1e) (5 days ago)
 - [Four years chasing a consistent eBee — and what I built when I finally caught one](https://dev.to/raphink/four-years-chasing-a-consistent-ebee-and-what-i-built-when-i-finally-caught-one-35je) (1 week ago)
 - [We&#39;re at Risk of Losing Human Dignity to Machine Productivity](https://dev.to/raphink/were-at-risk-of-losing-human-dignity-to-machine-productivity-lip) (2 weeks ago)
 - [AI Doesn&#39;t Hallucinate. Your Architecture Does.](https://dev.to/raphink/ai-doesnt-hallucinate-your-architecture-does-32pe) (2 weeks ago)
-- [Defining Autism: The Shadow and the Object](https://dev.to/raphink/defining-autism-the-shadow-and-the-object-3ca7) (2 weeks ago)
+- [Defining Autism: The Shadow and the Object](https://dev.to/raphink/defining-autism-the-shadow-and-the-object-3ca7) (3 weeks ago)
 </details>
 
 <details>
