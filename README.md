@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [raphink/panelgen](https://github.com/raphink/panelgen) - Generate image panels from YAML &#43; genAI (2 days ago)
+- [raphink/panelgen](https://github.com/raphink/panelgen) - Generate image panels from YAML &#43; genAI (today)
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (5 days ago)
 - [raphink/autism-carousels](https://github.com/raphink/autism-carousels) -  (5 days ago)
 - [raphink/blog](https://github.com/raphink/blog) -  (1 week ago)
@@ -36,8 +36,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
+- [raphink/panelgen](https://github.com/raphink/panelgen) ([v0.12.0](https://github.com/raphink/panelgen/releases/tag/v0.12.0), today) - Generate image panels from YAML &#43; genAI
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.20.0-pre.4](https://github.com/cilium/cilium/releases/tag/v1.20.0-pre.4), 2 days ago) - eBPF-based Networking, Security, and Observability
-- [raphink/panelgen](https://github.com/raphink/panelgen) ([v0.11.2](https://github.com/raphink/panelgen/releases/tag/v0.11.2), 2 days ago) - Generate image panels from YAML &#43; genAI
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.8.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.8.0), 1 month ago) - A Go library for the Instruqt API
 - [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.13.5](https://github.com/cilium/hubble-ui/releases/tag/v0.13.5), 2 months ago) - Observability &amp; Troubleshooting for Kubernetes Services
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 2 years ago) - A Go library for the Credly API
