@@ -36,7 +36,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [raphink/panelgen](https://github.com/raphink/panelgen) ([v0.13.0](https://github.com/raphink/panelgen/releases/tag/v0.13.0), today) - Generate image panels from YAML &#43; genAI
+- [raphink/panelgen](https://github.com/raphink/panelgen) ([v1.13.1](https://github.com/raphink/panelgen/releases/tag/v1.13.1), today) - Generate image panels from YAML &#43; genAI
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.20.0-pre.4](https://github.com/cilium/cilium/releases/tag/v1.20.0-pre.4), 3 days ago) - eBPF-based Networking, Security, and Observability
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.8.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.8.0), 1 month ago) - A Go library for the Instruqt API
 - [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.13.5](https://github.com/cilium/hubble-ui/releases/tag/v0.13.5), 2 months ago) - Observability &amp; Troubleshooting for Kubernetes Services
@@ -64,9 +64,9 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 - [<img src="https://avatars.githubusercontent.com/u/86570205?u=730131bbed82f9bc57dd062eb311426f7e6f6de2&amp;v=4" height="20"/> seckinyasar](https://github.com/seckinyasar)
 - [<img src="https://avatars.githubusercontent.com/u/78656003?u=9c23d9553d718cf878b1543db64409aef98219d1&amp;v=4" height="20"/> helallao](https://github.com/helallao)
-- [<img src="https://avatars.githubusercontent.com/u/235065808?u=a1b0635522ae3443c108b80c2322701b6be8899b&amp;v=4" height="20"/> yumiaura](https://github.com/yumiaura)
 - [<img src="https://avatars.githubusercontent.com/u/69414794?u=cd6b987bb23abfc342bad7c6412ac9c2e3ddbe61&amp;v=4" height="20"/> SevenAteNein](https://github.com/SevenAteNein)
 - [<img src="https://avatars.githubusercontent.com/u/116899779?u=3c5bb888c58eeb599fb7607160157bf1b5e97117&amp;v=4" height="20"/> amancia](https://github.com/amancia)
+- [<img src="https://avatars.githubusercontent.com/u/118323821?u=cd170ab0fef4513e55595f437dfa158498c1d645&amp;v=4" height="20"/> motanelson](https://github.com/motanelson)
 </details>
 
 
