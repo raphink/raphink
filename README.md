@@ -20,7 +20,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 - [raphink/panelgen](https://github.com/raphink/panelgen) - Generate image panels from YAML &#43; genAI (4 days ago)
 - [raphink/autism-carousels](https://github.com/raphink/autism-carousels) -  (1 week ago)
 - [raphink/blog](https://github.com/raphink/blog) -  (1 week ago)
-- [raphink/impnattypo](https://github.com/raphink/impnattypo) - Règles typographiques de l&#39;Imprimerie Nationale (1 week ago)
+- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (1 week ago)
 </details>
 
 <details>
@@ -46,6 +46,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
+- [Add GetTracksInMaintenance()](https://github.com/isovalent/instruqt-go/pull/33) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (today)
 - [feat: bind user details to one-time play tokens](https://github.com/isovalent/instruqt-go/pull/32) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (today)
 </details>
 
