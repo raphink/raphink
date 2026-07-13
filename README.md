@@ -16,8 +16,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (2 days ago)
-- [raphink/panelgen](https://github.com/raphink/panelgen) - Generate image panels from YAML &#43; genAI (6 days ago)
+- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (3 days ago)
+- [raphink/panelgen](https://github.com/raphink/panelgen) - Generate image panels from YAML &#43; genAI (1 week ago)
 - [raphink/autism-carousels](https://github.com/raphink/autism-carousels) -  (1 week ago)
 - [raphink/blog](https://github.com/raphink/blog) -  (2 weeks ago)
 - [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (2 weeks ago)
@@ -36,18 +36,18 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [raphink/panelgen](https://github.com/raphink/panelgen) ([v1.13.1](https://github.com/raphink/panelgen/releases/tag/v1.13.1), 6 days ago) - Generate image panels from YAML &#43; genAI
+- [raphink/panelgen](https://github.com/raphink/panelgen) ([v1.13.1](https://github.com/raphink/panelgen/releases/tag/v1.13.1), 1 week ago) - Generate image panels from YAML &#43; genAI
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.20.0-pre.4](https://github.com/cilium/cilium/releases/tag/v1.20.0-pre.4), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.8.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.8.0), 1 month ago) - A Go library for the Instruqt API
-- [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.13.5](https://github.com/cilium/hubble-ui/releases/tag/v0.13.5), 2 months ago) - Observability &amp; Troubleshooting for Kubernetes Services
+- [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.13.5](https://github.com/cilium/hubble-ui/releases/tag/v0.13.5), 3 months ago) - Observability &amp; Troubleshooting for Kubernetes Services
 - [isovalent/credly-go](https://github.com/isovalent/credly-go) ([v1.0.0](https://github.com/isovalent/credly-go/releases/tag/v1.0.0), 2 years ago) - A Go library for the Credly API
 </details>
 
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Add GetTracksInMaintenance()](https://github.com/isovalent/instruqt-go/pull/33) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (2 days ago)
-- [feat: bind user details to one-time play tokens](https://github.com/isovalent/instruqt-go/pull/32) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (2 days ago)
+- [Add GetTracksInMaintenance()](https://github.com/isovalent/instruqt-go/pull/33) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (3 days ago)
+- [feat: bind user details to one-time play tokens](https://github.com/isovalent/instruqt-go/pull/32) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (3 days ago)
 </details>
 
 <details>
@@ -57,7 +57,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 - [We Let Sci-Fi Authors Code AI For Us](https://dev.to/raphink/we-let-sci-fi-authors-code-ai-for-us-1j1e) (2 weeks ago)
 - [Four years chasing a consistent eBee — and what I built when I finally caught one](https://dev.to/raphink/four-years-chasing-a-consistent-ebee-and-what-i-built-when-i-finally-caught-one-35je) (2 weeks ago)
 - [We&#39;re at Risk of Losing Human Dignity to Machine Productivity](https://dev.to/raphink/were-at-risk-of-losing-human-dignity-to-machine-productivity-lip) (3 weeks ago)
-- [AI Doesn&#39;t Hallucinate. Your Architecture Does.](https://dev.to/raphink/ai-doesnt-hallucinate-your-architecture-does-32pe) (3 weeks ago)
+- [AI Doesn&#39;t Hallucinate. Your Architecture Does.](https://dev.to/raphink/ai-doesnt-hallucinate-your-architecture-does-32pe) (4 weeks ago)
 </details>
 
 <details>
