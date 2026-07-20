@@ -20,7 +20,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 - [raphink/panelgen](https://github.com/raphink/panelgen) - Generate image panels from YAML &#43; genAI (2 weeks ago)
 - [raphink/autism-carousels](https://github.com/raphink/autism-carousels) -  (2 weeks ago)
 - [raphink/blog](https://github.com/raphink/blog) -  (3 weeks ago)
-- [raphink/impnattypo](https://github.com/raphink/impnattypo) - Règles typographiques de l&#39;Imprimerie Nationale (3 weeks ago)
+- [raphink/CV](https://github.com/raphink/CV) - My CV in both LaTeX &amp; web/ajax formats (3 weeks ago)
 </details>
 
 <details>
