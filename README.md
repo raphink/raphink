@@ -36,7 +36,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.6](https://github.com/cilium/cilium/releases/tag/v1.19.6), 5 days ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.20.0-rc.1](https://github.com/cilium/cilium/releases/tag/v1.20.0-rc.1), today) - eBPF-based Networking, Security, and Observability
 - [raphink/panelgen](https://github.com/raphink/panelgen) ([v1.13.1](https://github.com/raphink/panelgen/releases/tag/v1.13.1), 2 weeks ago) - Generate image panels from YAML &#43; genAI
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.8.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.8.0), 1 month ago) - A Go library for the Instruqt API
 - [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.13.5](https://github.com/cilium/hubble-ui/releases/tag/v0.13.5), 3 months ago) - Observability &amp; Troubleshooting for Kubernetes Services
