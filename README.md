@@ -16,7 +16,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>👷 What I'm currently working on</summary>
 
-- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (1 week ago)
+- [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) - A Go library for the Instruqt API (2 weeks ago)
 - [raphink/panelgen](https://github.com/raphink/panelgen) - Generate image panels from YAML &#43; genAI (2 weeks ago)
 - [raphink/autism-carousels](https://github.com/raphink/autism-carousels) -  (3 weeks ago)
 - [raphink/blog](https://github.com/raphink/blog) -  (3 weeks ago)
@@ -36,7 +36,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.20.0-rc.1](https://github.com/cilium/cilium/releases/tag/v1.20.0-rc.1), 2 days ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.20.0-rc.1](https://github.com/cilium/cilium/releases/tag/v1.20.0-rc.1), 3 days ago) - eBPF-based Networking, Security, and Observability
 - [raphink/panelgen](https://github.com/raphink/panelgen) ([v1.13.1](https://github.com/raphink/panelgen/releases/tag/v1.13.1), 2 weeks ago) - Generate image panels from YAML &#43; genAI
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.8.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.8.0), 1 month ago) - A Go library for the Instruqt API
 - [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.13.5](https://github.com/cilium/hubble-ui/releases/tag/v0.13.5), 3 months ago) - Observability &amp; Troubleshooting for Kubernetes Services
@@ -46,8 +46,8 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔨 Latest Pull Requests I've proposed</summary>
 
-- [Add GetTracksInMaintenance()](https://github.com/isovalent/instruqt-go/pull/33) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (1 week ago)
-- [feat: bind user details to one-time play tokens](https://github.com/isovalent/instruqt-go/pull/32) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (1 week ago)
+- [Add GetTracksInMaintenance()](https://github.com/isovalent/instruqt-go/pull/33) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (2 weeks ago)
+- [feat: bind user details to one-time play tokens](https://github.com/isovalent/instruqt-go/pull/32) on [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) (2 weeks ago)
 </details>
 
 <details>
