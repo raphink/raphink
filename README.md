@@ -73,7 +73,6 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 
 ### 💚 My awesome sponsors (thank you!)
 
-- [<img src="https://avatars.githubusercontent.com/u/1110127?v=4" height="20"/> kennedye](https://github.com/kennedye) (6 years ago)
 
 
 ### 💬 Feedback
