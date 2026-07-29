@@ -36,7 +36,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 <details>
 <summary>🔭 Latest releases of projects I've contributed to</summary>
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.20.0-rc.1](https://github.com/cilium/cilium/releases/tag/v1.20.0-rc.1), 1 week ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.20.0](https://github.com/cilium/cilium/releases/tag/v1.20.0), today) - eBPF-based Networking, Security, and Observability
 - [raphink/panelgen](https://github.com/raphink/panelgen) ([v1.13.1](https://github.com/raphink/panelgen/releases/tag/v1.13.1), 3 weeks ago) - Generate image panels from YAML &#43; genAI
 - [isovalent/instruqt-go](https://github.com/isovalent/instruqt-go) ([v1.8.0](https://github.com/isovalent/instruqt-go/releases/tag/v1.8.0), 1 month ago) - A Go library for the Instruqt API
 - [cilium/hubble-ui](https://github.com/cilium/hubble-ui) ([v0.13.5](https://github.com/cilium/hubble-ui/releases/tag/v0.13.5), 3 months ago) - Observability &amp; Troubleshooting for Kubernetes Services
@@ -67,7 +67,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 - [<img src="https://avatars.githubusercontent.com/u/78656003?u=9c23d9553d718cf878b1543db64409aef98219d1&amp;v=4" height="20"/> helallao](https://github.com/helallao)
 - [<img src="https://avatars.githubusercontent.com/u/69414794?u=cd6b987bb23abfc342bad7c6412ac9c2e3ddbe61&amp;v=4" height="20"/> SevenAteNein](https://github.com/SevenAteNein)
 - [<img src="https://avatars.githubusercontent.com/u/116899779?u=3c5bb888c58eeb599fb7607160157bf1b5e97117&amp;v=4" height="20"/> amancia](https://github.com/amancia)
-- [<img src="https://avatars.githubusercontent.com/u/118323821?u=9190a01eeabddb24b11a9a63e599e06213945d63&amp;v=4" height="20"/> motanelson](https://github.com/motanelson)
+- [<img src="https://avatars.githubusercontent.com/u/118323821?u=dd565ed301919b0c66db530775d202fa9ec8c6a3&amp;v=4" height="20"/> motanelson](https://github.com/motanelson)
 </details>
 
 
