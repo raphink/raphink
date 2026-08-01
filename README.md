@@ -66,7 +66,7 @@ I'm Raphaël, a Solutions Architect working at [Isovalent](https://github.com/is
 - [<img src="https://avatars.githubusercontent.com/u/46356631?u=25fe9aaa7f0bf4c7089ffa6617b3f9e3b9591b08&amp;v=4" height="20"/> Dvurechensky](https://github.com/Dvurechensky)
 - [<img src="https://avatars.githubusercontent.com/u/86570205?u=32cc67695045a6c305f0c26aecf64a268eb48a64&amp;v=4" height="20"/> seckinyasar](https://github.com/seckinyasar)
 - [<img src="https://avatars.githubusercontent.com/u/78656003?u=9c23d9553d718cf878b1543db64409aef98219d1&amp;v=4" height="20"/> helallao](https://github.com/helallao)
-- [<img src="https://avatars.githubusercontent.com/u/69414794?u=cd6b987bb23abfc342bad7c6412ac9c2e3ddbe61&amp;v=4" height="20"/> SevenAteNein](https://github.com/SevenAteNein)
+- [<img src="https://avatars.githubusercontent.com/u/69414794?u=03d378f46dc0f860149a3f44b3a9da6335f23c64&amp;v=4" height="20"/> SevenAteNein](https://github.com/SevenAteNein)
 - [<img src="https://avatars.githubusercontent.com/u/116899779?u=3c5bb888c58eeb599fb7607160157bf1b5e97117&amp;v=4" height="20"/> amancia](https://github.com/amancia)
 </details>
 
